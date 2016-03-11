@@ -24,6 +24,15 @@ Now Java 8 is adopt by most developers, and platform-bom-contrib helps Java 8 de
  </dependencyManagement>
 ```
 
+### new dependencies:
+
+* org.jetbrains:annotations: jetbrains annotations
+* io.codearte.jfairy:jfairy
+* netty sub modules
+
+### detect upgrades
+Please use "mvn versions:display-dependency-updates" under platform-bom-demo and get updates
+
 ### Changes 
 
 * 2.0.3.RELEASE
