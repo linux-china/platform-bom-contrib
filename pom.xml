@@ -89,10 +89,17 @@
         <jettison.version>1.3.7</jettison.version>
         <woodstox.version>4.4.1</woodstox.version>
         <objenesis.version>2.2</objenesis.version>
+        <intellij.version>15.0</intellij.version>
+        <jfairy.version>0.5.2</jfairy.version>
     </properties>
 
     <dependencyManagement>
         <dependencies>
+            <dependency>
+                <groupId>org.jetbrains</groupId>
+                <artifactId>annotations</artifactId>
+                <version>${intellij.version}</version>
+            </dependency>
             <dependency>
                 <groupId>ch.qos.logback</groupId>
                 <artifactId>logback-access</artifactId>
@@ -752,6 +759,12 @@
                 <groupId>org.objenesis</groupId>
                 <artifactId>objenesis</artifactId>
                 <version>${objenesis.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.codearte.jfairy</groupId>
+                <artifactId>jfairy</artifactId>
+                <version>${jfairy.version}</version>
+                <scope>test</scope>
             </dependency>
         </dependencies>
     </dependencyManagement>
