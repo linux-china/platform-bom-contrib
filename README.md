@@ -36,3 +36,11 @@ Please use "mvn versions:display-dependency-updates" under platform-bom-demo and
 ### Changes 
 
 * 2.0.3.RELEASE
+
+### artifacts
+
+* dbunit
+* netty submodules
+* jfairy
+* json-smart
+* caffeine cache
