@@ -30,7 +30,7 @@ Now Java 8 is adopt by most developers, and platform-bom-contrib helps Java 8 de
 * io.codearte.jfairy:jfairy
 * netty sub modules
 
-### detect upgrades
+### detect updates
 Please use "mvn versions:display-dependency-updates" under platform-bom-demo and get updates
 
 ### Changes 
