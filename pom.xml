@@ -66,7 +66,6 @@
         <evo-inflector.version>1.2.1</evo-inflector.version>
         <bsh.version>2.0b5</bsh.version>
         <jetty.version>9.3.7.v20160115</jetty.version>
-        <flyway.version>4.0</flyway.version>
         <hibernate.version>5.1.0.Final</hibernate.version>
         <infinispan.version>8.2.0.Final</infinispan.version>
         <cas-client.version>3.4.1</cas-client.version>
@@ -542,11 +541,6 @@
                 <groupId>org.eclipse.jetty</groupId>
                 <artifactId>jetty-alpn-server</artifactId>
                 <version>${jetty.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.flywaydb</groupId>
-                <artifactId>flyway-core</artifactId>
-                <version>${flyway.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.hibernate</groupId>
