@@ -21,6 +21,13 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
+                <groupId>org.mvnsearch</groupId>
+                <artifactId>platform-bom-contrib</artifactId>
+                <version>2.0.3-SNAPSHOT</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-dependencies</artifactId>
                 <version>${spring-boot.version}</version>
