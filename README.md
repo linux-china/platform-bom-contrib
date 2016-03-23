@@ -7,7 +7,6 @@ Contrib for Spring IO Platform bom
 Spring IO platform bom now focuses on Java 7 compatible, some dependencies are not included or upgraded becuase of Java 8 support only.
 Now Java 8 is adopt by most developers, and platform-bom-contrib helps Java 8 developers to last version.
  
- 
 ### How to use
 
 ```xml
@@ -39,8 +38,9 @@ Now Java 8 is adopt by most developers, and platform-bom-contrib helps Java 8 de
 * caffeine cache
 * dbunit
 
-### detect updates
-Please use "mvn versions:display-dependency-updates" under platform-bom-demo and get updates
+### Developer Notice:
+* detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
+* local install: mvn -DskipTests -pl . clean package install
 
 ### Changes 
 
