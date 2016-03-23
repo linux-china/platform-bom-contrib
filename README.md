@@ -20,15 +20,24 @@ Now Java 8 is adopt by most developers, and platform-bom-contrib helps Java 8 de
              <type>pom</type>
              <scope>import</scope>
          </dependency>
+         <dependency>
+             <groupId>io.spring.platform</groupId>
+             <artifactId>platform-bom</artifactId>
+             <version>2.0.3.RELEASE</version>
+             <type>pom</type>
+             <scope>import</scope>
+         </dependency>
      </dependencies>
  </dependencyManagement>
 ```
 
-### new dependencies:
+### New dependencies:
 
-* org.jetbrains:annotations: jetbrains annotations
+* org.jetbrains:annotations jetbrains annotations
 * io.codearte.jfairy:jfairy
 * netty sub modules
+* caffeine cache
+* dbunit
 
 ### detect updates
 Please use "mvn versions:display-dependency-updates" under platform-bom-demo and get updates
@@ -36,11 +45,3 @@ Please use "mvn versions:display-dependency-updates" under platform-bom-demo and
 ### Changes 
 
 * 2.0.3.RELEASE
-
-### artifacts
-
-* dbunit
-* netty submodules
-* jfairy
-* json-smart
-* caffeine cache
