@@ -94,6 +94,8 @@
         <jfairy.version>0.5.2</jfairy.version>
         <dbunit.version>2.5.1</dbunit.version>
         <jopt-simple.version>5.0</jopt-simple.version>
+        <mybatis.version>3.3.1</mybatis.version>
+        <mybatis-spring.version>1.2.4</mybatis-spring.version>
         <spring.version>4.2.5.RELEASE</spring.version>
         <spring-boot.version>1.3.3.RELEASE</spring-boot.version>
         <spring-cloud.version>Angel.SR6</spring-cloud.version>
@@ -769,6 +771,16 @@
                 <groupId>org.objenesis</groupId>
                 <artifactId>objenesis</artifactId>
                 <version>${objenesis.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.mybatis</groupId>
+                <artifactId>mybatis</artifactId>
+                <version>${mybatis.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.mybatis</groupId>
+                <artifactId>mybatis-spring</artifactId>
+                <version>${mybatis-spring.version}</version>
             </dependency>
             <dependency>
                 <groupId>net.sf.jopt-simple</groupId>
