@@ -101,6 +101,7 @@
         <rabbit-amqp-client.version>3.6.1</rabbit-amqp-client.version>
         <rometools.version>1.6.0</rometools.version>
         <spockframework.version>1.0-groovy-2.4</spockframework.version>
+        <jsoup.version>1.8.3</jsoup.version>
         <spring.version>4.2.5.RELEASE</spring.version>
         <spring-security.version>4.0.4.RELEASE</spring-security.version>
         <spring-boot.version>1.3.3.RELEASE</spring-boot.version>
@@ -824,6 +825,11 @@
                 <version>${rometools.version}</version>
             </dependency>
             <dependency>
+                <groupId>org.jsoup</groupId>
+                <artifactId>jsoup</artifactId>
+                <version>${jsoup.version}</version>
+            </dependency>
+            <dependency>
                 <groupId>io.codearte.jfairy</groupId>
                 <artifactId>jfairy</artifactId>
                 <version>${jfairy.version}</version>
@@ -838,12 +844,6 @@
             <dependency>
                 <groupId>org.spockframework</groupId>
                 <artifactId>spock-core</artifactId>
-                <version>${spockframework.version}</version>
-                <scope>test</scope>
-            </dependency>
-            <dependency>
-                <groupId>org.spockframework</groupId>
-                <artifactId>spock-spring</artifactId>
                 <version>${spockframework.version}</version>
                 <scope>test</scope>
             </dependency>
