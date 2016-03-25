@@ -802,7 +802,7 @@
                 <artifactId>curator-recipes</artifactId>
                 <version>${curator.version}</version>
             </dependency>
-           <!-- <dependency>
+            <dependency>
                 <groupId>com.rabbitmq</groupId>
                 <artifactId>amqp-client</artifactId>
                 <version>${rabbit-amqp-client.version}</version>
@@ -811,7 +811,7 @@
                 <groupId>com.rabbitmq</groupId>
                 <artifactId>http-client</artifactId>
                 <version>${rabbit-http-client.version}</version>
-            </dependency>-->
+            </dependency>
             <dependency>
                 <groupId>com.rometools</groupId>
                 <artifactId>rome</artifactId>
