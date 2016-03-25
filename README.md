@@ -68,6 +68,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * kotlin
 * jodd
 * commons-configuration2
+* bytebuddy
 
 ### Developer Notice:
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
