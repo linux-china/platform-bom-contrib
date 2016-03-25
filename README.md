@@ -46,6 +46,7 @@ Now Java 8 is adopt by most developers, and platform-bom-contrib helps Java 8 de
 * caffeine cache
 * dbunit
 * MyBatis
+* jsoup
 
 ### Developer Notice:
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
