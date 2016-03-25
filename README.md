@@ -30,6 +30,14 @@ Now Java 8 is adopt by most developers, and platform-bom-contrib helps Java 8 de
  </dependencyManagement>
 ```
 
+### Base Dependencies
+
+* Spring:  4.2.5
+* Spring Security: 4.0.4 
+* Spring Boot: 1.3.3
+* Spring Cloud: Angel.SR6
+* Spring Platform IO BOM: 2.0.3
+     
 ### New dependencies:
 
 * org.jetbrains:annotations jetbrains annotations
@@ -37,6 +45,7 @@ Now Java 8 is adopt by most developers, and platform-bom-contrib helps Java 8 de
 * netty sub modules
 * caffeine cache
 * dbunit
+* MyBatis
 
 ### Developer Notice:
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
