@@ -9,6 +9,24 @@ Now Java 8 is adopt by most developers, and platform-bom-contrib helps Java 8 de
  
 ### How to use
 
+##### Spring Boot Application
+If your application is Spring Boot based, just use following code in your pom.xml: 
+
+```xml 
+<dependencyManagement>
+     <dependencies>
+         <dependency>
+             <groupId>org.mvnsearch</groupId>
+             <artifactId>platform-bom-contrib</artifactId>
+             <version>2.0.3.RELEASE</version>
+             <type>pom</type>
+             <scope>import</scope>
+         </dependency>
+     </dependencies>
+ </dependencyManagement>
+```
+
+##### Other Application
 ```xml
  <dependencyManagement>
      <dependencies>
