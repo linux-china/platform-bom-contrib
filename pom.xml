@@ -814,11 +814,6 @@
                 <version>${rabbit-amqp-client.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.rabbitmq</groupId>
-                <artifactId>http-client</artifactId>
-                <version>${rabbit-http-client.version}</version>
-            </dependency>
-            <dependency>
                 <groupId>com.rometools</groupId>
                 <artifactId>rome</artifactId>
                 <version>${rometools.version}</version>
