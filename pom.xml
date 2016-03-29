@@ -107,7 +107,6 @@
         <bytebuddy.version>1.3.5</bytebuddy.version>
         <commons-configuration2.version>2.0</commons-configuration2.version>
         <joda-time.version>2.9.3</joda-time.version>
-        <slf4j.version>1.7.19</slf4j.version>
         <spring.version>4.2.5.RELEASE</spring.version>
         <spring-security.version>4.0.4.RELEASE</spring-security.version>
         <spring-boot.version>1.3.3.RELEASE</spring-boot.version>
