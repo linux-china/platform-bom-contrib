@@ -30,7 +30,6 @@
     </developers>
 
     <properties>
-        <logback.version>1.1.6</logback.version>
         <jackson.version>2.7.3</jackson.version>
         <json-patch.version>1.9</json-patch.version>
         <gs-collections.version>7.0.3</gs-collections.version>
@@ -120,16 +119,6 @@
                 <groupId>org.jetbrains</groupId>
                 <artifactId>annotations</artifactId>
                 <version>${intellij.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>ch.qos.logback</groupId>
-                <artifactId>logback-access</artifactId>
-                <version>${logback.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>ch.qos.logback</groupId>
-                <artifactId>logback-classic</artifactId>
-                <version>${logback.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.fasterxml.jackson.core</groupId>
