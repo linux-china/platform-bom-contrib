@@ -69,6 +69,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * jodd
 * commons-configuration2
 * bytebuddy
+* cglib
 
 ### Developer Notice:
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
