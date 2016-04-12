@@ -108,8 +108,10 @@
         <cglib.version>3.2.2</cglib.version>
         <joda-time.version>2.9.3</joda-time.version>
         <javax-websocket.version>1.1</javax-websocket.version>
+        <javax-jdo.version>3.1</javax-jdo.version>
         <tyrus.version>1.12</tyrus.version>
         <java-util.version>1.22.0</java-util.version>
+        <mysql.version>6.0.2</mysql.version>
         <mariadb.version>1.4.1</mariadb.version>
         <spring.version>4.2.5.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
@@ -801,6 +803,11 @@
                 <version>${jopt-simple.version}</version>
             </dependency>
             <dependency>
+                <groupId>mysql</groupId>
+                <artifactId>mysql-connector-java</artifactId>
+                <version>${mysql.version}</version>
+            </dependency>
+            <dependency>
                 <groupId>com.thoughtworks.xstream</groupId>
                 <artifactId>xstream</artifactId>
                 <version>${xstream.version}</version>
@@ -819,6 +826,11 @@
                 <groupId>javax.websocket</groupId>
                 <artifactId>javax.websocket-api</artifactId>
                 <version>${javax-websocket.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>javax.jdo</groupId>
+                <artifactId>jdo-api</artifactId>
+                <version>${javax-jdo.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.glassfish.tyrus</groupId>
