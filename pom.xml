@@ -111,7 +111,6 @@
         <javax-jdo.version>3.1</javax-jdo.version>
         <tyrus.version>1.12</tyrus.version>
         <java-util.version>1.22.0</java-util.version>
-        <mysql.version>6.0.2</mysql.version>
         <mariadb.version>1.4.1</mariadb.version>
         <spring.version>4.2.5.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
@@ -801,11 +800,6 @@
                 <groupId>net.sf.jopt-simple</groupId>
                 <artifactId>jopt-simple</artifactId>
                 <version>${jopt-simple.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>mysql</groupId>
-                <artifactId>mysql-connector-java</artifactId>
-                <version>${mysql.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.thoughtworks.xstream</groupId>
