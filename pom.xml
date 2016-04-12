@@ -114,6 +114,8 @@
         <mariadb.version>1.4.2</mariadb.version>
         <mongodb.version>3.2.2</mongodb.version>
         <artemis.version>1.2.0</artemis.version>
+        <jasypt.version>1.5</jasypt.version>
+        <javatuples.version>1.2</javatuples.version>
         <spring.version>4.2.5.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
         <spring-security.version>4.0.4.RELEASE</spring-security.version>
@@ -807,6 +809,16 @@
                 <groupId>com.thoughtworks.xstream</groupId>
                 <artifactId>xstream</artifactId>
                 <version>${xstream.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jasypt</groupId>
+                <artifactId>jasypt</artifactId>
+                <version>${jasypt.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.javatuples</groupId>
+                <artifactId>javatuples</artifactId>
+                <version>${javatuples.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.curator</groupId>
