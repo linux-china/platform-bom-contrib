@@ -71,6 +71,8 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * bytebuddy
 * cglib
 * java-util: https://github.com/jdereg/java-util/
+* jasypt
+* javatuples
 
 ### Developer Notice:
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
