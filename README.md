@@ -73,7 +73,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * java-util: https://github.com/jdereg/java-util/
 * jasypt
 * javatuples
-* emoji-java
+* emoji-java: https://github.com/vdurmont/emoji-java
 
 ### Developer Notice:
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
