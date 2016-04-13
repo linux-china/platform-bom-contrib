@@ -117,6 +117,7 @@
         <artemis.version>1.2.0</artemis.version>
         <jasypt.version>1.9.2</jasypt.version>
         <javatuples.version>1.2</javatuples.version>
+        <togglz.version>2.3.0.RC1</togglz.version>
         <emoji-java.version>3.1.0</emoji-java.version>
         <spring.version>4.2.5.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
@@ -675,6 +676,26 @@
                 <groupId>org.threeten</groupId>
                 <artifactId>threetenbp</artifactId>
                 <version>${threetenbp.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.togglz</groupId>
+                <artifactId>togglz-core</artifactId>
+                <version>${togglz.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.togglz</groupId>
+                <artifactId>togglz-spring</artifactId>
+                <version>${togglz.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.togglz</groupId>
+                <artifactId>togglz-servlet</artifactId>
+                <version>${togglz.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.togglz</groupId>
+                <artifactId>togglz-spring-security</artifactId>
+                <version>${togglz.version}</version>
             </dependency>
             <dependency>
                 <groupId>xmlunit</groupId>
