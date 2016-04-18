@@ -120,6 +120,7 @@
         <togglz.version>2.3.0.RC1</togglz.version>
         <emoji-java.version>3.1.0</emoji-java.version>
         <javaslang.version>2.0.2</javaslang.version>
+        <ehcache3.version>3.0.0</ehcache3.version>
         <spring.version>4.2.5.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
         <spring-security.version>4.0.4.RELEASE</spring-security.version>
@@ -978,6 +979,11 @@
                 <groupId>org.apache.activemq</groupId>
                 <artifactId>artemis-jms-server</artifactId>
                 <version>${artemis.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.ehcache</groupId>
+                <artifactId>ehcache</artifactId>
+                <version>${ehcache3.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.codearte.jfairy</groupId>
