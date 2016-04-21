@@ -123,6 +123,7 @@
         <javaslang.version>2.0.2</javaslang.version>
         <ehcache3.version>3.0.0</ehcache3.version>
         <bouncycastle.version>1.54</bouncycastle.version>
+        <mapdb.version>1.0.9</mapdb.version>
         <asynchttpclient.version>2.0.1</asynchttpclient.version>
         <spring.version>4.2.5.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
@@ -948,6 +949,11 @@
                 <groupId>io.javaslang</groupId>
                 <artifactId>javaslang-test</artifactId>
                 <version>${javaslang.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.mapdb</groupId>
+                <artifactId>mapdb</artifactId>
+                <version>${mapdb.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.vdurmont</groupId>
