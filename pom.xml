@@ -84,6 +84,7 @@
         <netty.version>4.0.36.Final</netty.version>
         <netty3.version>3.10.5.Final</netty3.version>
         <assertj.version>3.4.1</assertj.version>
+        <assertj-json.version>3.4.1</assertj-json.version>
         <webjars-locator.version>0.30</webjars-locator.version>
         <openjpa.version>2.4.1</openjpa.version>
         <castor.version>1.4.0</castor.version>
@@ -122,6 +123,7 @@
         <javaslang.version>2.0.2</javaslang.version>
         <ehcache3.version>3.0.0</ehcache3.version>
         <bouncycastle.version>1.54</bouncycastle.version>
+        <asynchttpclient.version>2.0.1</asynchttpclient.version>
         <spring.version>4.2.5.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
         <spring-security.version>4.0.4.RELEASE</spring-security.version>
@@ -732,6 +734,12 @@
                 <scope>test</scope>
             </dependency>
             <dependency>
+                <groupId>net.javacrumbs.json-unit</groupId>
+                <artifactId>json-unit-fluent</artifactId>
+                <version>${assertj-json.version}</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
                 <groupId>org.webjars</groupId>
                 <artifactId>webjars-locator</artifactId>
                 <version>${webjars-locator.version}</version>
@@ -990,6 +998,11 @@
                 <groupId>org.ehcache</groupId>
                 <artifactId>ehcache</artifactId>
                 <version>${ehcache3.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.asynchttpclient</groupId>
+                <artifactId>async-http-client</artifactId>
+                <version>${asynchttpclient.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.codearte.jfairy</groupId>
