@@ -76,6 +76,8 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * emoji-java: https://github.com/vdurmont/emoji-java
 * togglz
 * javaslang: http://www.javaslang.io/
+* asynchttpclient: https://github.com/AsyncHttpClient/async-http-client
+* mapdb: http://www.mapdb.org/ 
 
 ### Developer Notice:
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
