@@ -105,7 +105,7 @@
         <jsoup.version>1.9.1</jsoup.version>
         <kotlin.version>1.0.1-2</kotlin.version>
         <jodd.version>3.7</jodd.version>
-        <bytebuddy.version>1.3.15</bytebuddy.version>
+        <bytebuddy.version>1.3.17</bytebuddy.version>
         <commons-configuration2.version>2.0</commons-configuration2.version>
         <cglib.version>3.2.2</cglib.version>
         <joda-time.version>2.9.3</joda-time.version>
@@ -119,7 +119,7 @@
         <jasypt.version>1.9.2</jasypt.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.3.0.RC1</togglz.version>
-        <emoji-java.version>3.1.0</emoji-java.version>
+        <emoji-java.version>3.1.1</emoji-java.version>
         <javaslang.version>2.0.2</javaslang.version>
         <ehcache3.version>3.0.0</ehcache3.version>
         <bouncycastle.version>1.54</bouncycastle.version>
