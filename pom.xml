@@ -112,7 +112,7 @@
         <javax-websocket.version>1.1</javax-websocket.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <tyrus.version>1.12</tyrus.version>
-        <java-util.version>1.22.0</java-util.version>
+        <java-util.version>1.23.0</java-util.version>
         <mariadb.version>1.4.4</mariadb.version>
         <mongodb.version>3.2.2</mongodb.version>
         <artemis.version>1.2.0</artemis.version>
