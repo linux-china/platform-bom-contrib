@@ -69,8 +69,8 @@
         <infinispan.version>8.2.1.Final</infinispan.version>
         <cas-client.version>3.4.1</cas-client.version>
         <javassist.version>3.20.0-GA</javassist.version>
-        <jooq.version>3.7.3</jooq.version>
-        <jruby.version>9.0.5.0</jruby.version>
+        <jooq.version>3.8.0</jooq.version>
+        <jruby.version>9.1.0.0</jruby.version>
         <json.version>20160212</json.version>
         <lombok.version>1.16.8</lombok.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -125,6 +125,9 @@
         <ehcache3.version>3.0.0</ehcache3.version>
         <bouncycastle.version>1.54</bouncycastle.version>
         <mapdb.version>1.0.9</mapdb.version>
+        <grpc.version>0.14</grpc.version>
+        <flyway.version>4.0</flyway.version>
+        <liquibase.version>3.5.0</liquibase.version>
         <asynchttpclient.version>2.0.2</asynchttpclient.version>
         <spring.version>4.2.5.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
@@ -1015,6 +1018,61 @@
                 <groupId>org.asynchttpclient</groupId>
                 <artifactId>async-http-client</artifactId>
                 <version>${asynchttpclient.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-all</artifactId>
+                <version>${grpc.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-auth</artifactId>
+                <version>${grpc.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-core</artifactId>
+                <version>${grpc.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-grpclb</artifactId>
+                <version>${grpc.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-netty</artifactId>
+                <version>${grpc.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-okhttp</artifactId>
+                <version>${grpc.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-protobuf</artifactId>
+                <version>${grpc.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-protobuf-lite</artifactId>
+                <version>${grpc.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-protobuf-nano</artifactId>
+                <version>${grpc.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.flywaydb</groupId>
+                <artifactId>flyway-core</artifactId>
+                <version>${flyway.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.liquibase</groupId>
+                <artifactId>liquibase-core</artifactId>
+                <version>${liquibase.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.codearte.jfairy</groupId>
