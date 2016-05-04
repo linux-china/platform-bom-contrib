@@ -78,6 +78,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * javaslang: http://www.javaslang.io/
 * asynchttpclient: https://github.com/AsyncHttpClient/async-http-client
 * mapdb: http://www.mapdb.org/ 
+* grpc:  http://www.grpc.io/
 
 ### Developer Notice:
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
