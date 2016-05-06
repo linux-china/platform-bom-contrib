@@ -134,7 +134,7 @@
         <asynchttpclient.version>2.0.2</asynchttpclient.version>
         <spring.version>4.2.6.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
-        <spring-security.version>4.0.4.RELEASE</spring-security.version>
+        <spring-security.version>4.1.0.RELEASE</spring-security.version>
         <spring-boot.version>1.3.4.RELEASE</spring-boot.version>
         <spring-cloud.version>Angel.SR6</spring-cloud.version>
         <spring-data.version>Hopper-SR1</spring-data.version>
