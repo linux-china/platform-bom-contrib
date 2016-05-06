@@ -55,7 +55,7 @@
         <joda-time.version>2.9.2</joda-time.version>
         <openhft-chronicle.version>3.6.1.8</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <jasperreports.version>6.2.1</jasperreports.version>
+        <jasperreports.version>6.2.2</jasperreports.version>
         <htmlunit.version>2.21</htmlunit.version>
         <avro.version>1.8.0</avro.version>
         <commons-lang3.version>3.4</commons-lang3.version>
@@ -117,6 +117,8 @@
         <mariadb.version>1.4.4</mariadb.version>
         <mongodb.version>3.2.2</mongodb.version>
         <artemis.version>1.2.0</artemis.version>
+        <axiom.version>1.2.19</axiom.version>
+        <xmlschema.version>2.2.1</xmlschema.version>
         <jasypt.version>1.9.2</jasypt.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.3.0.RC1</togglz.version>
@@ -974,6 +976,21 @@
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-configuration2</artifactId>
                 <version>${commons-configuration2.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.ws.commons.axiom</groupId>
+                <artifactId>axiom-api</artifactId>
+                <version>${axiom.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.ws.commons.axiom</groupId>
+                <artifactId>axiom-impl</artifactId>
+                <version>${axiom.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.ws.xmlschema</groupId>
+                <artifactId>xmlschema-core</artifactId>
+                <version>${xmlschema.version}</version>
             </dependency>
             <dependency>
                 <groupId>net.bytebuddy</groupId>
