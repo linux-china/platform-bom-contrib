@@ -73,6 +73,7 @@
         <jooq.version>3.8.0</jooq.version>
         <jool.version>0.9.10</jool.version>
         <joor.version>0.9.5</joor.version>
+        <functionaljava.version>4.5</functionaljava.version>
         <jruby.version>9.1.0.0</jruby.version>
         <json.version>20160212</json.version>
         <lombok.version>1.16.8</lombok.version>
@@ -678,6 +679,26 @@
                 <groupId>org.jooq</groupId>
                 <artifactId>joor</artifactId>
                 <version>${joor.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.functionaljava</groupId>
+                <artifactId>functionaljava</artifactId>
+                <version>${functionaljava.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.functionaljava</groupId>
+                <artifactId>functionaljava-java8</artifactId>
+                <version>${functionaljava.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.functionaljava</groupId>
+                <artifactId>functionaljava-quickcheck</artifactId>
+                <version>${functionaljava.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.functionaljava</groupId>
+                <artifactId>functionaljava-java-core</artifactId>
+                <version>${functionaljava.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.jruby</groupId>
