@@ -71,6 +71,8 @@
         <cas-client.version>3.4.1</cas-client.version>
         <javassist.version>3.20.0-GA</javassist.version>
         <jooq.version>3.8.0</jooq.version>
+        <jool.version>0.9.10</jool.version>
+        <joor.version>0.9.5</joor.version>
         <jruby.version>9.1.0.0</jruby.version>
         <json.version>20160212</json.version>
         <lombok.version>1.16.8</lombok.version>
@@ -666,6 +668,16 @@
                 <groupId>org.jooq</groupId>
                 <artifactId>jooq-codegen</artifactId>
                 <version>${jooq.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jooq</groupId>
+                <artifactId>jool</artifactId>
+                <version>${jool.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jooq</groupId>
+                <artifactId>joor</artifactId>
+                <version>${joor.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.jruby</groupId>

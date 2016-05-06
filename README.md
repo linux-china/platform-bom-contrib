@@ -80,6 +80,8 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * mapdb: http://www.mapdb.org/ 
 * grpc:  http://www.grpc.io/  
 * immutables: http://immutables.github.io/
+* jOOλ: https://github.com/jOOQ/jOOL
+* jOOR: https://github.com/jOOQ/jOOR
 
 ### Developer Notice:
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
