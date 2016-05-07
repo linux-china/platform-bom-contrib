@@ -83,6 +83,8 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * jOOλ: https://github.com/jOOQ/jOOL
 * jOOR: https://github.com/jOOQ/jOOR
 * functionaljava:  http://www.functionaljava.org/
+* awaitility
+* rest-assured
 
 ### Developer Notice:
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
