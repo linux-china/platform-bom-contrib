@@ -72,7 +72,7 @@
         <cas-client.version>3.4.1</cas-client.version>
         <javassist.version>3.20.0-GA</javassist.version>
         <jooq.version>3.8.0</jooq.version>
-        <jool.version>0.9.10</jool.version>
+        <jool.version>0.9.11</jool.version>
         <joor.version>0.9.5</joor.version>
         <functionaljava.version>4.5</functionaljava.version>
         <fugue.version>3.1.0</fugue.version>
@@ -738,6 +738,11 @@
             <dependency>
                 <groupId>org.thymeleaf.extras</groupId>
                 <artifactId>thymeleaf-extras-springsecurity4</artifactId>
+                <version>${thymeleaf.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.thymeleaf.extras</groupId>
+                <artifactId>thymeleaf-extras-springsecurity3</artifactId>
                 <version>${thymeleaf.version}</version>
             </dependency>
             <dependency>
