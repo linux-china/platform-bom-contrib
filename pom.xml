@@ -134,7 +134,7 @@
         <emoji-java.version>3.1.1</emoji-java.version>
         <javaslang.version>2.0.2</javaslang.version>
         <moneta.version>1.0</moneta.version>
-        <ehcache3.version>3.0.0</ehcache3.version>
+        <ehcache3.version>3.0.1</ehcache3.version>
         <bouncycastle.version>1.54</bouncycastle.version>
         <mapdb.version>1.0.9</mapdb.version>
         <grpc.version>0.14</grpc.version>
