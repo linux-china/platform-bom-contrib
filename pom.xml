@@ -137,6 +137,7 @@
         <bouncycastle.version>1.54</bouncycastle.version>
         <mapdb.version>1.0.9</mapdb.version>
         <grpc.version>0.14</grpc.version>
+        <thymeleaf.version>3.0.0.RELEASE</thymeleaf.version>
         <flyway.version>4.0</flyway.version>
         <liquibase.version>3.5.0</liquibase.version>
         <asynchttpclient.version>2.0.2</asynchttpclient.version>
@@ -723,6 +724,21 @@
                 <groupId>org.json</groupId>
                 <artifactId>json</artifactId>
                 <version>${json.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.thymeleaf</groupId>
+                <artifactId>thymeleaf</artifactId>
+                <version>${thymeleaf.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.thymeleaf</groupId>
+                <artifactId>thymeleaf-spring4</artifactId>
+                <version>${thymeleaf.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.thymeleaf.extras</groupId>
+                <artifactId>thymeleaf-extras-springsecurity4</artifactId>
+                <version>${thymeleaf.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.projectlombok</groupId>
