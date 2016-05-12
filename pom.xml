@@ -148,6 +148,7 @@
         <asynchttpclient.version>2.0.2</asynchttpclient.version>
         <etcd4j.version>2.11.0</etcd4j.version>
         <ribbon.version>2.2.0</ribbon.version>
+        <aws-java-sdk.version>1.10.77</aws-java-sdk.version>
         <spring.version>4.2.6.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
         <spring-security.version>4.1.0.RELEASE</spring-security.version>
@@ -1391,6 +1392,13 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-dependencies</artifactId>
                 <version>${spring-boot.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>com.amazonaws</groupId>
+                <artifactId>aws-java-sdk-bom</artifactId>
+                <version>${aws-java-sdk.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
