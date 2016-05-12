@@ -55,7 +55,7 @@
         <boon.version>0.33</boon.version>
         <jline.version>2.14.1</jline.version>
         <joda-time.version>2.9.2</joda-time.version>
-        <openhft-chronicle.version>3.6.1.8</openhft-chronicle.version>
+        <openhft-chronicle.version>3.6.2</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <jasperreports.version>6.2.2</jasperreports.version>
         <htmlunit.version>2.21</htmlunit.version>
@@ -144,8 +144,10 @@
         <unbescape.version>1.1.3.RELEASE</unbescape.version>
         <attoparser.version>2.0.0.RELEASE</attoparser.version>
         <flyway.version>4.0.1</flyway.version>
-        <liquibase.version>3.5.0</liquibase.version>
+        <liquibase.version>3.5.1</liquibase.version>
         <asynchttpclient.version>2.0.2</asynchttpclient.version>
+        <etcd4j.version>2.11.0</etcd4j.version>
+        <ribbon.version>2.2.0</ribbon.version>
         <spring.version>4.2.6.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
         <spring-security.version>4.1.0.RELEASE</spring-security.version>
@@ -1201,6 +1203,70 @@
                 <groupId>org.liquibase</groupId>
                 <artifactId>liquibase-core</artifactId>
                 <version>${liquibase.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.mousio</groupId>
+                <artifactId>etcd4j</artifactId>
+                <version>${etcd4j.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.netflix.ribbon</groupId>
+                <artifactId>ribbon</artifactId>
+                <version>${ribbon.version}</version>
+                <exclusions>
+                    <exclusion>
+                        <groupId>commons-logging</groupId>
+                        <artifactId>commons-logging</artifactId>
+                    </exclusion>
+                </exclusions>
+            </dependency>
+            <dependency>
+                <groupId>com.netflix.ribbon</groupId>
+                <artifactId>ribbon-core</artifactId>
+                <version>${ribbon.version}</version>
+                <exclusions>
+                    <exclusion>
+                        <groupId>com.google.code.findbugs</groupId>
+                        <artifactId>annotations</artifactId>
+                    </exclusion>
+                </exclusions>
+            </dependency>
+            <dependency>
+                <groupId>com.netflix.ribbon</groupId>
+                <artifactId>ribbon-httpclient</artifactId>
+                <version>${ribbon.version}</version>
+                <exclusions>
+                    <exclusion>
+                        <groupId>com.google.code.findbugs</groupId>
+                        <artifactId>annotations</artifactId>
+                    </exclusion>
+                </exclusions>
+            </dependency>
+            <dependency>
+                <groupId>com.netflix.ribbon</groupId>
+                <artifactId>ribbon-eureka</artifactId>
+                <version>${ribbon.version}</version>
+                <exclusions>
+                    <exclusion>
+                        <groupId>com.google.code.findbugs</groupId>
+                        <artifactId>annotations</artifactId>
+                    </exclusion>
+                    <exclusion>
+                        <groupId>javax.servlet</groupId>
+                        <artifactId>servlet-api</artifactId>
+                    </exclusion>
+                </exclusions>
+            </dependency>
+            <dependency>
+                <groupId>com.netflix.ribbon</groupId>
+                <artifactId>ribbon-loadbalancer</artifactId>
+                <version>${ribbon.version}</version>
+                <exclusions>
+                    <exclusion>
+                        <groupId>com.google.code.findbugs</groupId>
+                        <artifactId>annotations</artifactId>
+                    </exclusion>
+                </exclusions>
             </dependency>
             <dependency>
                 <groupId>io.codearte.jfairy</groupId>
