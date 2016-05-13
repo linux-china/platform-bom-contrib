@@ -148,6 +148,7 @@
         <asynchttpclient.version>2.0.2</asynchttpclient.version>
         <etcd4j.version>2.11.0</etcd4j.version>
         <ribbon.version>2.2.0</ribbon.version>
+        <easymock.version>3.4</easymock.version>
         <aws-java-sdk.version>1.10.77</aws-java-sdk.version>
         <spring.version>4.2.6.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
@@ -1269,6 +1270,11 @@
                         <artifactId>annotations</artifactId>
                     </exclusion>
                 </exclusions>
+            </dependency>
+            <dependency>
+                <groupId>org.easymock</groupId>
+                <artifactId>easymock</artifactId>
+                <version>${easymock.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.codearte.jfairy</groupId>
