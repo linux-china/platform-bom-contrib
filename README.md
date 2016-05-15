@@ -96,5 +96,5 @@ If your application is Spring Boot based, just use following code in your pom.xm
 
 ### Changes 
 
-* 2.0.3.RELEASE
-* spring boot 1.3.4
+* 2.0.5.RELEASE
+* spring boot 1.3.5
