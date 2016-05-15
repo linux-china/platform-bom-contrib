@@ -149,7 +149,8 @@
         <etcd4j.version>2.11.0</etcd4j.version>
         <ribbon.version>2.2.0</ribbon.version>
         <easymock.version>3.4</easymock.version>
-        <aws-java-sdk.version>1.10.77</aws-java-sdk.version>
+        <powermock.version>1.6.5</powermock.version>
+        <aws-java-sdk.version>1.11.0</aws-java-sdk.version>
         <spring.version>4.2.6.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
         <spring-security.version>4.1.0.RELEASE</spring-security.version>
@@ -1275,6 +1276,31 @@
                 <groupId>org.easymock</groupId>
                 <artifactId>easymock</artifactId>
                 <version>${easymock.version}</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.powermock</groupId>
+                <artifactId>powermock-module-junit4</artifactId>
+                <version>${powermock.version}</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.powermock</groupId>
+                <artifactId>powermock-api-mockito</artifactId>
+                <version>${powermock.version}</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.powermock</groupId>
+                <artifactId>powermock-api-mockito2</artifactId>
+                <version>${powermock.version}</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.powermock</groupId>
+                <artifactId>powermock-api-easymock</artifactId>
+                <version>${powermock.version}</version>
+                <scope>test</scope>
             </dependency>
             <dependency>
                 <groupId>io.codearte.jfairy</groupId>
