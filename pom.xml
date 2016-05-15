@@ -148,6 +148,7 @@
         <asynchttpclient.version>2.0.2</asynchttpclient.version>
         <etcd4j.version>2.11.0</etcd4j.version>
         <ribbon.version>2.2.0</ribbon.version>
+        <svnkit.version>1.8.12</svnkit.version>
         <easymock.version>3.4</easymock.version>
         <powermock.version>1.6.5</powermock.version>
         <aws-java-sdk.version>1.11.0</aws-java-sdk.version>
@@ -684,6 +685,11 @@
                 <groupId>org.javassist</groupId>
                 <artifactId>javassist</artifactId>
                 <version>${javassist.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.tmatesoft.svnkit</groupId>
+                <artifactId>svnkit</artifactId>
+                <version>${svnkit.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.immutables</groupId>
