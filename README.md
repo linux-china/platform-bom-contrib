@@ -89,6 +89,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * unbescape: http://www.unbescape.org/
 * commons-crypto: http://commons.apache.org/proper/commons-crypto/userguide.html
 * powermock: https://github.com/jayway/powermock
+* spring-test-dbunit: http://springtestdbunit.github.io/spring-test-dbunit/index.html
 
 ### Developer Notice:
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
