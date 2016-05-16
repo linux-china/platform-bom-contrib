@@ -92,15 +92,18 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * spring-test-dbunit: http://springtestdbunit.github.io/spring-test-dbunit/index.html
 
 ### Developer Notice:
+
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
 * local install: mvn -DskipTests -pl . clean package install
 
 ### Tags
+
 ```
 $ git tag -a 2.0.5.RELEASE -m '2.0.5 RELEASE'
 $ git push --follow-tags
 ```
+
 ### Changes 
 
 * 2.0.5.RELEASE
-* spring boot 1.3.5
+* Spring Boot 1.3.5
