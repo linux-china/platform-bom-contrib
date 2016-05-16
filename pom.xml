@@ -140,7 +140,8 @@
         <bouncycastle.version>1.54</bouncycastle.version>
         <mapdb.version>1.0.9</mapdb.version>
         <grpc.version>0.14</grpc.version>
-        <thymeleaf.version>3.0.0.RELEASE</thymeleaf.version>
+        <thymeleaf.version>2.1.4.RELEASE</thymeleaf.version>
+        <thymeleaf-layout-dialect.version>1.3.3</thymeleaf-layout-dialect.version>
         <unbescape.version>1.1.3.RELEASE</unbescape.version>
         <attoparser.version>2.0.0.RELEASE</attoparser.version>
         <flyway.version>4.0.1</flyway.version>
@@ -777,6 +778,11 @@
                 <groupId>org.thymeleaf.extras</groupId>
                 <artifactId>thymeleaf-extras-springsecurity3</artifactId>
                 <version>${thymeleaf.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>nz.net.ultraq.thymeleaf</groupId>
+                <artifactId>thymeleaf-layout-dialect</artifactId>
+                <version>${thymeleaf-layout-dialect.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.attoparser</groupId>
