@@ -18,7 +18,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
          <dependency>
              <groupId>org.mvnsearch</groupId>
              <artifactId>platform-bom-contrib</artifactId>
-             <version>2.0.3.RELEASE</version>
+             <version>2.0.5.RELEASE</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
@@ -33,14 +33,14 @@ If your application is Spring Boot based, just use following code in your pom.xm
          <dependency>
              <groupId>org.mvnsearch</groupId>
              <artifactId>platform-bom-contrib</artifactId>
-             <version>2.0.3.RELEASE</version>
+             <version>2.0.5.RELEASE</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
          <dependency>
              <groupId>io.spring.platform</groupId>
              <artifactId>platform-bom</artifactId>
-             <version>2.0.3.RELEASE</version>
+             <version>2.0.5.RELEASE</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
@@ -94,6 +94,11 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
 * local install: mvn -DskipTests -pl . clean package install
 
+### Tags
+```
+$ git tag -a 2.0.5.RELEASE -m '2.0.5 RELEASE'
+$ git push --follow-tags
+```
 ### Changes 
 
 * 2.0.5.RELEASE
