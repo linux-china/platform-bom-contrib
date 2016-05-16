@@ -6,7 +6,7 @@
 
     <groupId>org.mvnsearch</groupId>
     <artifactId>platform-bom-contrib</artifactId>
-    <version>2.0.4-SNAPSHOT</version>
+    <version>2.0.5.RELEASE</version>
     <packaging>pom</packaging>
     <name>Spring IO Platform Contrib bill of materials</name>
     <description>Spring IO Platform Contrib bill of materials</description>
