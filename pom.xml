@@ -79,7 +79,7 @@
         <joor.version>0.9.5</joor.version>
         <functionaljava.version>4.5</functionaljava.version>
         <fugue.version>3.1.0</fugue.version>
-        <jruby.version>9.1.0.0</jruby.version>
+        <jruby.version>9.1.1.0</jruby.version>
         <json.version>20160212</json.version>
         <lombok.version>1.16.8</lombok.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -125,7 +125,7 @@
         <javax-jdo.version>3.1</javax-jdo.version>
         <tyrus.version>1.12</tyrus.version>
         <java-util.version>1.23.0</java-util.version>
-        <mariadb.version>1.4.4</mariadb.version>
+        <mariadb.version>1.4.5</mariadb.version>
         <mongodb.version>3.2.2</mongodb.version>
         <artemis.version>1.2.0</artemis.version>
         <axiom.version>1.2.19</axiom.version>
@@ -146,7 +146,7 @@
         <attoparser.version>2.0.0.RELEASE</attoparser.version>
         <flyway.version>4.0.1</flyway.version>
         <liquibase.version>3.5.1</liquibase.version>
-        <asynchttpclient.version>2.0.2</asynchttpclient.version>
+        <asynchttpclient.version>2.0.3</asynchttpclient.version>
         <etcd4j.version>2.11.0</etcd4j.version>
         <ribbon.version>2.2.0</ribbon.version>
         <svnkit.version>1.8.12</svnkit.version>
