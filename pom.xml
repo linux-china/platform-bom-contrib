@@ -163,7 +163,7 @@
         <spring-cloud.version>Brixton.RELEASE</spring-cloud.version>
         <spring-data.version>Hopper-SR1</spring-data.version>
         <spring-ldap.version>2.1.0.RELEASE</spring-ldap.version>
-        <platform-bom.version>2.0.5.RELEASE</platform-bom.version>
+        <platform-bom.version>2.0.4.RELEASE</platform-bom.version>
     </properties>
 
     <dependencyManagement>
