@@ -99,7 +99,7 @@
         <castor.version>1.4.1</castor.version>
         <jettison.version>1.3.7</jettison.version>
         <woodstox.version>4.4.1</woodstox.version>
-        <objenesis.version>2.3</objenesis.version>
+        <objenesis.version>2.4</objenesis.version>
         <intellij.version>15.0</intellij.version>
         <jfairy.version>0.5.3</jfairy.version>
         <dbunit.version>2.5.2</dbunit.version>
