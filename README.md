@@ -90,6 +90,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * commons-crypto: http://commons.apache.org/proper/commons-crypto/userguide.html
 * powermock: https://github.com/jayway/powermock
 * spring-test-dbunit: http://springtestdbunit.github.io/spring-test-dbunit/index.html
+* fast classpath scanner: https://github.com/lukehutch/fast-classpath-scanner
 
 ### Developer Notice:
 
