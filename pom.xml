@@ -139,7 +139,7 @@
         <ehcache3.version>3.0.1</ehcache3.version>
         <bouncycastle.version>1.54</bouncycastle.version>
         <mapdb.version>1.0.9</mapdb.version>
-        <jgit.version>4.3.1.201605051710-r</jgit.version>
+        <jgit.version>4.4.0.201605250940-rc1</jgit.version>
         <grpc.version>0.14</grpc.version>
         <thymeleaf.version>2.1.4.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>1.4.0</thymeleaf-layout-dialect.version>
