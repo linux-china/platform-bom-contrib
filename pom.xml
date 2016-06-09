@@ -148,7 +148,7 @@
         <attoparser.version>2.0.0.RELEASE</attoparser.version>
         <flyway.version>4.0.1</flyway.version>
         <liquibase.version>3.5.1</liquibase.version>
-        <asynchttpclient.version>2.0.4</asynchttpclient.version>
+        <asynchttpclient.version>2.0.5</asynchttpclient.version>
         <etcd4j.version>2.11.0</etcd4j.version>
         <ribbon.version>2.2.0</ribbon.version>
         <svnkit.version>1.8.12</svnkit.version>
