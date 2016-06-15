@@ -144,7 +144,6 @@
         <ehcache3.version>3.0.2</ehcache3.version>
         <bouncycastle.version>1.54</bouncycastle.version>
         <mapdb.version>3.0.0-RC1</mapdb.version>
-        <jgit.version>4.4.0.201605250940-rc1</jgit.version>
         <grpc.version>0.14</grpc.version>
         <thymeleaf.version>2.1.4.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>1.4.0</thymeleaf-layout-dialect.version>
@@ -1321,11 +1320,6 @@
                 <groupId>io.grpc</groupId>
                 <artifactId>grpc-protobuf-nano</artifactId>
                 <version>${grpc.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.eclipse.jgit</groupId>
-                <artifactId>org.eclipse.jgit</artifactId>
-                <version>${jgit.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.flywaydb</groupId>
