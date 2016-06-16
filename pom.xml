@@ -119,7 +119,7 @@
         <rometools.version>1.6.0</rometools.version>
         <spockframework.version>1.0-groovy-2.4</spockframework.version>
         <jsoup.version>1.9.2</jsoup.version>
-        <kotlin.version>1.0.2</kotlin.version>
+        <kotlin.version>1.0.2-1</kotlin.version>
         <jodd.version>3.7.1</jodd.version>
         <bytebuddy.version>1.4.1</bytebuddy.version>
         <commons-configuration2.version>2.0</commons-configuration2.version>
@@ -158,7 +158,7 @@
         <easymock.version>3.4</easymock.version>
         <spring-test-dbunit.version>1.3.0</spring-test-dbunit.version>
         <powermock.version>1.6.5</powermock.version>
-        <aws-java-sdk.version>1.11.7</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.8</aws-java-sdk.version>
         <spring.version>4.3.0.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
         <spring-session.version>1.2.0.RELEASE</spring-session.version>
@@ -168,7 +168,7 @@
         <spring-boot.version>1.3.5.RELEASE</spring-boot.version>
         <spring-cloud.version>Brixton.SR1</spring-cloud.version>
         <spring-cloud-stream.version>1.0.2.RELEASE</spring-cloud-stream.version>
-        <spring-data.version>Hopper-SR1</spring-data.version>
+        <spring-data.version>Hopper-SR2</spring-data.version>
         <spring-ldap.version>2.1.0.RELEASE</spring-ldap.version>
         <platform-bom.version>2.0.5.RELEASE</platform-bom.version>
     </properties>
