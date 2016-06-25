@@ -121,9 +121,9 @@
         <jsoup.version>1.9.2</jsoup.version>
         <kotlin.version>1.0.2-1</kotlin.version>
         <jodd.version>3.7.1</jodd.version>
-        <bytebuddy.version>1.4.3</bytebuddy.version>
+        <bytebuddy.version>1.4.5</bytebuddy.version>
         <commons-configuration2.version>2.0</commons-configuration2.version>
-        <cglib.version>3.2.3</cglib.version>
+        <cglib.version>3.2.4</cglib.version>
         <immutables.version>2.2.8</immutables.version>
         <joda-time.version>2.9.4</joda-time.version>
         <javax-websocket.version>1.1</javax-websocket.version>
