@@ -171,6 +171,7 @@
         <spring-data.version>Hopper-SR2</spring-data.version>
         <spring-ldap.version>2.1.0.RELEASE</spring-ldap.version>
         <spring-amqp.version>1.6.0.RELEASE</spring-amqp.version>
+        <spring-restdocs.version>1.1.0.RELEASE</spring-restdocs.version>
         <platform-bom.version>2.0.5.RELEASE</platform-bom.version>
     </properties>
 
@@ -1612,6 +1613,16 @@
                 <version>${spring-cloud.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.restdocs</groupId>
+                <artifactId>spring-restdocs-core</artifactId>
+                <version>${spring-restdocs.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.restdocs</groupId>
+                <artifactId>spring-restdocs-mockmvc</artifactId>
+                <version>${spring-restdocs.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.boot</groupId>
