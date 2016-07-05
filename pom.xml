@@ -170,6 +170,7 @@
         <spring-cloud-stream.version>1.0.2.RELEASE</spring-cloud-stream.version>
         <spring-data.version>Hopper-SR2</spring-data.version>
         <spring-ldap.version>2.1.0.RELEASE</spring-ldap.version>
+        <spring-amqp.version>1.6.0.RELEASE</spring-amqp.version>
         <platform-bom.version>2.0.5.RELEASE</platform-bom.version>
     </properties>
 
@@ -1570,6 +1571,16 @@
                         <artifactId>commons-logging</artifactId>
                     </exclusion>
                 </exclusions>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.amqp</groupId>
+                <artifactId>spring-amqp</artifactId>
+                <version>${spring-amqp.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.amqp</groupId>
+                <artifactId>spring-rabbit</artifactId>
+                <version>${spring-amqp.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.data</groupId>
