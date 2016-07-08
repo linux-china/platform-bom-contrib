@@ -82,7 +82,7 @@
         <jooq.version>3.8.3</jooq.version>
         <jool.version>0.9.11</jool.version>
         <joor.version>0.9.6</joor.version>
-        <functionaljava.version>4.5</functionaljava.version>
+        <functionaljava.version>4.6</functionaljava.version>
         <fugue.version>3.1.0</fugue.version>
         <jruby.version>9.1.2.0</jruby.version>
         <json.version>20160212</json.version>
@@ -129,7 +129,7 @@
         <javax-websocket.version>1.1</javax-websocket.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <tyrus.version>1.12</tyrus.version>
-        <java-util.version>1.23.0</java-util.version>
+        <java-util.version>1.24.0</java-util.version>
         <mariadb.version>1.4.5</mariadb.version>
         <mongodb.version>3.2.2</mongodb.version>
         <artemis.version>1.2.0</artemis.version>
