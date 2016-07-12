@@ -92,6 +92,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * spring-test-dbunit: http://springtestdbunit.github.io/spring-test-dbunit/index.html
 * fast classpath scanner: https://github.com/lukehutch/fast-classpath-scanner
 * ThreeTen-Extra: http://www.threeten.org/threeten-extra/
+* wiremock: http://wiremock.org/
 
 ### Developer Notice:
 
