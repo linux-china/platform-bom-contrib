@@ -93,6 +93,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * fast classpath scanner: https://github.com/lukehutch/fast-classpath-scanner
 * ThreeTen-Extra: http://www.threeten.org/threeten-extra/
 * wiremock: http://wiremock.org/
+* URL-Detector: https://github.com/linkedin/URL-Detector
 
 ### Developer Notice:
 
