@@ -75,7 +75,7 @@
         <evo-inflector.version>1.2.1</evo-inflector.version>
         <bsh.version>2.0b5</bsh.version>
         <jetty.version>9.3.11.v20160721</jetty.version>
-        <hibernate.version>5.2.1.Final</hibernate.version>
+        <hibernate.version>5.2.2.Final</hibernate.version>
         <infinispan.version>8.2.1.Final</infinispan.version>
         <cas-client.version>3.4.1</cas-client.version>
         <javassist.version>3.20.0-GA</javassist.version>
@@ -99,7 +99,7 @@
         <netty3.version>3.10.6.Final</netty3.version>
         <assertj.version>3.5.2</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
-        <wiremock.version>2.1.8</wiremock.version>
+        <wiremock.version>2.1.9</wiremock.version>
         <webjars-locator.version>0.32</webjars-locator.version>
         <openjpa.version>2.4.1</openjpa.version>
         <castor.version>1.4.1</castor.version>
@@ -715,6 +715,11 @@
             <dependency>
                 <groupId>org.hibernate</groupId>
                 <artifactId>hibernate-entitymanager</artifactId>
+                <version>${hibernate.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.hibernate</groupId>
+                <artifactId>hibernate-java8</artifactId>
                 <version>${hibernate.version}</version>
             </dependency>
             <dependency>
