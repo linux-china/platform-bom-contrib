@@ -93,13 +93,13 @@
         <threetenbp.version>1.3.2</threetenbp.version>
         <xmlunit.version>1.6</xmlunit.version>
         <jedis.version>2.9.0</jedis.version>
-        <lettuce.version>4.2.1.Final</lettuce.version>
+        <lettuce.version>4.2.2.Final</lettuce.version>
         <caffeine.version>2.3.2</caffeine.version>
         <netty.version>4.1.4.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <assertj.version>3.5.2</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
-        <wiremock.version>2.1.9</wiremock.version>
+        <wiremock.version>2.1.11</wiremock.version>
         <webjars-locator.version>0.32</webjars-locator.version>
         <openjpa.version>2.4.1</openjpa.version>
         <castor.version>1.4.1</castor.version>
@@ -109,7 +109,7 @@
         <kryo.version>4.0.0</kryo.version>
         <intellij.version>15.0</intellij.version>
         <jfairy.version>0.5.3</jfairy.version>
-        <dbunit.version>2.5.2</dbunit.version>
+        <dbunit.version>2.5.3</dbunit.version>
         <awaitility.version>1.7.0</awaitility.version>
         <restassured.version>2.9.0</restassured.version>
         <jopt-simple.version>5.0.2</jopt-simple.version>
@@ -119,7 +119,7 @@
         <curator.version>2.11.0</curator.version>
         <rabbit-amqp-client.version>3.6.1</rabbit-amqp-client.version>
         <rometools.version>1.7.0</rometools.version>
-        <spockframework.version>1.1-groovy-2.4-rc-1</spockframework.version>
+        <spockframework.version>1.1-groovy-2.4-rc-2</spockframework.version>
         <jsoup.version>1.9.2</jsoup.version>
         <kotlin.version>1.0.3</kotlin.version>
         <jodd.version>3.7.1</jodd.version>
