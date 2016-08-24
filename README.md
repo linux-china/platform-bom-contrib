@@ -50,11 +50,11 @@ If your application is Spring Boot based, just use following code in your pom.xm
 
 ### Base Dependencies
 
-* Spring:  4.2.5
-* Spring Security: 4.0.4 
-* Spring Boot: 1.3.3
-* Spring Cloud: Angel.SR6
-* Spring Platform IO BOM: 2.0.3
+* Spring:  4.3.2
+* Spring Security: 4.1.3 
+* Spring Boot: 1.4.0
+* Spring Cloud: Brixton.SR4
+* Spring Platform IO BOM: 2.0.7
      
 ### New dependencies:
 
