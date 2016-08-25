@@ -146,7 +146,7 @@
         <ehcache3.version>3.1.1</ehcache3.version>
         <bouncycastle.version>1.55</bouncycastle.version>
         <mapdb.version>3.0.1</mapdb.version>
-        <grpc.version>0.15.0</grpc.version>
+        <grpc.version>1.0.0</grpc.version>
         <thymeleaf.version>3.0.1.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.0.1</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
