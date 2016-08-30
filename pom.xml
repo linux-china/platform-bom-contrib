@@ -76,7 +76,7 @@
         <bsh.version>2.0b5</bsh.version>
         <jetty.version>9.3.11.v20160721</jetty.version>
         <hibernate.version>5.2.2.Final</hibernate.version>
-        <infinispan.version>8.2.1.Final</infinispan.version>
+        <infinispan.version>8.2.4.Final</infinispan.version>
         <cas-client.version>3.4.1</cas-client.version>
         <javassist.version>3.20.0-GA</javassist.version>
         <jooq.version>3.8.4</jooq.version>
