@@ -39,7 +39,7 @@
         <guice.version>4.1.0</guice.version>
         <protobuf.version>3.0.0</protobuf.version>
         <protobuf-java-format.version>1.4</protobuf-java-format.version>
-        <hazelcast.version>3.7</hazelcast.version>
+        <hazelcast.version>3.7.1</hazelcast.version>
         <jamon.version>2.81</jamon.version>
         <json-smart.version>2.2.1</json-smart.version>
         <json-path.version>2.2.0</json-path.version>
@@ -80,7 +80,7 @@
         <cas-client.version>3.4.1</cas-client.version>
         <javassist.version>3.20.0-GA</javassist.version>
         <jooq.version>3.8.4</jooq.version>
-        <jool.version>0.9.11</jool.version>
+        <jool.version>0.9.12</jool.version>
         <joor.version>0.9.6</joor.version>
         <functionaljava.version>4.6</functionaljava.version>
         <fugue.version>4.3.0</fugue.version>
@@ -99,7 +99,7 @@
         <netty3.version>3.10.6.Final</netty3.version>
         <assertj.version>3.5.2</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
-        <wiremock.version>2.1.11</wiremock.version>
+        <wiremock.version>2.1.12</wiremock.version>
         <webjars-locator.version>0.32</webjars-locator.version>
         <openjpa.version>2.4.1</openjpa.version>
         <castor.version>1.4.1</castor.version>
@@ -126,7 +126,7 @@
         <bytebuddy.version>1.4.22</bytebuddy.version>
         <commons-configuration2.version>2.1</commons-configuration2.version>
         <cglib.version>3.2.4</cglib.version>
-        <immutables.version>2.2.12</immutables.version>
+        <immutables.version>2.3</immutables.version>
         <joda-time.version>2.9.4</joda-time.version>
         <javax-websocket.version>1.1</javax-websocket.version>
         <javax-jdo.version>3.1</javax-jdo.version>
