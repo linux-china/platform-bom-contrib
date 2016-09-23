@@ -40,7 +40,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
          <dependency>
              <groupId>io.spring.platform</groupId>
              <artifactId>platform-bom</artifactId>
-             <version>2.0.5.RELEASE</version>
+             <version>Athens-RELEASE</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
@@ -50,11 +50,11 @@ If your application is Spring Boot based, just use following code in your pom.xm
 
 ### Base Dependencies
 
-* Spring:  4.3.2
+* Spring:  4.3.3
 * Spring Security: 4.1.3 
-* Spring Boot: 1.4.0
+* Spring Boot: 1.4.1
 * Spring Cloud: Brixton.SR4
-* Spring Platform IO BOM: 2.0.7
+* Spring Platform IO BOM: Athens-RELEASE
      
 ### New dependencies:
 
@@ -109,5 +109,5 @@ $ git push --follow-tags
 
 ### Changes 
 
-* 2.0.5.RELEASE
-* Spring Boot 1.3.5
+* Athens-RELEASE
+* Spring Boot 1.4.1
