@@ -171,7 +171,7 @@
         <spring-integration.version>4.3.2.RELEASE</spring-integration.version>
         <spring-integration-kafka.version>2.0.1.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.4.1.RELEASE</spring-boot.version>
-        <spring-cloud.version>Brixton.SR5</spring-cloud.version>
+        <spring-cloud.version>Brixton.SR6</spring-cloud.version>
         <spring-cloud-stream.version>1.0.2.RELEASE</spring-cloud-stream.version>
         <spring-data.version>Hopper-SR2</spring-data.version>
         <spring-ldap.version>2.1.0.RELEASE</spring-ldap.version>
