@@ -122,7 +122,7 @@
         <rometools.version>1.7.0</rometools.version>
         <spockframework.version>1.1-groovy-2.4-rc-2</spockframework.version>
         <jsoup.version>1.9.2</jsoup.version>
-        <kotlin.version>1.0.3</kotlin.version>
+        <kotlin.version>1.0.4</kotlin.version>
         <jodd.version>3.7.1</jodd.version>
         <bytebuddy.version>1.4.26</bytebuddy.version>
         <commons-configuration2.version>2.1</commons-configuration2.version>
