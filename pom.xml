@@ -171,7 +171,7 @@
         <spring-integration.version>4.3.2.RELEASE</spring-integration.version>
         <spring-integration-kafka.version>2.1.0.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.4.1.RELEASE</spring-boot.version>
-        <spring-cloud.version>Brixton.SR6</spring-cloud.version>
+        <spring-cloud.version>Camden.RELEASE</spring-cloud.version>
         <spring-cloud-stream.version>Brooklyn.RELEASE</spring-cloud-stream.version>
         <spring-data.version>Hopper-SR3</spring-data.version>
         <spring-ldap.version>2.1.0.RELEASE</spring-ldap.version>
@@ -1732,27 +1732,6 @@
                 <groupId>org.springframework.integration</groupId>
                 <artifactId>spring-integration-bom</artifactId>
                 <version>${spring-integration.version}</version>
-                <type>pom</type>
-                <scope>import</scope>
-            </dependency>
-            <dependency>
-                <groupId>org.springframework.cloud</groupId>
-                <artifactId>spring-cloud-stream-dependencies</artifactId>
-                <version>${spring-cloud-stream.version}</version>
-                <type>pom</type>
-                <scope>import</scope>
-            </dependency>
-            <dependency>
-                <groupId>org.springframework.cloud</groupId>
-                <artifactId>spring-cloud-netflix-dependencies</artifactId>
-                <version>1.2.0.RELEASE</version>
-                <type>pom</type>
-                <scope>import</scope>
-            </dependency>
-            <dependency>
-                <groupId>org.springframework.cloud</groupId>
-                <artifactId>spring-cloud-config-dependencies</artifactId>
-                <version>1.2.0.RELEASE</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
