@@ -148,7 +148,7 @@
         <bouncycastle.version>1.55</bouncycastle.version>
         <mapdb.version>3.0.2</mapdb.version>
         <grpc.version>1.0.1</grpc.version>
-        <thymeleaf.version>3.0.1.RELEASE</thymeleaf.version>
+        <thymeleaf.version>3.0.2.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.0.3</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.0.RELEASE</thymeleaf-extras-java8time.version>
@@ -163,7 +163,7 @@
         <easymock.version>3.4</easymock.version>
         <spring-test-dbunit.version>1.3.0</spring-test-dbunit.version>
         <powermock.version>1.6.5</powermock.version>
-        <aws-java-sdk.version>1.11.37</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.39</aws-java-sdk.version>
         <spring.version>4.3.3.RELEASE</spring.version>
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
         <spring-session.version>1.2.2.RELEASE</spring-session.version>
