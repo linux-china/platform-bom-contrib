@@ -124,7 +124,7 @@
         <jsoup.version>1.9.2</jsoup.version>
         <kotlin.version>1.0.4</kotlin.version>
         <jodd.version>3.7.1</jodd.version>
-        <bytebuddy.version>1.4.27</bytebuddy.version>
+        <bytebuddy.version>1.4.28</bytebuddy.version>
         <commons-configuration2.version>2.1</commons-configuration2.version>
         <cglib.version>3.2.4</cglib.version>
         <immutables.version>2.3.2</immutables.version>
@@ -142,14 +142,14 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.3.0.Final</togglz.version>
         <emoji-java.version>3.1.3</emoji-java.version>
-        <javaslang.version>2.0.3</javaslang.version>
+        <javaslang.version>2.0.4</javaslang.version>
         <moneta.version>1.1</moneta.version>
-        <ehcache3.version>3.1.2</ehcache3.version>
+        <ehcache3.version>3.1.3</ehcache3.version>
         <bouncycastle.version>1.55</bouncycastle.version>
         <mapdb.version>3.0.2</mapdb.version>
         <grpc.version>1.0.1</grpc.version>
         <thymeleaf.version>3.0.2.RELEASE</thymeleaf.version>
-        <thymeleaf-layout-dialect.version>2.0.3</thymeleaf-layout-dialect.version>
+        <thymeleaf-layout-dialect.version>2.0.4</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.0.RELEASE</thymeleaf-extras-java8time.version>
         <unbescape.version>1.1.4.RELEASE</unbescape.version>
@@ -173,9 +173,9 @@
         <spring-boot.version>1.4.1.RELEASE</spring-boot.version>
         <spring-cloud.version>Camden.RELEASE</spring-cloud.version>
         <spring-cloud-stream.version>Brooklyn.RELEASE</spring-cloud-stream.version>
-        <spring-data.version>Hopper-SR3</spring-data.version>
+        <spring-data.version>Hopper-SR4</spring-data.version>
         <spring-ldap.version>2.1.0.RELEASE</spring-ldap.version>
-        <spring-amqp.version>1.6.2.RELEASE</spring-amqp.version>
+        <spring-amqp.version>1.6.3.RELEASE</spring-amqp.version>
         <spring-restdocs.version>1.1.2.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.1.4.RELEASE</spring-retry.version>
         <platform-bom.version>Athens-RELEASE</platform-bom.version>
