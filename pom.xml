@@ -124,7 +124,7 @@
         <jsoup.version>1.9.2</jsoup.version>
         <kotlin.version>1.0.4</kotlin.version>
         <jodd.version>3.7.1</jodd.version>
-        <bytebuddy.version>1.4.28</bytebuddy.version>
+        <bytebuddy.version>1.4.29</bytebuddy.version>
         <commons-configuration2.version>2.1</commons-configuration2.version>
         <cglib.version>3.2.4</cglib.version>
         <immutables.version>2.3.2</immutables.version>
@@ -168,7 +168,7 @@
         <spring-ws.version>2.3.0.RELEASE</spring-ws.version>
         <spring-session.version>1.2.2.RELEASE</spring-session.version>
         <spring-security.version>4.1.3.RELEASE</spring-security.version>
-        <spring-integration.version>4.3.2.RELEASE</spring-integration.version>
+        <spring-integration.version>4.3.4.RELEASE</spring-integration.version>
         <spring-integration-kafka.version>2.1.0.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.4.1.RELEASE</spring-boot.version>
         <spring-cloud.version>Camden.RELEASE</spring-cloud.version>
