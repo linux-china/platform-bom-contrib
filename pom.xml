@@ -62,7 +62,7 @@
         <threeten.version>1.0</threeten.version>
         <openhft-chronicle.version>3.6.2</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <jasperreports.version>6.3.0</jasperreports.version>
+        <jasperreports.version>6.3.1</jasperreports.version>
         <htmlunit.version>2.23</htmlunit.version>
         <avro.version>1.8.1</avro.version>
         <commons-lang3.version>3.4</commons-lang3.version>
@@ -124,7 +124,7 @@
         <jsoup.version>1.9.2</jsoup.version>
         <kotlin.version>1.0.4</kotlin.version>
         <jodd.version>3.7.1</jodd.version>
-        <bytebuddy.version>1.4.29</bytebuddy.version>
+        <bytebuddy.version>1.4.31</bytebuddy.version>
         <commons-configuration2.version>2.1</commons-configuration2.version>
         <cglib.version>3.2.4</cglib.version>
         <immutables.version>2.3.3</immutables.version>
