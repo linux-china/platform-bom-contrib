@@ -99,7 +99,7 @@
         <netty3.version>3.10.6.Final</netty3.version>
         <assertj.version>3.5.2</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
-        <wiremock.version>2.1.12</wiremock.version>
+        <wiremock.version>2.2.1</wiremock.version>
         <webjars-locator.version>0.32</webjars-locator.version>
         <openjpa.version>2.4.1</openjpa.version>
         <castor.version>1.4.1</castor.version>
@@ -127,7 +127,7 @@
         <bytebuddy.version>1.4.31</bytebuddy.version>
         <commons-configuration2.version>2.1</commons-configuration2.version>
         <cglib.version>3.2.4</cglib.version>
-        <immutables.version>2.3.3</immutables.version>
+        <immutables.version>2.3.4</immutables.version>
         <joda-time.version>2.9.4</joda-time.version>
         <javax-websocket.version>1.1</javax-websocket.version>
         <javax-jdo.version>3.1</javax-jdo.version>
