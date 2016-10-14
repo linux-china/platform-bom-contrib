@@ -74,7 +74,8 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * jasypt
 * javatuples
 * emoji-java: https://github.com/vdurmont/emoji-java
-* togglz
+* togglz: feature toggle https://www.togglz.org/
+* ff4j: Feature Toggle http://ff4j.org/
 * javaslang: http://www.javaslang.io/
 * asynchttpclient: https://github.com/AsyncHttpClient/async-http-client
 * mapdb: http://www.mapdb.org/ 
