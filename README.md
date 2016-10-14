@@ -18,7 +18,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
          <dependency>
              <groupId>org.mvnsearch</groupId>
              <artifactId>platform-bom-contrib</artifactId>
-             <version>2.0.5.RELEASE</version>
+             <version>2.0.8.RELEASE</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
@@ -33,7 +33,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
          <dependency>
              <groupId>org.mvnsearch</groupId>
              <artifactId>platform-bom-contrib</artifactId>
-             <version>2.0.5.RELEASE</version>
+             <version>2.0.8.RELEASE</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
