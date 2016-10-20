@@ -75,7 +75,7 @@
         <evo-inflector.version>1.2.1</evo-inflector.version>
         <bsh.version>2.0b5</bsh.version>
         <jetty.version>9.3.11.v20160721</jetty.version>
-        <hibernate.version>5.2.2.Final</hibernate.version>
+        <hibernate.version>5.2.3.Final</hibernate.version>
         <infinispan.version>8.2.4.Final</infinispan.version>
         <cas-client.version>3.4.1</cas-client.version>
         <javassist.version>3.20.0-GA</javassist.version>
@@ -99,7 +99,7 @@
         <netty3.version>3.10.6.Final</netty3.version>
         <assertj.version>3.5.2</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
-        <wiremock.version>2.2.1</wiremock.version>
+        <wiremock.version>2.2.2</wiremock.version>
         <webjars-locator.version>0.32</webjars-locator.version>
         <openjpa.version>2.4.1</openjpa.version>
         <castor.version>1.4.1</castor.version>
@@ -118,7 +118,7 @@
         <xstream.version>1.4.9</xstream.version>
         <zookeeper.version>3.4.9</zookeeper.version>
         <curator.version>2.11.0</curator.version>
-        <rabbit-amqp-client.version>3.6.1</rabbit-amqp-client.version>
+        <rabbit-amqp-client.version>3.6.5</rabbit-amqp-client.version>
         <rometools.version>1.7.0</rometools.version>
         <spockframework.version>1.1-groovy-2.4-rc-2</spockframework.version>
         <jsoup.version>1.9.2</jsoup.version>
@@ -127,7 +127,7 @@
         <bytebuddy.version>1.4.33</bytebuddy.version>
         <commons-configuration2.version>2.1</commons-configuration2.version>
         <cglib.version>3.2.4</cglib.version>
-        <immutables.version>2.3.5</immutables.version>
+        <immutables.version>2.3.7</immutables.version>
         <joda-time.version>2.9.4</joda-time.version>
         <javax-websocket.version>1.1</javax-websocket.version>
         <javax-jdo.version>3.1</javax-jdo.version>
@@ -135,7 +135,7 @@
         <java-util.version>1.24.0</java-util.version>
         <mariadb.version>1.4.5</mariadb.version>
         <mongodb.version>3.2.2</mongodb.version>
-        <artemis.version>1.2.0</artemis.version>
+        <artemis.version>1.4.0</artemis.version>
         <axiom.version>1.2.19</axiom.version>
         <xmlschema.version>2.2.1</xmlschema.version>
         <jasypt.version>1.9.2</jasypt.version>
