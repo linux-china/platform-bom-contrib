@@ -122,7 +122,7 @@
         <rabbit-amqp-client.version>3.6.5</rabbit-amqp-client.version>
         <rometools.version>1.7.0</rometools.version>
         <spockframework.version>1.1-groovy-2.4-rc-2</spockframework.version>
-        <jsoup.version>1.9.2</jsoup.version>
+        <jsoup.version>1.10.1</jsoup.version>
         <kotlin.version>1.0.4</kotlin.version>
         <jodd.version>3.7.1</jodd.version>
         <bytebuddy.version>1.4.33</bytebuddy.version>
@@ -151,7 +151,7 @@
         <mapdb.version>3.0.2</mapdb.version>
         <grpc.version>1.0.1</grpc.version>
         <thymeleaf.version>3.0.2.RELEASE</thymeleaf.version>
-        <thymeleaf-layout-dialect.version>2.0.4</thymeleaf-layout-dialect.version>
+        <thymeleaf-layout-dialect.version>2.0.5</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.0.RELEASE</thymeleaf-extras-java8time.version>
         <unbescape.version>1.1.4.RELEASE</unbescape.version>
