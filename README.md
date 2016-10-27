@@ -63,6 +63,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * netty sub modules
 * caffeine cache
 * dbunit
+* fluentlenium：http://fluentlenium.org/
 * MyBatis
 * jsoup
 * kotlin
