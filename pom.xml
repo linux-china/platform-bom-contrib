@@ -35,7 +35,7 @@
         <json-patch.version>1.9</json-patch.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <gson.version>2.8.0</gson.version>
-        <guava.version>19.0</guava.version>
+        <guava.version>20.0</guava.version>
         <guice.version>4.1.0</guice.version>
         <protobuf.version>3.1.0</protobuf.version>
         <protobuf-java-format.version>1.4</protobuf-java-format.version>
@@ -77,7 +77,7 @@
         <bsh.version>2.0b5</bsh.version>
         <jetty.version>9.3.11.v20160721</jetty.version>
         <hibernate.version>5.2.4.Final</hibernate.version>
-        <hibernate-validator.version>5.3.0.Final</hibernate-validator.version>
+        <hibernate-validator.version>5.3.1.Final</hibernate-validator.version>
         <infinispan.version>8.2.4.Final</infinispan.version>
         <cas-client.version>3.4.1</cas-client.version>
         <javassist.version>3.20.0-GA</javassist.version>
