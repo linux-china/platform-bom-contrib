@@ -168,7 +168,7 @@
         <selenium.version>3.0.1</selenium.version>
         <fluentlenium.version>3.0.2</fluentlenium.version>
         <powermock.version>1.6.5</powermock.version>
-        <aws-java-sdk.version>1.11.48</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.49</aws-java-sdk.version>
         <spring.version>4.3.3.RELEASE</spring.version>
         <spring-ws.version>2.4.0.RELEASE</spring-ws.version>
         <spring-session.version>1.2.2.RELEASE</spring-session.version>
