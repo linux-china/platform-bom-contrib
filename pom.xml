@@ -125,7 +125,7 @@
         <jsoup.version>1.10.1</jsoup.version>
         <kotlin.version>1.0.4</kotlin.version>
         <jodd.version>3.8.0</jodd.version>
-        <bytebuddy.version>1.5.1</bytebuddy.version>
+        <bytebuddy.version>1.5.2</bytebuddy.version>
         <commons-configuration2.version>2.1</commons-configuration2.version>
         <cglib.version>3.2.4</cglib.version>
         <immutables.version>2.3.8</immutables.version>
