@@ -178,7 +178,7 @@
         <spring-boot.version>1.4.1.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.21.0.RELEASE</spring-hateoas.version>
         <spring-cloud.version>Camden.SR2</spring-cloud.version>
-        <spring-data.version>Hopper-SR4</spring-data.version>
+        <spring-data-releasetrain.version>Hopper-SR4</spring-data-releasetrain.version>
         <spring-ldap.version>2.2.0.RELEASE</spring-ldap.version>
         <spring-amqp.version>1.6.3.RELEASE</spring-amqp.version>
         <spring-restdocs.version>1.1.2.RELEASE</spring-restdocs.version>
