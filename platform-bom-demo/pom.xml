@@ -30,7 +30,7 @@
             <dependency>
                 <groupId>org.mvnsearch</groupId>
                 <artifactId>platform-bom-contrib</artifactId>
-                <version>2.0.6-SNAPSHOT</version>
+                <version>Cairo-BUILD-SNAPSHOT</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
