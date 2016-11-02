@@ -75,18 +75,14 @@
         <kafka.version>0.9.0.1</kafka.version>
         <log4j2.version>2.7</log4j2.version>
         <solr.version>6.2.1</solr.version>
-        <evo-inflector.version>1.2.1</evo-inflector.version>
         <bsh.version>2.0b5</bsh.version>
         <jetty.version>9.3.11.v20160721</jetty.version>
         <tomcat.version>8.5.6</tomcat.version>
         <hibernate.version>5.2.4.Final</hibernate.version>
         <hibernate-validator.version>5.3.1.Final</hibernate-validator.version>
-        <infinispan.version>8.2.4.Final</infinispan.version>
         <cas-client.version>3.4.1</cas-client.version>
         <javassist.version>3.20.0-GA</javassist.version>
         <jooq.version>3.8.5</jooq.version>
-        <jool.version>0.9.12</jool.version>
-        <joor.version>0.9.6</joor.version>
         <functionaljava.version>4.6</functionaljava.version>
         <fugue.version>4.3.1</fugue.version>
         <jruby.version>9.1.5.0</jruby.version>
@@ -157,6 +153,8 @@
         <thymeleaf-layout-dialect.version>2.0.5</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.0.RELEASE</thymeleaf-extras-java8time.version>
+        <thymeleaf-extras-springsecurity4.version>3.0.0.RELEASE</thymeleaf-extras-springsecurity4.version>
+        <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
         <unbescape.version>1.1.4.RELEASE</unbescape.version>
         <attoparser.version>2.0.1.RELEASE</attoparser.version>
         <flyway.version>4.0.3</flyway.version>
@@ -309,94 +307,6 @@
                 <version>${commons-lang3.version}</version>
             </dependency>
             <dependency>
-                <groupId>org.apache.kafka</groupId>
-                <artifactId>kafka_2.10</artifactId>
-                <version>${kafka.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.apache.kafka</groupId>
-                <artifactId>kafka-clients</artifactId>
-                <version>${kafka.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.atteo</groupId>
-                <artifactId>evo-inflector</artifactId>
-                <version>${evo-inflector.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.beanshell</groupId>
-                <artifactId>bsh</artifactId>
-                <version>${bsh.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.hibernate</groupId>
-                <artifactId>hibernate-core</artifactId>
-                <version>${hibernate.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.hibernate</groupId>
-                <artifactId>hibernate-entitymanager</artifactId>
-                <version>${hibernate.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.hibernate</groupId>
-                <artifactId>hibernate-java8</artifactId>
-                <version>${hibernate.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.hibernate</groupId>
-                <artifactId>hibernate-ehcache</artifactId>
-                <version>${hibernate.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.hibernate</groupId>
-                <artifactId>hibernate-envers</artifactId>
-                <version>${hibernate.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.hibernate</groupId>
-                <artifactId>hibernate-jpamodelgen</artifactId>
-                <version>${hibernate.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.hibernate</groupId>
-                <artifactId>hibernate-validator</artifactId>
-                <version>${hibernate-validator.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.hibernate</groupId>
-                <artifactId>hibernate-validator-annotation-processor</artifactId>
-                <version>${hibernate-validator.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.infinispan</groupId>
-                <artifactId>infinispan-jcache</artifactId>
-                <version>${infinispan.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.infinispan</groupId>
-                <artifactId>infinispan-spring4</artifactId>
-                <version>8.0.2.Final</version>
-                <exclusions>
-                    <exclusion>
-                        <groupId>commons-logging</groupId>
-                        <artifactId>commons-logging</artifactId>
-                    </exclusion>
-                    <exclusion>
-                        <groupId>org.apache.logging.log4j</groupId>
-                        <artifactId>log4j-core</artifactId>
-                    </exclusion>
-                    <exclusion>
-                        <groupId>org.apache.logging.log4j</groupId>
-                        <artifactId>log4j-slf4j-impl</artifactId>
-                    </exclusion>
-                    <exclusion>
-                        <groupId>org.apache.logging.log4j</groupId>
-                        <artifactId>log4j-jcl</artifactId>
-                    </exclusion>
-                </exclusions>
-            </dependency>
-            <dependency>
                 <groupId>org.jasig.cas.client</groupId>
                 <artifactId>cas-client-core</artifactId>
                 <version>${cas-client.version}</version>
@@ -416,31 +326,6 @@
                 <artifactId>value</artifactId>
                 <version>${immutables.version}</version>
                 <scope>provided</scope>
-            </dependency>
-            <dependency>
-                <groupId>org.jooq</groupId>
-                <artifactId>jooq</artifactId>
-                <version>${jooq.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.jooq</groupId>
-                <artifactId>jooq-meta</artifactId>
-                <version>${jooq.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.jooq</groupId>
-                <artifactId>jooq-codegen</artifactId>
-                <version>${jooq.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.jooq</groupId>
-                <artifactId>jool</artifactId>
-                <version>${jool.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.jooq</groupId>
-                <artifactId>joor</artifactId>
-                <version>${joor.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.functionaljava</groupId>
@@ -466,16 +351,6 @@
                 <groupId>io.atlassian.fugue</groupId>
                 <artifactId>fugue</artifactId>
                 <version>${fugue.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.jruby</groupId>
-                <artifactId>jruby</artifactId>
-                <version>${jruby.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.json</groupId>
-                <artifactId>json</artifactId>
-                <version>${json.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.thymeleaf</groupId>
@@ -1373,11 +1248,6 @@
                 <version>${spring-data.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
-            </dependency>
-            <dependency>
-                <groupId>org.springframework.integration</groupId>
-                <artifactId>spring-integration-kafka</artifactId>
-                <version>${spring-integration-kafka.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.integration</groupId>
