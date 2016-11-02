@@ -168,7 +168,7 @@
         <selenium.version>3.0.1</selenium.version>
         <fluentlenium.version>3.0.2</fluentlenium.version>
         <powermock.version>1.6.5</powermock.version>
-        <aws-java-sdk.version>1.11.49</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.50</aws-java-sdk.version>
         <spring.version>4.3.3.RELEASE</spring.version>
         <spring-ws.version>2.4.0.RELEASE</spring-ws.version>
         <spring-session.version>1.2.2.RELEASE</spring-session.version>
@@ -178,7 +178,7 @@
         <spring-integration-kafka.version>2.1.0.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.4.1.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.21.0.RELEASE</spring-hateoas.version>
-        <spring-cloud.version>Camden.SR1</spring-cloud.version>
+        <spring-cloud.version>Camden.SR2</spring-cloud.version>
         <spring-cloud-consul.version>1.1.1.RELEASE</spring-cloud-consul.version>
         <spring-cloud-stream.version>Brooklyn.RELEASE</spring-cloud-stream.version>
         <spring-data.version>Hopper-SR4</spring-data.version>
