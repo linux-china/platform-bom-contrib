@@ -37,13 +37,6 @@ If your application is Spring Boot based, just use following code in your pom.xm
              <type>pom</type>
              <scope>import</scope>
          </dependency>
-         <dependency>
-             <groupId>io.spring.platform</groupId>
-             <artifactId>platform-bom</artifactId>
-             <version>Athens-RELEASE</version>
-             <type>pom</type>
-             <scope>import</scope>
-         </dependency>
      </dependencies>
  </dependencyManagement>
 ```
