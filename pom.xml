@@ -43,6 +43,7 @@
         <guava.version>20.0</guava.version>
         <guice.version>4.1.0</guice.version>
         <protobuf.version>3.1.0</protobuf.version>
+        <appengine.version>1.9.44</appengine.version>
         <hazelcast.version>3.7.2</hazelcast.version>
         <jamon.version>2.81</jamon.version>
         <json-smart.version>2.2.1</json-smart.version>
