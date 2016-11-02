@@ -80,6 +80,7 @@
         <jetty.version>9.3.11.v20160721</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <tomcat.version>8.5.6</tomcat.version>
+        <undertow.version>1.4.4.Final</undertow.version>
         <hibernate.version>5.2.4.Final</hibernate.version>
         <hibernate-validator.version>5.3.1.Final</hibernate-validator.version>
         <cas-client.version>3.4.1</cas-client.version>
