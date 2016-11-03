@@ -89,6 +89,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * ThreeTen-Extra: http://www.threeten.org/threeten-extra/
 * wiremock: http://wiremock.org/
 * URL-Detector: https://github.com/linkedin/URL-Detector
+* flex pool: metrics and failover strategies to a given Connection Pool, allowing it to resize on demand https://github.com/vladmihalcea/flexy-pool
 
 ### Developer Notice:
 
