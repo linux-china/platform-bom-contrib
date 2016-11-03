@@ -160,6 +160,7 @@
         <flyway.version>4.0.3</flyway.version>
         <liquibase.version>3.5.3</liquibase.version>
         <derby.version>10.13.1.1</derby.version>
+        <flexy-pool.version>1.2.5</flexy-pool.version>
         <h2.version>1.4.193</h2.version>
         <hsqldb.version>2.3.4</hsqldb.version>
         <apacheds.version>1.5.7</apacheds.version>
@@ -535,6 +536,26 @@
                 <groupId>org.mapdb</groupId>
                 <artifactId>mapdb</artifactId>
                 <version>${mapdb.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.vladmihalcea.flexy-pool</groupId>
+                <artifactId>flexy-pool-core-java7</artifactId>
+                <version>${flexy-pool.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.vladmihalcea.flexy-pool</groupId>
+                <artifactId>flexy-dropwizard-metrics</artifactId>
+                <version>${flexy-pool.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.vladmihalcea.flexy-pool</groupId>
+                <artifactId>flexy-hikaricp</artifactId>
+                <version>${flexy-pool.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.vladmihalcea.flexy-pool</groupId>
+                <artifactId>flexy-tomcatcp</artifactId>
+                <version>${flexy-pool.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.vdurmont</groupId>
