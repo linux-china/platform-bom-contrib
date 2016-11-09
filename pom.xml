@@ -186,7 +186,7 @@
         <spring-integration.version>4.3.5.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>4.3.4.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>2.1.0.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>1.4.1.RELEASE</spring-boot.version>
+        <spring-boot.version>1.4.2.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.21.0.RELEASE</spring-hateoas.version>
         <spring-cloud.version>Camden.SR2</spring-cloud.version>
         <spring-ldap.version>2.2.0.RELEASE</spring-ldap.version>
