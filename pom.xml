@@ -123,7 +123,7 @@
         <rometools.version>1.7.0</rometools.version>
         <spockframework.version>1.1-groovy-2.4-rc-3</spockframework.version>
         <jsoup.version>1.10.1</jsoup.version>
-        <kotlin.version>1.0.4</kotlin.version>
+        <kotlin.version>1.0.5</kotlin.version>
         <jodd.version>3.8.0</jodd.version>
         <bytebuddy.version>1.5.3</bytebuddy.version>
         <cglib.version>3.2.4</cglib.version>
@@ -190,7 +190,7 @@
         <spring-hateoas.version>0.21.0.RELEASE</spring-hateoas.version>
         <spring-cloud.version>Camden.SR2</spring-cloud.version>
         <spring-ldap.version>2.2.0.RELEASE</spring-ldap.version>
-        <spring-amqp.version>1.6.4.RELEASE</spring-amqp.version>
+        <spring-amqp.version>1.6.5.RELEASE</spring-amqp.version>
         <spring-restdocs.version>1.1.2.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.1.4.RELEASE</spring-retry.version>
     </properties>
