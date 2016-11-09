@@ -119,7 +119,7 @@
         <mybatis-spring.version>1.3.0</mybatis-spring.version>
         <zookeeper.version>3.4.9</zookeeper.version>
         <curator.version>2.11.0</curator.version>
-        <zkclient.version>0.9</zkclient.version>
+        <zkclient.version>0.10</zkclient.version>
         <rometools.version>1.7.0</rometools.version>
         <spockframework.version>1.1-groovy-2.4-rc-3</spockframework.version>
         <jsoup.version>1.10.1</jsoup.version>
@@ -735,6 +735,13 @@
                 <groupId>com.amazonaws</groupId>
                 <artifactId>aws-java-sdk-bom</artifactId>
                 <version>${aws-java-sdk.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-boot-dependencies</artifactId>
+                <version>${spring-boot.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
