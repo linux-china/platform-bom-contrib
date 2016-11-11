@@ -37,7 +37,7 @@
 
     <properties>
         <jackson.version>2.8.4</jackson.version>
-        <joda-time.version>2.9.5</joda-time.version>
+        <joda-time.version>2.9.6</joda-time.version>
         <json-patch.version>1.9</json-patch.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <gson.version>2.8.0</gson.version>
@@ -88,7 +88,7 @@
         <jooq.version>3.8.6</jooq.version>
         <functionaljava.version>4.6</functionaljava.version>
         <fugue.version>4.3.1</fugue.version>
-        <jruby.version>9.1.5.0</jruby.version>
+        <jruby.version>9.1.6.0</jruby.version>
         <json.version>20160810</json.version>
         <selenium.version>3.0.1</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -135,7 +135,7 @@
         <mongodb.version>3.3.0</mongodb.version>
         <cassandra-driver.version>3.1.2</cassandra-driver.version>
         <activemq.version>5.14.1</activemq.version>
-        <artemis.version>1.4.0</artemis.version>
+        <artemis.version>1.5.0</artemis.version>
         <jeromq.version>0.3.6</jeromq.version>
         <axiom.version>1.2.20</axiom.version>
         <jasypt.version>1.9.2</jasypt.version>
@@ -152,7 +152,7 @@
         <mapdb.version>3.0.2</mapdb.version>
         <grpc.version>1.0.1</grpc.version>
         <thymeleaf.version>3.0.2.RELEASE</thymeleaf.version>
-        <thymeleaf-layout-dialect.version>2.1.0</thymeleaf-layout-dialect.version>
+        <thymeleaf-layout-dialect.version>2.1.1</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.0.RELEASE</thymeleaf-extras-java8time.version>
         <thymeleaf-extras-springsecurity4.version>3.0.0.RELEASE</thymeleaf-extras-springsecurity4.version>
@@ -174,7 +174,7 @@
         <sqlite-jdbc.version>3.14.2.1</sqlite-jdbc.version>
         <easymock.version>3.4</easymock.version>
         <spring-test-dbunit.version>1.3.0</spring-test-dbunit.version>
-        <fluentlenium.version>3.0.2</fluentlenium.version>
+        <fluentlenium.version>3.0.3</fluentlenium.version>
         <powermock.version>1.6.6</powermock.version>
         <unboundid.version>3.2.0</unboundid.version>
         <aws-java-sdk.version>1.11.52</aws-java-sdk.version>
@@ -182,6 +182,7 @@
         <spring-ws.version>2.4.0.RELEASE</spring-ws.version>
         <spring-session.version>1.2.2.RELEASE</spring-session.version>
         <spring-security.version>4.2.0.RELEASE</spring-security.version>
+        <spring-security-oauth.version>2.0.12.RELEASE</spring-security-oauth.version>
         <spring-data-releasetrain.version>Hopper-SR5</spring-data-releasetrain.version>
         <spring-integration.version>4.3.5.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>4.3.4.RELEASE</spring-integration-java-dsl.version>
