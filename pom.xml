@@ -159,6 +159,7 @@
         <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
         <unbescape.version>1.1.4.RELEASE</unbescape.version>
         <attoparser.version>2.0.1.RELEASE</attoparser.version>
+        <jmustache.version>1.13</jmustache.version>
         <flyway.version>4.0.3</flyway.version>
         <liquibase.version>3.5.3</liquibase.version>
         <derby.version>10.13.1.1</derby.version>
