@@ -12,7 +12,7 @@
 
     <groupId>org.mvnsearch</groupId>
     <artifactId>platform-bom-contrib</artifactId>
-    <version>Cairo-BUILD-SNAPSHOT</version>
+    <version>Athens-SR1</version>
     <packaging>pom</packaging>
     <name>Spring IO Platform Contrib bill of materials</name>
     <description>Spring IO Platform Contrib bill of materials</description>
@@ -192,10 +192,11 @@
         <spring-boot.version>1.4.2.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.21.0.RELEASE</spring-hateoas.version>
         <spring-cloud.version>Camden.SR2</spring-cloud.version>
+        <spring-cloud-cloudfoundry.version>1.0.6.RELEASE</spring-cloud-cloudfoundry.version>
         <spring-ldap.version>2.2.0.RELEASE</spring-ldap.version>
         <spring-amqp.version>1.6.5.RELEASE</spring-amqp.version>
         <spring-restdocs.version>1.1.2.RELEASE</spring-restdocs.version>
-        <spring-retry.version>1.1.4.RELEASE</spring-retry.version>
+        <spring-retry.version>1.1.5.RELEASE</spring-retry.version>
     </properties>
 
     <dependencyManagement>
@@ -743,6 +744,13 @@
                 <groupId>com.amazonaws</groupId>
                 <artifactId>aws-java-sdk-bom</artifactId>
                 <version>${aws-java-sdk.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-cloudfoundry-dependencies</artifactId>
+                <version>${spring-cloud-cloudfoundry.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
