@@ -36,7 +36,7 @@
     </developers>
 
     <properties>
-        <jackson.version>2.8.4</jackson.version>
+        <jackson.version>2.8.5</jackson.version>
         <joda-time.version>2.9.6</joda-time.version>
         <json-patch.version>1.9</json-patch.version>
         <gs-collections.version>7.0.3</gs-collections.version>
@@ -170,6 +170,7 @@
         <jolokia.version>1.3.5</jolokia.version>
         <asynchttpclient.version>2.0.24</asynchttpclient.version>
         <etcd4j.version>2.12.0</etcd4j.version>
+        <consul-api.version>1.2.1</consul-api.version>
         <svnkit.version>1.8.14</svnkit.version>
         <sqlite-jdbc.version>3.14.2.1</sqlite-jdbc.version>
         <easymock.version>3.4</easymock.version>
@@ -644,6 +645,11 @@
                 <groupId>org.mousio</groupId>
                 <artifactId>etcd4j</artifactId>
                 <version>${etcd4j.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.ecwid.consul</groupId>
+                <artifactId>consul-api</artifactId>
+                <version>${consul-api.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.easymock</groupId>
