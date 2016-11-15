@@ -18,7 +18,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
          <dependency>
              <groupId>org.mvnsearch</groupId>
              <artifactId>platform-bom-contrib</artifactId>
-             <version>Cairo-BUILD-SNAPSHOT</version>
+             <version>Athens-SR1</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
@@ -43,11 +43,11 @@ If your application is Spring Boot based, just use following code in your pom.xm
 
 ### Base Dependencies
 
-* Spring:  4.3.3
-* Spring Security: 4.1.3 
-* Spring Boot: 1.4.1
-* Spring Cloud: Brixton.SR4
-* Spring Platform IO BOM: Athens-RELEASE
+* Spring:  4.3.4
+* Spring Security: 4.2.0
+* Spring Boot: 1.4.2
+* Spring Cloud: Brixton.SR5
+* Spring Platform IO BOM: Athens-SR1
      
 ### New dependencies:
 
@@ -99,11 +99,11 @@ If your application is Spring Boot based, just use following code in your pom.xm
 ### Tags
 
 ```
-$ git tag -a 2.0.5.RELEASE -m '2.0.5 RELEASE'
+$ git tag -a Athens-SR1 -m 'Athens-SR1'
 $ git push --follow-tags
 ```
 
 ### Changes 
 
-* Athens-RELEASE
-* Spring Boot 1.4.1
+* Athens-SR1
+* Spring Boot 1.4.2
