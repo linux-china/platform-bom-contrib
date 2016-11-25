@@ -71,7 +71,7 @@
         <jline.version>3.0.0.M1</jline.version>
         <openhft-chronicle.version>3.6.2</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <jasperreports.version>6.3.1</jasperreports.version>
+        <jasperreports.version>6.4.0</jasperreports.version>
         <htmlunit.version>2.23</htmlunit.version>
         <testng.version>6.9.13.6</testng.version>
         <kafka.version>0.9.0.1</kafka.version>
@@ -83,7 +83,7 @@
         <tomcat.version>8.5.8</tomcat.version>
         <undertow.version>1.4.4.Final</undertow.version>
         <hibernate.version>5.2.4.Final</hibernate.version>
-        <hibernate-validator.version>5.3.2.Final</hibernate-validator.version>
+        <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
         <cas-client.version>3.4.1</cas-client.version>
         <jooq.version>3.8.6</jooq.version>
         <functionaljava.version>4.6</functionaljava.version>
@@ -110,7 +110,7 @@
         <intellij.version>15.0</intellij.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <sendgrid.version>3.1.0</sendgrid.version>
-        <jfairy.version>0.5.3</jfairy.version>
+        <jfairy.version>0.5.5</jfairy.version>
         <dbunit.version>2.5.3</dbunit.version>
         <awaitility.version>1.7.0</awaitility.version>
         <restassured.version>2.9.0</restassured.version>
