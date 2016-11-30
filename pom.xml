@@ -762,4 +762,11 @@
         </dependencies>
     </dependencyManagement>
 
+    <repositories>
+        <repository>
+            <id>spring-repo</id>
+            <url>http://repo.spring.io/release/</url>
+        </repository>
+    </repositories>
+
 </project>
