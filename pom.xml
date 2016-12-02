@@ -179,7 +179,7 @@
         <fluentlenium.version>3.0.4</fluentlenium.version>
         <powermock.version>1.6.6</powermock.version>
         <unboundid.version>3.2.0</unboundid.version>
-        <aws-java-sdk.version>1.11.61</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.63</aws-java-sdk.version>
         <spring.version>4.3.4.RELEASE</spring.version>
         <spring-ws.version>2.4.0.RELEASE</spring-ws.version>
         <spring-session.version>1.2.2.RELEASE</spring-session.version>
