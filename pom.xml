@@ -125,8 +125,9 @@
         <jsoup.version>1.10.1</jsoup.version>
         <kotlin.version>1.0.5-2</kotlin.version>
         <jodd.version>3.8.0</jodd.version>
-        <bytebuddy.version>1.5.7</bytebuddy.version>
+        <bytebuddy.version>1.5.8</bytebuddy.version>
         <cglib.version>3.2.4</cglib.version>
+        <lombok.version>1.16.12</lombok.version>
         <immutables.version>2.3.9</immutables.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <tyrus.version>1.13</tyrus.version>
