@@ -112,6 +112,7 @@
         <sendgrid.version>3.1.0</sendgrid.version>
         <jfairy.version>0.5.5</jfairy.version>
         <dbunit.version>2.5.3</dbunit.version>
+        <google-truth.version>truth</google-truth.version>
         <awaitility.version>1.7.0</awaitility.version>
         <restassured.version>2.9.0</restassured.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
@@ -653,6 +654,11 @@
                 <groupId>com.ecwid.consul</groupId>
                 <artifactId>consul-api</artifactId>
                 <version>${consul-api.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.truth</groupId>
+                <artifactId>truth</artifactId>
+                <version>${google-truth.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.easymock</groupId>
