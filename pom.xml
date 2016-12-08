@@ -73,7 +73,7 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <jasperreports.version>6.4.0</jasperreports.version>
         <htmlunit.version>2.23</htmlunit.version>
-        <testng.version>6.9.13.6</testng.version>
+        <testng.version>6.10</testng.version>
         <kafka.version>0.9.0.1</kafka.version>
         <log4j2.version>2.7</log4j2.version>
         <solr.version>6.2.1</solr.version>
@@ -112,7 +112,7 @@
         <sendgrid.version>3.1.0</sendgrid.version>
         <jfairy.version>0.5.5</jfairy.version>
         <dbunit.version>2.5.3</dbunit.version>
-        <google-truth.version>truth</google-truth.version>
+        <google-truth.version>0.30</google-truth.version>
         <awaitility.version>1.7.0</awaitility.version>
         <restassured.version>2.9.0</restassured.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
