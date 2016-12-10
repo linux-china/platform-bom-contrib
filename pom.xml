@@ -182,7 +182,8 @@
         <powermock.version>1.6.6</powermock.version>
         <unboundid.version>3.2.0</unboundid.version>
         <underscore.version>1.21</underscore.version>
-        <aws-java-sdk.version>1.11.65</aws-java-sdk.version>
+        <verbalregex.version>1.4</verbalregex.version>
+        <aws-java-sdk.version>1.11.66</aws-java-sdk.version>
         <spring.version>4.3.4.RELEASE</spring.version>
         <spring-ws.version>2.4.0.RELEASE</spring-ws.version>
         <spring-session.version>1.2.2.RELEASE</spring-session.version>
@@ -550,6 +551,11 @@
                 <groupId>com.github.javadev</groupId>
                 <artifactId>underscore</artifactId>
                 <version>${underscore.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ru.lanwen.verbalregex</groupId>
+                <artifactId>java-verbal-expressions</artifactId>
+                <version>${verbalregex.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.mapdb</groupId>
