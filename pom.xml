@@ -132,7 +132,7 @@
         <immutables.version>2.3.10</immutables.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <tyrus.version>1.13</tyrus.version>
-        <java-util.version>1.25.1</java-util.version>
+        <java-util.version>1.26.0</java-util.version>
         <mariadb.version>1.5.5</mariadb.version>
         <mongodb.version>3.4.0</mongodb.version>
         <cassandra-driver.version>3.1.2</cassandra-driver.version>
