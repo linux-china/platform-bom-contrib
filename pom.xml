@@ -189,7 +189,7 @@
         <underscore.version>1.21</underscore.version>
         <verbalregex.version>1.4</verbalregex.version>
         <aws-java-sdk.version>1.11.68</aws-java-sdk.version>
-        <spring.version>4.3.4.RELEASE</spring.version>
+        <spring.version>4.3.5.RELEASE</spring.version>
         <spring-ws.version>2.4.0.RELEASE</spring-ws.version>
         <spring-session.version>1.3.0.RELEASE</spring-session.version>
         <spring-security.version>4.2.0.RELEASE</spring-security.version>
