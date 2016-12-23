@@ -78,7 +78,7 @@
         <kafka.version>0.10.1.1</kafka.version>
         <slf4j.version>1.7.22</slf4j.version>
         <log4j2.version>2.7</log4j2.version>
-        <solr.version>6.2.1</solr.version>
+        <solr.version>6.3.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <jetty.version>9.4.0.v20161208</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
