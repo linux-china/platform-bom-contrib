@@ -134,7 +134,7 @@
         <javax-jdo.version>3.1</javax-jdo.version>
         <tyrus.version>1.13</tyrus.version>
         <java-util.version>1.26.0</java-util.version>
-        <mariadb.version>1.5.5</mariadb.version>
+        <mariadb.version>1.5.6</mariadb.version>
         <mongodb.version>3.4.1</mongodb.version>
         <cassandra-driver.version>3.1.2</cassandra-driver.version>
         <activemq.version>5.14.2</activemq.version>
@@ -153,7 +153,7 @@
         <elasticsearch.version>5.1.1</elasticsearch.version>
         <bouncycastle.version>1.55</bouncycastle.version>
         <mapdb.version>3.0.2</mapdb.version>
-        <grpc.version>1.0.2</grpc.version>
+        <grpc.version>1.0.3</grpc.version>
         <thymeleaf.version>3.0.2.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.1.2</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
@@ -199,7 +199,7 @@
         <spring-integration-java-dsl.version>4.3.4.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>2.1.0.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.4.2.RELEASE</spring-boot.version>
-        <spring-hateoas.version>0.22.0.RELEASE</spring-hateoas.version>
+        <spring-hateoas.version>0.23.0.RELEASE</spring-hateoas.version>
         <spring-cloud.version>Camden.SR3</spring-cloud.version>
         <spring-cloud-task.version>1.1.0.RELEASE</spring-cloud-task.version>
         <spring-ldap.version>2.2.1.RELEASE</spring-ldap.version>
