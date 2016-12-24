@@ -87,7 +87,7 @@
         <hibernate.version>5.2.5.Final</hibernate.version>
         <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
         <cas-client.version>3.4.1</cas-client.version>
-        <jooq.version>3.8.6</jooq.version>
+        <jooq.version>3.9.0</jooq.version>
         <functionaljava.version>4.6</functionaljava.version>
         <fugue.version>4.4.0</fugue.version>
         <jruby.version>9.1.6.0</jruby.version>
