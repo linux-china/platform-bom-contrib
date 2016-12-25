@@ -84,7 +84,7 @@
         <jetty-el.version>8.5.5</jetty-el.version>
         <tomcat.version>8.5.8</tomcat.version>
         <undertow.version>1.4.4.Final</undertow.version>
-        <hibernate.version>5.2.5.Final</hibernate.version>
+        <hibernate.version>5.2.6.Final</hibernate.version>
         <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
         <cas-client.version>3.4.1</cas-client.version>
         <jooq.version>3.9.0</jooq.version>
@@ -138,7 +138,7 @@
         <mariadb.version>1.5.6</mariadb.version>
         <mongodb.version>3.4.1</mongodb.version>
         <cassandra-driver.version>3.1.2</cassandra-driver.version>
-        <activemq.version>5.14.2</activemq.version>
+        <activemq.version>5.14.3</activemq.version>
         <artemis.version>1.5.1</artemis.version>
         <jeromq.version>0.3.6</jeromq.version>
         <axiom.version>1.2.20</axiom.version>
