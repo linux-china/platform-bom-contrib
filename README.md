@@ -2,7 +2,7 @@ platform-bom-contrib
 ====================
 Contrib for Spring IO Platform bom
 
-#### Why?
+#### Why
 
 Spring IO platform bom now focuses on Java 7 compatible, some dependencies are not included or upgraded becuase of Java 8 support only.
 Now Java 8 is adopt by most developers, and platform-bom-contrib helps Java 8 developers to last version.
@@ -49,7 +49,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Spring Cloud: Brixton.SR5
 * Spring Platform IO BOM: Athens-SR1
      
-### New dependencies:
+### New dependencies
 
 * org.jetbrains:annotations jetbrains annotations
 * io.codearte.jfairy:jfairy
@@ -95,7 +95,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * verbalregex: https://github.com/VerbalExpressions/JavaVerbalExpressions
 * testcontainers:  https://github.com/testcontainers/testcontainers-java-examples/tree/master/spring-boot
 
-### Developer Notice:
+### Developer Notice
 
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
 * local install: mvn -DskipTests -pl . clean package install
