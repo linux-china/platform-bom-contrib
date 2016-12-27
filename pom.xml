@@ -152,7 +152,7 @@
         <ehcache3.version>3.2.0</ehcache3.version>
         <ehcache.version>2.10.3</ehcache.version>
         <elasticsearch.version>5.1.1</elasticsearch.version>
-        <bouncycastle.version>1.55</bouncycastle.version>
+        <bouncycastle.version>1.56</bouncycastle.version>
         <mapdb.version>3.0.2</mapdb.version>
         <grpc.version>1.0.3</grpc.version>
         <thymeleaf.version>3.0.2.RELEASE</thymeleaf.version>
