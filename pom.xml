@@ -155,7 +155,7 @@
         <bouncycastle.version>1.56</bouncycastle.version>
         <mapdb.version>3.0.2</mapdb.version>
         <grpc.version>1.0.3</grpc.version>
-        <thymeleaf.version>3.0.2.RELEASE</thymeleaf.version>
+        <thymeleaf.version>3.0.3.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.1.2</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.0.RELEASE</thymeleaf-extras-java8time.version>
