@@ -123,7 +123,7 @@
         <zookeeper.version>3.4.9</zookeeper.version>
         <curator.version>2.11.1</curator.version>
         <zkclient.version>0.10</zkclient.version>
-        <rometools.version>1.7.0</rometools.version>
+        <rometools.version>1.7.1</rometools.version>
         <spockframework.version>1.1-groovy-2.4-rc-3</spockframework.version>
         <jsoup.version>1.10.2</jsoup.version>
         <kotlin.version>1.0.6</kotlin.version>
