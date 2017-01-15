@@ -153,7 +153,7 @@
         <moneta.version>1.1</moneta.version>
         <ehcache3.version>3.2.0</ehcache3.version>
         <ehcache.version>2.10.3</ehcache.version>
-        <elasticsearch.version>5.1.1</elasticsearch.version>
+        <elasticsearch.version>5.1.2</elasticsearch.version>
         <bouncycastle.version>1.56</bouncycastle.version>
         <mapdb.version>3.0.3</mapdb.version>
         <grpc.version>1.0.3</grpc.version>
@@ -181,7 +181,8 @@
         <atomikos.version>4.0.4</atomikos.version>
         <neo4j-ogm.version>2.1.0</neo4j-ogm.version>
         <asynchttpclient.version>2.0.24</asynchttpclient.version>
-        <etcd4j.version>2.12.0</etcd4j.version>
+        <etcd4j.version>2.13.0</etcd4j.version>
+        <objenesis.version>2.5</objenesis.version>
         <consul-api.version>1.2.1</consul-api.version>
         <svnkit.version>1.8.14</svnkit.version>
         <easymock.version>3.4</easymock.version>
