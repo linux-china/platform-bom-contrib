@@ -202,7 +202,7 @@
         <spring-integration-kafka.version>2.1.0.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.4.3.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.23.0.RELEASE</spring-hateoas.version>
-        <spring-cloud.version>Camden.SR3</spring-cloud.version>
+        <spring-cloud.version>Camden.SR4</spring-cloud.version>
         <spring-cloud-task.version>1.1.2.RELEASE</spring-cloud-task.version>
         <spring-ldap.version>2.2.1.RELEASE</spring-ldap.version>
         <spring-amqp.version>1.6.6.RELEASE</spring-amqp.version>
