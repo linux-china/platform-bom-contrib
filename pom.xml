@@ -43,7 +43,7 @@
         <json-patch.version>1.9</json-patch.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <gson.version>2.8.0</gson.version>
-        <guava.version>20.0</guava.version>
+        <guava.version>21.0</guava.version>
         <guice.version>4.1.0</guice.version>
         <protobuf.version>3.1.0</protobuf.version>
         <hazelcast.version>3.7.4</hazelcast.version>
@@ -75,7 +75,7 @@
         <jasperreports.version>6.4.0</jasperreports.version>
         <htmlunit.version>2.24</htmlunit.version>
         <testng.version>6.10</testng.version>
-        <kafka.version>0.9.0.1</kafka.version>
+        <kafka.version>0.10.1.1</kafka.version>
         <slf4j.version>1.7.22</slf4j.version>
         <log4j2.version>2.7</log4j2.version>
         <solr.version>6.3.0</solr.version>
@@ -91,6 +91,7 @@
         <functionaljava.version>4.6</functionaljava.version>
         <fugue.version>4.4.0</fugue.version>
         <jruby.version>9.1.7.0</jruby.version>
+        <groovy.version>2.4.8</groovy.version>
         <json.version>20160810</json.version>
         <selenium.version>3.0.1</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -99,7 +100,7 @@
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.3.0.Final</lettuce.version>
         <caffeine.version>2.3.5</caffeine.version>
-        <netty.version>4.1.6.Final</netty.version>
+        <netty.version>4.1.7.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <assertj.version>3.6.1</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
@@ -128,7 +129,8 @@
         <jsoup.version>1.10.2</jsoup.version>
         <kotlin.version>1.0.6</kotlin.version>
         <jodd.version>3.8.1</jodd.version>
-        <bytebuddy.version>1.6.2</bytebuddy.version>
+        <bytebuddy.version>1.6.3</bytebuddy.version>
+        <jna.version>4.3.0</jna.version>
         <cglib.version>3.2.4</cglib.version>
         <lombok.version>1.16.12</lombok.version>
         <immutables.version>2.4.0</immutables.version>
@@ -145,7 +147,7 @@
         <jasypt.version>1.9.2</jasypt.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.3.0.Final</togglz.version>
-        <ff4j.version>1.6</ff4j.version>
+        <ff4j.version>1.6.1</ff4j.version>
         <emoji-java.version>3.1.3</emoji-java.version>
         <javaslang.version>2.0.5</javaslang.version>
         <moneta.version>1.1</moneta.version>
@@ -153,7 +155,7 @@
         <ehcache.version>2.10.3</ehcache.version>
         <elasticsearch.version>5.1.1</elasticsearch.version>
         <bouncycastle.version>1.56</bouncycastle.version>
-        <mapdb.version>3.0.2</mapdb.version>
+        <mapdb.version>3.0.3</mapdb.version>
         <grpc.version>1.0.3</grpc.version>
         <thymeleaf.version>3.0.3.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.1.2</thymeleaf-layout-dialect.version>
@@ -184,7 +186,7 @@
         <svnkit.version>1.8.14</svnkit.version>
         <easymock.version>3.4</easymock.version>
         <spring-test-dbunit.version>1.3.0</spring-test-dbunit.version>
-        <fluentlenium.version>3.1.0</fluentlenium.version>
+        <fluentlenium.version>3.1.1</fluentlenium.version>
         <audit4j.version>2.4.1</audit4j.version>
         <powermock.version>1.6.6</powermock.version>
         <unboundid.version>3.2.0</unboundid.version>
