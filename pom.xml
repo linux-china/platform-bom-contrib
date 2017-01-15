@@ -204,6 +204,7 @@
         <spring-hateoas.version>0.23.0.RELEASE</spring-hateoas.version>
         <spring-cloud.version>Camden.SR4</spring-cloud.version>
         <spring-cloud-task.version>1.1.2.RELEASE</spring-cloud-task.version>
+        <spring-cloud-stream.version>Brooklyn.SR2</spring-cloud-stream.version>
         <spring-ldap.version>2.2.1.RELEASE</spring-ldap.version>
         <spring-amqp.version>1.6.6.RELEASE</spring-amqp.version>
         <spring-kafka.version>1.1.2.RELEASE</spring-kafka.version>
@@ -798,6 +799,13 @@
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-task-dependencies</artifactId>
                 <version>${spring-cloud-task.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-stream-dependencies</artifactId>
+                <version>${spring-cloud-stream.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
