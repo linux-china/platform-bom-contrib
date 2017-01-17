@@ -18,7 +18,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
          <dependency>
              <groupId>org.mvnsearch</groupId>
              <artifactId>platform-bom-contrib</artifactId>
-             <version>Athens-SR1</version>
+             <version>Athens-SR2</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
