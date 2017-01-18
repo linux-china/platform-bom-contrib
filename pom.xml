@@ -193,7 +193,7 @@
         <unboundid.version>3.2.0</unboundid.version>
         <underscore.version>1.22</underscore.version>
         <verbalregex.version>1.4</verbalregex.version>
-        <aws-java-sdk.version>1.11.78</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.80</aws-java-sdk.version>
         <spring.version>4.3.5.RELEASE</spring.version>
         <spring-ws.version>2.4.0.RELEASE</spring-ws.version>
         <spring-session.version>1.3.0.RELEASE</spring-session.version>
