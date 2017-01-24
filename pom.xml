@@ -80,7 +80,7 @@
         <log4j2.version>2.7</log4j2.version>
         <solr.version>6.4.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <jetty.version>9.4.0.v20161208</jetty.version>
+        <jetty.version>9.4.1.v20170120</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <tomcat.version>8.5.8</tomcat.version>
         <undertow.version>1.4.4.Final</undertow.version>
@@ -133,7 +133,7 @@
         <jna.version>4.3.0</jna.version>
         <cglib.version>3.2.4</cglib.version>
         <lombok.version>1.16.12</lombok.version>
-        <immutables.version>2.4.1</immutables.version>
+        <immutables.version>2.4.2</immutables.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <tyrus.version>1.13</tyrus.version>
         <java-util.version>1.26.0</java-util.version>
