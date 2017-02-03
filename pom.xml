@@ -7,7 +7,7 @@
     <parent>
         <groupId>io.spring.platform</groupId>
         <artifactId>platform-bom</artifactId>
-        <version>Athens-SR2</version>
+        <version>Athens-SR3</version>
     </parent>
 
     <groupId>org.mvnsearch</groupId>
