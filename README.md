@@ -95,6 +95,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * verbalregex: https://github.com/VerbalExpressions/JavaVerbalExpressions
 * testcontainers:  https://github.com/testcontainers/testcontainers-java-examples/tree/master/spring-boot
 * Audit4j: http://audit4j.org/
+* toomuchcoding JSON Assert： https://github.com/marcingrzejszczak/jsonassert
 
 ### Developer Notice
 
