@@ -194,6 +194,7 @@
         <unboundid.version>3.2.0</unboundid.version>
         <underscore.version>1.23</underscore.version>
         <verbalregex.version>1.4</verbalregex.version>
+        <reflections.version>0.9.10</reflections.version>
         <aws-java-sdk.version>1.11.86</aws-java-sdk.version>
         <spring.version>4.3.6.RELEASE</spring.version>
         <spring-ws.version>2.4.0.RELEASE</spring-ws.version>
@@ -569,6 +570,11 @@
                 <groupId>ru.lanwen.verbalregex</groupId>
                 <artifactId>java-verbal-expressions</artifactId>
                 <version>${verbalregex.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.reflections</groupId>
+                <artifactId>reflections</artifactId>
+                <version>${reflections.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.mapdb</groupId>
