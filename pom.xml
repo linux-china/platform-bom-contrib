@@ -687,6 +687,11 @@
             </dependency>
             <dependency>
                 <groupId>com.toomuchcoding.jsonassert</groupId>
+                <artifactId>jsonassert-assertj</artifactId>
+                <version>${toomuchcoding-jsonassert.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.toomuchcoding.jsonassert</groupId>
                 <artifactId>jsonassert-assertj-java8</artifactId>
                 <version>${toomuchcoding-jsonassert.version}</version>
             </dependency>
