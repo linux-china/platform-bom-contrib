@@ -157,6 +157,7 @@
         <elasticsearch.version>5.2.0</elasticsearch.version>
         <bouncycastle.version>1.56</bouncycastle.version>
         <mapdb.version>3.0.3</mapdb.version>
+        <graphviz-java.version>0.1.0</graphviz-java.version>
         <grpc.version>1.1.1</grpc.version>
         <thymeleaf.version>3.0.3.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.1.2</thymeleaf-layout-dialect.version>
@@ -580,6 +581,11 @@
                 <groupId>org.mapdb</groupId>
                 <artifactId>mapdb</artifactId>
                 <version>${mapdb.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>guru.nidi</groupId>
+                <artifactId>graphviz-java</artifactId>
+                <version>${graphviz-java.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.vladmihalcea.flexy-pool</groupId>
