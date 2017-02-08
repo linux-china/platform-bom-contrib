@@ -97,6 +97,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Audit4j: http://audit4j.org/
 * toomuchcoding JSON Assert： https://github.com/marcingrzejszczak/jsonassert
 * reflections: https://github.com/ronmamo/reflections
+* graphviz-java: https://github.com/nidi3/graphviz-java
 
 ### Developer Notice
 
