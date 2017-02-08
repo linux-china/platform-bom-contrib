@@ -85,7 +85,7 @@
         <tomcat.version>8.5.8</tomcat.version>
         <undertow.version>1.4.4.Final</undertow.version>
         <hibernate.version>5.2.7.Final</hibernate.version>
-        <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
+        <hibernate-validator.version>5.4.0.Final</hibernate-validator.version>
         <cas-client.version>3.4.1</cas-client.version>
         <jooq.version>3.9.1</jooq.version>
         <functionaljava.version>4.6</functionaljava.version>
@@ -158,7 +158,7 @@
         <bouncycastle.version>1.56</bouncycastle.version>
         <mapdb.version>3.0.3</mapdb.version>
         <graphviz-java.version>0.1.0</graphviz-java.version>
-        <grpc.version>1.1.1</grpc.version>
+        <grpc.version>1.1.2</grpc.version>
         <thymeleaf.version>3.0.3.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.1.2</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
@@ -699,7 +699,7 @@
             </dependency>
             <dependency>
                 <groupId>com.toomuchcoding.jsonassert</groupId>
-                <artifactId>jsonassert-assertj</artifactId>
+                <artifactId>jsonassert</artifactId>
                 <version>${toomuchcoding-jsonassert.version}</version>
             </dependency>
             <dependency>
