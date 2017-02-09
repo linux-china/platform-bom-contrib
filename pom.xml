@@ -68,6 +68,7 @@
         <commons-crypto.version>1.0.0</commons-crypto.version>
         <commons-configuration2.version>2.1</commons-configuration2.version>
         <poi.version>3.16</poi.version>
+        <twelvemonkeys-imageio.version>3.3.2</twelvemonkeys-imageio.version>
         <boon.version>0.34</boon.version>
         <jline.version>3.0.0.M1</jline.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
@@ -801,6 +802,11 @@
                 <groupId>org.audit4j</groupId>
                 <artifactId>audit4j-db</artifactId>
                 <version>${audit4j.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.twelvemonkeys.imageio</groupId>
+                <artifactId>imageio-jpeg</artifactId>
+                <version>${twelvemonkeys-imageio.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.jodd</groupId>
