@@ -153,6 +153,7 @@
         <ff4j.version>1.6.2</ff4j.version>
         <emoji-java.version>3.2.0</emoji-java.version>
         <javaslang.version>2.0.5</javaslang.version>
+        <concurrentlinkedhashmap.version>1.4.2</concurrentlinkedhashmap.version>
         <moneta.version>1.1</moneta.version>
         <ehcache3.version>3.2.0</ehcache3.version>
         <ehcache.version>2.10.3</ehcache.version>
@@ -564,6 +565,11 @@
                 <groupId>io.javaslang</groupId>
                 <artifactId>javaslang-test</artifactId>
                 <version>${javaslang.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.googlecode.concurrentlinkedhashmap</groupId>
+                <artifactId>concurrentlinkedhashmap-lru</artifactId>
+                <version>${concurrentlinkedhashmap.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.github.javadev</groupId>
