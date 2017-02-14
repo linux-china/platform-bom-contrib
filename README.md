@@ -1,6 +1,6 @@
 platform-bom-contrib
 ====================
-Contrib for Spring IO Platform bom
+Contrib for [Spring IO Platform BOM](http://docs.spring.io/platform/docs/Brussels-BUILD-SNAPSHOT/reference/htmlsingle/)
 
 #### Why
 
