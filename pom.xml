@@ -144,7 +144,7 @@
         <mongodb.version>3.4.2</mongodb.version>
         <cassandra-driver.version>3.1.4</cassandra-driver.version>
         <activemq.version>5.14.3</activemq.version>
-        <artemis.version>1.5.2</artemis.version>
+        <artemis.version>1.5.3</artemis.version>
         <jeromq.version>0.3.6</jeromq.version>
         <axiom.version>1.2.20</axiom.version>
         <jasypt.version>1.9.2</jasypt.version>
@@ -171,7 +171,7 @@
         <unbescape.version>1.1.4.RELEASE</unbescape.version>
         <attoparser.version>2.0.3.RELEASE</attoparser.version>
         <jmustache.version>1.13</jmustache.version>
-        <flyway.version>4.1.0</flyway.version>
+        <flyway.version>4.1.1</flyway.version>
         <liquibase.version>3.5.3</liquibase.version>
         <derby.version>10.13.1.1</derby.version>
         <flexy-pool.version>1.2.7</flexy-pool.version>
