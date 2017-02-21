@@ -12,7 +12,7 @@
 
     <groupId>org.mvnsearch</groupId>
     <artifactId>platform-bom-contrib</artifactId>
-    <version>Cairo-BUILD-SNAPSHOT</version>
+    <version>Brussels-RELEASE</version>
     <packaging>pom</packaging>
     <name>Spring IO Platform Contrib bill of materials</name>
     <description>Spring IO Platform Contrib bill of materials</description>
@@ -36,7 +36,7 @@
     </developers>
 
     <properties>
-        <jackson.version>2.8.6</jackson.version>
+        <jackson.version>2.8.7</jackson.version>
         <appengine.version>1.9.49</appengine.version>
         <aspectj.version>1.8.10</aspectj.version>
         <joda-time.version>2.9.7</joda-time.version>
