@@ -10,7 +10,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <spring-boot.version>1.4.3.RELEASE</spring-boot.version>
+        <spring-boot.version>1.5.1.RELEASE</spring-boot.version>
     </properties>
     <dependencies>
         <dependency>
@@ -35,7 +35,7 @@
             <dependency>
                 <groupId>org.mvnsearch</groupId>
                 <artifactId>platform-bom-contrib</artifactId>
-                <version>Cairo-BUILD-SNAPSHOT</version>
+                <version>Brussels-RELEASE</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
