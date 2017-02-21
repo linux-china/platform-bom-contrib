@@ -41,7 +41,7 @@
         <aspectj.version>1.8.10</aspectj.version>
         <joda-time.version>2.9.7</joda-time.version>
         <json-patch.version>1.9</json-patch.version>
-        <mockito.version>2.7.6</mockito.version>
+        <mockito.version>2.7.10</mockito.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <gson.version>2.8.0</gson.version>
         <guava.version>21.0</guava.version>
@@ -86,7 +86,7 @@
         <jetty-el.version>8.5.5</jetty-el.version>
         <tomcat.version>8.5.8</tomcat.version>
         <undertow.version>1.4.4.Final</undertow.version>
-        <hibernate.version>5.2.7.Final</hibernate.version>
+        <hibernate.version>5.2.8.Final</hibernate.version>
         <hibernate-validator.version>5.4.0.Final</hibernate-validator.version>
         <cas-client.version>3.4.1</cas-client.version>
         <jooq.version>3.9.1</jooq.version>
@@ -95,7 +95,7 @@
         <jruby.version>9.1.7.0</jruby.version>
         <groovy.version>2.4.8</groovy.version>
         <json.version>20160810</json.version>
-        <selenium.version>3.0.1</selenium.version>
+        <selenium.version>3.1.0</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.4.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.8</toomuchcoding-jsonassert.version>
