@@ -196,7 +196,7 @@
         <fluentlenium.version>3.1.1</fluentlenium.version>
         <audit4j.version>2.4.1</audit4j.version>
         <powermock.version>1.6.6</powermock.version>
-        <unboundid.version>3.2.1</unboundid.version>
+        <unboundid-ldapsdk.version>3.2.1</unboundid-ldapsdk.version>
         <underscore.version>1.23</underscore.version>
         <verbalregex.version>1.4</verbalregex.version>
         <reflections.version>0.9.10</reflections.version>
