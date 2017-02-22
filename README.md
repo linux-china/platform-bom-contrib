@@ -43,10 +43,10 @@ If your application is Spring Boot based, just use following code in your pom.xm
 
 ### Base Dependencies
 
-* Spring:  4.3.6
+* Spring: 4.3.6
 * Spring Security: 4.2.0
 * Spring Boot: 1.5.1
-* Spring Cloud: Brixton.SR5
+* Spring Cloud: Camden.SR5
 * Spring Platform IO BOM: Brussels-RELEASE
      
 ### New dependencies
