@@ -4,8 +4,8 @@ Contrib for [Spring IO Platform BOM](http://docs.spring.io/platform/docs/Brussel
 
 #### Why
 
-Spring IO platform bom now focuses on Java 7 compatible, some dependencies are not included or upgraded becuase of Java 8 support only.
-Now Java 8 is adopt by most developers, and platform-bom-contrib helps Java 8 developers to last version.
+Spring IO platform BOM now focuses on Java 7 compatible, and some dependencies are not included or upgraded because of Java 8 support only.
+Now Java 8 is adopted by most developers, and platform-bom-contrib helps Java 8 developers to last version.
  
 ### How to use
 
@@ -18,7 +18,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
          <dependency>
              <groupId>org.mvnsearch</groupId>
              <artifactId>platform-bom-contrib</artifactId>
-             <version>Athens-SR2</version>
+             <version>Brussels-RELEASE</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
@@ -33,7 +33,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
          <dependency>
              <groupId>org.mvnsearch</groupId>
              <artifactId>platform-bom-contrib</artifactId>
-             <version>Cairo-BUILD-SNAPSHOT</version>
+             <version>Brussels-RELEASE</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
@@ -43,11 +43,11 @@ If your application is Spring Boot based, just use following code in your pom.xm
 
 ### Base Dependencies
 
-* Spring:  4.3.4
+* Spring:  4.3.6
 * Spring Security: 4.2.0
-* Spring Boot: 1.4.2
+* Spring Boot: 1.5.1
 * Spring Cloud: Brixton.SR5
-* Spring Platform IO BOM: Athens-SR1
+* Spring Platform IO BOM: Brussels-RELEASE
      
 ### New dependencies
 
@@ -100,6 +100,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * graphviz-java: https://github.com/nidi3/graphviz-java
 * TwelveMonkeys ImageIO: Additional plug-ins and extensions for Java's ImageIO: https://haraldk.github.io/TwelveMonkeys/
 * ConcurrentLinkedHashMap for Java: https://github.com/ben-manes/concurrentlinkedhashmap
+* fongo: faked out in-memory mongo for java https://github.com/fakemongo/fongo
 
 ### Developer Notice
 
@@ -115,5 +116,5 @@ $ git push --follow-tags
 
 ### Changes 
 
-* Athens-SR1
-* Spring Boot 1.4.2
+* Brussels-RELEASE
+* Spring Boot 1.5.1
