@@ -142,6 +142,7 @@
         <java-util.version>1.26.0</java-util.version>
         <mariadb.version>1.5.8</mariadb.version>
         <mongodb.version>3.4.2</mongodb.version>
+        <fongo.version>2.0.6</fongo.version>
         <cassandra-driver.version>3.1.4</cassandra-driver.version>
         <activemq.version>5.14.3</activemq.version>
         <artemis.version>1.5.3</artemis.version>
@@ -340,6 +341,11 @@
                 <groupId>org.unbescape</groupId>
                 <artifactId>unbescape</artifactId>
                 <version>${unbescape.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.fakemongo</groupId>
+                <artifactId>fongo</artifactId>
+                <version>${fongo.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.togglz</groupId>
