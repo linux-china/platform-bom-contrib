@@ -47,7 +47,7 @@
         <guava.version>21.0</guava.version>
         <guice.version>4.1.0</guice.version>
         <protobuf.version>3.2.0</protobuf.version>
-        <hazelcast.version>3.7.4</hazelcast.version>
+        <hazelcast.version>3.8</hazelcast.version>
         <json-smart.version>2.2.1</json-smart.version>
         <json-path.version>2.2.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -82,7 +82,7 @@
         <log4j2.version>2.8</log4j2.version>
         <solr.version>6.4.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <jetty.version>9.4.1.v20170120</jetty.version>
+        <jetty.version>9.4.2.v20170220</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <tomcat.version>8.5.8</tomcat.version>
         <undertow.version>1.4.4.Final</undertow.version>
@@ -142,7 +142,7 @@
         <java-util.version>1.26.0</java-util.version>
         <mariadb.version>1.5.8</mariadb.version>
         <mongodb.version>3.4.2</mongodb.version>
-        <fongo.version>2.0.6</fongo.version>
+        <fongo.version>2.0.12</fongo.version>
         <cassandra-driver.version>3.1.4</cassandra-driver.version>
         <activemq.version>5.14.3</activemq.version>
         <artemis.version>1.5.3</artemis.version>
@@ -150,7 +150,7 @@
         <axiom.version>1.2.20</axiom.version>
         <jasypt.version>1.9.2</jasypt.version>
         <javatuples.version>1.2</javatuples.version>
-        <togglz.version>2.3.0.Final</togglz.version>
+        <togglz.version>2.4.0.Final</togglz.version>
         <ff4j.version>1.6.2</ff4j.version>
         <emoji-java.version>3.2.0</emoji-java.version>
         <javaslang.version>2.0.5</javaslang.version>
