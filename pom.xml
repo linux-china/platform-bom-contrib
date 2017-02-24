@@ -49,6 +49,8 @@
         <guice.version>4.1.0</guice.version>
         <protobuf.version>3.2.0</protobuf.version>
         <hazelcast.version>3.8</hazelcast.version>
+        <hazelcast-hibernate4.version>3.8</hazelcast-hibernate4.version>
+        <hazelcast-hibernate5.version>1.2</hazelcast-hibernate5.version>
         <json-smart.version>2.2.1</json-smart.version>
         <json-path.version>2.2.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -76,7 +78,7 @@
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <jasperreports.version>6.4.0</jasperreports.version>
-        <htmlunit.version>2.24</htmlunit.version>
+        <htmlunit.version>2.25</htmlunit.version>
         <testng.version>6.10</testng.version>
         <kafka.version>0.10.2.0</kafka.version>
         <slf4j.version>1.7.23</slf4j.version>
@@ -96,7 +98,7 @@
         <jruby.version>9.1.7.0</jruby.version>
         <groovy.version>2.4.8</groovy.version>
         <json.version>20160810</json.version>
-        <selenium.version>3.1.0</selenium.version>
+        <selenium.version>3.2.0</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.4.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.8</toomuchcoding-jsonassert.version>
@@ -119,7 +121,7 @@
         <sendgrid.version>3.1.0</sendgrid.version>
         <jfairy.version>0.5.6</jfairy.version>
         <dbunit.version>2.5.3</dbunit.version>
-        <google-truth.version>0.31</google-truth.version>
+        <google-truth.version>0.32</google-truth.version>
         <awaitility.version>1.7.0</awaitility.version>
         <rest-assured.version>3.0.2</rest-assured.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
