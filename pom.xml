@@ -134,7 +134,6 @@
         <rometools.version>1.7.1</rometools.version>
         <spockframework.version>1.1-groovy-2.4-rc-3</spockframework.version>
         <jsoup.version>1.10.2</jsoup.version>
-        <kotlin.version>1.0.6</kotlin.version>
         <jodd.version>3.8.1</jodd.version>
         <bytebuddy.version>1.6.9</bytebuddy.version>
         <jna.version>4.3.0</jna.version>
@@ -207,6 +206,9 @@
         <reflections.version>0.9.10</reflections.version>
         <xmlprojector.version>1.4.10</xmlprojector.version>
         <aws-java-sdk.version>1.11.97</aws-java-sdk.version>
+        <!--kotlin-->
+        <kotlin.version>1.0.6</kotlin.version>
+        <!--springsource-->
         <spring.version>4.3.6.RELEASE</spring.version>
         <spring-ws.version>2.4.0.RELEASE</spring-ws.version>
         <spring-session.version>1.3.0.RELEASE</spring-session.version>
