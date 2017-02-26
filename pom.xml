@@ -82,7 +82,7 @@
         <reflections.version>0.9.10</reflections.version>
         <threetenbp.version>1.3.3</threetenbp.version>
         <!--testing-->
-        <mockito.version>2.7.11</mockito.version>
+        <mockito.version>2.7.12</mockito.version>
         <htmlunit.version>2.25</htmlunit.version>
         <testng.version>6.10</testng.version>
         <selenium.version>3.2.0</selenium.version>
@@ -110,7 +110,7 @@
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.1.2</grpc.version>
         <asynchttpclient.version>2.0.29</asynchttpclient.version>
-        <tyrus.version>1.13</tyrus.version> <!--Java API for WebSocket reference implementation`-->
+        <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.3.6</jeromq.version>
         <!--servers-->
         <jetty.version>9.4.2.v20170220</jetty.version>
@@ -178,6 +178,7 @@
         <hikaricp.version>2.6.0</hikaricp.version>
         <jasperreports.version>6.4.0</jasperreports.version>
         <unboundid-ldapsdk.version>3.2.1</unboundid-ldapsdk.version>
+        <postgresql.version>42.0.0.jre7</postgresql.version>
         <!--security-->
         <cas-client.version>3.4.1</cas-client.version>
         <jasypt.version>1.9.2</jasypt.version>
