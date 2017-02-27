@@ -202,7 +202,7 @@
         <solr.version>6.4.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>8.5.8</tomcat.version>
-        <groovy.version>2.4.8</groovy.version>
+        <groovy.version>2.4.9</groovy.version>
         <zookeeper.version>3.4.9</zookeeper.version>
         <curator.version>2.11.1</curator.version>
         <zkclient.version>0.10</zkclient.version>
