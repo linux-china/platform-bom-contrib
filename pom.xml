@@ -217,12 +217,12 @@
         <aws-java-sdk.version>1.11.98</aws-java-sdk.version>
         <sendgrid.version>3.1.0</sendgrid.version>
         <!--languages-->
-        <kotlin.version>1.0.6</kotlin.version>
+        <kotlin.version>1.1.0</kotlin.version>
         <jruby.version>9.1.7.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
-        <narayana.version>5.5.2.Final</narayana.version>
+        <narayana.version>5.5.3.Final</narayana.version>
         <atomikos.version>4.0.4</atomikos.version>
         <!--springsource-->
         <spring.version>4.3.7.RELEASE</spring.version>
