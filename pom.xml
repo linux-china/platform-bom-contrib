@@ -73,7 +73,7 @@
         <intellij.version>15.0</intellij.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <google-truth.version>0.32</google-truth.version>
-        <bytebuddy.version>1.6.9</bytebuddy.version>
+        <bytebuddy.version>1.6.10</bytebuddy.version>
         <aspectj.version>1.8.10</aspectj.version>
         <cglib.version>3.2.4</cglib.version>
         <lombok.version>1.16.14</lombok.version>
@@ -213,7 +213,7 @@
         <svnkit.version>1.8.14</svnkit.version>
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.49</appengine-sdk.version>
+        <appengine-sdk.version>1.9.50</appengine-sdk.version>
         <aws-java-sdk.version>1.11.98</aws-java-sdk.version>
         <sendgrid.version>3.1.0</sendgrid.version>
         <!--languages-->
@@ -229,7 +229,7 @@
         <spring-ws.version>2.4.0.RELEASE</spring-ws.version>
         <spring-session.version>1.3.0.RELEASE</spring-session.version>
         <spring-security.version>4.2.2.RELEASE</spring-security.version>
-        <spring-security-oauth.version>2.0.12.RELEASE</spring-security-oauth.version>
+        <spring-security-oauth.version>2.1.0.RELEASE</spring-security-oauth.version>
         <spring-data-releasetrain.version>Ingalls-SR1</spring-data-releasetrain.version>
         <spring-integration.version>4.3.8.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>4.3.4.RELEASE</spring-integration-java-dsl.version>
