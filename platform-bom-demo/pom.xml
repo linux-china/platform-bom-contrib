@@ -35,7 +35,7 @@
             <dependency>
                 <groupId>org.mvnsearch</groupId>
                 <artifactId>platform-bom-contrib</artifactId>
-                <version>Brussels-RELEASE</version>
+                <version>Brussels-SR1-SNAPSHOT</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
@@ -46,7 +46,7 @@
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.6.0</version>
+                <version>3.6.1</version>
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
