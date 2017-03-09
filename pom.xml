@@ -112,7 +112,6 @@
         <asynchttpclient.version>2.0.29</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.3.6</jeromq.version>
-        <openfeign.version>9.4.0</openfeign.version>
         <!--servers-->
         <jetty.version>9.4.2.v20170220</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
@@ -512,31 +511,6 @@
                 <groupId>io.netty</groupId>
                 <artifactId>netty-handler-proxy</artifactId>
                 <version>${netty.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-core</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-httpclient</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-hystrix</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-okhttp</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-slf4j</artifactId>
-                <version>${openfeign.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.mybatis</groupId>
