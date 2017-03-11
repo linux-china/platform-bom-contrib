@@ -45,7 +45,7 @@
         <twelvemonkeys-imageio.version>3.3.2</twelvemonkeys-imageio.version>
         <emoji-java.version>3.2.0</emoji-java.version>
         <!--system management & monitor-->
-        <dropwizard-metrics.version>3.2.0</dropwizard-metrics.version>
+        <dropwizard-metrics.version>3.2.1</dropwizard-metrics.version>
         <jolokia.version>1.3.5</jolokia.version>
         <logback.version>1.2.1</logback.version>
         <slf4j.version>1.7.24</slf4j.version>
@@ -82,10 +82,10 @@
         <reflections.version>0.9.11</reflections.version>
         <threetenbp.version>1.3.3</threetenbp.version>
         <!--testing-->
-        <mockito.version>2.7.15</mockito.version>
+        <mockito.version>2.7.16</mockito.version>
         <htmlunit.version>2.25</htmlunit.version>
         <testng.version>6.11</testng.version>
-        <selenium.version>3.3.0</selenium.version>
+        <selenium.version>3.3.1</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.4.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.8</toomuchcoding-jsonassert.version>
@@ -106,7 +106,7 @@
         <okio.version>1.11.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.8.Final</netty.version>
+        <netty.version>4.1.9.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.1.2</grpc.version>
         <asynchttpclient.version>2.0.29</asynchttpclient.version>
@@ -175,7 +175,7 @@
         <hazelcast-hibernate4.version>3.8</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2</hazelcast-hibernate5.version>
         <querydsl.version>4.1.4</querydsl.version>
-        <hikaricp.version>2.6.0</hikaricp.version>
+        <hikaricp.version>2.6.1</hikaricp.version>
         <jasperreports.version>6.4.0</jasperreports.version>
         <unboundid-ldapsdk.version>3.2.1</unboundid-ldapsdk.version>
         <postgresql.version>42.0.0.jre7</postgresql.version>
