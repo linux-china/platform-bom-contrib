@@ -62,6 +62,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * kotlin
 * jodd
 * commons-configuration2
+* commons-text
 * bytebuddy
 * cglib
 * java-util: https://github.com/jdereg/java-util/
