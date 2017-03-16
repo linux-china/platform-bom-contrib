@@ -41,7 +41,7 @@
         <!--web development & GUI-->
         <webjars-locator.version>0.32</webjars-locator.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.1.0</graphviz-java.version>
+        <graphviz-java.version>0.1.1</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.3.2</twelvemonkeys-imageio.version>
         <emoji-java.version>3.2.0</emoji-java.version>
         <!--system management & monitor-->
@@ -49,7 +49,7 @@
         <jolokia.version>1.3.5</jolokia.version>
         <logback.version>1.2.1</logback.version>
         <slf4j.version>1.7.24</slf4j.version>
-        <jna.version>4.3.0</jna.version>
+        <jna.version>4.4.0</jna.version>
         <!--productivity & tools-->
         <functionaljava.version>4.6</functionaljava.version>
         <fugue.version>4.4.0</fugue.version>
@@ -108,11 +108,12 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.9.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.1.2</grpc.version>
+        <grpc.version>1.2.0</grpc.version>
         <asynchttpclient.version>2.0.29</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.3.6</jeromq.version>
         <searchbox-jest.version>2.4.0</searchbox-jest.version>
+        <smack4.version>4.2.0</smack4.version>
         <!--servers-->
         <jetty.version>9.4.2.v20170220</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
@@ -216,7 +217,7 @@
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.50</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.104</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.105</aws-java-sdk.version>
         <sendgrid.version>3.1.0</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.1.1</kotlin.version>
