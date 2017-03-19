@@ -1,0 +1,5 @@
+jdk:
+  - oraclejdk8
+install:
+   - echo "Running to install platform-bom-contrib"
+   - mvn -pl . clean install
