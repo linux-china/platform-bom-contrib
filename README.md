@@ -16,7 +16,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 <dependencyManagement>
      <dependencies>
          <dependency>
-             <groupId>org.mvnsearch</groupId>
+             <groupId>com.github.linux-china</groupId>
              <artifactId>platform-bom-contrib</artifactId>
              <version>Brussels-RELEASE</version>
              <type>pom</type>
@@ -31,7 +31,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
  <dependencyManagement>
      <dependencies>
          <dependency>
-             <groupId>org.mvnsearch</groupId>
+             <groupId>com.github.linux-china</groupId>
              <artifactId>platform-bom-contrib</artifactId>
              <version>Brussels-RELEASE</version>
              <type>pom</type>

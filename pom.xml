@@ -10,7 +10,7 @@
         <version>Brussels-SR1</version>
     </parent>
 
-    <groupId>org.mvnsearch</groupId>
+    <groupId>com.github.linux-china</groupId>
     <artifactId>platform-bom-contrib</artifactId>
     <version>Brussels-SR1-SNAPSHOT</version>
     <packaging>pom</packaging>
