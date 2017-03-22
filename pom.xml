@@ -115,7 +115,7 @@
         <searchbox-jest.version>2.4.0</searchbox-jest.version>
         <smack4.version>4.2.0</smack4.version>
         <!--servers-->
-        <jetty.version>9.4.2.v20170220</jetty.version>
+        <jetty.version>9.4.3.v20170317</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.9.Final</undertow.version>
         <!--parsers & templates & serializer-->
