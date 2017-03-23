@@ -185,6 +185,7 @@
         <cas-client.version>3.4.1</cas-client.version>
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.56</bouncycastle.version>
+        <token-bucket.version>1.7</token-bucket.version>
         <!--apache-->
         <httpcore.version>4.4.6</httpcore.version>
         <httpclient.version>4.5.3</httpclient.version>
@@ -756,6 +757,11 @@
                 <groupId>com.google.truth</groupId>
                 <artifactId>truth</artifactId>
                 <version>${google-truth.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.isomorphism</groupId>
+                <artifactId>token-bucket</artifactId>
+                <version>${token-bucket.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.toomuchcoding.jsonassert</groupId>
