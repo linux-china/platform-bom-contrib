@@ -103,6 +103,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * TwelveMonkeys ImageIO: Additional plug-ins and extensions for Java's ImageIO: https://haraldk.github.io/TwelveMonkeys/
 * ConcurrentLinkedHashMap for Java: https://github.com/ben-manes/concurrentlinkedhashmap
 * fongo: faked out in-memory mongo for java https://github.com/fakemongo/fongo
+* token-bucket: Token bucket algorithm for rate-limiting https://github.com/bbeck/token-bucket
 
 ### Developer Notice
 
