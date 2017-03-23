@@ -248,6 +248,7 @@
         <spring-restdocs.version>1.1.2.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.0.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.7.RELEASE</spring-loaded.version>
+        <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     </properties>
 
     <dependencyManagement>
@@ -891,6 +892,21 @@
                 <groupId>com.netflix.netflix-commons</groupId>
                 <artifactId>netflix-commons-util</artifactId>
                 <version>${netflix-commons-util.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework</groupId>
+                <artifactId>spring-tuple</artifactId>
+                <version>${spring-tuple.version}</version>
+                <exclusions>
+                    <exclusion>
+                        <groupId>org.springframework</groupId>
+                        <artifactId>spring-core</artifactId>
+                    </exclusion>
+                    <exclusion>
+                        <groupId>org.springframework</groupId>
+                        <artifactId>spring-context</artifactId>
+                    </exclusion>
+                </exclusions>
             </dependency>
             <dependency>
                 <groupId>org.springframework.retry</groupId>
