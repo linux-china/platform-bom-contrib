@@ -68,6 +68,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * java-util: https://github.com/jdereg/java-util/
 * jasypt
 * javatuples
+* spring tuple: http://docs.spring.io/spring-xd/docs/1.3.x/reference/html/#tuples
 * emoji-java: https://github.com/vdurmont/emoji-java
 * togglz: feature toggle https://www.togglz.org/
 * ff4j: Feature Toggle http://ff4j.org/
