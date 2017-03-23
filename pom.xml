@@ -37,7 +37,7 @@
 
     <properties>
         <jline.version>3.0.0.M1</jline.version>
-        <janino.version>3.0.6</janino.version>
+        <janino.version>3.0.7</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.32</webjars-locator.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
@@ -53,7 +53,7 @@
         <!--productivity & tools-->
         <functionaljava.version>4.6</functionaljava.version>
         <fugue.version>4.4.0</fugue.version>
-        <joda-time.version>2.9.7</joda-time.version>
+        <joda-time.version>2.9.8</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>21.0</guava.version>
         <guice.version>4.1.0</guice.version>
@@ -76,8 +76,8 @@
         <bytebuddy.version>1.6.12</bytebuddy.version>
         <aspectj.version>1.8.10</aspectj.version>
         <cglib.version>3.2.5</cglib.version>
-        <lombok.version>1.16.14</lombok.version>
-        <immutables.version>2.4.4</immutables.version>
+        <lombok.version>1.16.16</lombok.version>
+        <immutables.version>2.4.6</immutables.version>
         <audit4j.version>2.4.1</audit4j.version>
         <reflections.version>0.9.11</reflections.version>
         <threetenbp.version>1.3.3</threetenbp.version>
@@ -111,7 +111,7 @@
         <grpc.version>1.2.0</grpc.version>
         <asynchttpclient.version>2.0.29</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
-        <jeromq.version>0.3.6</jeromq.version>
+        <jeromq.version>0.4.0</jeromq.version>
         <searchbox-jest.version>2.4.0</searchbox-jest.version>
         <smack4.version>4.2.0</smack4.version>
         <!--servers-->
@@ -218,7 +218,7 @@
         <!--cloud services-->
         <appengine-sdk.version>1.9.50</appengine-sdk.version>
         <aws-java-sdk.version>1.11.108</aws-java-sdk.version>
-        <sendgrid.version>3.1.0</sendgrid.version>
+        <sendgrid.version>3.2.0</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.1.1</kotlin.version>
         <jruby.version>9.1.8.0</jruby.version>
