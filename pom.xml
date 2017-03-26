@@ -114,6 +114,7 @@
         <jeromq.version>0.4.0</jeromq.version>
         <searchbox-jest.version>2.4.0</searchbox-jest.version>
         <smack4.version>4.2.0</smack4.version>
+        <unirest-java.version>1.4.9</unirest-java.version>
         <!--servers-->
         <jetty.version>9.4.3.v20170317</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
@@ -697,6 +698,11 @@
                 <groupId>org.asynchttpclient</groupId>
                 <artifactId>async-http-client</artifactId>
                 <version>${asynchttpclient.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.mashape.unirest</groupId>
+                <artifactId>unirest-java</artifactId>
+                <version>${unirest-java.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.grpc</groupId>
