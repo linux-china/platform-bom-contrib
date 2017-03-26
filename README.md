@@ -104,6 +104,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * ConcurrentLinkedHashMap for Java: https://github.com/ben-manes/concurrentlinkedhashmap
 * fongo: faked out in-memory mongo for java https://github.com/fakemongo/fongo
 * token-bucket: Token bucket algorithm for rate-limiting https://github.com/bbeck/token-bucket
+* unirest: Lightweight HTTP Request Client Libraries http://unirest.io/
 
 ### Developer Notice
 
