@@ -175,7 +175,7 @@
         <sqlite-jdbc.version>3.16.1</sqlite-jdbc.version>
         <neo4j-ogm.version>2.1.2</neo4j-ogm.version>
         <etcd4j.version>2.13.0</etcd4j.version>
-        <consul-api.version>1.2.1</consul-api.version>
+        <consul-api.version>1.2.2</consul-api.version>
         <elasticsearch.version>5.3.0</elasticsearch.version>
         <hazelcast.version>3.8</hazelcast.version>
         <hazelcast-hibernate4.version>3.8</hazelcast-hibernate4.version>
