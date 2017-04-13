@@ -105,7 +105,7 @@
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>3.6.0</okhttp3.version>
-        <okio.version>1.11.0</okio.version>
+        <okio.version>1.12.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.9.Final</netty.version>
@@ -161,7 +161,7 @@
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>1.5.9</mariadb.version>
         <mongodb.version>3.4.2</mongodb.version>
-        <fongo.version>2.0.12</fongo.version>
+        <fongo.version>2.0.13</fongo.version>
         <cassandra-driver.version>3.2.0</cassandra-driver.version>
         <ehcache3.version>3.3.1</ehcache3.version>
         <ehcache.version>2.10.3</ehcache.version>
@@ -245,7 +245,7 @@
         <spring-integration-kafka.version>2.1.0.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.5.2.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.23.0.RELEASE</spring-hateoas.version>
-        <spring-cloud.version>Camden.SR6</spring-cloud.version>
+        <spring-cloud.version>Dalston.RELEASE</spring-cloud.version>
         <spring-cloud-task.version>1.1.2.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Chelsea.RELEASE</spring-cloud-stream.version>
         <spring-ldap.version>2.3.1.RELEASE</spring-ldap.version>
