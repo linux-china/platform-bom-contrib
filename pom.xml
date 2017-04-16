@@ -41,7 +41,7 @@
         <!--web development & GUI-->
         <webjars-locator.version>0.32</webjars-locator.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.1.4</graphviz-java.version>
+        <graphviz-java.version>0.1.5</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.3.2</twelvemonkeys-imageio.version>
         <emoji-java.version>3.2.0</emoji-java.version>
         <webjars-locator.version>0.32-1</webjars-locator.version>
@@ -104,7 +104,7 @@
         <jfairy.version>0.5.7</jfairy.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>3.6.0</okhttp3.version>
+        <okhttp3.version>3.7.0</okhttp3.version>
         <okio.version>1.12.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -146,10 +146,10 @@
         <wss4j2.version>2.1.9</wss4j2.version>
         <objenesis.version>2.5.1</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
-        <rometools.version>1.7.1</rometools.version>
+        <rometools.version>1.7.2</rometools.version>
         <xmlprojector.version>1.4.10</xmlprojector.version>
         <!--persistence-->
-        <hibernate.version>5.2.9.Final</hibernate.version>
+        <hibernate.version>5.2.10.Final</hibernate.version>
         <hibernate-validator.version>5.4.0.Final</hibernate-validator.version>
         <jooq.version>3.9.1</jooq.version>
         <jedis.version>2.9.0</jedis.version>
@@ -171,7 +171,7 @@
         <derby.version>10.13.1.1</derby.version>
         <flexy-pool.version>1.2.7</flexy-pool.version>
         <h2.version>1.4.194</h2.version>
-        <hsqldb.version>2.3.4</hsqldb.version>
+        <hsqldb.version>2.4.0</hsqldb.version>
         <sqlite-jdbc.version>3.16.1</sqlite-jdbc.version>
         <neo4j-ogm.version>2.1.2</neo4j-ogm.version>
         <etcd4j.version>2.13.0</etcd4j.version>
@@ -224,7 +224,7 @@
         <!--cloud services-->
         <appengine-sdk.version>1.9.51</appengine-sdk.version>
         <aws-java-sdk.version>1.11.119</aws-java-sdk.version>
-        <sendgrid.version>3.2.0</sendgrid.version>
+        <sendgrid.version>3.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.1.1</kotlin.version>
         <jruby.version>9.1.8.0</jruby.version>
