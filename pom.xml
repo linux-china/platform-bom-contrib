@@ -75,7 +75,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.32</google-truth.version>
-        <bytebuddy.version>1.6.12</bytebuddy.version>
+        <bytebuddy.version>1.6.13</bytebuddy.version>
         <aspectj.version>1.8.10</aspectj.version>
         <cglib.version>3.2.5</cglib.version>
         <lombok.version>1.16.16</lombok.version>
@@ -216,7 +216,7 @@
         <zookeeper.version>3.4.10</zookeeper.version>
         <curator.version>2.12.0</curator.version>
         <zkclient.version>0.10</zkclient.version>
-        <activemq.version>5.14.4</activemq.version>
+        <activemq.version>5.14.5</activemq.version>
         <artemis.version>2.0.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.3</httpasyncclient.version>
