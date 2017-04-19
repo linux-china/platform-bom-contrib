@@ -95,7 +95,7 @@
         <spockframework.version>1.1-groovy-2.4-rc-4</spockframework.version>
         <easymock.version>3.4</easymock.version>
         <spring-test-dbunit.version>1.3.0</spring-test-dbunit.version>
-        <fluentlenium.version>3.1.1</fluentlenium.version>
+        <fluentlenium.version>3.2.0</fluentlenium.version>
         <powermock.version>1.6.6</powermock.version>
         <dbunit.version>2.5.3</dbunit.version>
         <rest-assured.version>3.0.2</rest-assured.version>
@@ -119,7 +119,7 @@
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>9.4.0</openfeign.version>
         <!--servers-->
-        <jetty.version>9.4.3.v20170317</jetty.version>
+        <jetty.version>9.4.4.v20170414</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.9.Final</undertow.version>
         <!--parsers & templates & serializer-->
@@ -240,7 +240,7 @@
         <spring-session.version>1.3.0.RELEASE</spring-session.version>
         <spring-security.version>4.2.2.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.1.0.RELEASE</spring-security-oauth.version>
-        <spring-data-releasetrain.version>Ingalls-SR1</spring-data-releasetrain.version>
+        <spring-data-releasetrain.version>Ingalls-SR2</spring-data-releasetrain.version>
         <spring-integration.version>4.3.9.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>4.3.4.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>2.1.0.RELEASE</spring-integration-kafka.version>
