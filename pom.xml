@@ -62,8 +62,8 @@
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.4.1.Final</togglz.version>
-        <ff4j.version>1.6.3</ff4j.version>
-        <underscore.version>1.24</underscore.version>
+        <ff4j.version>1.6.4</ff4j.version>
+        <underscore.version>1.25</underscore.version>
         <java-util.version>1.26.0</java-util.version>
         <verbalregex.version>1.4</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
@@ -120,7 +120,7 @@
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>9.4.0</openfeign.version>
         <!--servers-->
-        <jetty.version>9.4.4.v20170414</jetty.version>
+        <jetty.version>9.4.5.v20170502</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.9.Final</undertow.version>
         <!--parsers & templates & serializer-->
@@ -128,7 +128,7 @@
         <snakeyaml.version>1.18</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.0</gson.version>
-        <protobuf.version>3.2.0</protobuf.version>
+        <protobuf.version>3.3.0</protobuf.version>
         <json-smart.version>2.3</json-smart.version>
         <json-path.version>2.2.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -142,7 +142,7 @@
         <thymeleaf-extras-springsecurity4.version>3.0.2.RELEASE</thymeleaf-extras-springsecurity4.version>
         <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
         <unbescape.version>1.1.4.RELEASE</unbescape.version>
-        <attoparser.version>2.0.3.RELEASE</attoparser.version>
+        <attoparser.version>2.0.4.RELEASE</attoparser.version>
         <jmustache.version>1.13</jmustache.version>
         <wss4j2.version>2.1.9</wss4j2.version>
         <objenesis.version>2.5.1</objenesis.version>
