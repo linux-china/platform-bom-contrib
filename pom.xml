@@ -91,7 +91,7 @@
         <selenium.version>3.4.0</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
-        <toomuchcoding-jsonassert.version>0.4.8</toomuchcoding-jsonassert.version>
+        <toomuchcoding-jsonassert.version>0.4.9</toomuchcoding-jsonassert.version>
         <wiremock.version>2.6.0</wiremock.version>
         <spockframework.version>1.1-groovy-2.4</spockframework.version>
         <easymock.version>3.4</easymock.version>
@@ -99,8 +99,8 @@
         <fluentlenium.version>3.2.0</fluentlenium.version>
         <powermock.version>1.6.6</powermock.version>
         <dbunit.version>2.5.3</dbunit.version>
-        <rest-assured.version>3.0.2</rest-assured.version>
-        <assertj.version>3.6.2</assertj.version>
+        <rest-assured.version>3.0.3</rest-assured.version>
+        <assertj.version>3.7.0</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.7</jfairy.version>
         <!--network-->
@@ -118,7 +118,7 @@
         <searchbox-jest.version>2.4.0</searchbox-jest.version>
         <smack4.version>4.2.0</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
-        <openfeign.version>9.4.0</openfeign.version>
+        <openfeign.version>9.5.0</openfeign.version>
         <!--servers-->
         <jetty.version>9.4.5.v20170502</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
@@ -155,7 +155,7 @@
         <hibernate-validator.version>5.4.0.Final</hibernate-validator.version>
         <jooq.version>3.9.2</jooq.version>
         <jedis.version>2.9.0</jedis.version>
-        <lettuce.version>4.3.1.Final</lettuce.version>
+        <lettuce.version>4.3.2.Final</lettuce.version>
         <caffeine.version>2.4.0</caffeine.version>
         <jettison.version>1.3.8</jettison.version>
         <mybatis.version>3.4.4</mybatis.version>
@@ -178,7 +178,7 @@
         <neo4j-ogm.version>2.1.2</neo4j-ogm.version>
         <etcd4j.version>2.13.0</etcd4j.version>
         <consul-api.version>1.2.2</consul-api.version>
-        <elasticsearch.version>5.3.2</elasticsearch.version>
+        <elasticsearch.version>5.4.0</elasticsearch.version>
         <hazelcast.version>3.8.1</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.1</hazelcast-hibernate5.version>
@@ -187,7 +187,7 @@
         <hikaricp.version>2.6.1</hikaricp.version>
         <jasperreports.version>6.4.0</jasperreports.version>
         <unboundid-ldapsdk.version>3.2.1</unboundid-ldapsdk.version>
-        <postgresql.version>42.0.0.jre7</postgresql.version>
+        <postgresql.version>42.1.1.jre7</postgresql.version>
         <!--security-->
         <cas-client.version>3.4.1</cas-client.version>
         <jasypt.version>1.9.2</jasypt.version>
@@ -252,7 +252,7 @@
         <spring-cloud-stream.version>Chelsea.SR1</spring-cloud-stream.version>
         <spring-ldap.version>2.3.1.RELEASE</spring-ldap.version>
         <spring-amqp.version>1.7.2.RELEASE</spring-amqp.version>
-        <spring-kafka.version>1.2.0.RELEASE</spring-kafka.version>
+        <spring-kafka.version>1.2.1.RELEASE</spring-kafka.version>
         <spring-restdocs.version>1.2.0.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.0.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.7.RELEASE</spring-loaded.version>
@@ -336,6 +336,11 @@
             <dependency>
                 <groupId>io.github.openfeign</groupId>
                 <artifactId>feign-slf4j</artifactId>
+                <version>${openfeign.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.github.openfeign</groupId>
+                <artifactId>feign-java8</artifactId>
                 <version>${openfeign.version}</version>
             </dependency>
             <dependency>
