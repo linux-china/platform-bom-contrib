@@ -72,7 +72,8 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * emoji-java: https://github.com/vdurmont/emoji-java
 * togglz: feature toggle https://www.togglz.org/
 * ff4j: Feature Toggle http://ff4j.org/
-* javaslang: http://www.javaslang.io/
+* javaslang(deprecated by vavr): http://www.javaslang.io/
+* vavr: http://www.vavr.io/
 * asynchttpclient: https://github.com/AsyncHttpClient/async-http-client
 * mapdb: http://www.mapdb.org/ 
 * grpc:  http://www.grpc.io/  

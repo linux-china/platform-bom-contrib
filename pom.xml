@@ -67,6 +67,7 @@
         <java-util.version>1.26.0</java-util.version>
         <verbalregex.version>1.4</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
+        <vavr.version>0.9.0</vavr.version>
         <awaitility.version>1.7.0</awaitility.version>
         <concurrentlinkedhashmap.version>1.4.2</concurrentlinkedhashmap.version>
         <moneta.version>1.1</moneta.version>  <!-- java money -->
@@ -634,6 +635,31 @@
                 <groupId>org.jsoup</groupId>
                 <artifactId>jsoup</artifactId>
                 <version>${jsoup.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.vavr</groupId>
+                <artifactId>vavr</artifactId>
+                <version>${vavr.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.vavr</groupId>
+                <artifactId>vavr-gwt</artifactId>
+                <version>${vavr.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.vavr</groupId>
+                <artifactId>vavr-jackson</artifactId>
+                <version>${vavr.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.vavr</groupId>
+                <artifactId>vavr-match</artifactId>
+                <version>${vavr.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.vavr</groupId>
+                <artifactId>vavr-test</artifactId>
+                <version>${vavr.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.javaslang</groupId>
