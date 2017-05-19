@@ -180,7 +180,7 @@
         <etcd4j.version>2.13.0</etcd4j.version>
         <consul-api.version>1.2.2</consul-api.version>
         <elasticsearch.version>5.4.0</elasticsearch.version>
-        <hazelcast.version>3.8.1</hazelcast.version>
+        <hazelcast.version>3.8.2</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.1</hazelcast-hibernate5.version>
         <infinispan.version>9.0.0.Final</infinispan.version>
@@ -226,7 +226,7 @@
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.53</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.131</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.132</aws-java-sdk.version>
         <sendgrid.version>3.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.1.2-4</kotlin.version>
