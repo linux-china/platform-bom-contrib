@@ -58,7 +58,7 @@
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>21.0</guava.version>
         <guice.version>4.1.0</guice.version>
-        <jodd.version>3.8.5</jodd.version>
+        <jodd.version>3.8.6</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.4.1.Final</togglz.version>
@@ -101,7 +101,7 @@
         <powermock.version>1.6.6</powermock.version>
         <dbunit.version>2.5.3</dbunit.version>
         <rest-assured.version>3.0.3</rest-assured.version>
-        <assertj.version>3.7.0</assertj.version>
+        <assertj.version>3.8.0</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.7</jfairy.version>
         <!--network-->
@@ -149,7 +149,7 @@
         <objenesis.version>2.5.1</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
         <rometools.version>1.7.3</rometools.version>
-        <xmlprojector.version>1.4.10</xmlprojector.version>
+        <xmlprojector.version>1.4.11</xmlprojector.version>
         <freemarker.version>2.3.26-incubating</freemarker.version>
         <!--persistence-->
         <hibernate.version>5.2.10.Final</hibernate.version>
@@ -162,7 +162,7 @@
         <mybatis.version>3.4.4</mybatis.version>
         <mybatis-spring.version>1.3.1</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
-        <mariadb.version>1.5.9</mariadb.version>
+        <mariadb.version>2.0.1</mariadb.version>
         <mongodb.version>3.4.2</mongodb.version>
         <fongo.version>2.1.0</fongo.version>
         <cassandra-driver.version>3.2.0</cassandra-driver.version>
