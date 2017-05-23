@@ -41,7 +41,7 @@
         <!--web development & GUI-->
         <webjars-locator.version>0.32</webjars-locator.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.1.5</graphviz-java.version>
+        <graphviz-java.version>0.1.6</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.3.2</twelvemonkeys-imageio.version>
         <emoji-java.version>3.2.0</emoji-java.version>
         <webjars-locator.version>0.32-1</webjars-locator.version>
@@ -72,6 +72,7 @@
         <concurrentlinkedhashmap.version>1.4.2</concurrentlinkedhashmap.version>
         <moneta.version>1.1</moneta.version>  <!-- java money -->
         <quartz.version>2.3.0</quartz.version>
+        <snappy.version>1.1.4</snappy.version>
         <!--code & classes-->
         <intellij.version>15.0</intellij.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
@@ -157,7 +158,7 @@
         <jooq.version>3.9.2</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.3.2.Final</lettuce.version>
-        <caffeine.version>2.5.0</caffeine.version>
+        <caffeine.version>2.5.1</caffeine.version>
         <jettison.version>1.3.8</jettison.version>
         <mybatis.version>3.4.4</mybatis.version>
         <mybatis-spring.version>1.3.1</mybatis-spring.version>
@@ -227,7 +228,7 @@
         <!--cloud services-->
         <appengine-sdk.version>1.9.53</appengine-sdk.version>
         <aws-java-sdk.version>1.11.133</aws-java-sdk.version>
-        <sendgrid.version>4.0.0</sendgrid.version>
+        <sendgrid.version>4.0.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.1.2-4</kotlin.version>
         <jruby.version>9.1.9.0</jruby.version>
