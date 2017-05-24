@@ -77,7 +77,7 @@
         <intellij.version>15.0</intellij.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
-        <google-truth.version>0.32</google-truth.version>
+        <google-truth.version>0.33</google-truth.version>
         <bytebuddy.version>1.7.0</bytebuddy.version>
         <aspectj.version>1.8.10</aspectj.version>
         <cglib.version>3.2.5</cglib.version>
@@ -184,9 +184,9 @@
         <hazelcast.version>3.8.2</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.1</hazelcast-hibernate5.version>
-        <infinispan.version>9.0.0.Final</infinispan.version>
+        <infinispan.version>9.0.1.Final</infinispan.version>
         <querydsl.version>4.1.4</querydsl.version>
-        <hikaricp.version>2.6.1</hikaricp.version>
+        <hikaricp.version>2.6.2</hikaricp.version>
         <jasperreports.version>6.4.0</jasperreports.version>
         <unboundid-ldapsdk.version>3.2.1</unboundid-ldapsdk.version>
         <postgresql.version>42.1.1.jre7</postgresql.version>
@@ -208,7 +208,7 @@
         <commons-csv.version>1.4</commons-csv.version>
         <commons-crypto.version>1.0.0</commons-crypto.version>
         <commons-configuration2.version>2.1.1</commons-configuration2.version>
-        <commons-text.version>1.0</commons-text.version>
+        <commons-text.version>1.1</commons-text.version>
         <poi.version>3.16</poi.version>
         <kafka.version>0.10.2.1</kafka.version>
         <log4j2.version>2.8.2</log4j2.version>
