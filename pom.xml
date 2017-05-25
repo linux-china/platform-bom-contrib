@@ -173,7 +173,7 @@
         <flyway.version>4.2.0</flyway.version>
         <liquibase.version>3.5.3</liquibase.version>
         <derby.version>10.13.1.1</derby.version>
-        <flexy-pool.version>1.2.7</flexy-pool.version>
+        <flexy-pool.version>1.2.8</flexy-pool.version>
         <h2.version>1.4.195</h2.version>
         <hsqldb.version>2.4.0</hsqldb.version>
         <sqlite-jdbc.version>3.18.0</sqlite-jdbc.version>
@@ -235,7 +235,7 @@
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
-        <narayana.version>5.5.24.Final</narayana.version>
+        <narayana.version>5.6.0.Final</narayana.version>
         <atomikos.version>4.0.4</atomikos.version>
         <!--springsource-->
         <spring.version>4.3.8.RELEASE</spring.version>
