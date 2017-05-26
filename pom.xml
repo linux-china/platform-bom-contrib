@@ -124,7 +124,7 @@
         <!--servers-->
         <jetty.version>9.4.5.v20170502</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
-        <undertow.version>1.4.9.Final</undertow.version>
+        <undertow.version>1.4.15.Final</undertow.version>
         <!--parsers & templates & serializer-->
         <jackson.version>2.9.0.pr3</jackson.version>
         <snakeyaml.version>1.18</snakeyaml.version>
