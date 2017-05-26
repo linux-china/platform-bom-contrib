@@ -117,7 +117,7 @@
         <asynchttpclient.version>2.0.29</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.0</jeromq.version>
-        <searchbox-jest.version>2.4.0</searchbox-jest.version>
+        <searchbox-jest.version>5.3.2</searchbox-jest.version>
         <smack4.version>4.2.0</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>9.5.0</openfeign.version>
@@ -231,7 +231,7 @@
         <sendgrid.version>4.0.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.1.2-4</kotlin.version>
-        <jruby.version>9.1.9.0</jruby.version>
+        <jruby.version>9.1.10.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
