@@ -82,13 +82,13 @@
         <aspectj.version>1.8.10</aspectj.version>
         <cglib.version>3.2.5</cglib.version>
         <lombok.version>1.16.16</lombok.version>
-        <immutables.version>2.5.2</immutables.version>
+        <immutables.version>2.5.3</immutables.version>
         <audit4j.version>2.4.1</audit4j.version>
         <reflections.version>0.9.11</reflections.version>
         <threetenbp.version>1.3.4</threetenbp.version>
         <!--testing-->
         <mockito.version>2.8.9</mockito.version>
-        <htmlunit.version>2.26</htmlunit.version>
+        <htmlunit.version>2.27</htmlunit.version>
         <testng.version>6.11</testng.version>
         <selenium.version>3.4.0</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
