@@ -261,6 +261,7 @@
         <spring-loaded.version>1.2.7.RELEASE</spring-loaded.version>
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-web-flow.version>2.4.5.RELEASE</spring-web-flow.version>
+        <spring-metrics.version>0.4.0.RELEASE</spring-metrics.version>
     </properties>
 
     <dependencyManagement>
@@ -999,6 +1000,11 @@
                         <artifactId>spring-context</artifactId>
                     </exclusion>
                 </exclusions>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.metrics</groupId>
+                <artifactId>spring-metrics</artifactId>
+                <version>${spring-metrics.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework</groupId>
