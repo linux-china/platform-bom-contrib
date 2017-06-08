@@ -113,7 +113,7 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.11.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.3.0</grpc.version>
+        <grpc.version>1.4.0</grpc.version>
         <asynchttpclient.version>2.0.32</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.0</jeromq.version>
@@ -238,13 +238,13 @@
         <narayana.version>5.6.0.Final</narayana.version>
         <atomikos.version>4.0.4</atomikos.version>
         <!--springsource-->
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <spring.version>4.3.9.RELEASE</spring.version>
         <spring-ws.version>2.4.0.RELEASE</spring-ws.version>
         <spring-session.version>1.3.1.RELEASE</spring-session.version>
         <spring-security.version>4.2.2.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.1.1.RELEASE</spring-security-oauth.version>
         <spring-data-releasetrain.version>Ingalls-SR2</spring-data-releasetrain.version>
-        <spring-integration.version>4.3.9.RELEASE</spring-integration.version>
+        <spring-integration.version>4.3.10.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>4.3.4.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>2.1.0.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.5.3.RELEASE</spring-boot.version>
@@ -253,8 +253,8 @@
         <spring-cloud-task.version>1.2.0.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Chelsea.SR2</spring-cloud-stream.version>
         <spring-ldap.version>2.3.1.RELEASE</spring-ldap.version>
-        <spring-amqp.version>1.7.2.RELEASE</spring-amqp.version>
-        <spring-kafka.version>1.2.1.RELEASE</spring-kafka.version>
+        <spring-amqp.version>1.7.3.RELEASE</spring-amqp.version>
+        <spring-kafka.version>1.2.2.RELEASE</spring-kafka.version>
         <spring-restdocs.version>1.2.1.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.0.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.7.RELEASE</spring-loaded.version>
