@@ -191,6 +191,7 @@
         <jasperreports.version>6.4.0</jasperreports.version>
         <unboundid-ldapsdk.version>3.2.1</unboundid-ldapsdk.version>
         <postgresql.version>42.1.1.jre7</postgresql.version>
+        <jaybird.version>3.0.1</jaybird.version>
         <!--security-->
         <cas-client.version>3.4.1</cas-client.version>
         <jasypt.version>1.9.2</jasypt.version>
@@ -236,7 +237,7 @@
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
-        <narayana.version>5.6.0.Final</narayana.version>
+        <narayana.version>5.6.1.Final</narayana.version>
         <atomikos.version>4.0.4</atomikos.version>
         <!--springsource-->
         <spring.version>4.3.9.RELEASE</spring.version>
