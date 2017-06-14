@@ -187,7 +187,7 @@
         <hazelcast-hibernate5.version>1.2.1</hazelcast-hibernate5.version>
         <infinispan.version>9.0.1.Final</infinispan.version>
         <querydsl.version>4.1.4</querydsl.version>
-        <hikaricp.version>2.6.2</hikaricp.version>
+        <hikaricp.version>2.6.3</hikaricp.version>
         <jasperreports.version>6.4.0</jasperreports.version>
         <unboundid-ldapsdk.version>3.2.1</unboundid-ldapsdk.version>
         <postgresql.version>42.1.1.jre7</postgresql.version>
@@ -204,7 +204,7 @@
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-net.version>3.6</commons-net.version>
         <commons-io.version>2.5</commons-io.version>
-        <commons-fileupload.version>1.3.2</commons-fileupload.version>
+        <commons-fileupload.version>1.3.3</commons-fileupload.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
         <commons-lang3.version>3.6</commons-lang3.version>
         <commons-csv.version>1.4</commons-csv.version>
