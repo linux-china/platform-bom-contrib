@@ -7,7 +7,7 @@
     <parent>
         <groupId>io.spring.platform</groupId>
         <artifactId>platform-bom</artifactId>
-        <version>Brussels-SR2</version>
+        <version>Brussels-SR3</version>
     </parent>
 
     <groupId>com.github.linux-china</groupId>
@@ -78,7 +78,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.33</google-truth.version>
-        <bytebuddy.version>1.7.0</bytebuddy.version>
+        <bytebuddy.version>1.7.1</bytebuddy.version>
         <aspectj.version>1.8.10</aspectj.version>
         <cglib.version>3.2.5</cglib.version>
         <lombok.version>1.16.16</lombok.version>
@@ -87,7 +87,7 @@
         <reflections.version>0.9.11</reflections.version>
         <threetenbp.version>1.3.5</threetenbp.version>
         <!--testing-->
-        <mockito.version>2.8.9</mockito.version>
+        <mockito.version>2.8.47</mockito.version>
         <htmlunit.version>2.27</htmlunit.version>
         <testng.version>6.11</testng.version>
         <selenium.version>3.4.0</selenium.version>
@@ -189,7 +189,7 @@
         <querydsl.version>4.1.4</querydsl.version>
         <hikaricp.version>2.6.3</hikaricp.version>
         <jasperreports.version>6.4.0</jasperreports.version>
-        <unboundid-ldapsdk.version>3.2.1</unboundid-ldapsdk.version>
+        <unboundid-ldapsdk.version>4.0.0</unboundid-ldapsdk.version>
         <postgresql.version>42.1.1.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <!--security-->
@@ -228,12 +228,12 @@
         <svnkit.version>1.8.14</svnkit.version>
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.53</appengine-sdk.version>
+        <appengine-sdk.version>1.9.54</appengine-sdk.version>
         <aws-java-sdk.version>1.11.149</aws-java-sdk.version>
         <sendgrid.version>4.0.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.1.2-5</kotlin.version>
-        <jruby.version>9.1.11.0</jruby.version>
+        <jruby.version>9.1.12.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
