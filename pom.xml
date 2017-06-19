@@ -108,7 +108,7 @@
         <archunit.version>0.4.0</archunit.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>3.8.0</okhttp3.version>
+        <okhttp3.version>3.8.1</okhttp3.version>
         <okio.version>1.13.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -151,7 +151,7 @@
         <objenesis.version>2.5.1</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
         <rometools.version>1.7.3</rometools.version>
-        <xmlprojector.version>1.4.11</xmlprojector.version>
+        <xmlprojector.version>1.4.12</xmlprojector.version>
         <freemarker.version>2.3.26-incubating</freemarker.version>
         <!--persistence-->
         <hibernate.version>5.2.10.Final</hibernate.version>
@@ -262,7 +262,7 @@
         <spring-loaded.version>1.2.7.RELEASE</spring-loaded.version>
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-web-flow.version>2.4.5.RELEASE</spring-web-flow.version>
-        <spring-metrics.version>0.5.0.RELEASE</spring-metrics.version>
+        <spring-metrics.version>0.5.1.RELEASE</spring-metrics.version>
     </properties>
 
     <dependencyManagement>
