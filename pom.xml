@@ -237,7 +237,7 @@
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
-        <narayana.version>5.6.1.Final</narayana.version>
+        <narayana.version>5.6.2.Final</narayana.version>
         <atomikos.version>4.0.4</atomikos.version>
         <!--springsource-->
         <spring.version>4.3.9.RELEASE</spring.version>
