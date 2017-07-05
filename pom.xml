@@ -166,6 +166,7 @@
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.0.3</mariadb.version>
         <mongodb.version>3.4.2</mongodb.version>
+        <embedded-mongo.version>2.0.0</embedded-mongo.version>
         <fongo.version>2.1.0</fongo.version>
         <cassandra-driver.version>3.3.0</cassandra-driver.version>
         <ehcache3.version>3.3.1</ehcache3.version>
