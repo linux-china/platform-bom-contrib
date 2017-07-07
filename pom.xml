@@ -246,6 +246,7 @@
         <spring-session.version>1.3.1.RELEASE</spring-session.version>
         <spring-security.version>4.2.3.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.1.1.RELEASE</spring-security-oauth.version>
+        <spring-data-hadoop.version>2.5.0.RELEASE</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Ingalls-SR4</spring-data-releasetrain.version>
         <spring-integration.version>4.3.10.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.2.RELEASE</spring-integration-java-dsl.version>
@@ -1021,6 +1022,11 @@
                 <version>${spring-security.version}</version>
                 <scope>import</scope>
                 <type>pom</type>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.data</groupId>
+                <artifactId>spring-data-hadoop</artifactId>
+                <version>${spring-data-hadoop.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.data</groupId>
