@@ -150,7 +150,7 @@
         <wss4j2.version>2.1.10</wss4j2.version>
         <objenesis.version>2.6</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
-        <rometools.version>1.7.3</rometools.version>
+        <rometools.version>1.7.4</rometools.version>
         <xmlprojector.version>1.4.12</xmlprojector.version>
         <freemarker.version>2.3.26-incubating</freemarker.version>
         <!--persistence-->
