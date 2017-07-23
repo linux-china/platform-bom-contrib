@@ -107,6 +107,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * token-bucket: Token bucket algorithm for rate-limiting https://github.com/bbeck/token-bucket
 * unirest: Lightweight HTTP Request Client Libraries http://unirest.io/
 * archunit: architecture test https://github.com/TNG/ArchUnit
+* javapoet: A Java API for generating .java source files.
 
 ### Developer Notice
 
