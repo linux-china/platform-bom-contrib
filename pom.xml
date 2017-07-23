@@ -79,6 +79,7 @@
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.34</google-truth.version>
         <bytebuddy.version>1.7.1</bytebuddy.version>
+        <javapoet.version>1.9.0</javapoet.version>
         <aspectj.version>1.8.10</aspectj.version>
         <cglib.version>3.2.5</cglib.version>
         <lombok.version>1.16.18</lombok.version>
@@ -764,6 +765,11 @@
                 <groupId>net.bytebuddy</groupId>
                 <artifactId>byte-buddy</artifactId>
                 <version>${bytebuddy.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.squareup</groupId>
+                <artifactId>javapoet</artifactId>
+                <version>${javapoet.version}</version>
             </dependency>
             <dependency>
                 <groupId>cglib</groupId>
