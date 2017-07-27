@@ -255,7 +255,7 @@
         <spring-integration.version>4.3.11.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.2.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>2.1.1.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>1.5.4.RELEASE</spring-boot.version>
+        <spring-boot.version>1.5.5.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.23.0.RELEASE</spring-hateoas.version>
         <spring-cloud.version>Dalston.SR2</spring-cloud.version>
         <spring-cloud-task.version>1.2.1.RELEASE</spring-cloud-task.version>
