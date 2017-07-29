@@ -159,7 +159,7 @@
         <!--persistence-->
         <hibernate.version>5.2.10.Final</hibernate.version>
         <hibernate-validator.version>5.4.0.Final</hibernate-validator.version>
-        <jooq.version>3.9.4</jooq.version>
+        <jooq.version>3.9.5</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.3.2.Final</lettuce.version>
         <caffeine.version>2.5.3</caffeine.version>
