@@ -223,7 +223,7 @@
         <tomcat.version>8.5.16</tomcat.version>
         <groovy.version>2.5.0-beta-1</groovy.version>
         <zookeeper.version>3.4.10</zookeeper.version>
-        <curator.version>2.12.0</curator.version>
+        <curator.version>4.0.0</curator.version>
         <zkclient.version>0.10</zkclient.version>
         <activemq.version>5.15.0</activemq.version>
         <artemis.version>2.1.0</artemis.version>
