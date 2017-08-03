@@ -64,7 +64,7 @@
         <togglz.version>2.4.1.Final</togglz.version>
         <ff4j.version>1.6.5</ff4j.version>
         <underscore.version>1.27</underscore.version>
-        <java-util.version>1.26.0</java-util.version>
+        <java-util.version>1.26.1</java-util.version>
         <verbalregex.version>1.4</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
         <vavr.version>0.9.0</vavr.version>
@@ -123,7 +123,7 @@
         <searchbox-jest.version>5.3.2</searchbox-jest.version>
         <smack4.version>4.2.0</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
-        <openfeign.version>9.5.0</openfeign.version>
+        <openfeign.version>9.5.1</openfeign.version>
         <javax-mail.version>1.6.0</javax-mail.version>
         <!--servers-->
         <jetty.version>9.4.6.v20170531</jetty.version>
