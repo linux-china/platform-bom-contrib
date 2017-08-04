@@ -7,12 +7,12 @@
     <parent>
         <groupId>io.spring.platform</groupId>
         <artifactId>platform-bom</artifactId>
-        <version>Brussels-SR3</version>
+        <version>Brussels-SR4</version>
     </parent>
 
     <groupId>com.github.linux-china</groupId>
     <artifactId>platform-bom-contrib</artifactId>
-    <version>Brussels-SR4-SNAPSHOT</version>
+    <version>Brussels-SR4</version>
     <packaging>pom</packaging>
     <name>Spring IO Platform Contrib bill of materials</name>
     <description>Spring IO Platform Contrib bill of materials</description>
