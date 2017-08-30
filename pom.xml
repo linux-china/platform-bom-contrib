@@ -116,7 +116,7 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.15.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.5.0</grpc.version>
+        <grpc.version>1.6.0</grpc.version>
         <asynchttpclient.version>2.0.33</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.2</jeromq.version>
