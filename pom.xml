@@ -78,7 +78,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.35</google-truth.version>
-        <bytebuddy.version>1.7.3</bytebuddy.version>
+        <bytebuddy.version>1.7.4</bytebuddy.version>
         <javapoet.version>1.9.0</javapoet.version>
         <aspectj.version>1.8.10</aspectj.version>
         <cglib.version>3.2.5</cglib.version>
@@ -91,7 +91,7 @@
         <mockito.version>2.9.0</mockito.version>
         <htmlunit.version>2.27</htmlunit.version>
         <testng.version>6.11</testng.version>
-        <selenium.version>3.5.2</selenium.version>
+        <selenium.version>3.5.3</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.9</toomuchcoding-jsonassert.version>
@@ -116,8 +116,8 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.15.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.6.0</grpc.version>
-        <asynchttpclient.version>2.0.33</asynchttpclient.version>
+        <grpc.version>1.6.1</grpc.version>
+        <asynchttpclient.version>2.0.35</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.2</jeromq.version>
         <searchbox-jest.version>5.3.2</searchbox-jest.version>
@@ -217,7 +217,7 @@
         <commons-text.version>1.1</commons-text.version>
         <poi.version>3.16</poi.version>
         <kafka.version>0.11.0.0</kafka.version>
-        <log4j2.version>2.8.2</log4j2.version>
+        <log4j2.version>2.9.0</log4j2.version>
         <solr.version>6.6.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>8.5.20</tomcat.version>
@@ -233,10 +233,10 @@
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.54</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.185</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.186</aws-java-sdk.version>
         <sendgrid.version>4.1.0</sendgrid.version>
         <!--languages-->
-        <kotlin.version>1.1.4-2</kotlin.version>
+        <kotlin.version>1.1.4-3</kotlin.version>
         <jruby.version>9.1.12.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
