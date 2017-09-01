@@ -64,7 +64,7 @@
         <togglz.version>2.4.1.Final</togglz.version>
         <ff4j.version>1.6.5</ff4j.version>
         <underscore.version>1.27</underscore.version>
-        <java-util.version>1.27.0</java-util.version>
+        <java-util.version>1.29.0</java-util.version>
         <verbalregex.version>1.4</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
         <vavr.version>0.9.0</vavr.version>
@@ -78,7 +78,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.35</google-truth.version>
-        <bytebuddy.version>1.7.4</bytebuddy.version>
+        <bytebuddy.version>1.7.5</bytebuddy.version>
         <javapoet.version>1.9.0</javapoet.version>
         <aspectj.version>1.8.10</aspectj.version>
         <cglib.version>3.2.5</cglib.version>
@@ -266,7 +266,7 @@
         <spring-kafka.version>1.2.2.RELEASE</spring-kafka.version>
         <spring-restdocs.version>1.2.1.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.1.RELEASE</spring-retry.version>
-        <spring-loaded.version>1.2.7.RELEASE</spring-loaded.version>
+        <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-web-flow.version>2.4.5.RELEASE</spring-web-flow.version>
         <spring-metrics.version>0.5.1.RELEASE</spring-metrics.version>
