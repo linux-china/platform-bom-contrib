@@ -108,6 +108,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * unirest: Lightweight HTTP Request Client Libraries http://unirest.io/
 * archunit: architecture test https://github.com/TNG/ArchUnit
 * javapoet: A Java API for generating .java source files.
+* Komputation:  a neural network framework for the JVM written in Kotlin and CUDA C.: https://github.com/sekwiatkowski/komputation
 
 ### Developer Notice
 
