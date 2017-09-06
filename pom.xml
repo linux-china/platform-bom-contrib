@@ -110,7 +110,7 @@
         <archunit.version>0.4.0</archunit.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>3.8.1</okhttp3.version>
+        <okhttp3.version>3.9.0</okhttp3.version>
         <okio.version>1.13.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -193,7 +193,7 @@
         <querydsl.version>4.1.4</querydsl.version>
         <hikaricp.version>2.7.0</hikaricp.version>
         <jasperreports.version>6.4.1</jasperreports.version>
-        <unboundid-ldapsdk.version>4.0.0</unboundid-ldapsdk.version>
+        <unboundid-ldapsdk.version>4.0.1</unboundid-ldapsdk.version>
         <postgresql.version>42.1.4.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <!--security-->
