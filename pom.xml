@@ -218,10 +218,10 @@
         <poi.version>3.16</poi.version>
         <kafka.version>0.11.0.0</kafka.version>
         <log4j2.version>2.9.0</log4j2.version>
-        <solr.version>6.6.0</solr.version>
+        <solr.version>6.6.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>8.5.20</tomcat.version>
-        <groovy.version>2.5.0-beta-1</groovy.version>
+        <groovy.version>2.6.0-alpha-1</groovy.version>
         <zookeeper.version>3.4.10</zookeeper.version>
         <curator.version>4.0.0</curator.version>
         <zkclient.version>0.10</zkclient.version>
@@ -232,12 +232,12 @@
         <svnkit.version>1.9.0</svnkit.version>
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.54</appengine-sdk.version>
+        <appengine-sdk.version>1.9.55</appengine-sdk.version>
         <aws-java-sdk.version>1.11.190</aws-java-sdk.version>
         <sendgrid.version>4.1.0</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.1.4-3</kotlin.version>
-        <jruby.version>9.1.12.0</jruby.version>
+        <jruby.version>9.1.13.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
