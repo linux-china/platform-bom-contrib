@@ -151,7 +151,7 @@
         <unbescape.version>1.1.5.RELEASE</unbescape.version>
         <attoparser.version>2.0.4.RELEASE</attoparser.version>
         <jmustache.version>1.13</jmustache.version>
-        <wss4j2.version>2.1.10</wss4j2.version>
+        <wss4j2.version>2.2.0</wss4j2.version>
         <objenesis.version>2.6</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
         <rometools.version>1.7.4</rometools.version>
@@ -233,7 +233,7 @@
         <svnkit.version>1.9.0</svnkit.version>
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.55</appengine-sdk.version>
+        <appengine-sdk.version>1.9.56</appengine-sdk.version>
         <aws-java-sdk.version>1.11.193</aws-java-sdk.version>
         <sendgrid.version>4.1.0</sendgrid.version>
         <!--languages-->
