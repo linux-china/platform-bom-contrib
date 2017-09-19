@@ -126,7 +126,7 @@
         <openfeign.version>9.5.1</openfeign.version>
         <javax-mail.version>1.6.0</javax-mail.version>
         <!--servers-->
-        <jetty.version>9.4.6.v20170531</jetty.version>
+        <jetty.version>9.4.7.v20170914</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.20.Final</undertow.version>
         <!--parsers & templates & serializer-->
@@ -270,7 +270,7 @@
         <spring-retry.version>1.2.1.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
-        <spring-web-flow.version>2.4.5.RELEASE</spring-web-flow.version>
+        <spring-web-flow.version>2.4.6.RELEASE</spring-web-flow.version>
     </properties>
 
     <dependencyManagement>
