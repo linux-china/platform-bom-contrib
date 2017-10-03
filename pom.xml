@@ -88,6 +88,7 @@
         <reflections.version>0.9.11</reflections.version>
         <threetenbp.version>1.3.6</threetenbp.version>
         <!--testing-->
+        <junit5.version>5.0.1</junit5.version>
         <mockito.version>2.10.0</mockito.version>
         <htmlunit.version>2.27</htmlunit.version>
         <testng.version>6.11</testng.version>
@@ -264,7 +265,7 @@
         <spring-integration-kafka.version>2.3.0.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.5.7.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.23.0.RELEASE</spring-hateoas.version>
-        <spring-cloud.version>Dalston.SR3</spring-cloud.version>
+        <spring-cloud.version>Dalston.SR4</spring-cloud.version>
         <spring-cloud-task.version>1.2.2.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Ditmars.RELEASE</spring-cloud-stream.version>
         <spring-ldap.version>2.3.1.RELEASE</spring-ldap.version>
@@ -880,6 +881,16 @@
                 <groupId>org.isomorphism</groupId>
                 <artifactId>token-bucket</artifactId>
                 <version>${token-bucket.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.junit.jupiter</groupId>
+                <artifactId>junit-jupiter-api</artifactId>
+                <version>${junit5.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.junit.jupiter</groupId>
+                <artifactId>junit-jupiter-params</artifactId>
+                <version>${junit5.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.toomuchcoding.jsonassert</groupId>
