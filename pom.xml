@@ -240,7 +240,7 @@
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.57</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.210</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.211</aws-java-sdk.version>
         <sendgrid.version>4.1.0</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.1.51</kotlin.version>
