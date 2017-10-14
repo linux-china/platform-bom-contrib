@@ -132,7 +132,7 @@
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.20.Final</undertow.version>
         <!--parsers & templates & serializer-->
-        <jackson.version>2.9.1</jackson.version>
+        <jackson.version>2.9.2</jackson.version>
         <classmate.version>1.3.4</classmate.version>
         <snakeyaml.version>1.18</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
