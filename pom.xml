@@ -141,7 +141,7 @@
         <json-smart.version>2.3</json-smart.version>
         <json-path.version>2.4.0</json-path.version>
         <itext.version>4.2.2</itext.version>
-        <json.version>20170516</json.version>
+        <json.version>20171018</json.version>
         <kryo.version>4.0.1</kryo.version>
         <jsoup.version>1.10.3</jsoup.version>
         <thymeleaf.version>3.0.8.RELEASE</thymeleaf.version>
