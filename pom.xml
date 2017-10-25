@@ -1081,11 +1081,6 @@
                 <scope>import</scope>
             </dependency>
             <dependency>
-                <groupId>io.projectreactor</groupId>
-                <artifactId>reactor-core</artifactId>
-                <version>3.1.0.RELEASE</version>
-            </dependency>
-            <dependency>
                 <groupId>org.springframework.vault</groupId>
                 <artifactId>spring-vault-core</artifactId>
                 <version>${spring-vault.version}</version>
