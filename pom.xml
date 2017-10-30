@@ -43,7 +43,7 @@
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.2.2</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.3.2</twelvemonkeys-imageio.version>
-        <emoji-java.version>3.3.0</emoji-java.version>
+        <emoji-java.version>4.0.0</emoji-java.version>
         <webjars-locator.version>0.32-1</webjars-locator.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>3.2.5</dropwizard-metrics.version>
@@ -61,7 +61,7 @@
         <jodd.version>3.9.1</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
-        <togglz.version>2.4.1.Final</togglz.version>
+        <togglz.version>2.5.0.Final</togglz.version>
         <ff4j.version>1.6.5</ff4j.version>
         <underscore.version>1.27</underscore.version>
         <java-util.version>1.32.0</java-util.version>
@@ -163,7 +163,7 @@
         <hessian.version>4.0.51</hessian.version>
         <!--persistence-->
         <hibernate.version>5.2.12.Final</hibernate.version>
-        <hibernate-validator.version>6.0.3.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.0.4.Final</hibernate-validator.version>
         <jooq.version>3.10.1</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.0.Final</lettuce.version>
