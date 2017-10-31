@@ -111,6 +111,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Komputation:  a neural network framework for the JVM written in Kotlin and CUDA C.: https://github.com/sekwiatkowski/komputation
 * jimfs: An in-memory file system for Java 7+  https://github.com/google/jimfs
 * database rider: Database testing made easy https://github.com/database-rider/database-rider/
+* cfg4j: Modern configuration library for distributed apps written in Java https://github.com/cfg4j/cfg4j
 
 ### Developer Notice
 
