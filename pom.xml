@@ -109,6 +109,7 @@
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.8</jfairy.version>
         <jfairy-junit-extension.version>0.1.0</jfairy-junit-extension.version>
+        <database-rider.version>1.2.4</database-rider.version>
         <archunit.version>0.4.0</archunit.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
@@ -965,6 +966,11 @@
                 <groupId>com.github.rweisleder</groupId>
                 <artifactId>jfairy-junit-extension</artifactId>
                 <version>${jfairy-junit-extension.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.database-rider</groupId>
+                <artifactId>database-rider</artifactId>
+                <version>${database-rider.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.tngtech.archunit</groupId>
