@@ -128,6 +128,7 @@
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>9.5.1</openfeign.version>
         <javax-mail.version>1.6.0</javax-mail.version>
+        <cfg4j.version>4.4.1</cfg4j.version>
         <!--servers-->
         <jetty.version>9.4.7.v20170914</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
@@ -1026,6 +1027,21 @@
                 <groupId>org.audit4j</groupId>
                 <artifactId>audit4j-db</artifactId>
                 <version>${audit4j.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.cfg4j</groupId>
+                <artifactId>cfg4j-core</artifactId>
+                <version>${cfg4j.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.cfg4j</groupId>
+                <artifactId>cfg4j-consul</artifactId>
+                <version>${cfg4j.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.cfg4j</groupId>
+                <artifactId>cfg4j-git</artifactId>
+                <version>${cfg4j.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.twelvemonkeys.imageio</groupId>
