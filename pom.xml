@@ -93,7 +93,7 @@
         <mockito.version>2.11.0</mockito.version>
         <htmlunit.version>2.27</htmlunit.version>
         <testng.version>6.11</testng.version>
-        <selenium.version>3.6.0</selenium.version>
+        <selenium.version>3.7.0</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.10</toomuchcoding-jsonassert.version>
@@ -243,7 +243,7 @@
         <svnkit.version>1.9.0</svnkit.version>
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.58</appengine-sdk.version>
+        <appengine-sdk.version>1.9.59</appengine-sdk.version>
         <aws-java-sdk.version>1.11.223</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
