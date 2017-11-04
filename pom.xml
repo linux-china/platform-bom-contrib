@@ -227,7 +227,7 @@
         <commons-vfs2.version>2.2</commons-vfs2.version>
         <commons-pool2.version>2.4.3</commons-pool2.version>
         <poi.version>3.17</poi.version>
-        <kafka.version>0.11.0.1</kafka.version>
+        <kafka.version>1.0.0</kafka.version>
         <log4j2.version>2.9.1</log4j2.version>
         <solr.version>7.1.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
