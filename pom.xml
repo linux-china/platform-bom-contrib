@@ -90,7 +90,7 @@
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.0.1</junit5.version>
-        <mockito.version>2.11.0</mockito.version>
+        <mockito.version>2.12.0</mockito.version>
         <htmlunit.version>2.27</htmlunit.version>
         <testng.version>6.11</testng.version>
         <selenium.version>3.7.1</selenium.version>
@@ -244,7 +244,7 @@
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.59</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.225</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.226</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.1.51</kotlin.version>
