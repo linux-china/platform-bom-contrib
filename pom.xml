@@ -175,11 +175,11 @@
         <mybatis.version>3.4.5</mybatis.version>
         <mybatis-spring.version>1.3.1</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
-        <mariadb.version>2.1.2</mariadb.version>
+        <mariadb.version>2.2.0</mariadb.version>
         <mongodb.version>3.5.0</mongodb.version>
         <embedded-mongo.version>2.0.0</embedded-mongo.version>
         <fongo.version>2.1.0</fongo.version>
-        <cassandra-driver.version>3.3.0</cassandra-driver.version>
+        <cassandra-driver.version>3.3.1</cassandra-driver.version>
         <ehcache3.version>3.4.0</ehcache3.version>
         <ehcache.version>2.10.4</ehcache.version>
         <mapdb.version>3.0.5</mapdb.version>
@@ -219,7 +219,7 @@
         <commons-codec.version>1.11</commons-codec.version>
         <commons-fileupload.version>1.3.3</commons-fileupload.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
-        <commons-lang3.version>3.6</commons-lang3.version>
+        <commons-lang3.version>3.7</commons-lang3.version>
         <commons-csv.version>1.5</commons-csv.version>
         <commons-crypto.version>1.0.0</commons-crypto.version>
         <commons-configuration2.version>2.2</commons-configuration2.version>
@@ -248,7 +248,7 @@
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.1.51</kotlin.version>
-        <jruby.version>9.1.13.0</jruby.version>
+        <jruby.version>9.1.14.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
