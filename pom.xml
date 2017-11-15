@@ -64,7 +64,7 @@
         <togglz.version>2.5.0.Final</togglz.version>
         <ff4j.version>1.6.5</ff4j.version>
         <underscore.version>1.28</underscore.version>
-        <java-util.version>1.32.0</java-util.version>
+        <java-util.version>1.33.0</java-util.version>
         <verbalregex.version>1.4</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
         <vavr.version>0.9.1</vavr.version>
@@ -193,7 +193,7 @@
         <neo4j-ogm.version>3.0.1</neo4j-ogm.version>
         <etcd4j.version>2.13.0</etcd4j.version>
         <consul-api.version>1.2.4</consul-api.version>
-        <elasticsearch.version>5.6.3</elasticsearch.version>
+        <elasticsearch.version>6.0.0</elasticsearch.version>
         <hazelcast.version>3.9</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.2</hazelcast-hibernate5.version>
@@ -247,7 +247,7 @@
         <aws-java-sdk.version>1.11.228</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
-        <kotlin.version>1.1.51</kotlin.version>
+        <kotlin.version>1.1.60</kotlin.version>
         <jruby.version>9.1.14.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
