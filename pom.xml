@@ -113,7 +113,7 @@
         <archunit.version>0.4.0</archunit.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>3.9.0</okhttp3.version>
+        <okhttp3.version>3.9.1</okhttp3.version>
         <okio.version>1.13.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -122,7 +122,7 @@
         <grpc.version>1.7.0</grpc.version>
         <asynchttpclient.version>2.0.36</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
-        <jeromq.version>0.4.2</jeromq.version>
+        <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>5.3.3</searchbox-jest.version>
         <smack4.version>4.2.1</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
@@ -168,8 +168,8 @@
         <hibernate-validator.version>6.0.4.Final</hibernate-validator.version>
         <jooq.version>3.10.1</jooq.version>
         <jedis.version>2.9.0</jedis.version>
-        <lettuce.version>4.4.0.Final</lettuce.version>
-        <lettuce5.version>5.0.0.RELEASE</lettuce5.version>
+        <lettuce.version>4.4.1.Final</lettuce.version>
+        <lettuce5.version>5.0.1.RELEASE</lettuce5.version>
         <caffeine.version>2.6.0</caffeine.version>
         <jettison.version>1.3.8</jettison.version>
         <mybatis.version>3.4.5</mybatis.version>
@@ -190,9 +190,9 @@
         <h2.version>1.4.196</h2.version>
         <hsqldb.version>2.4.0</hsqldb.version>
         <sqlite-jdbc.version>3.21.0</sqlite-jdbc.version>
-        <neo4j-ogm.version>3.0.1</neo4j-ogm.version>
+        <neo4j-ogm.version>3.0.2</neo4j-ogm.version>
         <etcd4j.version>2.13.0</etcd4j.version>
-        <consul-api.version>1.2.4</consul-api.version>
+        <consul-api.version>1.3.0</consul-api.version>
         <elasticsearch.version>6.0.0</elasticsearch.version>
         <hazelcast.version>3.9</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.1</hazelcast-hibernate4.version>
@@ -233,7 +233,7 @@
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>8.5.23</tomcat.version>
         <groovy.version>2.6.0-alpha-2</groovy.version>
-        <zookeeper.version>3.4.10</zookeeper.version>
+        <zookeeper.version>3.4.11</zookeeper.version>
         <curator.version>4.0.0</curator.version>
         <zkclient.version>0.10</zkclient.version>
         <activemq.version>5.15.2</activemq.version>
@@ -244,7 +244,7 @@
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.59</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.231</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.232</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.1.60</kotlin.version>
