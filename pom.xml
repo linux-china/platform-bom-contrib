@@ -165,7 +165,7 @@
         <hessian.version>4.0.51</hessian.version>
         <!--persistence-->
         <hibernate.version>5.2.12.Final</hibernate.version>
-        <hibernate-validator.version>6.0.4.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.0.5.Final</hibernate-validator.version>
         <jooq.version>3.10.1</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.2.Final</lettuce.version>
@@ -520,6 +520,41 @@
             <dependency>
                 <groupId>io.github.openfeign</groupId>
                 <artifactId>feign-java8</artifactId>
+                <version>${openfeign.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.github.openfeign</groupId>
+                <artifactId>feign-gson</artifactId>
+                <version>${openfeign.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.github.openfeign</groupId>
+                <artifactId>feign-jackson</artifactId>
+                <version>${openfeign.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.github.openfeign</groupId>
+                <artifactId>feign-jackson-jaxb</artifactId>
+                <version>${openfeign.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.github.openfeign</groupId>
+                <artifactId>feign-jaxb</artifactId>
+                <version>${openfeign.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.github.openfeign</groupId>
+                <artifactId>feign-jaxrs</artifactId>
+                <version>${openfeign.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.github.openfeign</groupId>
+                <artifactId>feign-ribbon</artifactId>
+                <version>${openfeign.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.github.openfeign</groupId>
+                <artifactId>feign-sax</artifactId>
                 <version>${openfeign.version}</version>
             </dependency>
             <dependency>
