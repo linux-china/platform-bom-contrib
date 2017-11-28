@@ -270,7 +270,7 @@
         <spring-integration-kafka.version>2.3.0.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.5.8.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
-        <spring-cloud.version>Dalston.SR4</spring-cloud.version>
+        <spring-cloud.version>Edgware.RELEASE</spring-cloud.version>
         <spring-cloud-task.version>1.2.2.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Ditmars.RELEASE</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
