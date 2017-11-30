@@ -108,7 +108,7 @@
         <assertj.version>3.8.0</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
-        <jfairy-junit-extension.version>0.1.0</jfairy-junit-extension.version>
+        <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
         <database-rider.version>1.2.4</database-rider.version>
         <archunit.version>0.5.0</archunit.version>
         <!--network-->
@@ -130,7 +130,7 @@
         <javax-mail.version>1.6.0</javax-mail.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <!--servers-->
-        <jetty.version>9.4.7.v20170914</jetty.version>
+        <jetty.version>9.4.8.v20171121</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.20.Final</undertow.version>
         <!--parsers & templates & serializer-->
@@ -166,7 +166,7 @@
         <!--persistence-->
         <hibernate.version>5.2.12.Final</hibernate.version>
         <hibernate-validator.version>6.0.5.Final</hibernate-validator.version>
-        <jooq.version>3.10.1</jooq.version>
+        <jooq.version>3.10.2</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.2.Final</lettuce.version>
         <lettuce5.version>5.0.1.RELEASE</lettuce5.version>
@@ -232,7 +232,7 @@
         <solr.version>7.1.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>8.5.23</tomcat.version>
-        <groovy.version>2.6.0-alpha-2</groovy.version>
+        <groovy.version>3.0.0-alpha-1</groovy.version>
         <zookeeper.version>3.4.11</zookeeper.version>
         <curator.version>4.0.0</curator.version>
         <zkclient.version>0.10</zkclient.version>
