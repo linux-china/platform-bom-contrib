@@ -285,6 +285,7 @@
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-web-flow.version>2.4.6.RELEASE</spring-web-flow.version>
+        <spring-cloud-connector.version>2.0.1.RELEASE</spring-cloud-connector.version>
         <reactor-bom.version>Bismuth-SR4</reactor-bom.version>
     </properties>
 
@@ -1360,6 +1361,21 @@
                 <version>${spring-cloud-contract.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-spring-service-connector</artifactId>
+                <version>${spring-cloud-connector.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-cloudfoundry-connector</artifactId>
+                <version>${spring-cloud-connector.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-heroku-connector</artifactId>
+                <version>${spring-cloud-connector.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
