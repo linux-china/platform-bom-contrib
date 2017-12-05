@@ -37,7 +37,7 @@
 
     <properties>
         <jline.version>3.0.0.M1</jline.version>
-        <janino.version>3.0.7</janino.version>
+        <janino.version>3.0.8</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.32</webjars-locator.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
@@ -154,7 +154,7 @@
         <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
         <unbescape.version>1.1.5.RELEASE</unbescape.version>
         <attoparser.version>2.0.4.RELEASE</attoparser.version>
-        <jmustache.version>1.13</jmustache.version>
+        <jmustache.version>1.14</jmustache.version>
         <wss4j2.version>2.2.0</wss4j2.version>
         <objenesis.version>2.6</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
@@ -201,7 +201,7 @@
         <querydsl.version>4.1.4</querydsl.version>
         <hikaricp.version>2.7.4</hikaricp.version>
         <jasperreports.version>6.4.3</jasperreports.version>
-        <unboundid-ldapsdk.version>4.0.1</unboundid-ldapsdk.version>
+        <unboundid-ldapsdk.version>4.0.2</unboundid-ldapsdk.version>
         <postgresql.version>42.1.4.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <!--security-->
