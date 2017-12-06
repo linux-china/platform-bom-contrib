@@ -114,6 +114,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * cfg4j: Modern configuration library for distributed apps written in Java https://github.com/cfg4j/cfg4j
 * orika: Simpler, better and faster Java bean mapping framework
 * MapStruct: MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach  http://mapstruct.org/
+* jackson-datatype-protobuf: Jackson module that adds support for serializing and deserializing Google's Protocol Buffers to and from JSON
 
 ### Developer Notice
 
