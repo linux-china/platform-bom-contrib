@@ -53,7 +53,7 @@
         <jna.version>4.5.0</jna.version>
         <!--productivity & tools-->
         <functionaljava.version>4.7</functionaljava.version>
-        <fugue.version>4.5.0</fugue.version>
+        <fugue.version>4.5.1</fugue.version>
         <joda-time.version>2.9.9</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>23.5-jre</guava.version>
@@ -77,7 +77,7 @@
         <intellij.version>15.0</intellij.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
-        <google-truth.version>0.36</google-truth.version>
+        <google-truth.version>0.37</google-truth.version>
         <bytebuddy.version>1.7.9</bytebuddy.version>
         <javapoet.version>1.9.0</javapoet.version>
         <aspectj.version>1.8.13</aspectj.version>
@@ -102,7 +102,7 @@
         <easymock.version>3.5.1</easymock.version>
         <fluentlenium.version>3.4.1</fluentlenium.version>
         <powermock.version>1.7.3</powermock.version>
-        <testcontainers.version>1.4.3</testcontainers.version>
+        <testcontainers.version>1.5.0</testcontainers.version>
         <dbunit.version>2.5.4</dbunit.version>
         <rest-assured.version>3.0.6</rest-assured.version>
         <assertj.version>3.8.0</assertj.version>
@@ -224,7 +224,7 @@
         <commons-csv.version>1.5</commons-csv.version>
         <commons-crypto.version>1.0.0</commons-crypto.version>
         <commons-configuration2.version>2.2</commons-configuration2.version>
-        <commons-text.version>1.1</commons-text.version>
+        <commons-text.version>1.2</commons-text.version>
         <commons-vfs2.version>2.2</commons-vfs2.version>
         <commons-pool2.version>2.4.3</commons-pool2.version>
         <poi.version>3.17</poi.version>
