@@ -135,7 +135,7 @@
         <undertow.version>1.4.21.Final</undertow.version>
         <!--parsers & templates & serializer-->
         <jackson.version>2.9.3</jackson.version>
-        <jackson-protobuf.version>0.9.5</jackson-protobuf.version>
+        <jackson-protobuf.version>0.9.7-jackson2.9-proto2</jackson-protobuf.version>
         <classmate.version>1.3.4</classmate.version>
         <snakeyaml.version>1.19</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
@@ -166,7 +166,7 @@
         <hessian.version>4.0.51</hessian.version>
         <!--persistence-->
         <hibernate.version>5.2.12.Final</hibernate.version>
-        <hibernate-validator.version>6.0.5.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.0.6.Final</hibernate-validator.version>
         <jooq.version>3.10.2</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.2.Final</lettuce.version>
@@ -194,14 +194,14 @@
         <neo4j-ogm.version>3.0.2</neo4j-ogm.version>
         <etcd4j.version>2.14.0</etcd4j.version>
         <consul-api.version>1.3.0</consul-api.version>
-        <elasticsearch.version>6.0.1</elasticsearch.version>
+        <elasticsearch.version>6.1.0</elasticsearch.version>
         <hazelcast.version>3.9.1</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.2</hazelcast-hibernate5.version>
         <infinispan.version>9.1.2.Final</infinispan.version>
         <querydsl.version>4.1.4</querydsl.version>
         <hikaricp.version>2.7.4</hikaricp.version>
-        <jasperreports.version>6.4.3</jasperreports.version>
+        <jasperreports.version>6.5.0</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.3</unboundid-ldapsdk.version>
         <postgresql.version>42.1.4.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
@@ -248,12 +248,12 @@
         <aws-java-sdk.version>1.11.250</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
-        <kotlin.version>1.2.0</kotlin.version>
+        <kotlin.version>1.2.10</kotlin.version>
         <jruby.version>9.1.15.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
-        <reactive-streams.version>1.0.1</reactive-streams.version>
+        <reactive-streams.version>1.0.2</reactive-streams.version>
         <narayana.version>5.7.1.Final</narayana.version>
         <atomikos.version>4.0.5</atomikos.version>
         <!--springsource-->
@@ -282,7 +282,7 @@
         <spring-vault.version>1.1.1.RELEASE</spring-vault.version>
         <spring-kafka.version>2.1.0.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.0.RELEASE</spring-restdocs.version>
-        <spring-retry.version>1.2.1.RELEASE</spring-retry.version>
+        <spring-retry.version>1.2.2.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-web-flow.version>2.4.6.RELEASE</spring-web-flow.version>
