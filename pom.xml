@@ -50,7 +50,7 @@
         <jolokia.version>1.3.7</jolokia.version>
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <jna.version>4.5.0</jna.version>
+        <jna.version>4.5.1</jna.version>
         <!--productivity & tools-->
         <functionaljava.version>4.7</functionaljava.version>
         <fugue.version>4.5.1</fugue.version>
@@ -91,7 +91,7 @@
         <!--testing-->
         <junit5.version>5.0.2</junit5.version>
         <mockito.version>2.13.0</mockito.version>
-        <htmlunit.version>2.28</htmlunit.version>
+        <htmlunit.version>2.29</htmlunit.version>
         <testng.version>6.13.1</testng.version>
         <selenium.version>3.8.1</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -171,7 +171,7 @@
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.2.Final</lettuce.version>
         <lettuce5.version>5.0.1.RELEASE</lettuce5.version>
-        <caffeine.version>2.6.0</caffeine.version>
+        <caffeine.version>2.6.1</caffeine.version>
         <jettison.version>1.3.8</jettison.version>
         <mybatis.version>3.4.5</mybatis.version>
         <mybatis-spring.version>1.3.1</mybatis-spring.version>
@@ -245,7 +245,7 @@
         <svnkit.version>1.9.0</svnkit.version>
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.59</appengine-sdk.version>
+        <appengine-sdk.version>1.9.60</appengine-sdk.version>
         <aws-java-sdk.version>1.11.255</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
@@ -275,7 +275,7 @@
         <spring-cloud-contract.version>1.2.1.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Edgware.RELEASE</spring-cloud.version>
         <spring-cloud-task.version>1.2.2.RELEASE</spring-cloud-task.version>
-        <spring-cloud-stream.version>Ditmars.RELEASE</spring-cloud-stream.version>
+        <spring-cloud-stream.version>Ditmars.SR1</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.4.7.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.0.1.RELEASE</spring-amqp.version>
