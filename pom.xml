@@ -200,7 +200,7 @@
         <hazelcast-hibernate5.version>1.2.2</hazelcast-hibernate5.version>
         <infinispan.version>9.1.2.Final</infinispan.version>
         <querydsl.version>4.1.4</querydsl.version>
-        <hikaricp.version>2.7.4</hikaricp.version>
+        <hikaricp.version>2.7.5</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.3</unboundid-ldapsdk.version>
         <postgresql.version>42.1.4.jre7</postgresql.version>
@@ -276,7 +276,7 @@
         <spring-cloud-contract.version>1.2.1.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Edgware.RELEASE</spring-cloud.version>
         <spring-cloud-task.version>1.2.2.RELEASE</spring-cloud-task.version>
-        <spring-cloud-stream.version>Ditmars.SR2</spring-cloud-stream.version>
+        <spring-cloud-stream.version>Ditmars.SR3</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.4.7.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.0.1.RELEASE</spring-amqp.version>
