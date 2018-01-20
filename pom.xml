@@ -81,7 +81,7 @@
         <bytebuddy.version>1.7.9</bytebuddy.version>
         <javapoet.version>1.9.0</javapoet.version>
         <aspectj.version>1.8.13</aspectj.version>
-        <cglib.version>3.2.5</cglib.version>
+        <cglib.version>3.2.6</cglib.version>
         <lombok.version>1.16.20</lombok.version>
         <immutables.version>2.5.6</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
@@ -203,7 +203,7 @@
         <hikaricp.version>2.7.6</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.3</unboundid-ldapsdk.version>
-        <postgresql.version>42.1.4.jre7</postgresql.version>
+        <postgresql.version>42.2.0.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <!--security-->
         <cas-client.version>3.4.1</cas-client.version>
