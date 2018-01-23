@@ -291,6 +291,7 @@
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-web-flow.version>2.4.7.RELEASE</spring-web-flow.version>
         <spring-cloud-connector.version>2.0.1.RELEASE</spring-cloud-connector.version>
+        <spring-shell.version>2.0.0.RELEASE</spring-shell.version>
         <reactor-bom.version>Bismuth-SR4</reactor-bom.version>
     </properties>
 
@@ -1337,6 +1338,11 @@
                 <version>${spring-boot.version}</version>
                 <scope>import</scope>
                 <type>pom</type>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.shell</groupId>
+                <artifactId>spring-shell-starter</artifactId>
+                <version>${spring-shell.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
