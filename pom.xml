@@ -79,7 +79,7 @@
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.39</google-truth.version>
         <bytebuddy.version>1.7.9</bytebuddy.version>
-        <javapoet.version>1.9.0</javapoet.version>
+        <javapoet.version>1.10.0</javapoet.version>
         <aspectj.version>1.8.13</aspectj.version>
         <cglib.version>3.2.6</cglib.version>
         <lombok.version>1.16.20</lombok.version>
