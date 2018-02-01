@@ -58,7 +58,7 @@
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>23.6-jre</guava.version>
         <guice.version>4.1.0</guice.version>
-        <jodd.version>4.1.1</jodd.version>
+        <jodd.version>4.1.2</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.5.0.Final</togglz.version>
@@ -157,7 +157,7 @@
         <unbescape.version>1.1.5.RELEASE</unbescape.version>
         <attoparser.version>2.0.4.RELEASE</attoparser.version>
         <jmustache.version>1.14</jmustache.version>
-        <wss4j2.version>2.2.0</wss4j2.version>
+        <wss4j2.version>2.2.1</wss4j2.version>
         <objenesis.version>2.6</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
         <rometools.version>1.9.0</rometools.version>
