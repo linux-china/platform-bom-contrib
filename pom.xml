@@ -12,7 +12,7 @@
 
     <groupId>com.github.linux-china</groupId>
     <artifactId>platform-bom-contrib</artifactId>
-    <version>Brussels-SR7-SNAPSHOT</version>
+    <version>Brussels-SR7</version>
     <packaging>pom</packaging>
     <name>Spring IO Platform Contrib bill of materials</name>
     <description>Spring IO Platform Contrib bill of materials</description>
