@@ -56,14 +56,14 @@
         <fugue.version>4.5.1</fugue.version>
         <joda-time.version>2.9.9</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
-        <guava.version>23.6-jre</guava.version>
+        <guava.version>24.0-jre</guava.version>
         <guice.version>4.1.0</guice.version>
         <jodd.version>4.1.2</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.5.0.Final</togglz.version>
         <ff4j.version>1.7.1</ff4j.version>
-        <underscore.version>1.29</underscore.version>
+        <underscore.version>1.30</underscore.version>
         <java-util.version>1.34.0</java-util.version>
         <verbalregex.version>1.5</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
@@ -78,7 +78,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.39</google-truth.version>
-        <bytebuddy.version>1.7.9</bytebuddy.version>
+        <bytebuddy.version>1.7.10</bytebuddy.version>
         <javapoet.version>1.10.0</javapoet.version>
         <aspectj.version>1.8.13</aspectj.version>
         <cglib.version>3.2.6</cglib.version>
@@ -239,7 +239,7 @@
         <zookeeper.version>3.4.11</zookeeper.version>
         <curator.version>4.0.0</curator.version>
         <zkclient.version>0.10</zkclient.version>
-        <activemq.version>5.15.2</activemq.version>
+        <activemq.version>5.15.3</activemq.version>
         <artemis.version>2.4.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.3</httpasyncclient.version>
