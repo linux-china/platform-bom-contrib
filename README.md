@@ -18,7 +18,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
          <dependency>
              <groupId>com.github.linux-china</groupId>
              <artifactId>platform-bom-contrib</artifactId>
-             <version>Brussels-RELEASE</version>
+             <version>Brussels-SR7</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
@@ -121,14 +121,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
 * local install: mvn -DskipTests -pl . clean package install
 
-### Tags
-
-```
-$ git tag -a Athens-SR1 -m 'Athens-SR1'
-$ git push --follow-tags
-```
-
 ### Changes 
 
-* Brussels-RELEASE
-* Spring Boot 1.5.1
+* Brussels-SR7
+* Spring Boot 1.5.10
