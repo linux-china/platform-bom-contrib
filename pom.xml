@@ -93,10 +93,10 @@
         <mockito.version>2.13.0</mockito.version>
         <htmlunit.version>2.29</htmlunit.version>
         <testng.version>6.14.2</testng.version>
-        <selenium.version>3.8.1</selenium.version>
+        <selenium.version>3.9.0</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
-        <toomuchcoding-jsonassert.version>0.4.10</toomuchcoding-jsonassert.version>
+        <toomuchcoding-jsonassert.version>0.4.11</toomuchcoding-jsonassert.version>
         <wiremock.version>2.14.0</wiremock.version>
         <spockframework.version>1.1-groovy-2.4</spockframework.version>
         <easymock.version>3.5.1</easymock.version>
@@ -117,10 +117,10 @@
         <okio.version>1.13.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.20.Final</netty.version>
+        <netty.version>4.1.21.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.9.0</grpc.version>
-        <asynchttpclient.version>2.2.1</asynchttpclient.version>
+        <asynchttpclient.version>2.3.0</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>5.3.3</searchbox-jest.version>
