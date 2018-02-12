@@ -42,7 +42,7 @@
             <dependency>
                 <groupId>com.github.linux-china</groupId>
                 <artifactId>platform-bom-contrib</artifactId>
-                <version>Brussels-SR4-SNAPSHOT</version>
+                <version>Brussels-SR7</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
