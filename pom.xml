@@ -235,7 +235,7 @@
         <log4j2.version>2.10.0</log4j2.version>
         <solr.version>7.2.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>8.5.27</tomcat.version>
+        <tomcat.version>8.5.28</tomcat.version>
         <groovy.version>3.0.0-alpha-1</groovy.version>
         <zookeeper.version>3.4.11</zookeeper.version>
         <curator.version>4.0.0</curator.version>
@@ -248,7 +248,7 @@
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.60</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.275</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.277</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.21</kotlin.version>
