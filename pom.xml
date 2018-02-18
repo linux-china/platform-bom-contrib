@@ -120,7 +120,7 @@
         <netty.version>4.1.21.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.10.0</grpc.version>
-        <asynchttpclient.version>2.4.0</asynchttpclient.version>
+        <asynchttpclient.version>2.4.1</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>5.3.3</searchbox-jest.version>
@@ -137,7 +137,7 @@
         <undertow.version>1.4.22.Final</undertow.version>
         <!--parsers & templates & serializer-->
         <jackson.version>2.9.4</jackson.version>
-        <jackson-protobuf.version>0.9.8-jackson2.9-proto2</jackson-protobuf.version>
+        <jackson-protobuf.version>0.9.9-jackson2.9-proto2</jackson-protobuf.version>
         <classmate.version>1.3.4</classmate.version>
         <snakeyaml.version>1.19</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
@@ -169,7 +169,7 @@
         <!--persistence-->
         <hibernate.version>5.2.13.Final</hibernate.version>
         <hibernate-validator.version>6.0.7.Final</hibernate-validator.version>
-        <jooq.version>3.10.4</jooq.version>
+        <jooq.version>3.10.5</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.2.Final</lettuce.version>
         <lettuce5.version>5.0.1.RELEASE</lettuce5.version>
@@ -187,7 +187,7 @@
         <ehcache.version>2.10.4</ehcache.version>
         <mapdb.version>3.0.5</mapdb.version>
         <flyway.version>5.0.7</flyway.version>
-        <liquibase.version>3.5.4</liquibase.version>
+        <liquibase.version>3.5.5</liquibase.version>
         <derby.version>10.14.1.0</derby.version>
         <flexy-pool.version>2.0.0</flexy-pool.version>
         <h2.version>1.4.196</h2.version>
@@ -197,7 +197,7 @@
         <etcd4j.version>2.15.0</etcd4j.version>
         <consul-api.version>1.3.0</consul-api.version>
         <elasticsearch.version>6.2.1</elasticsearch.version>
-        <hazelcast.version>3.9.2</hazelcast.version>
+        <hazelcast.version>3.9.3</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
         <infinispan.version>9.1.2.Final</infinispan.version>
@@ -244,10 +244,10 @@
         <artemis.version>2.4.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.3</httpasyncclient.version>
-        <svnkit.version>1.9.0</svnkit.version>
+        <svnkit.version>1.9.1</svnkit.version>
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.60</appengine-sdk.version>
+        <appengine-sdk.version>1.9.62</appengine-sdk.version>
         <aws-java-sdk.version>1.11.280</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
@@ -294,7 +294,7 @@
         <spring-cloud-connector.version>2.0.1.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>2.0.0.RELEASE</spring-shell.version>
         <spring-cloud-localconfig-connector.version>2.0.1.RELEASE</spring-cloud-localconfig-connector.version>
-        <reactor-bom.version>Bismuth-SR5</reactor-bom.version>
+        <reactor-bom.version>Bismuth-SR6</reactor-bom.version>
     </properties>
 
     <dependencyManagement>
