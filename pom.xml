@@ -178,7 +178,7 @@
         <mybatis.version>3.4.5</mybatis.version>
         <mybatis-spring.version>1.3.1</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
-        <mariadb.version>2.2.1</mariadb.version>
+        <mariadb.version>2.2.2</mariadb.version>
         <mongodb.version>3.6.3</mongodb.version>
         <embedded-mongo.version>2.0.3</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
@@ -196,7 +196,7 @@
         <neo4j-ogm.version>3.1.0</neo4j-ogm.version>
         <etcd4j.version>2.15.0</etcd4j.version>
         <consul-api.version>1.3.0</consul-api.version>
-        <elasticsearch.version>6.2.1</elasticsearch.version>
+        <elasticsearch.version>6.2.2</elasticsearch.version>
         <hazelcast.version>3.9.3</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
@@ -265,12 +265,12 @@
         <spring-ws.version>3.0.0.RELEASE</spring-ws.version>
         <spring-session.version>2.0.1.RELEASE</spring-session.version>
         <spring-social.version>1.1.5.RELEASE</spring-social.version>
-        <spring-security.version>5.0.1.RELEASE</spring-security.version>
+        <spring-security.version>5.0.2.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.2.1.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.5.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Kay-SR4</spring-data-releasetrain.version>
-        <spring-integration.version>5.0.1.RELEASE</spring-integration.version>
+        <spring-integration.version>5.0.2.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.1.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.5.10.RELEASE</spring-boot.version>
