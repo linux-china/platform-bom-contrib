@@ -57,7 +57,7 @@
         <joda-time.version>2.9.9</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>24.0-jre</guava.version>
-        <guice.version>4.1.0</guice.version>
+        <guice.version>4.2.0</guice.version>
         <jodd.version>4.1.4</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
@@ -140,7 +140,7 @@
         <jackson.version>2.9.4</jackson.version>
         <jackson-protobuf.version>0.9.9-jackson2.9-proto2</jackson-protobuf.version>
         <classmate.version>1.3.4</classmate.version>
-        <snakeyaml.version>1.19</snakeyaml.version>
+        <snakeyaml.version>1.20</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.2</gson.version>
         <protobuf.version>3.5.1</protobuf.version>
@@ -248,7 +248,7 @@
         <svnkit.version>1.9.1</svnkit.version>
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.62</appengine-sdk.version>
+        <appengine-sdk.version>1.9.63</appengine-sdk.version>
         <aws-java-sdk.version>1.11.288</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
@@ -266,12 +266,12 @@
         <spring-ws.version>3.0.0.RELEASE</spring-ws.version>
         <spring-session.version>2.0.2.RELEASE</spring-session.version>
         <spring-social.version>1.1.5.RELEASE</spring-social.version>
-        <spring-security.version>5.0.2.RELEASE</spring-security.version>
+        <spring-security.version>5.0.3.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.2.1.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.5.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Kay-SR5</spring-data-releasetrain.version>
-        <spring-integration.version>5.0.2.RELEASE</spring-integration.version>
+        <spring-integration.version>5.0.3.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.2.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.5.10.RELEASE</spring-boot.version>
@@ -1247,7 +1247,7 @@
             <dependency>
                 <groupId>io.projectreactor</groupId>
                 <artifactId>reactor-core</artifactId>
-                <version>3.1.4.RELEASE</version>
+                <version>3.1.5.RELEASE</version>
             </dependency>
             <dependency>
                 <groupId>io.projectreactor</groupId>
