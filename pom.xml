@@ -201,7 +201,7 @@
         <hazelcast.version>3.9.3</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
-        <infinispan.version>9.1.2.Final</infinispan.version>
+        <infinispan.version>9.2.0.Final</infinispan.version>
         <querydsl.version>4.1.4</querydsl.version>
         <hikaricp.version>2.7.8</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
@@ -252,7 +252,7 @@
         <aws-java-sdk.version>1.11.289</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
-        <kotlin.version>1.2.21</kotlin.version>
+        <kotlin.version>1.2.30</kotlin.version>
         <jruby.version>9.1.16.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
@@ -273,7 +273,7 @@
         <spring-data-releasetrain.version>Kay-SR5</spring-data-releasetrain.version>
         <spring-integration.version>5.0.3.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
-        <spring-integration-kafka.version>3.0.2.RELEASE</spring-integration-kafka.version>
+        <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.5.10.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
         <spring-cloud-contract.version>1.2.3.RELEASE</spring-cloud-contract.version>
