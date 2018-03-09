@@ -40,6 +40,7 @@
         <janino.version>3.0.8</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
+        <webjars-locator-core.version>0.35</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.2.3</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.3.2</twelvemonkeys-imageio.version>
@@ -917,7 +918,7 @@
             <dependency>
                 <groupId>org.webjars</groupId>
                 <artifactId>webjars-locator-core</artifactId>
-                <version>${webjars-locator.version}</version>
+                <version>${webjars-locator-core.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.commons</groupId>
