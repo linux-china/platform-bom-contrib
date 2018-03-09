@@ -291,7 +291,6 @@
         <spring-retry.version>1.2.2.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
-        <spring-web-flow.version>2.4.7.RELEASE</spring-web-flow.version>
         <spring-cloud-connector.version>2.0.1.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>2.0.0.RELEASE</spring-shell.version>
         <spring-cloud-localconfig-connector.version>2.0.1.RELEASE</spring-cloud-localconfig-connector.version>
