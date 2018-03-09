@@ -44,7 +44,6 @@
         <graphviz-java.version>0.2.3</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.3.2</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
-        <webjars-locator.version>0.32-1</webjars-locator.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.0.2</dropwizard-metrics.version>
         <jolokia.version>1.5.0</jolokia.version>
