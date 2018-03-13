@@ -499,6 +499,16 @@
                 <version>${searchbox-jest.version}</version>
             </dependency>
             <dependency>
+                <groupId>org.hibernate.validator</groupId>
+                <artifactId>hibernate-validator</artifactId>
+                <version>${hibernate-validator.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.hibernate.validator</groupId>
+                <artifactId>hibernate-validator-annotation-processor</artifactId>
+                <version>${hibernate-validator.version}</version>
+            </dependency>
+            <dependency>
                 <groupId>com.squareup.okio</groupId>
                 <artifactId>okio</artifactId>
                 <version>${okio.version}</version>
