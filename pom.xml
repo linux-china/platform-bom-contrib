@@ -1377,7 +1377,11 @@
     <repositories>
         <repository>
             <id>spring-repo</id>
-            <url>http://repo.spring.io/release/</url>
+            <url>https://repo.spring.io/release/</url>
+        </repository>
+        <repository>
+            <id>spring-milestone</id>
+            <url>https://repo.spring.io/milestone/</url>
         </repository>
     </repositories>
 
