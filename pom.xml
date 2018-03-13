@@ -75,7 +75,7 @@
         <snappy.version>1.1.7.1</snappy.version>
         <springfox.version>2.8.0</springfox.version>
         <!--code & classes-->
-        <intellij.version>15.0</intellij.version>
+        <intellij.version>16.0.1</intellij.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.39</google-truth.version>
@@ -236,7 +236,7 @@
         <log4j2.version>2.10.0</log4j2.version>
         <solr.version>7.2.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>8.5.28</tomcat.version>
+        <tomcat.version>8.5.29</tomcat.version>
         <groovy.version>3.0.0-alpha-1</groovy.version>
         <zookeeper.version>3.4.11</zookeeper.version>
         <curator.version>4.0.1</curator.version>
@@ -283,7 +283,7 @@
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.0.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.0.2.RELEASE</spring-amqp.version>
-        <rabbit-amqp-client.version>5.1.2</rabbit-amqp-client.version>
+        <rabbit-amqp-client.version>5.2.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>2.0.1.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.0.0.RELEASE</spring-vault.version>
         <spring-kafka.version>2.1.4.RELEASE</spring-kafka.version>
