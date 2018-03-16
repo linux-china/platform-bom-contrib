@@ -247,6 +247,7 @@
         <httpasyncclient.version>4.1.3</httpasyncclient.version>
         <svnkit.version>1.9.1</svnkit.version>
         <axiom.version>1.2.20</axiom.version>
+        <apache-geode.version>1.4.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.63</appengine-sdk.version>
         <aws-java-sdk.version>1.11.296</aws-java-sdk.version>
@@ -295,6 +296,7 @@
         <spring-shell.version>2.0.0.RELEASE</spring-shell.version>
         <spring-cloud-localconfig-connector.version>2.0.1.RELEASE</spring-cloud-localconfig-connector.version>
         <reactor-bom.version>Bismuth-SR7</reactor-bom.version>
+        <micrometer.version>1.0.2</micrometer.version>
     </properties>
 
     <dependencyManagement>
