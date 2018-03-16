@@ -213,6 +213,8 @@
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.59</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
+        <nimbus-jose-jwt.version>5.7</nimbus-jose-jwt.version>
+        <oauth2-oidc-sdk.version>5.56</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.9</httpcore.version>
         <httpclient.version>4.5.5</httpclient.version>
@@ -502,6 +504,11 @@
             </dependency>
             <dependency>
                 <groupId>org.hibernate.validator</groupId>
+                <artifactId>hibernate-validator</artifactId>
+                <version>${hibernate-validator.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.hibernate</groupId>
                 <artifactId>hibernate-validator</artifactId>
                 <version>${hibernate-validator.version}</version>
             </dependency>
@@ -945,6 +952,11 @@
             <dependency>
                 <groupId>net.bytebuddy</groupId>
                 <artifactId>byte-buddy</artifactId>
+                <version>${bytebuddy.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>net.bytebuddy</groupId>
+                <artifactId>byte-buddy-agent</artifactId>
                 <version>${bytebuddy.version}</version>
             </dependency>
             <dependency>
