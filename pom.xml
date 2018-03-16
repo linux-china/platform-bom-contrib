@@ -56,7 +56,7 @@
         <fugue.version>4.5.1</fugue.version>
         <joda-time.version>2.9.9</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
-        <guava.version>24.0-jre</guava.version>
+        <guava.version>24.1-jre</guava.version>
         <guice.version>4.2.0</guice.version>
         <jodd.version>4.2.0</jodd.version>
         <boon.version>0.34</boon.version>
@@ -79,7 +79,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.39</google-truth.version>
-        <bytebuddy.version>1.7.11</bytebuddy.version>
+        <bytebuddy.version>1.8.0</bytebuddy.version>
         <javapoet.version>1.10.0</javapoet.version>
         <aspectj.version>1.8.13</aspectj.version>
         <cglib.version>3.2.6</cglib.version>
@@ -91,7 +91,7 @@
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.1.0</junit5.version>
-        <mockito.version>2.15.0</mockito.version>
+        <mockito.version>2.16.0</mockito.version>
         <htmlunit.version>2.29</htmlunit.version>
         <testng.version>6.14.2</testng.version>
         <selenium.version>3.11.0</selenium.version>
@@ -177,14 +177,14 @@
         <caffeine.version>2.6.2</caffeine.version>
         <jettison.version>1.3.8</jettison.version>
         <mybatis.version>3.4.6</mybatis.version>
-        <mybatis-spring.version>1.3.1</mybatis-spring.version>
+        <mybatis-spring.version>1.3.2</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.2.3</mariadb.version>
         <mongodb.version>3.6.3</mongodb.version>
         <embedded-mongo.version>2.0.3</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>3.4.0</cassandra-driver.version>
-        <ehcache3.version>3.5.0</ehcache3.version>
+        <ehcache3.version>3.5.1</ehcache3.version>
         <ehcache.version>2.10.4</ehcache.version>
         <mapdb.version>3.0.5</mapdb.version>
         <flyway.version>5.0.7</flyway.version>
@@ -206,7 +206,7 @@
         <hikaricp.version>2.7.8</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.4</unboundid-ldapsdk.version>
-        <postgresql.version>42.2.1.jre7</postgresql.version>
+        <postgresql.version>42.2.2.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <!--security-->
         <cas-client.version>3.4.1</cas-client.version>
@@ -233,7 +233,7 @@
         <commons-dbcp2.version>2.2.0</commons-dbcp2.version>
         <poi.version>3.17</poi.version>
         <kafka.version>1.0.1</kafka.version>
-        <log4j2.version>2.10.0</log4j2.version>
+        <log4j2.version>2.11.0</log4j2.version>
         <solr.version>7.2.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>8.5.29</tomcat.version>
@@ -242,7 +242,7 @@
         <curator.version>4.0.1</curator.version>
         <zkclient.version>0.10</zkclient.version>
         <activemq.version>5.15.3</activemq.version>
-        <artemis.version>2.4.0</artemis.version>
+        <artemis.version>2.5.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.3</httpasyncclient.version>
         <svnkit.version>1.9.1</svnkit.version>
@@ -263,7 +263,7 @@
         <!--springsource-->
         <spring.version>5.0.4.RELEASE</spring.version>
         <spring-batch.version>4.0.1.RELEASE</spring-batch.version>
-        <spring-ws.version>3.0.0.RELEASE</spring-ws.version>
+        <spring-ws.version>3.0.1.RELEASE</spring-ws.version>
         <spring-session.version>2.0.2.RELEASE</spring-session.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.0.3.RELEASE</spring-security.version>
@@ -277,7 +277,7 @@
         <spring-boot.version>2.0.0.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
         <spring-cloud-contract.version>1.2.3.RELEASE</spring-cloud-contract.version>
-        <spring-cloud.version>Edgware.SR2</spring-cloud.version>
+        <spring-cloud.version>Finchley.M7</spring-cloud.version>
         <spring-cloud-task.version>1.2.2.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Ditmars.SR3</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
