@@ -206,7 +206,7 @@
         <querydsl.version>4.2.0</querydsl.version>
         <hikaricp.version>2.7.8</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
-        <unboundid-ldapsdk.version>4.0.4</unboundid-ldapsdk.version>
+        <unboundid-ldapsdk.version>4.0.5</unboundid-ldapsdk.version>
         <postgresql.version>42.2.2.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <!--security-->
