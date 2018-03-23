@@ -110,7 +110,7 @@
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.2.7</database-rider.version>
+        <database-rider.version>1.2.8</database-rider.version>
         <archunit.version>0.5.0</archunit.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
@@ -203,7 +203,7 @@
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
         <infinispan.version>9.2.0.Final</infinispan.version>
-        <querydsl.version>4.2.0</querydsl.version>
+        <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>2.7.8</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.5</unboundid-ldapsdk.version>
