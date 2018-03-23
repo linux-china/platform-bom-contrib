@@ -279,7 +279,7 @@
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.0.0.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
-        <spring-cloud-contract.version>2.0.0.M7</spring-cloud-contract.version>
+        <spring-cloud-contract.version>2.0.0.M8</spring-cloud-contract.version>
         <spring-cloud.version>Finchley.M9</spring-cloud.version>
         <spring-cloud-task.version>2.0.0.M3</spring-cloud-task.version>
         <spring-cloud-stream.version>Elmhurst.RC3</spring-cloud-stream.version>
