@@ -42,7 +42,7 @@
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.35</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.2.3</graphviz-java.version>
+        <graphviz-java.version>0.3.0</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.3.2</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
@@ -58,7 +58,7 @@
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>24.1-jre</guava.version>
         <guice.version>4.2.0</guice.version>
-        <jodd.version>4.2.0</jodd.version>
+        <jodd.version>4.3.0</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.5.0.Final</togglz.version>
@@ -110,7 +110,7 @@
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.2.7</database-rider.version>
+        <database-rider.version>1.2.8</database-rider.version>
         <archunit.version>0.5.0</archunit.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
@@ -133,7 +133,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <!--servers-->
-        <jetty.version>9.4.8.v20171121</jetty.version>
+        <jetty.version>9.4.9.v20180320</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.22.Final</undertow.version>
         <!--parsers & templates & serializer-->
@@ -148,7 +148,7 @@
         <json-path.version>2.4.0</json-path.version>
         <itext.version>4.2.2</itext.version>
         <json.version>20180130</json.version>
-        <kryo.version>4.0.1</kryo.version>
+        <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.11.2</jsoup.version>
         <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
@@ -184,20 +184,20 @@
         <embedded-mongo.version>2.0.3</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>3.4.0</cassandra-driver.version>
-        <ehcache3.version>3.5.1</ehcache3.version>
+        <ehcache3.version>3.5.2</ehcache3.version>
         <ehcache.version>2.10.4</ehcache.version>
         <mapdb.version>3.0.5</mapdb.version>
         <flyway.version>5.0.7</flyway.version>
         <liquibase.version>3.5.5</liquibase.version>
         <derby.version>10.14.1.0</derby.version>
         <flexy-pool.version>2.0.0</flexy-pool.version>
-        <h2.version>1.4.196</h2.version>
+        <h2.version>1.4.197</h2.version>
         <hsqldb.version>2.4.0</hsqldb.version>
         <sqlite-jdbc.version>3.21.0.1</sqlite-jdbc.version>
         <neo4j-ogm.version>3.1.0</neo4j-ogm.version>
         <etcd4j.version>2.15.0</etcd4j.version>
         <consul-api.version>1.3.1</consul-api.version>
-        <elasticsearch.version>6.2.2</elasticsearch.version>
+        <elasticsearch.version>6.2.3</elasticsearch.version>
         <hazelcast.version>3.9.3</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
@@ -205,7 +205,7 @@
         <querydsl.version>4.1.4</querydsl.version>
         <hikaricp.version>2.7.8</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
-        <unboundid-ldapsdk.version>4.0.4</unboundid-ldapsdk.version>
+        <unboundid-ldapsdk.version>4.0.5</unboundid-ldapsdk.version>
         <postgresql.version>42.2.2.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <!--security-->
@@ -229,7 +229,7 @@
         <commons-csv.version>1.5</commons-csv.version>
         <commons-crypto.version>1.0.0</commons-crypto.version>
         <commons-configuration2.version>2.2</commons-configuration2.version>
-        <commons-text.version>1.2</commons-text.version>
+        <commons-text.version>1.3</commons-text.version>
         <commons-vfs2.version>2.2</commons-vfs2.version>
         <commons-pool2.version>2.5.0</commons-pool2.version>
         <commons-dbcp2.version>2.2.0</commons-dbcp2.version>
@@ -280,7 +280,7 @@
         <spring-boot.version>2.0.0.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
         <spring-cloud-contract.version>2.0.0.M7</spring-cloud-contract.version>
-        <spring-cloud.version>Finchley.M8</spring-cloud.version>
+        <spring-cloud.version>Finchley.M9</spring-cloud.version>
         <spring-cloud-task.version>2.0.0.M3</spring-cloud-task.version>
         <spring-cloud-stream.version>Elmhurst.RC3</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
