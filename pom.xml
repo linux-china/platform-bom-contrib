@@ -170,7 +170,7 @@
         <!--persistence-->
         <hibernate.version>5.2.15.Final</hibernate.version>
         <hibernate-validator.version>6.0.8.Final</hibernate-validator.version>
-        <jooq.version>3.10.5</jooq.version>
+        <jooq.version>3.10.6</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.3.Final</lettuce.version>
         <lettuce5.version>5.0.2.RELEASE</lettuce5.version>
@@ -202,7 +202,7 @@
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
         <infinispan.version>9.2.0.Final</infinispan.version>
-        <querydsl.version>4.1.4</querydsl.version>
+        <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>2.7.8</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.5</unboundid-ldapsdk.version>
