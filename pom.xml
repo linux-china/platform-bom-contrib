@@ -42,7 +42,7 @@
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.35</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.3.0</graphviz-java.version>
+        <graphviz-java.version>0.4.0</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.3.2</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
@@ -121,7 +121,7 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.22.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.10.0</grpc.version>
+        <grpc.version>1.10.1</grpc.version>
         <asynchttpclient.version>2.4.4</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -253,7 +253,7 @@
         <aws-java-sdk.version>1.11.301</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
-        <kotlin.version>1.2.30</kotlin.version>
+        <kotlin.version>1.2.31</kotlin.version>
         <jruby.version>9.1.16.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
