@@ -98,7 +98,7 @@
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.11</toomuchcoding-jsonassert.version>
-        <wiremock.version>2.15.0</wiremock.version>
+        <wiremock.version>2.16.0</wiremock.version>
         <spockframework.version>1.1-groovy-2.4</spockframework.version>
         <easymock.version>3.5.1</easymock.version>
         <fluentlenium.version>3.5.2</fluentlenium.version>
@@ -158,7 +158,7 @@
         <thymeleaf-extras-springsecurity4.version>3.0.2.RELEASE</thymeleaf-extras-springsecurity4.version>
         <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
         <unbescape.version>1.1.5.RELEASE</unbescape.version>
-        <attoparser.version>2.0.4.RELEASE</attoparser.version>
+        <attoparser.version>2.0.5.RELEASE</attoparser.version>
         <jmustache.version>1.14</jmustache.version>
         <wss4j2.version>2.2.1</wss4j2.version>
         <objenesis.version>2.6</objenesis.version>
