@@ -81,7 +81,7 @@
         <google-truth.version>0.40</google-truth.version>
         <bytebuddy.version>1.8.3</bytebuddy.version>
         <javapoet.version>1.10.0</javapoet.version>
-        <aspectj.version>1.8.13</aspectj.version>
+        <aspectj.version>1.9.0</aspectj.version>
         <cglib.version>3.2.6</cglib.version>
         <lombok.version>1.16.20</lombok.version>
         <immutables.version>2.5.6</immutables.version>
@@ -157,7 +157,7 @@
         <thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
         <thymeleaf-extras-springsecurity4.version>3.0.2.RELEASE</thymeleaf-extras-springsecurity4.version>
         <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
-        <unbescape.version>1.1.5.RELEASE</unbescape.version>
+        <unbescape.version>1.1.6.RELEASE</unbescape.version>
         <attoparser.version>2.0.5.RELEASE</attoparser.version>
         <jmustache.version>1.14</jmustache.version>
         <wss4j2.version>2.2.1</wss4j2.version>
@@ -204,7 +204,7 @@
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
         <infinispan.version>9.2.1.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
-        <hikaricp.version>2.7.8</hikaricp.version>
+        <hikaricp.version>3.0.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.5</unboundid-ldapsdk.version>
         <postgresql.version>42.2.2.jre7</postgresql.version>
