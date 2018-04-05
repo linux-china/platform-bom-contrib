@@ -267,7 +267,7 @@
         <spring-ws.version>3.0.1.RELEASE</spring-ws.version>
         <spring-session.version>2.0.2.RELEASE</spring-session.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.0.3.RELEASE</spring-security.version>
+        <spring-security.version>5.0.4.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.3.0.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.5.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
@@ -286,9 +286,9 @@
         <spring-amqp.version>2.0.3.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.2.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>2.0.1.RELEASE</rabbit-http-client.version>
-        <spring-vault.version>2.0.0.RELEASE</spring-vault.version>
-        <spring-kafka.version>2.1.4.RELEASE</spring-kafka.version>
-        <spring-restdocs.version>2.0.0.RELEASE</spring-restdocs.version>
+        <spring-vault.version>2.0.1.RELEASE</spring-vault.version>
+        <spring-kafka.version>2.1.5.RELEASE</spring-kafka.version>
+        <spring-restdocs.version>2.0.1.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.2.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
