@@ -58,7 +58,7 @@
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>24.1-jre</guava.version>
         <guice.version>4.2.0</guice.version>
-        <jodd.version>4.3.0</jodd.version>
+        <jodd.version>4.3.1</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.5.0.Final</togglz.version>
@@ -118,7 +118,7 @@
         <okio.version>1.14.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.22.Final</netty.version>
+        <netty.version>4.1.23.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.11.0</grpc.version>
         <asynchttpclient.version>2.4.4</asynchttpclient.version>
@@ -164,7 +164,7 @@
         <jopt-simple.version>5.0.3</jopt-simple.version>
         <rometools.version>1.9.0</rometools.version>
         <xmlprojector.version>1.4.14</xmlprojector.version>
-        <freemarker.version>2.3.27-incubating</freemarker.version>
+        <freemarker.version>2.3.28</freemarker.version>
         <dom4j-java8.version>2.1.0</dom4j-java8.version>
         <hessian.version>4.0.51</hessian.version>
         <!--persistence-->
@@ -236,7 +236,7 @@
         <poi.version>3.17</poi.version>
         <kafka.version>1.1.0</kafka.version>
         <log4j2.version>2.11.0</log4j2.version>
-        <solr.version>7.2.1</solr.version>
+        <solr.version>7.3.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>8.5.29</tomcat.version>
         <groovy.version>3.0.0-alpha-1</groovy.version>
@@ -269,12 +269,12 @@
         <spring-ws.version>3.0.1.RELEASE</spring-ws.version>
         <spring-session.version>2.0.2.RELEASE</spring-session.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.0.3.RELEASE</spring-security.version>
+        <spring-security.version>5.0.4.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.3.0.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.5.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Lovelace-M1</spring-data-releasetrain.version>
-        <spring-integration.version>5.0.3.RELEASE</spring-integration.version>
+        <spring-integration.version>5.0.4.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.0.0.RELEASE</spring-boot.version>
@@ -285,10 +285,10 @@
         <spring-cloud-stream.version>Elmhurst.RC3</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.0.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.0.2.RELEASE</spring-amqp.version>
+        <spring-amqp.version>2.0.3.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.2.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>2.0.1.RELEASE</rabbit-http-client.version>
-        <spring-vault.version>2.0.0.RELEASE</spring-vault.version>
+        <spring-vault.version>2.0.1.RELEASE</spring-vault.version>
         <spring-kafka.version>2.1.4.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.0.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.2.RELEASE</spring-retry.version>
