@@ -252,7 +252,7 @@
         <apache-geode.version>1.4.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.63</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.309</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.310</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.31</kotlin.version>
@@ -277,7 +277,7 @@
         <spring-integration.version>5.0.4.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>2.0.0.RELEASE</spring-boot.version>
+        <spring-boot.version>2.0.1.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
         <spring-cloud-contract.version>2.0.0.M8</spring-cloud-contract.version>
         <spring-cloud.version>Finchley.M9</spring-cloud.version>
