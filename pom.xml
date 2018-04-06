@@ -1243,6 +1243,11 @@
                 <version>${rabbit-http-client.version}</version>
             </dependency>
             <dependency>
+                <groupId>org.infinispan</groupId>
+                <artifactId>infinispan-bom</artifactId>
+                <version>${infinispan.version}</version>
+            </dependency>
+            <dependency>
                 <groupId>org.springframework</groupId>
                 <artifactId>spring-framework-bom</artifactId>
                 <version>${spring.version}</version>
