@@ -12,7 +12,7 @@
 
     <groupId>com.github.linux-china</groupId>
     <artifactId>platform-bom-contrib</artifactId>
-    <version>Brussels-SR8-SNAPSHOT</version>
+    <version>Brussels-SR10-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Spring IO Platform Contrib bill of materials</name>
     <description>Spring IO Platform Contrib bill of materials</description>
@@ -250,7 +250,7 @@
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.63</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.311</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.312</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.31</kotlin.version>
