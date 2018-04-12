@@ -203,7 +203,7 @@
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
         <infinispan.version>9.2.1.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
-        <hikaricp.version>3.0.0</hikaricp.version>
+        <hikaricp.version>3.1.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.5</unboundid-ldapsdk.version>
         <postgresql.version>42.2.2.jre7</postgresql.version>
@@ -261,7 +261,7 @@
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
         <reactive-streams.version>1.0.2</reactive-streams.version>
-        <narayana.version>5.8.0.Final</narayana.version>
+        <narayana.version>5.8.1.Final</narayana.version>
         <atomikos.version>4.0.6</atomikos.version>
         <!--springsource-->
         <spring.version>5.0.5.RELEASE</spring.version>
@@ -270,7 +270,7 @@
         <spring-session.version>2.0.2.RELEASE</spring-session.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.0.4.RELEASE</spring-security.version>
-        <spring-security-oauth.version>2.3.1.RELEASE</spring-security-oauth.version>
+        <spring-security-oauth.version>2.3.2.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.5.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Lovelace-M1</spring-data-releasetrain.version>
@@ -1067,6 +1067,16 @@
             <dependency>
                 <groupId>org.junit.jupiter</groupId>
                 <artifactId>junit-jupiter-params</artifactId>
+                <version>${junit5.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.junit.jupiter</groupId>
+                <artifactId>junit-jupiter-engine</artifactId>
+                <version>${junit5.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.junit.vintage</groupId>
+                <artifactId>junit-vintage-engine</artifactId>
                 <version>${junit5.version}</version>
             </dependency>
             <dependency>
