@@ -189,7 +189,7 @@
         <ehcache.version>2.10.4</ehcache.version>
         <mapdb.version>3.0.5</mapdb.version>
         <flyway.version>5.0.7</flyway.version>
-        <liquibase.version>3.6.0</liquibase.version>
+        <liquibase.version>3.6.1</liquibase.version>
         <derby.version>10.14.1.0</derby.version>
         <flexy-pool.version>2.0.0</flexy-pool.version>
         <h2.version>1.4.197</h2.version>
@@ -204,7 +204,7 @@
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
         <infinispan.version>9.2.1.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
-        <hikaricp.version>3.0.0</hikaricp.version>
+        <hikaricp.version>3.1.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.5</unboundid-ldapsdk.version>
         <postgresql.version>42.2.2.jre7</postgresql.version>
@@ -259,7 +259,7 @@
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
         <reactive-streams.version>1.0.2</reactive-streams.version>
-        <narayana.version>5.8.0.Final</narayana.version>
+        <narayana.version>5.8.1.Final</narayana.version>
         <atomikos.version>4.0.6</atomikos.version>
         <!--springsource-->
         <spring.version>5.0.5.RELEASE</spring.version>
