@@ -79,7 +79,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.40</google-truth.version>
-        <bytebuddy.version>1.8.3</bytebuddy.version>
+        <bytebuddy.version>1.8.5</bytebuddy.version>
         <javapoet.version>1.10.0</javapoet.version>
         <aspectj.version>1.9.0</aspectj.version>
         <cglib.version>3.2.6</cglib.version>
@@ -134,12 +134,12 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <!--servers-->
-        <jetty.version>9.4.9.v20180320</jetty.version>
+        <jetty.version>9.4.10.RC0</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.22.Final</undertow.version>
         <!--parsers & templates & serializer-->
         <jackson.version>2.9.5</jackson.version>
-        <jackson-protobuf.version>0.9.9-jackson2.9-proto2</jackson-protobuf.version>
+        <jackson-protobuf.version>0.9.9-jackson2.9-proto3</jackson-protobuf.version>
         <classmate.version>1.4.0</classmate.version>
         <snakeyaml.version>1.21</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
@@ -164,7 +164,7 @@
         <objenesis.version>2.6</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
         <rometools.version>1.9.0</rometools.version>
-        <xmlprojector.version>1.4.14</xmlprojector.version>
+        <xmlprojector.version>1.4.15</xmlprojector.version>
         <freemarker.version>2.3.28</freemarker.version>
         <dom4j-java8.version>2.1.0</dom4j-java8.version>
         <hessian.version>4.0.51</hessian.version>
