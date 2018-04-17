@@ -58,7 +58,7 @@
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>24.1-jre</guava.version>
         <guice.version>4.2.0</guice.version>
-        <jodd.version>4.3.1</jodd.version>
+        <jodd.version>4.3.2</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.5.0.Final</togglz.version>
@@ -70,7 +70,7 @@
         <vavr.version>0.9.2</vavr.version>
         <awaitility.version>1.7.0</awaitility.version>
         <concurrentlinkedhashmap.version>1.4.2</concurrentlinkedhashmap.version>
-        <moneta.version>1.1</moneta.version>  <!-- java money -->
+        <moneta.version>1.2.1</moneta.version>  <!-- java money -->
         <quartz.version>2.3.0</quartz.version>
         <snappy.version>1.1.7.1</snappy.version>
         <springfox.version>2.8.0</springfox.version>
@@ -79,7 +79,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.40</google-truth.version>
-        <bytebuddy.version>1.8.3</bytebuddy.version>
+        <bytebuddy.version>1.8.5</bytebuddy.version>
         <javapoet.version>1.10.0</javapoet.version>
         <aspectj.version>1.9.0</aspectj.version>
         <cglib.version>3.2.6</cglib.version>
@@ -90,15 +90,15 @@
         <threetenbp.version>1.3.6</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
-        <junit5.version>5.1.1</junit5.version>
+        <junit5.version>5.2.0-M1</junit5.version>
         <mockito.version>2.18.0</mockito.version>
         <htmlunit.version>2.30</htmlunit.version>
         <testng.version>6.14.3</testng.version>
         <selenium.version>3.11.0</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
-        <toomuchcoding-jsonassert.version>0.4.11</toomuchcoding-jsonassert.version>
-        <wiremock.version>2.16.0</wiremock.version>
+        <toomuchcoding-jsonassert.version>0.4.12</toomuchcoding-jsonassert.version>
+        <wiremock.version>2.17.0</wiremock.version>
         <spockframework.version>1.1-groovy-2.4</spockframework.version>
         <easymock.version>3.6</easymock.version>
         <fluentlenium.version>3.5.2</fluentlenium.version>
@@ -133,14 +133,14 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <!--servers-->
-        <jetty.version>9.4.9.v20180320</jetty.version>
+        <jetty.version>9.4.10.RC0</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.22.Final</undertow.version>
         <!--parsers & templates & serializer-->
         <jackson.version>2.9.5</jackson.version>
-        <jackson-protobuf.version>0.9.9-jackson2.9-proto2</jackson-protobuf.version>
+        <jackson-protobuf.version>0.9.9-jackson2.9-proto3</jackson-protobuf.version>
         <classmate.version>1.4.0</classmate.version>
-        <snakeyaml.version>1.20</snakeyaml.version>
+        <snakeyaml.version>1.21</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.2</gson.version>
         <protobuf.version>3.5.1</protobuf.version>
@@ -149,7 +149,7 @@
         <itext.version>4.2.2</itext.version>
         <json.version>20180130</json.version>
         <kryo.version>4.0.2</kryo.version>
-        <jsoup.version>1.11.2</jsoup.version>
+        <jsoup.version>1.11.3</jsoup.version>
         <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
@@ -163,7 +163,7 @@
         <objenesis.version>2.6</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
         <rometools.version>1.9.0</rometools.version>
-        <xmlprojector.version>1.4.14</xmlprojector.version>
+        <xmlprojector.version>1.4.15</xmlprojector.version>
         <freemarker.version>2.3.28</freemarker.version>
         <dom4j-java8.version>2.1.0</dom4j-java8.version>
         <hessian.version>4.0.51</hessian.version>
@@ -188,7 +188,7 @@
         <ehcache.version>2.10.4</ehcache.version>
         <mapdb.version>3.0.5</mapdb.version>
         <flyway.version>5.0.7</flyway.version>
-        <liquibase.version>3.6.0</liquibase.version>
+        <liquibase.version>3.6.1</liquibase.version>
         <derby.version>10.14.1.0</derby.version>
         <flexy-pool.version>2.0.0</flexy-pool.version>
         <h2.version>1.4.197</h2.version>
@@ -247,7 +247,7 @@
         <artemis.version>2.5.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.3</httpasyncclient.version>
-        <svnkit.version>1.9.1</svnkit.version>
+        <svnkit.version>1.9.2</svnkit.version>
         <axiom.version>1.2.20</axiom.version>
         <apache-geode.version>1.5.0</apache-geode.version>
         <!--cloud services-->
@@ -273,7 +273,7 @@
         <spring-security-oauth.version>2.3.2.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.5.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
-        <spring-data-releasetrain.version>Lovelace-M1</spring-data-releasetrain.version>
+        <spring-data-releasetrain.version>Lovelace-M2</spring-data-releasetrain.version>
         <spring-integration.version>5.0.4.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
@@ -281,7 +281,7 @@
         <spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
         <spring-cloud-contract.version>2.0.0.M8</spring-cloud-contract.version>
         <spring-cloud.version>Finchley.M9</spring-cloud.version>
-        <spring-cloud-task.version>2.0.0.M3</spring-cloud-task.version>
+        <spring-cloud-task.version>2.0.0.RC1</spring-cloud-task.version>
         <spring-cloud-stream.version>Elmhurst.RELEASE</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.0.RELEASE</spring-web-flow.version>
