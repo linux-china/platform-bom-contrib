@@ -79,7 +79,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.40</google-truth.version>
-        <bytebuddy.version>1.8.8</bytebuddy.version>
+        <bytebuddy.version>1.8.9</bytebuddy.version>
         <javapoet.version>1.10.0</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.6</cglib.version>
@@ -134,7 +134,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <!--servers-->
-        <jetty.version>9.4.10.RC0</jetty.version>
+        <jetty.version>9.4.10.RC1</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.22.Final</undertow.version>
         <!--parsers & templates & serializer-->
