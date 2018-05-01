@@ -56,14 +56,14 @@
         <fugue.version>4.5.1</fugue.version>
         <joda-time.version>2.9.9</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
-        <guava.version>24.1-jre</guava.version>
+        <guava.version>25.0-jre</guava.version>
         <guice.version>4.2.0</guice.version>
         <jodd.version>4.3.2</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.5.0.Final</togglz.version>
         <ff4j.version>1.7.1</ff4j.version>
-        <underscore.version>1.31</underscore.version>
+        <underscore.version>1.32</underscore.version>
         <java-util.version>1.34.0</java-util.version>
         <verbalregex.version>1.5</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
@@ -79,8 +79,8 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.40</google-truth.version>
-        <bytebuddy.version>1.8.8</bytebuddy.version>
-        <javapoet.version>1.10.0</javapoet.version>
+        <bytebuddy.version>1.8.10</bytebuddy.version>
+        <javapoet.version>1.11.0</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.6</cglib.version>
         <lombok.version>1.16.20</lombok.version>
@@ -103,7 +103,7 @@
         <easymock.version>3.6</easymock.version>
         <fluentlenium.version>3.5.2</fluentlenium.version>
         <powermock.version>1.7.4</powermock.version>
-        <testcontainers.version>1.7.1</testcontainers.version>
+        <testcontainers.version>1.7.2</testcontainers.version>
         <dbunit.version>2.5.4</dbunit.version>
         <rest-assured.version>3.1.0</rest-assured.version>
         <assertj.version>3.9.1</assertj.version>
@@ -115,13 +115,13 @@
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>3.10.0</okhttp3.version>
-        <okio.version>1.14.0</okio.version>
+        <okio.version>1.14.1</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.24.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.11.0</grpc.version>
-        <asynchttpclient.version>2.4.5</asynchttpclient.version>
+        <asynchttpclient.version>2.4.6</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>5.3.3</searchbox-jest.version>
@@ -133,7 +133,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <!--servers-->
-        <jetty.version>9.4.10.RC0</jetty.version>
+        <jetty.version>9.4.10.RC1</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.22.Final</undertow.version>
         <!--parsers & templates & serializer-->
@@ -142,7 +142,7 @@
         <classmate.version>1.4.0</classmate.version>
         <snakeyaml.version>1.21</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
-        <gson.version>2.8.2</gson.version>
+        <gson.version>2.8.3</gson.version>
         <protobuf.version>3.5.1</protobuf.version>
         <json-smart.version>2.3</json-smart.version>
         <json-path.version>2.4.0</json-path.version>
@@ -255,7 +255,7 @@
         <aws-java-sdk.version>1.11.320</aws-java-sdk.version>
         <sendgrid.version>4.1.2</sendgrid.version>
         <!--languages-->
-        <kotlin.version>1.2.40</kotlin.version>
+        <kotlin.version>1.2.41</kotlin.version>
         <jruby.version>9.1.16.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
@@ -307,6 +307,13 @@
                 <groupId>org.jetbrains</groupId>
                 <artifactId>annotations</artifactId>
                 <version>${intellij.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.junit</groupId>
+                <artifactId>junit-bom</artifactId>
+                <version>${junit5.version}</version>
+                <scope>import</scope>
+                <type>pom</type>
             </dependency>
             <dependency>
                 <groupId>com.fasterxml.jackson</groupId>
@@ -969,13 +976,6 @@
                 <groupId>org.isomorphism</groupId>
                 <artifactId>token-bucket</artifactId>
                 <version>${token-bucket.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.junit</groupId>
-                <artifactId>junit-bom</artifactId>
-                <version>${junit5.version}</version>
-                <scope>import</scope>
-                <type>pom</type>
             </dependency>
             <dependency>
                 <groupId>com.toomuchcoding.jsonassert</groupId>
