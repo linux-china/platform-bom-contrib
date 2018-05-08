@@ -79,7 +79,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.40</google-truth.version>
-        <bytebuddy.version>1.8.10</bytebuddy.version>
+        <bytebuddy.version>1.8.11</bytebuddy.version>
         <javapoet.version>1.11.0</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.6</cglib.version>
@@ -121,20 +121,20 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.24.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.11.0</grpc.version>
+        <grpc.version>1.12.0</grpc.version>
         <asynchttpclient.version>2.4.7</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>5.3.3</searchbox-jest.version>
         <smack4.version>4.2.3</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
-        <openfeign.version>9.6.0</openfeign.version>
+        <openfeign.version>9.7.0</openfeign.version>
         <javax-mail.version>1.6.1</javax-mail.version>
         <javax-cache.version>1.1.0</javax-cache.version>
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <!--servers-->
-        <jetty.version>9.4.10.RC1</jetty.version>
+        <jetty.version>9.4.10.v20180503</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.22.Final</undertow.version>
         <!--parsers & templates & serializer-->
@@ -238,7 +238,7 @@
         <log4j2.version>2.11.0</log4j2.version>
         <solr.version>7.3.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>8.5.30</tomcat.version>
+        <tomcat.version>8.5.31</tomcat.version>
         <groovy.version>3.0.0-alpha-2</groovy.version>
         <zookeeper.version>3.4.12</zookeeper.version>
         <curator.version>4.0.1</curator.version>
@@ -252,7 +252,7 @@
         <!--cloud services-->
         <appengine-sdk.version>1.9.63</appengine-sdk.version>
         <aws-java-sdk.version>1.11.324</aws-java-sdk.version>
-        <sendgrid.version>4.1.2</sendgrid.version>
+        <sendgrid.version>4.2.0</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.41</kotlin.version>
         <jruby.version>9.1.17.0</jruby.version>
@@ -263,16 +263,16 @@
         <narayana.version>5.8.1.Final</narayana.version>
         <atomikos.version>4.0.6</atomikos.version>
         <!--springsource-->
-        <spring.version>5.0.5.RELEASE</spring.version>
+        <spring.version>5.0.6.RELEASE</spring.version>
         <spring-batch.version>4.0.1.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.1.RELEASE</spring-ws.version>
         <spring-session.version>2.0.2.RELEASE</spring-session.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.0.4.RELEASE</spring-security.version>
+        <spring-security.version>5.0.5.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.3.2.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.5.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
-        <spring-data-releasetrain.version>Kay-SR6</spring-data-releasetrain.version>
+        <spring-data-releasetrain.version>Kay-SR7</spring-data-releasetrain.version>
         <spring-integration.version>5.0.4.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
@@ -288,7 +288,7 @@
         <rabbit-amqp-client.version>5.2.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>2.0.1.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.0.1.RELEASE</spring-vault.version>
-        <spring-kafka.version>2.1.5.RELEASE</spring-kafka.version>
+        <spring-kafka.version>2.1.6.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.1.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.2.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
