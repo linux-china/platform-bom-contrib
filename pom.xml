@@ -94,7 +94,7 @@
         <mockito.version>2.18.3</mockito.version>
         <htmlunit.version>2.30</htmlunit.version>
         <testng.version>6.14.3</testng.version>
-        <selenium.version>3.11.0</selenium.version>
+        <selenium.version>3.12.0</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.12</toomuchcoding-jsonassert.version>
@@ -238,7 +238,7 @@
         <log4j2.version>2.11.0</log4j2.version>
         <solr.version>7.3.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>8.5.31</tomcat.version>
+        <tomcat.version>8.5.32</tomcat.version>
         <groovy.version>3.0.0-alpha-2</groovy.version>
         <zookeeper.version>3.4.12</zookeeper.version>
         <curator.version>4.0.1</curator.version>
@@ -276,7 +276,7 @@
         <spring-integration.version>5.0.5.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>1.5.12.RELEASE</spring-boot.version>
+        <spring-boot.version>1.5.13.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
         <spring-cloud-contract.version>1.2.4.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Edgware.SR3</spring-cloud.version>
