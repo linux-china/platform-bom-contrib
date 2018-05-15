@@ -119,7 +119,7 @@
         <okio.version>1.14.1</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.24.Final</netty.version>
+        <netty.version>4.1.25.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.12.0</grpc.version>
         <asynchttpclient.version>2.4.7</asynchttpclient.version>
@@ -181,7 +181,7 @@
         <mybatis-spring.version>1.3.2</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.2.4</mariadb.version>
-        <mongodb.version>3.6.3</mongodb.version>
+        <mongodb.version>3.7.0</mongodb.version>
         <embedded-mongo.version>2.0.3</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>3.5.0</cassandra-driver.version>
@@ -209,7 +209,7 @@
         <unboundid-ldapsdk.version>4.0.5</unboundid-ldapsdk.version>
         <postgresql.version>42.2.2.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.1.1</jdbi.version>
+        <jdbi.version>3.2.1</jdbi.version>
         <!--security-->
         <cas-client.version>3.4.1</cas-client.version>
         <jasypt.version>1.9.2</jasypt.version>
