@@ -92,7 +92,7 @@
         <!--testing-->
         <junit5.version>5.2.0</junit5.version>
         <mockito.version>2.18.3</mockito.version>
-        <htmlunit.version>2.30</htmlunit.version>
+        <htmlunit.version>2.31</htmlunit.version>
         <testng.version>6.14.3</testng.version>
         <selenium.version>3.12.0</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
