@@ -257,7 +257,7 @@
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.41</kotlin.version>
-        <jruby.version>9.1.16.0</jruby.version>
+        <jruby.version>9.2.0.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
