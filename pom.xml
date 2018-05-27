@@ -42,7 +42,7 @@
         <webjars-locator.version>0.34</webjars-locator.version>
         <webjars-locator-core.version>0.35</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.5.1</graphviz-java.version>
+        <graphviz-java.version>0.5.2</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.3.2</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
@@ -79,7 +79,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.40</google-truth.version>
-        <bytebuddy.version>1.8.11</bytebuddy.version>
+        <bytebuddy.version>1.8.12</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.6</cglib.version>
