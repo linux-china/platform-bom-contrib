@@ -83,7 +83,7 @@
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.6</cglib.version>
-        <lombok.version>1.16.20</lombok.version>
+        <lombok.version>1.16.22</lombok.version>
         <immutables.version>2.6.1</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
         <reflections.version>0.9.11</reflections.version>
@@ -122,7 +122,7 @@
         <netty.version>4.1.25.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.12.0</grpc.version>
-        <asynchttpclient.version>2.4.7</asynchttpclient.version>
+        <asynchttpclient.version>2.4.8</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>5.3.3</searchbox-jest.version>
@@ -187,14 +187,14 @@
         <cassandra-driver.version>3.5.0</cassandra-driver.version>
         <ehcache3.version>3.5.2</ehcache3.version>
         <ehcache.version>2.10.5</ehcache.version>
-        <mapdb.version>3.0.6</mapdb.version>
-        <flyway.version>5.1.0</flyway.version>
+        <mapdb.version>3.0.7</mapdb.version>
+        <flyway.version>5.1.1</flyway.version>
         <liquibase.version>3.6.1</liquibase.version>
         <derby.version>10.14.1.0</derby.version>
         <flexy-pool.version>2.0.0</flexy-pool.version>
         <h2.version>1.4.197</h2.version>
         <hsqldb.version>2.4.1</hsqldb.version>
-        <sqlite-jdbc.version>3.21.0.1</sqlite-jdbc.version>
+        <sqlite-jdbc.version> 3.23.1</sqlite-jdbc.version>
         <neo4j-ogm.version>3.1.0</neo4j-ogm.version>
         <etcd4j.version>2.16.0</etcd4j.version>
         <consul-api.version>1.4.0</consul-api.version>
