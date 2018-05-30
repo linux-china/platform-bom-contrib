@@ -54,7 +54,7 @@
         <!--productivity & tools-->
         <functionaljava.version>4.7</functionaljava.version>
         <fugue.version>4.6.1</fugue.version>
-        <joda-time.version>2.9.9</joda-time.version>
+        <joda-time.version>2.10</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>25.1-jre</guava.version>
         <guice.version>4.2.0</guice.version>
@@ -204,18 +204,19 @@
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
         <infinispan.version>9.2.3.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
-        <hikaricp.version>3.1.0</hikaricp.version>
+        <hikaricp.version>3.2.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.6</unboundid-ldapsdk.version>
         <postgresql.version>42.2.2.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
+        <jdbi.version>3.2.1</jdbi.version>
         <!--security-->
         <cas-client.version>3.4.1</cas-client.version>
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.59</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>5.7</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>5.56</oauth2-oidc-sdk.version>
+        <nimbus-jose-jwt.version>5.10</nimbus-jose-jwt.version>
+        <oauth2-oidc-sdk.version>5.62</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.9</httpcore.version>
         <httpclient.version>4.5.5</httpclient.version>
@@ -589,6 +590,11 @@
                 <groupId>org.threeten</groupId>
                 <artifactId>threeten-extra</artifactId>
                 <version>1.3.2</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jdbi</groupId>
+                <artifactId>jdbi3-core</artifactId>
+                <version>${jdbi.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.tmatesoft.svnkit</groupId>
