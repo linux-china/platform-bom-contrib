@@ -53,7 +53,7 @@
         <jna.version>4.5.1</jna.version>
         <!--productivity & tools-->
         <functionaljava.version>4.7</functionaljava.version>
-        <fugue.version>4.6.1</fugue.version>
+        <fugue.version>4.6.2</fugue.version>
         <joda-time.version>2.10</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>25.1-jre</guava.version>
