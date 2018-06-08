@@ -178,7 +178,7 @@
         <lettuce5.version>5.0.4.RELEASE</lettuce5.version>
         <caffeine.version>2.6.2</caffeine.version>
         <jettison.version>1.4.0</jettison.version>
-        <mybatis.version>3.4.6</mybatis.version>
+        <mybatis.version>3a.4.6</mybatis.version>
         <mybatis-spring.version>1.3.2</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.2.5</mariadb.version>
@@ -252,7 +252,7 @@
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.64</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.342</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.343</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.41</kotlin.version>
