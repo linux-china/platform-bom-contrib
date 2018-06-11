@@ -297,7 +297,7 @@
         <spring-cloud-connector.version>2.0.1.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <spring-cloud-localconfig-connector.version>2.0.1.RELEASE</spring-cloud-localconfig-connector.version>
-        <reactor-bom.version>Bismuth-SR9</reactor-bom.version>
+        <reactor-bom.version>Bismuth-SR10</reactor-bom.version>
     </properties>
 
     <dependencyManagement>
@@ -1188,7 +1188,7 @@
             <dependency>
                 <groupId>io.projectreactor</groupId>
                 <artifactId>reactor-core</artifactId>
-                <version>3.1.7.RELEASE</version>
+                <version>3.1.8.RELEASE</version>
             </dependency>
             <dependency>
                 <groupId>io.projectreactor</groupId>
