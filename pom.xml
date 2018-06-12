@@ -137,7 +137,7 @@
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.22.Final</undertow.version>
         <!--parsers & templates & serializer-->
-        <jackson.version>2.9.5</jackson.version>
+        <jackson.version>2.9.6</jackson.version>
         <jackson-protobuf.version>0.9.9-jackson2.9-proto3</jackson-protobuf.version>
         <classmate.version>1.4.0</classmate.version>
         <snakeyaml.version>1.21</snakeyaml.version>
@@ -255,7 +255,7 @@
         <apache-geode.version>1.6.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.64</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.344</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.345</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.41</kotlin.version>
@@ -267,7 +267,7 @@
         <narayana.version>5.8.2.Final</narayana.version>
         <atomikos.version>4.0.6</atomikos.version>
         <!--springsource-->
-        <spring.version>5.0.6.RELEASE</spring.version>
+        <spring.version>5.0.7.RELEASE</spring.version>
         <spring-batch.version>4.0.1.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.1.RELEASE</spring-ws.version>
         <spring-session.version>2.0.3.RELEASE</spring-session.version>
