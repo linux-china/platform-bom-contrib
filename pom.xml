@@ -138,7 +138,7 @@
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.22.Final</undertow.version>
         <!--parsers & templates & serializer-->
-        <jackson.version>2.9.5</jackson.version>
+        <jackson.version>2.9.6</jackson.version>
         <jackson-protobuf.version>0.9.9-jackson2.9-proto3</jackson-protobuf.version>
         <classmate.version>1.4.0</classmate.version>
         <snakeyaml.version>1.21</snakeyaml.version>
