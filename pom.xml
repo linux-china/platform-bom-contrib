@@ -210,7 +210,7 @@
         <unboundid-ldapsdk.version>4.0.6</unboundid-ldapsdk.version>
         <postgresql.version>42.2.2.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.2.1</jdbi.version>
+        <jdbi.version>3.3.0</jdbi.version>
         <!--security-->
         <cas-client.version>3.4.1</cas-client.version>
         <jasypt.version>1.9.2</jasypt.version>
@@ -289,10 +289,10 @@
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.0.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.0.4.RELEASE</spring-amqp.version>
-        <rabbit-amqp-client.version>5.2.0</rabbit-amqp-client.version>
+        <rabbit-amqp-client.version>5.3.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>2.1.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.0.1.RELEASE</spring-vault.version>
-        <spring-kafka.version>2.1.6.RELEASE</spring-kafka.version>
+        <spring-kafka.version>2.1.7.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.1.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.2.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
