@@ -91,7 +91,7 @@
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.2.0</junit5.version>
-        <mockito.version>2.18.3</mockito.version>
+        <mockito.version>2.19.0</mockito.version>
         <htmlunit.version>2.31</htmlunit.version>
         <testng.version>6.14.3</testng.version>
         <selenium.version>3.12.0</selenium.version>
@@ -103,7 +103,7 @@
         <easymock.version>3.6</easymock.version>
         <fluentlenium.version>3.5.2</fluentlenium.version>
         <powermock.version>1.7.4</powermock.version>
-        <testcontainers.version>1.7.3</testcontainers.version>
+        <testcontainers.version>1.8.0</testcontainers.version>
         <dbunit.version>2.5.4</dbunit.version>
         <rest-assured.version>3.1.0</rest-assured.version>
         <assertj.version>3.10.0</assertj.version>
@@ -163,7 +163,7 @@
         <objenesis.version>2.6</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
         <rometools.version>1.10.0</rometools.version>
-        <xmlprojector.version>1.4.15</xmlprojector.version>
+        <xmlprojector.version>1.4.16</xmlprojector.version>
         <freemarker.version>2.3.28</freemarker.version>
         <dom4j-java8.version>2.1.0</dom4j-java8.version>
         <hessian.version>4.0.51</hessian.version>
