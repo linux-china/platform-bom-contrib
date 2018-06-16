@@ -111,7 +111,7 @@
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
         <database-rider.version>1.2.8</database-rider.version>
-        <archunit.version>0.8.1</archunit.version>
+        <archunit.version>0.8.2</archunit.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>3.10.0</okhttp3.version>
@@ -255,7 +255,7 @@
         <apache-geode.version>1.6.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.64</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.348</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.349</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.50</kotlin.version>
