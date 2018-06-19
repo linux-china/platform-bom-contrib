@@ -159,7 +159,7 @@
         <unbescape.version>1.1.6.RELEASE</unbescape.version>
         <attoparser.version>2.0.5.RELEASE</attoparser.version>
         <jmustache.version>1.14</jmustache.version>
-        <wss4j2.version>2.2.1</wss4j2.version>
+        <wss4j2.version>2.2.2</wss4j2.version>
         <objenesis.version>2.6</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
         <rometools.version>1.10.0</rometools.version>
