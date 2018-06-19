@@ -235,7 +235,7 @@
         <commons-text.version>1.4</commons-text.version>
         <commons-vfs2.version>2.2</commons-vfs2.version>
         <commons-pool2.version>2.5.0</commons-pool2.version>
-        <commons-dbcp2.version>2.3.0</commons-dbcp2.version>
+        <commons-dbcp2.version>2.4.0</commons-dbcp2.version>
         <poi.version>3.17</poi.version>
         <kafka.version>1.1.0</kafka.version>
         <log4j2.version>2.11.0</log4j2.version>
@@ -282,7 +282,7 @@
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.0.3.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
-        <spring-cloud-contract.version>2.0.0.RC2</spring-cloud-contract.version>
+        <spring-cloud-contract.version>2.0.0.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
         <spring-cloud-task.version>2.0.0.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Elmhurst.RELEASE</spring-cloud-stream.version>
