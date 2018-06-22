@@ -75,7 +75,8 @@
         <snappy.version>1.1.7.1</snappy.version>
         <springfox.version>2.8.0</springfox.version>
         <!--code & classes-->
-        <intellij.version>16.0.2</intellij.version>
+        <jetbrains-annotations.version>16.0.2</jetbrains-annotations.version>
+        <swagger-oai.version>2.0.2</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.41</google-truth.version>
@@ -120,7 +121,7 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.25.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.12.0</grpc.version>
+        <grpc.version>1.13.1</grpc.version>
         <asynchttpclient.version>2.4.9</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -239,7 +240,7 @@
         <poi.version>3.17</poi.version>
         <kafka.version>1.1.0</kafka.version>
         <log4j2.version>2.11.0</log4j2.version>
-        <solr.version>7.3.1</solr.version>
+        <solr.version>7.4.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>8.5.32</tomcat.version>
         <groovy.version>3.0.0-alpha-2</groovy.version>
@@ -309,7 +310,12 @@
             <dependency>
                 <groupId>org.jetbrains</groupId>
                 <artifactId>annotations</artifactId>
-                <version>${intellij.version}</version>
+                <version>${jetbrains-annotations.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.swagger.core.v3</groupId>
+                <artifactId>swagger-annotations</artifactId>
+                <version>${swagger-oai.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.junit</groupId>
