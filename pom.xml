@@ -47,7 +47,7 @@
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.0.2</dropwizard-metrics.version>
-        <jolokia.version>1.5.0</jolokia.version>
+        <jolokia.version>1.6.0</jolokia.version>
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.25</slf4j.version>
         <jna.version>4.5.1</jna.version>
@@ -73,7 +73,7 @@
         <moneta.version>1.2.1</moneta.version>  <!-- java money -->
         <quartz.version>2.3.0</quartz.version>
         <snappy.version>1.1.7.2</snappy.version>
-        <springfox.version>2.8.0</springfox.version>
+        <springfox.version>2.9.2</springfox.version>
         <!--code & classes-->
         <jetbrains-annotations.version>16.0.2</jetbrains-annotations.version>
         <swagger-oai.version>2.0.2</swagger-oai.version>
@@ -95,7 +95,7 @@
         <mockito.version>2.19.0</mockito.version>
         <htmlunit.version>2.31</htmlunit.version>
         <testng.version>6.14.3</testng.version>
-        <selenium.version>3.12.0</selenium.version>
+        <selenium.version>3.13.0</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.12</toomuchcoding-jsonassert.version>
@@ -173,7 +173,7 @@
         <!--persistence-->
         <hibernate.version>5.3.0.Final</hibernate.version>
         <hibernate-validator.version>6.0.10.Final</hibernate-validator.version>
-        <jooq.version>3.11.1</jooq.version>
+        <jooq.version>3.11.2</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.4.Final</lettuce.version>
         <lettuce5.version>5.0.4.RELEASE</lettuce5.version>
@@ -241,7 +241,7 @@
         <solr.version>7.4.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>8.5.32</tomcat.version>
-        <groovy.version>3.0.0-alpha-2</groovy.version>
+        <groovy.version>2.5.0</groovy.version>
         <zookeeper.version>3.4.12</zookeeper.version>
         <curator.version>4.0.1</curator.version>
         <zkclient.version>0.10</zkclient.version>
