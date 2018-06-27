@@ -54,7 +54,7 @@
         <!--productivity & tools-->
         <functionaljava.version>4.7</functionaljava.version>
         <fugue.version>4.6.2</fugue.version>
-        <jodga-time.version>2.10</jodga-time.version>
+        <joda-time.version>2.10</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>25.1-jre</guava.version>
         <guice.version>4.2.0</guice.version>
@@ -183,7 +183,7 @@
         <mybatis-spring.version>1.3.2</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.2.5</mariadb.version>
-        <mongodb.version>3.6.3</mongodb.version>
+        <mongodb.version>3.8.0</mongodb.version>
         <embedded-mongo.version>2.1.1</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>3.5.0</cassandra-driver.version>
@@ -204,7 +204,7 @@
         <hazelcast.version>3.10.2</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
-        <infinispan.version>9.2.3.Final</infinispan.version>
+        <infinispan.version>9.3.0.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>3.2.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
