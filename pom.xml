@@ -102,7 +102,7 @@
         <wiremock.version>2.18.0</wiremock.version>
         <spockframework.version>1.1-groovy-2.4</spockframework.version>
         <easymock.version>3.6</easymock.version>
-        <fluentlenium.version>3.5.2</fluentlenium.version>
+        <fluentlenium.version>3.6.0</fluentlenium.version>
         <powermock.version>1.7.4</powermock.version>
         <testcontainers.version>1.8.0</testcontainers.version>
         <dbunit.version>2.5.4</dbunit.version>
