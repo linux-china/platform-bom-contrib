@@ -83,7 +83,7 @@
         <bytebuddy.version>1.8.12</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
-        <cglib.version>3.2.6</cglib.version>
+        <cglib.version>3.2.7</cglib.version>
         <lombok.version>1.18.0</lombok.version>
         <immutables.version>2.6.1</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
@@ -186,7 +186,7 @@
         <mongodb.version>3.8.0</mongodb.version>
         <embedded-mongo.version>2.1.1</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
-        <cassandra-driver.version>3.5.0</cassandra-driver.version>
+        <cassandra-driver.version>3.5.1</cassandra-driver.version>
         <ehcache3.version>3.5.2</ehcache3.version>
         <ehcache.version>2.10.5</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
@@ -256,7 +256,7 @@
         <aws-java-sdk.version>1.11.359</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
-        <kotlin.version>1.2.50</kotlin.version>
+        <kotlin.version>1.2.51</kotlin.version>
         <jruby.version>9.2.0.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
