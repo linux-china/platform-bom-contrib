@@ -80,7 +80,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.41</google-truth.version>
-        <bytebuddy.version>1.8.12</bytebuddy.version>
+        <bytebuddy.version>1.8.13</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.7</cglib.version>
@@ -200,7 +200,7 @@
         <neo4j-ogm.version>3.1.0</neo4j-ogm.version>
         <etcd4j.version>2.16.0</etcd4j.version>
         <consul-api.version>1.4.0</consul-api.version>
-        <elasticsearch.version>6.3.0</elasticsearch.version>
+        <elasticsearch.version>6.3.1</elasticsearch.version>
         <hazelcast.version>3.10.2</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
@@ -215,7 +215,7 @@
         <!--security-->
         <cas-client.version>3.4.1</cas-client.version>
         <jasypt.version>1.9.2</jasypt.version>
-        <bouncycastle.version>1.59</bouncycastle.version>
+        <bouncycastle.version>1.60</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <!--apache-->
         <httpcore.version>4.4.10</httpcore.version>
@@ -262,7 +262,7 @@
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
         <reactive-streams.version>1.0.2</reactive-streams.version>
-        <narayana.version>5.8.2.Final</narayana.version>
+        <narayana.version>5.9.0.Final</narayana.version>
         <atomikos.version>4.0.6</atomikos.version>
         <!--springsource-->
         <spring.version>5.0.7.RELEASE</spring.version>
