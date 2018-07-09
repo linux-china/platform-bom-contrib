@@ -164,7 +164,7 @@
         <wss4j2.version>2.2.2</wss4j2.version>
         <objenesis.version>2.6</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
-        <rometools.version>1.10.0</rometools.version>
+        <rometools.version>1.11.0</rometools.version>
         <xmlprojector.version>1.4.16</xmlprojector.version>
         <freemarker.version>2.3.28</freemarker.version>
         <dom4j-java8.version>2.1.0</dom4j-java8.version>
@@ -219,7 +219,7 @@
         <token-bucket.version>1.7</token-bucket.version>
         <!--apache-->
         <httpcore.version>4.4.10</httpcore.version>
-        <httpclient.version>4.5.5</httpclient.version>
+        <httpclient.version>4.5.6</httpclient.version>
         <commons-cli.version>1.4</commons-cli.version>
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-net.version>3.6</commons-net.version>
@@ -233,7 +233,7 @@
         <commons-configuration2.version>2.2</commons-configuration2.version>
         <commons-text.version>1.4</commons-text.version>
         <commons-vfs2.version>2.2</commons-vfs2.version>
-        <commons-pool2.version>2.5.0</commons-pool2.version>
+        <commons-pool2.version>2.6.0</commons-pool2.version>
         <commons-dbcp2.version>2.4.0</commons-dbcp2.version>
         <poi.version>3.17</poi.version>
         <kafka.version>1.1.0</kafka.version>
