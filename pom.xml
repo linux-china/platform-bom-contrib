@@ -174,7 +174,7 @@
         <woodstox5.version>5.1.0</woodstox5.version>
         <openpdf.version>1.1.0</openpdf.version>
         <!--persistence-->
-        <hibernate.version>5.3.0.Final</hibernate.version>
+        <hibernate.version>5.3.2.Final</hibernate.version>
         <hibernate-validator.version>6.0.10.Final</hibernate-validator.version>
         <jooq.version>3.11.2</jooq.version>
         <jedis.version>2.9.0</jedis.version>
@@ -217,13 +217,14 @@
         <jdbi.version>3.3.0</jdbi.version>
         <couchbase-client.version>2.6.0</couchbase-client.version>
         <openjpa.version>3.0.0</openjpa.version>
+        <mysql.version>8.0.11</mysql.version>
         <!--security-->
         <cas-client.version>3.4.1</cas-client.version>
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.60</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>5.10</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>5.62</oauth2-oidc-sdk.version>
+        <nimbus-jose-jwt.version>5.11</nimbus-jose-jwt.version>
+        <oauth2-oidc-sdk.version>5.63</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.10</httpcore.version>
         <httpclient.version>4.5.6</httpclient.version>
