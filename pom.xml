@@ -262,7 +262,7 @@
         <apache-geode.version>1.6.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.64</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.365</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.366</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.51</kotlin.version>
@@ -292,7 +292,7 @@
         <spring-cloud-contract.version>2.0.0.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
         <spring-cloud-task.version>2.0.0.RELEASE</spring-cloud-task.version>
-        <spring-cloud-stream.version>Elmhurst.RELEASE</spring-cloud-stream.version>
+        <spring-cloud-stream.version>Elmhurst.SR1</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.0.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.0.4.RELEASE</spring-amqp.version>
