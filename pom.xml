@@ -249,7 +249,7 @@
         <solr.version>7.4.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>8.5.32</tomcat.version>
-        <groovy.version>2.5.0</groovy.version>
+        <groovy.version>2.5.1</groovy.version>
         <zookeeper.version>3.4.12</zookeeper.version>
         <curator.version>4.0.1</curator.version>
         <zkclient.version>0.10</zkclient.version>
@@ -262,7 +262,7 @@
         <apache-geode.version>1.6.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.64</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.368</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.369</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.51</kotlin.version>
