@@ -120,7 +120,7 @@
         <okio.version>1.14.1</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.25.Final</netty.version>
+        <netty.version>4.1.27.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.13.2</grpc.version>
         <asynchttpclient.version>2.5.2</asynchttpclient.version>
@@ -173,7 +173,7 @@
         <!--persistence-->
         <hibernate.version>5.3.0.Final</hibernate.version>
         <hibernate-validator.version>6.0.10.Final</hibernate-validator.version>
-        <jooq.version>3.11.2</jooq.version>
+        <jooq.version>3.11.3</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.4.Final</lettuce.version>
         <lettuce5.version>5.0.4.RELEASE</lettuce5.version>
@@ -209,7 +209,7 @@
         <hikaricp.version>3.2.0</hikaricp.version>
         <jasperreports.version>6.6.0</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.6</unboundid-ldapsdk.version>
-        <postgresql.version>42.2.2.jre7</postgresql.version>
+        <postgresql.version>42.2.4.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.3.0</jdbi.version>
         <!--security-->
@@ -234,14 +234,14 @@
         <commons-text.version>1.4</commons-text.version>
         <commons-vfs2.version>2.2</commons-vfs2.version>
         <commons-pool2.version>2.6.0</commons-pool2.version>
-        <commons-dbcp2.version>2.4.0</commons-dbcp2.version>
+        <commons-dbcp2.version>2.5.0</commons-dbcp2.version>
         <poi.version>3.17</poi.version>
         <kafka.version>1.1.0</kafka.version>
         <log4j2.version>2.11.0</log4j2.version>
         <solr.version>7.4.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>8.5.32</tomcat.version>
-        <groovy.version>2.5.0</groovy.version>
+        <groovy.version>2.5.1</groovy.version>
         <zookeeper.version>3.4.12</zookeeper.version>
         <curator.version>4.0.1</curator.version>
         <zkclient.version>0.10</zkclient.version>
