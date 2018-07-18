@@ -134,7 +134,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <!--servers-->
-        <jetty.version>9.4.11.v20180605</jetty.version>
+        <jetty.version>9.4.12.RC0</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>1.4.22.Final</undertow.version>
         <!--parsers & templates & serializer-->
@@ -204,7 +204,7 @@
         <etcd4j.version>2.16.0</etcd4j.version>
         <consul-api.version>1.4.0</consul-api.version>
         <elasticsearch.version>6.3.1</elasticsearch.version>
-        <hazelcast.version>3.10.2</hazelcast.version>
+        <hazelcast.version>3.10.3</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
         <infinispan.version>9.3.0.Final</infinispan.version>
@@ -224,7 +224,7 @@
         <bouncycastle.version>1.60</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>5.13</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>5.64.1</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>5.64.2</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.10</httpcore.version>
         <httpclient.version>4.5.6</httpclient.version>
