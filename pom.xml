@@ -53,7 +53,7 @@
         <jna.version>4.5.2</jna.version>
         <!--productivity & tools-->
         <functionaljava.version>4.7</functionaljava.version>
-        <fugue.version>4.6.2</fugue.version>
+        <fugue.version>4.7.1</fugue.version>
         <joda-time.version>2.10</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>25.1-jre</guava.version>
@@ -112,11 +112,11 @@
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
         <database-rider.version>1.2.8</database-rider.version>
-        <archunit.version>0.8.2</archunit.version>
+        <archunit.version>0.8.3</archunit.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>3.11.0</okhttp3.version>
-        <okio.version>1.14.1</okio.version>
+        <okio.version>1.15.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.27.Final</netty.version>
@@ -174,8 +174,8 @@
         <woodstox5.version>5.1.0</woodstox5.version>
         <openpdf.version>1.1.0</openpdf.version>
         <!--persistence-->
-        <hibernate.version>5.3.2.Final</hibernate.version>
-        <hibernate-validator.version>6.0.10.Final</hibernate-validator.version>
+        <hibernate.version>5.3.3.Final</hibernate.version>
+        <hibernate-validator.version>6.0.11.Final</hibernate-validator.version>
         <jooq.version>3.11.3</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.4.Final</lettuce.version>
@@ -223,7 +223,7 @@
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.60</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>5.13</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>5.14</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>5.64.2</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.10</httpcore.version>
@@ -244,7 +244,7 @@
         <commons-pool2.version>2.6.0</commons-pool2.version>
         <commons-dbcp2.version>2.5.0</commons-dbcp2.version>
         <poi.version>3.17</poi.version>
-        <kafka.version>1.1.0</kafka.version>
+        <kafka.version>1.1.1</kafka.version>
         <log4j2.version>2.11.0</log4j2.version>
         <solr.version>7.4.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
@@ -308,7 +308,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <spring-cloud-localconfig-connector.version>2.0.1.RELEASE</spring-cloud-localconfig-connector.version>
         <reactor-bom.version>Bismuth-SR10</reactor-bom.version>
-        <micrometer.version>1.0.5</micrometer.version>
+        <micrometer.version>1.0.6</micrometer.version>
     </properties>
 
     <dependencyManagement>
