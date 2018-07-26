@@ -274,7 +274,7 @@
         <narayana.version>5.9.0.Final</narayana.version>
         <atomikos.version>4.0.6</atomikos.version>
         <!--springsource-->
-        <spring.version>5.0.7.RELEASE</spring.version>
+        <spring.version>5.0.8.RELEASE</spring.version>
         <spring-batch.version>4.0.1.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.1.RELEASE</spring-ws.version>
         <spring-session.version>2.0.3.RELEASE</spring-session.version>
@@ -283,7 +283,7 @@
         <spring-security-oauth.version>2.3.3.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.5.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
-        <spring-data-releasetrain.version>Lovelace-M3</spring-data-releasetrain.version>
+        <spring-data-releasetrain.version>Lovelace-RC1</spring-data-releasetrain.version>
         <spring-integration.version>5.0.6.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
