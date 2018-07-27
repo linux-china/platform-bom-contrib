@@ -80,11 +80,11 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
-        <bytebuddy.version>1.8.14</bytebuddy.version>
+        <bytebuddy.version>1.8.15</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.7</cglib.version>
-        <lombok.version>1.18.0</lombok.version>
+        <lombok.version>1.18.2</lombok.version>
         <immutables.version>2.6.3</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
         <reflections.version>0.9.11</reflections.version>
@@ -92,7 +92,7 @@
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.2.0</junit5.version>
-        <mockito.version>2.20.0</mockito.version>
+        <mockito.version>2.20.1</mockito.version>
         <htmlunit.version>2.31</htmlunit.version>
         <testng.version>6.14.3</testng.version>
         <selenium.version>3.13.0</selenium.version>
@@ -120,7 +120,7 @@
         <okio.version>1.15.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.27.Final</netty.version>
+        <netty.version>4.1.28.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.13.2</grpc.version>
         <asynchttpclient.version>2.5.2</asynchttpclient.version>
@@ -200,8 +200,8 @@
         <neo4j-ogm.version>3.1.0</neo4j-ogm.version>
         <etcd4j.version>2.16.0</etcd4j.version>
         <consul-api.version>1.4.0</consul-api.version>
-        <elasticsearch.version>6.3.1</elasticsearch.version>
-        <hazelcast.version>3.10.3</hazelcast.version>
+        <elasticsearch.version>6.3.2</elasticsearch.version>
+        <hazelcast.version>3.10.4</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
         <infinispan.version>9.3.0.Final</infinispan.version>
@@ -267,10 +267,10 @@
         <!--springsource-->
         <spring.version>5.0.8.RELEASE</spring.version>
         <spring-batch.version>4.0.1.RELEASE</spring-batch.version>
-        <spring-ws.version>3.0.1.RELEASE</spring-ws.version>
+        <spring-ws.version>3.0.3.RELEASE</spring-ws.version>
         <spring-session.version>2.0.4.RELEASE</spring-session.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.0.6.RELEASE</spring-security.version>
+        <spring-security.version>5.0.7.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.3.3.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.5.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
@@ -279,18 +279,18 @@
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>1.5.14.RELEASE</spring-boot.version>
-        <spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
+        <spring-hateoas.version>0.25.0.RELEASE</spring-hateoas.version>
         <spring-cloud-contract.version>1.2.4.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Edgware.SR4</spring-cloud.version>
         <spring-cloud-task.version>1.2.3.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Ditmars.SR4</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.0.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.0.4.RELEASE</spring-amqp.version>
+        <spring-amqp.version>2.0.5.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.3.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>2.1.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.0.1.RELEASE</spring-vault.version>
-        <spring-kafka.version>2.1.7.RELEASE</spring-kafka.version>
+        <spring-kafka.version>2.1.8.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.2.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.2.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
