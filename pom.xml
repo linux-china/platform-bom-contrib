@@ -121,7 +121,7 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.28.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.13.2</grpc.version>
+        <grpc.version>1.14.0</grpc.version>
         <asynchttpclient.version>2.5.2</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -262,7 +262,7 @@
         <apache-geode.version>1.6.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.64</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.375</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.376</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.51</kotlin.version>
