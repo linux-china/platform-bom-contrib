@@ -178,8 +178,8 @@
         <hibernate-validator.version>6.0.11.Final</hibernate-validator.version>
         <jooq.version>3.11.3</jooq.version>
         <jedis.version>2.9.0</jedis.version>
-        <lettuce.version>4.4.4.Final</lettuce.version>
-        <lettuce5.version>5.0.4.RELEASE</lettuce5.version>
+        <lettuce.version>4.4.6.Final</lettuce.version>
+        <lettuce5.version>5.0.5.RELEASE</lettuce5.version>
         <caffeine.version>2.6.2</caffeine.version>
         <jettison.version>1.4.0</jettison.version>
         <mybatis.version>3.4.6</mybatis.version>
