@@ -92,6 +92,7 @@
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.2.0</junit5.version>
+        <java-faker.version>0.15</java-faker.version>
         <mockito.version>2.21.0</mockito.version>
         <htmlunit.version>2.32</htmlunit.version>
         <testng.version>6.14.3</testng.version>
@@ -349,6 +350,11 @@
                 <groupId>org.junit.vintage</groupId>
                 <artifactId>junit-vintage-engine</artifactId>
                 <version>${junit5.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.javafaker</groupId>
+                <artifactId>javafaker</artifactId>
+                <version>${java-faker.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.fasterxml.jackson</groupId>
