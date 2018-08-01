@@ -266,7 +266,7 @@
         <aws-java-sdk.version>1.11.377</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
-        <kotlin.version>1.2.51</kotlin.version>
+        <kotlin.version>1.2.60</kotlin.version>
         <jruby.version>9.2.0.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
