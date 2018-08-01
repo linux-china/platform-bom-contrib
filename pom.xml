@@ -125,7 +125,7 @@
         <asynchttpclient.version>2.5.2</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
-        <searchbox-jest.version>5.3.3</searchbox-jest.version>
+        <searchbox-jest.version>6.3.0</searchbox-jest.version>
         <smack4.version>4.2.3</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>9.7.0</openfeign.version>
@@ -207,7 +207,7 @@
         <hazelcast.version>3.10.4</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
-        <infinispan.version>9.3.0.Final</infinispan.version>
+        <infinispan.version>9.3.1.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>3.2.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
@@ -284,12 +284,12 @@
         <spring-security-rsa.version>1.0.5.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Lovelace-RC1</spring-data-releasetrain.version>
-        <spring-integration.version>5.0.6.RELEASE</spring-integration.version>
+        <spring-integration.version>5.0.7.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.0.4.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.25.0.RELEASE</spring-hateoas.version>
-        <spring-cloud-contract.version>2.0.0.RELEASE</spring-cloud-contract.version>
+        <spring-cloud-contract.version>2.0.1.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Finchley.SR1</spring-cloud.version>
         <spring-cloud-task.version>2.0.0.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Elmhurst.SR1</spring-cloud-stream.version>
@@ -299,7 +299,7 @@
         <rabbit-amqp-client.version>5.3.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>2.1.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.0.1.RELEASE</spring-vault.version>
-        <spring-kafka.version>2.1.7.RELEASE</spring-kafka.version>
+        <spring-kafka.version>2.1.8.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.2.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.2.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
