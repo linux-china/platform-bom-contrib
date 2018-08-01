@@ -113,6 +113,7 @@
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
         <database-rider.version>1.2.9</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
+        <java-faker.version>0.15</java-faker.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>3.11.0</okhttp3.version>
@@ -979,6 +980,11 @@
                 <version>${junit5.version}</version>
                 <scope>import</scope>
                 <type>pom</type>
+            </dependency>
+            <dependency>
+                <groupId>com.github.javafaker</groupId>
+                <artifactId>javafaker</artifactId>
+                <version>${java-faker.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.toomuchcoding.jsonassert</groupId>
