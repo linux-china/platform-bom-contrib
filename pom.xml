@@ -92,7 +92,7 @@
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.2.0</junit5.version>
-        <mockito.version>2.20.1</mockito.version>
+        <mockito.version>2.21.0</mockito.version>
         <htmlunit.version>2.32</htmlunit.version>
         <testng.version>6.14.3</testng.version>
         <selenium.version>3.13.0</selenium.version>
@@ -104,14 +104,14 @@
         <easymock.version>3.6</easymock.version>
         <fluentlenium.version>3.6.1</fluentlenium.version>
         <powermock.version>1.7.4</powermock.version>
-        <testcontainers.version>1.8.1</testcontainers.version>
+        <testcontainers.version>1.8.2</testcontainers.version>
         <dbunit.version>2.5.4</dbunit.version>
         <rest-assured.version>3.1.0</rest-assured.version>
         <assertj.version>3.10.0</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.2.8</database-rider.version>
+        <database-rider.version>1.2.9</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
@@ -145,7 +145,7 @@
         <snakeyaml.version>1.21</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.5</gson.version>
-        <protobuf.version>3.6.0</protobuf.version>
+        <protobuf.version>3.6.1</protobuf.version>
         <json-smart.version>2.3</json-smart.version>
         <json-path.version>2.4.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -204,7 +204,7 @@
         <hazelcast.version>3.10.4</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
-        <infinispan.version>9.3.0.Final</infinispan.version>
+        <infinispan.version>9.3.1.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>3.2.0</hikaricp.version>
         <jasperreports.version>6.6.0</jasperreports.version>
