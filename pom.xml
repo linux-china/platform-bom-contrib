@@ -7,12 +7,12 @@
     <parent>
         <groupId>io.spring.platform</groupId>
         <artifactId>platform-bom</artifactId>
-        <version>Cairo-SR2</version>
+        <version>Cairo-SR3</version>
     </parent>
 
     <groupId>com.github.linux-china</groupId>
     <artifactId>platform-bom-contrib</artifactId>
-    <version>Cairo-SR1</version>
+    <version>Cairo-SR3</version>
     <packaging>pom</packaging>
     <name>Spring IO Platform Contrib bill of materials</name>
     <description>Spring IO Platform Contrib bill of materials</description>
@@ -287,7 +287,7 @@
         <spring-integration.version>5.0.6.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>2.0.3.RELEASE</spring-boot.version>
+        <spring-boot.version>2.0.4.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.25.0.RELEASE</spring-hateoas.version>
         <spring-cloud-contract.version>2.0.0.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
