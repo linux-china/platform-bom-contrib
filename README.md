@@ -18,7 +18,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
          <dependency>
              <groupId>com.github.linux-china</groupId>
              <artifactId>platform-bom-contrib</artifactId>
-             <version>Brussels-SR7</version>
+             <version>Cairo-SR3</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
@@ -33,7 +33,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
          <dependency>
              <groupId>com.github.linux-china</groupId>
              <artifactId>platform-bom-contrib</artifactId>
-             <version>Brussels-RELEASE</version>
+             <version>Cairo-SR3</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
@@ -115,6 +115,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * orika: Simpler, better and faster Java bean mapping framework
 * MapStruct: MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach  http://mapstruct.org/
 * jackson-datatype-protobuf: Jackson module that adds support for serializing and deserializing Google's Protocol Buffers to and from JSON
+* java faker: https://github.com/DiUS/java-faker
 
 ### Developer Notice
 
