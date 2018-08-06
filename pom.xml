@@ -42,7 +42,7 @@
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.35</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.5.3</graphviz-java.version>
+        <graphviz-java.version>0.5.4</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.3.2</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
@@ -105,7 +105,7 @@
         <easymock.version>3.6</easymock.version>
         <fluentlenium.version>3.6.1</fluentlenium.version>
         <powermock.version>1.7.4</powermock.version>
-        <testcontainers.version>1.8.2</testcontainers.version>
+        <testcontainers.version>1.8.3</testcontainers.version>
         <dbunit.version>2.5.4</dbunit.version>
         <rest-assured.version>3.1.0</rest-assured.version>
         <assertj.version>3.10.0</assertj.version>
@@ -173,7 +173,7 @@
         <xstream.version>1.4.10-java7</xstream.version>
         <aalto-xml.version>1.1.0</aalto-xml.version>
         <woodstox5.version>5.1.0</woodstox5.version>
-        <openpdf.version>1.1.0</openpdf.version>
+        <openpdf.version>1.2.0</openpdf.version>
         <!--persistence-->
         <hibernate.version>5.3.3.Final</hibernate.version>
         <hibernate-validator.version>6.0.11.Final</hibernate-validator.version>
