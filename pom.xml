@@ -80,7 +80,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
-        <bytebuddy.version>1.8.16</bytebuddy.version>
+        <bytebuddy.version>1.8.17</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.7</cglib.version>
@@ -212,7 +212,7 @@
         <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>3.2.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
-        <unboundid-ldapsdk.version>4.0.6</unboundid-ldapsdk.version>
+        <unboundid-ldapsdk.version>4.0.7</unboundid-ldapsdk.version>
         <postgresql.version>42.2.4.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.4.0</jdbi.version>
@@ -224,8 +224,8 @@
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.60</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>5.14</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>5.64.2</oauth2-oidc-sdk.version>
+        <nimbus-jose-jwt.version>6.0</nimbus-jose-jwt.version>
+        <oauth2-oidc-sdk.version>5.64.3</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.10</httpcore.version>
         <httpclient.version>4.5.6</httpclient.version>
