@@ -76,7 +76,7 @@
         <springfox.version>2.9.2</springfox.version>
         <!--code & classes-->
         <jetbrains-annotations.version>16.0.2</jetbrains-annotations.version>
-        <swagger-oai.version>2.0.2</swagger-oai.version>
+        <swagger-oai.version>2.0.3</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
@@ -177,7 +177,7 @@
         <!--persistence-->
         <hibernate.version>5.3.3.Final</hibernate.version>
         <hibernate-validator.version>6.0.11.Final</hibernate-validator.version>
-        <jooq.version>3.11.3</jooq.version>
+        <jooq.version>3.11.4</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.6.Final</lettuce.version>
         <lettuce5.version>5.0.5.RELEASE</lettuce5.version>
@@ -239,7 +239,7 @@
         <commons-lang3.version>3.7</commons-lang3.version>
         <commons-csv.version>1.5</commons-csv.version>
         <commons-crypto.version>1.0.0</commons-crypto.version>
-        <commons-configuration2.version>2.2</commons-configuration2.version>
+        <commons-configuration2.version>2.3</commons-configuration2.version>
         <commons-text.version>1.4</commons-text.version>
         <commons-vfs2.version>2.2</commons-vfs2.version>
         <commons-pool2.version>2.6.0</commons-pool2.version>
@@ -254,7 +254,7 @@
         <zookeeper.version>3.4.12</zookeeper.version>
         <curator.version>4.0.1</curator.version>
         <zkclient.version>0.10</zkclient.version>
-        <activemq.version>5.15.4</activemq.version>
+        <activemq.version>5.15.5</activemq.version>
         <artemis.version>2.6.2</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
