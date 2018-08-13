@@ -126,7 +126,7 @@
         <asynchttpclient.version>2.5.2</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
-        <searchbox-jest.version>6.3.0</searchbox-jest.version>
+        <searchbox-jest.version>6.3.1</searchbox-jest.version>
         <smack4.version>4.2.3</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>9.7.0</openfeign.version>
@@ -176,7 +176,7 @@
         <openpdf.version>1.2.0</openpdf.version>
         <!--persistence-->
         <hibernate.version>5.3.3.Final</hibernate.version>
-        <hibernate-validator.version>6.0.11.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.0.12.Final</hibernate-validator.version>
         <jooq.version>3.11.4</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.6.Final</lettuce.version>
