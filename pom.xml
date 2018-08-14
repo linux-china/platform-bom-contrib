@@ -76,7 +76,7 @@
         <springfox.version>2.9.2</springfox.version>
         <!--code & classes-->
         <jetbrains-annotations.version>16.0.2</jetbrains-annotations.version>
-        <swagger-oai.version>2.0.2</swagger-oai.version>
+        <swagger-oai.version>2.0.3</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
@@ -127,7 +127,7 @@
         <asynchttpclient.version>2.5.2</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
-        <searchbox-jest.version>6.3.0</searchbox-jest.version>
+        <searchbox-jest.version>6.3.1</searchbox-jest.version>
         <smack4.version>4.2.3</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>9.7.0</openfeign.version>
@@ -172,7 +172,7 @@
         <hessian.version>4.0.51</hessian.version>
         <xstream.version>1.4.10-java7</xstream.version>
         <!--persistence-->
-        <hibernate.version>5.3.4.Final</hibernate.version>
+        <hibernate.version>5.3.5.Final</hibernate.version>
         <hibernate-validator.version>6.0.11.Final</hibernate-validator.version>
         <jooq.version>3.11.4</jooq.version>
         <jedis.version>2.9.0</jedis.version>
@@ -208,7 +208,7 @@
         <infinispan.version>9.3.1.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>3.2.0</hikaricp.version>
-        <jasperreports.version>6.6.0</jasperreports.version>
+        <jasperreports.version>6.7.0</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.7</unboundid-ldapsdk.version>
         <postgresql.version>42.2.4.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
@@ -231,7 +231,7 @@
         <commons-lang3.version>3.7</commons-lang3.version>
         <commons-csv.version>1.5</commons-csv.version>
         <commons-crypto.version>1.0.0</commons-crypto.version>
-        <commons-configuration2.version>2.2</commons-configuration2.version>
+        <commons-configuration2.version>2.3</commons-configuration2.version>
         <commons-text.version>1.4</commons-text.version>
         <commons-vfs2.version>2.2</commons-vfs2.version>
         <commons-pool2.version>2.6.0</commons-pool2.version>
@@ -242,7 +242,7 @@
         <solr.version>7.4.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>8.5.32</tomcat.version>
-        <groovy.version>2.5.1</groovy.version>
+        <groovy.version>2.5.2</groovy.version>
         <zookeeper.version>3.4.12</zookeeper.version>
         <curator.version>4.0.1</curator.version>
         <zkclient.version>0.10</zkclient.version>
