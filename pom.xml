@@ -62,7 +62,7 @@
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
-        <ff4j.version>1.7.1</ff4j.version>
+        <ff4j.version>1.7.2</ff4j.version>
         <underscore.version>1.35</underscore.version>
         <java-util.version>1.34.0</java-util.version>
         <verbalregex.version>1.5</verbalregex.version>
@@ -107,7 +107,7 @@
         <testcontainers.version>1.8.3</testcontainers.version>
         <dbunit.version>2.5.4</dbunit.version>
         <rest-assured.version>3.1.0</rest-assured.version>
-        <assertj.version>3.10.0</assertj.version>
+        <assertj.version>3.11.0</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
@@ -150,7 +150,7 @@
         <json-smart.version>2.3</json-smart.version>
         <json-path.version>2.4.0</json-path.version>
         <itext.version>4.2.2</itext.version>
-        <json.version>20180130</json.version>
+        <json.version>20180813</json.version>
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.11.3</jsoup.version>
         <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
@@ -173,7 +173,7 @@
         <xstream.version>1.4.10-java7</xstream.version>
         <!--persistence-->
         <hibernate.version>5.3.5.Final</hibernate.version>
-        <hibernate-validator.version>6.0.11.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.0.12.Final</hibernate-validator.version>
         <jooq.version>3.11.4</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.4.Final</lettuce.version>
