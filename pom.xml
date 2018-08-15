@@ -236,6 +236,7 @@
         <commons-vfs2.version>2.2</commons-vfs2.version>
         <commons-pool2.version>2.6.0</commons-pool2.version>
         <commons-dbcp2.version>2.5.0</commons-dbcp2.version>
+        <commons-rng.version>1.1</commons-rng.version>
         <poi.version>3.17</poi.version>
         <kafka.version>2.0.0</kafka.version>
         <log4j2.version>2.11.1</log4j2.version>
@@ -868,6 +869,11 @@
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-configuration2</artifactId>
                 <version>${commons-configuration2.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.commons</groupId>
+                <artifactId>commons-rng-core</artifactId>
+                <version>${commons-rng.version}</version>
             </dependency>
             <dependency>
                 <groupId>net.bytebuddy</groupId>
