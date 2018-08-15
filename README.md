@@ -63,6 +63,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * jodd
 * commons-configuration2
 * commons-text
+* commons-rng: Random Numbers Generators http://commons.apache.org/proper/commons-rng/
 * bytebuddy
 * cglib
 * java-util: https://github.com/jdereg/java-util/
