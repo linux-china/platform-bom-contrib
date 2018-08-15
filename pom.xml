@@ -108,7 +108,7 @@
         <testcontainers.version>1.8.3</testcontainers.version>
         <dbunit.version>2.5.4</dbunit.version>
         <rest-assured.version>3.1.0</rest-assured.version>
-        <assertj.version>3.10.0</assertj.version>
+        <assertj.version>3.11.0</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
@@ -149,7 +149,7 @@
         <json-smart.version>2.3</json-smart.version>
         <json-path.version>2.4.0</json-path.version>
         <itext.version>4.2.2</itext.version>
-        <json.version>20180130</json.version>
+        <json.version>20180813</json.version>
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.11.3</jsoup.version>
         <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
@@ -244,6 +244,7 @@
         <commons-vfs2.version>2.2</commons-vfs2.version>
         <commons-pool2.version>2.6.0</commons-pool2.version>
         <commons-dbcp2.version>2.5.0</commons-dbcp2.version>
+        <commons-rng.version>1.1</commons-rng.version>
         <poi.version>3.17</poi.version>
         <kafka.version>2.0.0</kafka.version>
         <log4j2.version>2.11.1</log4j2.version>
@@ -579,6 +580,11 @@
                 <groupId>commons-configuration</groupId>
                 <artifactId>commons-configuration</artifactId>
                 <version>${commons-configuration.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.commons</groupId>
+                <artifactId>commons-rng-core</artifactId>
+                <version>${commons-rng.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.commons</groupId>
