@@ -169,7 +169,7 @@
         <freemarker.version>2.3.28</freemarker.version>
         <dom4j-java8.version>2.1.1</dom4j-java8.version>
         <hessian.version>4.0.51</hessian.version>
-        <xmlunit.version>2.6.0</xmlunit.version>
+        <xmlunit.version>2.6.1</xmlunit.version>
         <xstream.version>1.4.10-java7</xstream.version>
         <aalto-xml.version>1.1.0</aalto-xml.version>
         <woodstox5.version>5.1.0</woodstox5.version>
