@@ -43,7 +43,7 @@
         <webjars-locator-core.version>0.35</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.5.4</graphviz-java.version>
-        <twelvemonkeys-imageio.version>3.3.2</twelvemonkeys-imageio.version>
+        <twelvemonkeys-imageio.version>3.4</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.0.2</dropwizard-metrics.version>
@@ -52,7 +52,7 @@
         <slf4j.version>1.7.25</slf4j.version>
         <jna.version>4.5.2</jna.version>
         <!--productivity & tools-->
-        <functionaljava.version>4.7</functionaljava.version>
+        <functionaljava.version>4.8</functionaljava.version>
         <fugue.version>4.7.1</fugue.version>
         <joda-time.version>2.10</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
@@ -88,7 +88,7 @@
         <immutables.version>2.6.3</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
         <reflections.version>0.9.11</reflections.version>
-        <threetenbp.version>1.3.6</threetenbp.version>
+        <threetenbp.version>1.3.7</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.2.0</junit5.version>
@@ -111,7 +111,7 @@
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.2.10</database-rider.version>
+        <database-rider.version>1.2.11</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <java-faker.version>0.15</java-faker.version>
         <!--network-->
@@ -228,7 +228,7 @@
         <commons-codec.version>1.11</commons-codec.version>
         <commons-fileupload.version>1.3.3</commons-fileupload.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
-        <commons-lang3.version>3.7</commons-lang3.version>
+        <commons-lang3.version>3.8</commons-lang3.version>
         <commons-csv.version>1.5</commons-csv.version>
         <commons-crypto.version>1.0.0</commons-crypto.version>
         <commons-configuration2.version>2.3</commons-configuration2.version>
@@ -564,7 +564,7 @@
             <dependency>
                 <groupId>org.threeten</groupId>
                 <artifactId>threeten-extra</artifactId>
-                <version>1.3.2</version>
+                <version>1.4</version>
             </dependency>
             <dependency>
                 <groupId>org.tmatesoft.svnkit</groupId>
