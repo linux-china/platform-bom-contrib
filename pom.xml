@@ -121,7 +121,7 @@
         <okio.version>1.15.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.28.Final</netty.version>
+        <netty.version>4.1.29.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.14.0</grpc.version>
         <asynchttpclient.version>2.5.2</asynchttpclient.version>
@@ -242,7 +242,7 @@
         <log4j2.version>2.11.1</log4j2.version>
         <solr.version>7.4.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>8.5.32</tomcat.version>
+        <tomcat.version>8.5.33</tomcat.version>
         <groovy.version>2.5.2</groovy.version>
         <zookeeper.version>3.4.12</zookeeper.version>
         <curator.version>4.0.1</curator.version>
@@ -255,7 +255,7 @@
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.64</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.391</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.394</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.61</kotlin.version>
