@@ -37,7 +37,7 @@
 
     <properties>
         <jline.version>3.0.0.M1</jline.version>
-        <janino.version>3.0.8</janino.version>
+        <janino.version>3.0.9</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.34</webjars-locator.version>
         <webjars-locator-core.version>0.35</webjars-locator-core.version>
@@ -80,12 +80,12 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
-        <bytebuddy.version>1.8.17</bytebuddy.version>
+        <bytebuddy.version>1.8.18</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.7</cglib.version>
         <lombok.version>1.18.2</lombok.version>
-        <immutables.version>2.7.0</immutables.version>
+        <immutables.version>2.7.1</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
         <reflections.version>0.9.11</reflections.version>
         <threetenbp.version>1.3.7</threetenbp.version>
@@ -107,18 +107,18 @@
         <testcontainers.version>1.8.3</testcontainers.version>
         <dbunit.version>2.5.4</dbunit.version>
         <rest-assured.version>3.1.1</rest-assured.version>
-        <assertj.version>3.11.0</assertj.version>
+        <assertj.version>3.11.1</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
         <database-rider.version>1.2.11</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
-        <java-faker.version>0.15</java-faker.version>
+        <java-faker.version>0.16</java-faker.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>3.11.0</okhttp3.version>
         <retrofit.version>2.4.0</retrofit.version>
-        <okio.version>1.15.0</okio.version>
+        <okio.version>2.0.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.29.Final</netty.version>
@@ -141,9 +141,9 @@
         <undertow.version>1.4.22.Final</undertow.version>
         <!--parsers & templates & serializer-->
         <jackson.version>2.9.6</jackson.version>
-        <jackson-protobuf.version>0.9.9-jackson2.9-proto3</jackson-protobuf.version>
+        <jackson-protobuf.version>0.9.10-jackson2.9-proto3</jackson-protobuf.version>
         <classmate.version>1.4.0</classmate.version>
-        <snakeyaml.version>1.21</snakeyaml.version>
+        <snakeyaml.version>1.23</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.5</gson.version>
         <protobuf.version>3.6.1</protobuf.version>
@@ -184,16 +184,16 @@
         <mybatis-spring.version>1.3.2</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.2.6</mariadb.version>
-        <mongodb.version>3.8.0</mongodb.version>
+        <mongodb.version>3.8.1</mongodb.version>
         <embedded-mongo.version>2.1.1</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>3.5.1</cassandra-driver.version>
-        <ehcache3.version>3.5.2</ehcache3.version>
+        <ehcache3.version>3.6.0</ehcache3.version>
         <ehcache.version>2.10.5</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
         <flyway.version>5.1.4</flyway.version>
         <liquibase.version>3.6.2</liquibase.version>
-        <derby.version>10.14.1.0</derby.version>
+        <derby.version>10.14.2.0</derby.version>
         <flexy-pool.version>2.0.0</flexy-pool.version>
         <h2.version>1.4.197</h2.version>
         <hsqldb.version>2.4.1</hsqldb.version>
@@ -210,7 +210,7 @@
         <hikaricp.version>3.2.0</hikaricp.version>
         <jasperreports.version>6.7.0</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.7</unboundid-ldapsdk.version>
-        <postgresql.version>42.2.4.jre7</postgresql.version>
+        <postgresql.version>42.2.5.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.4.0</jdbi.version>
         <!--security-->
