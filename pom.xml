@@ -80,7 +80,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
-        <bytebuddy.version>1.8.18</bytebuddy.version>
+        <bytebuddy.version>1.8.19</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.7</cglib.version>
@@ -191,7 +191,7 @@
         <mongodb-reactivestreams.version>1.9.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.1.1</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
-        <cassandra-driver.version>3.5.1</cassandra-driver.version>
+        <cassandra-driver.version>3.6.0</cassandra-driver.version>
         <ehcache3.version>3.6.0</ehcache3.version>
         <ehcache.version>2.10.5</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
@@ -202,7 +202,7 @@
         <h2.version>1.4.197</h2.version>
         <hsqldb.version>2.4.1</hsqldb.version>
         <sqlite-jdbc.version>3.23.1</sqlite-jdbc.version>
-        <neo4j-ogm.version>3.1.0</neo4j-ogm.version>
+        <neo4j-ogm.version>3.1.2</neo4j-ogm.version>
         <etcd4j.version>2.16.0</etcd4j.version>
         <consul-api.version>1.4.0</consul-api.version>
         <elasticsearch.version>6.4.0</elasticsearch.version>
@@ -302,7 +302,7 @@
         <rabbit-amqp-client.version>5.3.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>2.1.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.0.1.RELEASE</spring-vault.version>
-        <spring-kafka.version>2.1.8.RELEASE</spring-kafka.version>
+        <spring-kafka.version>2.1.9.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.2.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.2.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
