@@ -80,7 +80,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
-        <bytebuddy.version>1.8.19</bytebuddy.version>
+        <bytebuddy.version>1.8.20</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.7</cglib.version>
@@ -130,7 +130,7 @@
         <smack4.version>4.3.0</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>10.0.1</openfeign.version>
-        <javax-mail.version>1.6.1</javax-mail.version>
+        <javax-mail.version>1.6.2</javax-mail.version>
         <javax-cache.version>1.1.0</javax-cache.version>
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
@@ -173,7 +173,7 @@
         <xstream.version>1.4.10-java7</xstream.version>
         <aalto-xml.version>1.1.0</aalto-xml.version>
         <woodstox5.version>5.1.0</woodstox5.version>
-        <openpdf.version>1.2.1</openpdf.version>
+        <openpdf.version>1.2.2</openpdf.version>
         <!--persistence-->
         <hibernate.version>5.3.6.Final</hibernate.version>
         <hibernate-validator.version>6.0.12.Final</hibernate-validator.version>
