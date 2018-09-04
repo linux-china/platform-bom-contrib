@@ -63,7 +63,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
         <ff4j.version>1.7.2</ff4j.version>
-        <underscore.version>1.35</underscore.version>
+        <underscore.version>1.36</underscore.version>
         <java-util.version>1.34.0</java-util.version>
         <verbalregex.version>1.5</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
@@ -80,7 +80,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
-        <bytebuddy.version>1.8.20</bytebuddy.version>
+        <bytebuddy.version>1.8.21</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.7</cglib.version>
@@ -91,7 +91,7 @@
         <threetenbp.version>1.3.7</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
-        <junit5.version>5.2.0</junit5.version>
+        <junit5.version>5.3.0</junit5.version>
         <mockito.version>2.21.0</mockito.version>
         <htmlunit.version>2.32</htmlunit.version>
         <testng.version>6.14.3</testng.version>
@@ -124,14 +124,14 @@
         <netty.version>4.1.29.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.14.0</grpc.version>
-        <asynchttpclient.version>2.5.2</asynchttpclient.version>
+        <asynchttpclient.version>2.5.3</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
         <smack4.version>4.3.0</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>10.0.1</openfeign.version>
-        <javax-mail.version>1.6.1</javax-mail.version>
+        <javax-mail.version>1.6.2</javax-mail.version>
         <javax-cache.version>1.1.0</javax-cache.version>
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
@@ -187,7 +187,7 @@
         <mongodb.version>3.8.1</mongodb.version>
         <embedded-mongo.version>2.1.1</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
-        <cassandra-driver.version>3.5.1</cassandra-driver.version>
+        <cassandra-driver.version>3.6.0</cassandra-driver.version>
         <ehcache3.version>3.6.0</ehcache3.version>
         <ehcache.version>2.10.5</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
@@ -289,7 +289,7 @@
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.0.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.0.5.RELEASE</spring-amqp.version>
-        <rabbit-amqp-client.version>5.3.0</rabbit-amqp-client.version>
+        <rabbit-amqp-client.version>5.4.1</rabbit-amqp-client.version>
         <rabbit-http-client.version>2.1.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.0.1.RELEASE</spring-vault.version>
         <spring-kafka.version>2.1.9.RELEASE</spring-kafka.version>
