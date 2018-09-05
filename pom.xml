@@ -76,7 +76,7 @@
         <springfox.version>2.9.2</springfox.version>
         <!--code & classes-->
         <jetbrains-annotations.version>16.0.2</jetbrains-annotations.version>
-        <swagger-oai.version>2.0.3</swagger-oai.version>
+        <swagger-oai.version>2.0.4</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
@@ -101,7 +101,7 @@
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.13</toomuchcoding-jsonassert.version>
         <wiremock.version>2.18.0</wiremock.version>
-        <spockframework.version>1.2-RC1-groovy-2.5</spockframework.version>
+        <spockframework.version>1.2-RC2-groovy-2.5</spockframework.version>
         <easymock.version>3.6</easymock.version>
         <fluentlenium.version>3.6.1</fluentlenium.version>
         <powermock.version>1.7.4</powermock.version>
