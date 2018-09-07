@@ -204,7 +204,7 @@
         <sqlite-jdbc.version>3.23.1</sqlite-jdbc.version>
         <neo4j-ogm.version>3.1.2</neo4j-ogm.version>
         <etcd4j.version>2.16.0</etcd4j.version>
-        <consul-api.version>1.4.0</consul-api.version>
+        <consul-api.version>1.4.1</consul-api.version>
         <elasticsearch.version>6.4.0</elasticsearch.version>
         <hazelcast.version>3.10.4</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
@@ -225,7 +225,7 @@
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.60</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>6.0.1</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>6.0.2</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.0</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.10</httpcore.version>
@@ -256,8 +256,8 @@
         <zookeeper.version>3.4.12</zookeeper.version>
         <curator.version>4.0.1</curator.version>
         <zkclient.version>0.10</zkclient.version>
-        <activemq.version>5.15.5</activemq.version>
-        <artemis.version>2.6.2</artemis.version>
+        <activemq.version>5.15.6</activemq.version>
+        <artemis.version>2.6.3</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
         <svnkit.version>1.9.3</svnkit.version>
@@ -265,7 +265,7 @@
         <apache-geode.version>1.6.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.64</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.403</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.404</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.61</kotlin.version>
