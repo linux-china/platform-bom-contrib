@@ -43,7 +43,7 @@
         <webjars-locator-core.version>0.35</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.5.4</graphviz-java.version>
-        <twelvemonkeys-imageio.version>3.4</twelvemonkeys-imageio.version>
+        <twelvemonkeys-imageio.version>3.4.1</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.0.2</dropwizard-metrics.version>
@@ -80,7 +80,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
-        <bytebuddy.version>1.8.21</bytebuddy.version>
+        <bytebuddy.version>1.8.22</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.7</cglib.version>
@@ -102,7 +102,7 @@
         <wiremock.version>2.18.0</wiremock.version>
         <spockframework.version>1.2-RC2-groovy-2.5</spockframework.version>
         <easymock.version>3.6</easymock.version>
-        <fluentlenium.version>3.6.1</fluentlenium.version>
+        <fluentlenium.version>3.7.0</fluentlenium.version>
         <powermock.version>1.7.4</powermock.version>
         <testcontainers.version>1.8.3</testcontainers.version>
         <dbunit.version>2.5.4</dbunit.version>
@@ -267,7 +267,7 @@
         <narayana.version>5.9.0.Final</narayana.version>
         <atomikos.version>4.0.6</atomikos.version>
         <!--springsource-->
-        <spring.version>5.0.8.RELEASE</spring.version>
+        <spring.version>5.0.9.RELEASE</spring.version>
         <spring-batch.version>4.0.1.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.3.RELEASE</spring-ws.version>
         <spring-session.version>2.0.5.RELEASE</spring-session.version>
