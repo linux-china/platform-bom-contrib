@@ -280,17 +280,17 @@
         <spring.version>5.0.8.RELEASE</spring.version>
         <spring-batch.version>4.0.1.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.3.RELEASE</spring-ws.version>
-        <spring-session.version>2.0.4.RELEASE</spring-session.version>
+        <spring-session.version>2.0.5.RELEASE</spring-session.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.0.7.RELEASE</spring-security.version>
+        <spring-security.version>5.0.8.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.3.3.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.7.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Lovelace-RC2</spring-data-releasetrain.version>
-        <spring-integration.version>5.0.7.RELEASE</spring-integration.version>
+        <spring-integration.version>5.0.8.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>2.0.4.RELEASE</spring-boot.version>
+        <spring-boot.version>2.0.5.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.25.0.RELEASE</spring-hateoas.version>
         <spring-cloud-contract.version>2.0.1.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Finchley.SR1</spring-cloud.version>
@@ -310,7 +310,7 @@
         <spring-cloud-connector.version>2.0.1.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <spring-cloud-localconfig-connector.version>2.0.1.RELEASE</spring-cloud-localconfig-connector.version>
-        <reactor-bom.version>Bismuth-SR10</reactor-bom.version>
+        <reactor-bom.version>Bismuth-SR11</reactor-bom.version>
         <micrometer.version>1.0.6</micrometer.version>
     </properties>
 
