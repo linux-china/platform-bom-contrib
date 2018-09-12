@@ -280,7 +280,7 @@
         <spring-integration.version>5.0.8.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>1.5.15.RELEASE</spring-boot.version>
+        <spring-boot.version>1.5.16.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.25.0.RELEASE</spring-hateoas.version>
         <spring-cloud-contract.version>1.2.4.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Edgware.SR4</spring-cloud.version>
@@ -288,10 +288,10 @@
         <spring-cloud-stream.version>Ditmars.SR4</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.0.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.0.5.RELEASE</spring-amqp.version>
+        <spring-amqp.version>2.0.6.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.4.1</rabbit-amqp-client.version>
         <rabbit-http-client.version>2.1.0.RELEASE</rabbit-http-client.version>
-        <spring-vault.version>2.0.1.RELEASE</spring-vault.version>
+        <spring-vault.version>2.0.2.RELEASE</spring-vault.version>
         <spring-kafka.version>2.1.9.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.2.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.2.RELEASE</spring-retry.version>
