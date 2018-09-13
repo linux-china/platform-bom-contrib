@@ -94,7 +94,7 @@
         <junit5.version>5.3.1</junit5.version>
         <java-faker.version>0.16</java-faker.version>
         <mockito.version>2.22.0</mockito.version>
-        <htmlunit.version>2.32</htmlunit.version>
+        <htmlunit.version>2.33</htmlunit.version>
         <testng.version>6.14.3</testng.version>
         <selenium.version>3.14.0</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -176,8 +176,8 @@
         <openpdf.version>1.2.3.java7</openpdf.version>
         <!--persistence-->
         <hibernate.version>5.3.6.Final</hibernate.version>
-        <hibernate-validator.version>6.0.12.Final</hibernate-validator.version>
-        <jooq.version>3.11.4</jooq.version>
+        <hibernate-validator.version>6.0.13.Final</hibernate-validator.version>
+        <jooq.version>3.11.5</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.4.6.Final</lettuce.version>
         <lettuce5.version>5.0.5.RELEASE</lettuce5.version>
@@ -297,7 +297,7 @@
         <spring-cloud-task.version>2.0.0.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Elmhurst.SR1</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
-        <spring-web-flow.version>2.5.0.RELEASE</spring-web-flow.version>
+        <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.0.5.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.4.1</rabbit-amqp-client.version>
         <rabbit-http-client.version>2.1.0.RELEASE</rabbit-http-client.version>
