@@ -57,7 +57,7 @@
         <joda-time.version>2.10</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>26.0-jre</guava.version>
-        <guice.version>4.2.0</guice.version>
+        <guice.version>4.2.1</guice.version>
         <jodd.version>5.0.4</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
@@ -100,7 +100,7 @@
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.13</toomuchcoding-jsonassert.version>
-        <wiremock.version>2.18.0</wiremock.version>
+        <wiremock.version>2.19.0</wiremock.version>
         <spockframework.version>1.2-RC3-groovy-2.5</spockframework.version>
         <easymock.version>3.6</easymock.version>
         <fluentlenium.version>3.7.0</fluentlenium.version>
@@ -179,8 +179,8 @@
         <hibernate-validator.version>6.0.13.Final</hibernate-validator.version>
         <jooq.version>3.11.5</jooq.version>
         <jedis.version>2.9.0</jedis.version>
-        <lettuce.version>4.4.6.Final</lettuce.version>
-        <lettuce5.version>5.0.5.RELEASE</lettuce5.version>
+        <lettuce.version>4.5.0.Final</lettuce.version>
+        <lettuce5.version>5.1.0.RELEASE</lettuce5.version>
         <caffeine.version>2.6.2</caffeine.version>
         <jettison.version>1.4.0</jettison.version>
         <mybatis.version>3.4.6</mybatis.version>
@@ -264,8 +264,8 @@
         <axiom.version>1.2.20</axiom.version>
         <apache-geode.version>1.6.0</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.64</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.411</aws-java-sdk.version>
+        <appengine-sdk.version>1.9.65</appengine-sdk.version>
+        <aws-java-sdk.version>1.11.413</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.70</kotlin.version>
@@ -277,7 +277,7 @@
         <narayana.version>5.9.0.Final</narayana.version>
         <atomikos.version>4.0.6</atomikos.version>
         <!--springsource-->
-        <spring.version>5.0.8.RELEASE</spring.version>
+        <spring.version>5.1.0.RELEASE</spring.version>
         <spring-batch.version>4.0.1.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.3.RELEASE</spring-ws.version>
         <spring-session.version>2.0.5.RELEASE</spring-session.version>
@@ -286,7 +286,7 @@
         <spring-security-oauth.version>2.3.3.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.7.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
-        <spring-data-releasetrain.version>Lovelace-RC2</spring-data-releasetrain.version>
+        <spring-data-releasetrain.version>Lovelace-RELEASE</spring-data-releasetrain.version>
         <spring-integration.version>5.0.8.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
@@ -310,7 +310,7 @@
         <spring-cloud-connector.version>2.0.1.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <spring-cloud-localconfig-connector.version>2.0.1.RELEASE</spring-cloud-localconfig-connector.version>
-        <reactor-bom.version>Bismuth-SR11</reactor-bom.version>
+        <reactor-bom.version>Californium-RELEASE</reactor-bom.version>
         <micrometer.version>1.0.6</micrometer.version>
     </properties>
 
