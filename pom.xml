@@ -299,7 +299,7 @@
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.0.5.RELEASE</spring-amqp.version>
-        <rabbit-amqp-client.version>5.4.1</rabbit-amqp-client.version>
+        <rabbit-amqp-client.version>5.4.2</rabbit-amqp-client.version>
         <rabbit-http-client.version>2.1.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.0.2.RELEASE</spring-vault.version>
         <spring-kafka.version>2.1.10.RELEASE</spring-kafka.version>
