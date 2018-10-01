@@ -116,7 +116,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * MapStruct: MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach  http://mapstruct.org/
 * jackson-datatype-protobuf: Jackson module that adds support for serializing and deserializing Google's Protocol Buffers to and from JSON
 * java faker: https://github.com/DiUS/java-faker
-* Passay: generate & validate password in Java: https://www.baeldung.com/java-passay
+* Passay: generate & validate password in Java: https://github.com/vt-middleware/passay  https://www.baeldung.com/java-passay
 
 ### Developer Notice
 
