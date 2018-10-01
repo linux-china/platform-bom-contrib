@@ -58,12 +58,12 @@
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>26.0-jre</guava.version>
         <guice.version>4.2.1</guice.version>
-        <jodd.version>5.0.4</jodd.version>
+        <jodd.version>5.0.5</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
         <ff4j.version>1.7.2</ff4j.version>
-        <underscore.version>1.36</underscore.version>
+        <underscore.version>1.37</underscore.version>
         <java-util.version>1.34.0</java-util.version>
         <verbalregex.version>1.5</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
@@ -201,7 +201,7 @@
         <flexy-pool.version>2.0.0</flexy-pool.version>
         <h2.version>1.4.197</h2.version>
         <hsqldb.version>2.4.1</hsqldb.version>
-        <sqlite-jdbc.version>3.23.1</sqlite-jdbc.version>
+        <sqlite-jdbc.version>3.25.2</sqlite-jdbc.version>
         <neo4j-ogm.version>3.1.3</neo4j-ogm.version>
         <etcd4j.version>2.16.0</etcd4j.version>
         <consul-api.version>1.4.1</consul-api.version>
