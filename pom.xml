@@ -195,7 +195,7 @@
         <ehcache3.version>3.6.1</ehcache3.version>
         <ehcache.version>2.10.5</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
-        <flyway.version>5.1.4</flyway.version>
+        <flyway.version>5.2.0</flyway.version>
         <liquibase.version>3.6.2</liquibase.version>
         <derby.version>10.14.2.0</derby.version>
         <flexy-pool.version>2.0.0</flexy-pool.version>
@@ -241,7 +241,7 @@
         <commons-csv.version>1.6</commons-csv.version>
         <commons-crypto.version>1.0.0</commons-crypto.version>
         <commons-configuration2.version>2.3</commons-configuration2.version>
-        <commons-text.version>1.4</commons-text.version>
+        <commons-text.version>1.5</commons-text.version>
         <commons-vfs2.version>2.2</commons-vfs2.version>
         <commons-pool2.version>2.6.0</commons-pool2.version>
         <commons-dbcp2.version>2.5.0</commons-dbcp2.version>
@@ -262,7 +262,7 @@
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
         <svnkit.version>1.9.3</svnkit.version>
         <axiom.version>1.2.20</axiom.version>
-        <apache-geode.version>1.6.0</apache-geode.version>
+        <apache-geode.version>1.7.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.65</appengine-sdk.version>
         <aws-java-sdk.version>1.11.421</aws-java-sdk.version>
