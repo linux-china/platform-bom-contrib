@@ -50,7 +50,7 @@
         <jolokia.version>1.6.0</jolokia.version>
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <jna.version>4.5.2</jna.version>
+        <jna.version>5.0.0</jna.version>
         <!--productivity & tools-->
         <functionaljava.version>4.8</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
@@ -93,7 +93,7 @@
         <!--testing-->
         <junit5.version>5.3.1</junit5.version>
         <java-faker.version>0.16</java-faker.version>
-        <mockito.version>2.22.0</mockito.version>
+        <mockito.version>2.23.0</mockito.version>
         <htmlunit.version>2.33</htmlunit.version>
         <testng.version>6.14.3</testng.version>
         <selenium.version>3.14.0</selenium.version>
@@ -123,7 +123,7 @@
         <netty.version>4.1.30.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.15.1</grpc.version>
-        <asynchttpclient.version>2.5.3</asynchttpclient.version>
+        <asynchttpclient.version>2.5.4</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
@@ -265,7 +265,7 @@
         <apache-geode.version>1.7.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.65</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.421</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.423</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.71</kotlin.version>
