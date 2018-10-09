@@ -52,7 +52,7 @@
         <slf4j.version>1.7.25</slf4j.version>
         <jna.version>5.0.0</jna.version>
         <!--productivity & tools-->
-        <functionaljava.version>4.8</functionaljava.version>
+        <functionaljava.version>4.8.1</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
         <joda-time.version>2.10</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
@@ -80,7 +80,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
-        <bytebuddy.version>1.9.0</bytebuddy.version>
+        <bytebuddy.version>1.9.1</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.8</cglib.version>
@@ -162,7 +162,7 @@
         <attoparser.version>2.0.5.RELEASE</attoparser.version>
         <jmustache.version>1.14</jmustache.version>
         <wss4j2.version>2.2.2</wss4j2.version>
-        <objenesis.version>2.6</objenesis.version>
+        <objenesis.version>3.0</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
         <rometools.version>1.11.0</rometools.version>
         <xmlprojector.version>1.4.16</xmlprojector.version>
@@ -209,7 +209,7 @@
         <hazelcast.version>3.10.4</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
-        <infinispan.version>9.3.2.Final</infinispan.version>
+        <infinispan.version>9.4.0.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>3.2.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
@@ -225,7 +225,7 @@
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.60</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>6.0.2</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>6.1</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.0</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.10</httpcore.version>
@@ -265,7 +265,7 @@
         <apache-geode.version>1.7.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.65</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.423</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.424</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.71</kotlin.version>
