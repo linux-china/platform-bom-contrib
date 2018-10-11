@@ -50,20 +50,20 @@
         <jolokia.version>1.6.0</jolokia.version>
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <jna.version>4.5.2</jna.version>
+        <jna.version>5.0.0</jna.version>
         <!--productivity & tools-->
-        <functionaljava.version>4.8</functionaljava.version>
+        <functionaljava.version>4.8.1</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
         <joda-time.version>2.10</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>26.0-jre</guava.version>
         <guice.version>4.2.1</guice.version>
-        <jodd.version>5.0.4</jodd.version>
+        <jodd.version>5.0.5</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
         <ff4j.version>1.7.2</ff4j.version>
-        <underscore.version>1.36</underscore.version>
+        <underscore.version>1.37</underscore.version>
         <java-util.version>1.34.0</java-util.version>
         <verbalregex.version>1.5</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
@@ -80,7 +80,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
-        <bytebuddy.version>1.8.22</bytebuddy.version>
+        <bytebuddy.version>1.9.1</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.8</cglib.version>
@@ -92,7 +92,7 @@
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.3.1</junit5.version>
-        <mockito.version>2.22.0</mockito.version>
+        <mockito.version>2.23.0</mockito.version>
         <htmlunit.version>2.33</htmlunit.version>
         <testng.version>6.14.3</testng.version>
         <selenium.version>3.14.0</selenium.version>
@@ -104,14 +104,14 @@
         <easymock.version>3.6</easymock.version>
         <fluentlenium.version>3.7.0</fluentlenium.version>
         <powermock.version>1.7.4</powermock.version>
-        <testcontainers.version>1.9.0</testcontainers.version>
+        <testcontainers.version>1.9.1</testcontainers.version>
         <dbunit.version>2.5.4</dbunit.version>
         <rest-assured.version>3.1.1</rest-assured.version>
         <assertj.version>3.11.1</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.3.0</database-rider.version>
+        <database-rider.version>1.4.0</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <java-faker.version>0.16</java-faker.version>
         <!--network-->
@@ -121,10 +121,10 @@
         <okio.version>2.1.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.29.Final</netty.version>
+        <netty.version>4.1.30.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.15.0</grpc.version>
-        <asynchttpclient.version>2.5.3</asynchttpclient.version>
+        <grpc.version>1.15.1</grpc.version>
+        <asynchttpclient.version>2.5.4</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
@@ -153,7 +153,7 @@
         <json.version>20180813</json.version>
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.11.3</jsoup.version>
-        <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
+        <thymeleaf.version>3.0.10.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
@@ -191,28 +191,28 @@
         <ehcache3.version>3.6.1</ehcache3.version>
         <ehcache.version>2.10.5</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
-        <flyway.version>5.1.4</flyway.version>
+        <flyway.version>5.2.0</flyway.version>
         <liquibase.version>3.6.2</liquibase.version>
         <derby.version>10.14.2.0</derby.version>
         <flexy-pool.version>2.0.0</flexy-pool.version>
         <h2.version>1.4.197</h2.version>
         <hsqldb.version>2.4.1</hsqldb.version>
-        <sqlite-jdbc.version>3.23.1</sqlite-jdbc.version>
+        <sqlite-jdbc.version>3.25.2</sqlite-jdbc.version>
         <neo4j-ogm.version>3.1.3</neo4j-ogm.version>
         <etcd4j.version>2.16.0</etcd4j.version>
         <consul-api.version>1.4.1</consul-api.version>
-        <elasticsearch.version>6.4.1</elasticsearch.version>
+        <elasticsearch.version>6.4.2</elasticsearch.version>
         <hazelcast.version>3.10.4</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
-        <infinispan.version>9.3.2.Final</infinispan.version>
+        <infinispan.version>9.4.0.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>3.2.0</hikaricp.version>
         <jasperreports.version>6.7.0</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.8</unboundid-ldapsdk.version>
         <postgresql.version>42.2.5.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.4.0</jdbi.version>
+        <jdbi.version>3.5.1</jdbi.version>
         <!--security-->
         <cas-client.version>3.4.1</cas-client.version>
         <jasypt.version>1.9.2</jasypt.version>
@@ -229,10 +229,10 @@
         <commons-fileupload.version>1.3.3</commons-fileupload.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
         <commons-lang3.version>3.8.1</commons-lang3.version>
-        <commons-csv.version>1.5</commons-csv.version>
+        <commons-csv.version>1.6</commons-csv.version>
         <commons-crypto.version>1.0.0</commons-crypto.version>
         <commons-configuration2.version>2.3</commons-configuration2.version>
-        <commons-text.version>1.4</commons-text.version>
+        <commons-text.version>1.5</commons-text.version>
         <commons-vfs2.version>2.2</commons-vfs2.version>
         <commons-pool2.version>2.6.0</commons-pool2.version>
         <commons-dbcp2.version>2.5.0</commons-dbcp2.version>
@@ -254,7 +254,7 @@
         <svnkit.version>1.9.3</svnkit.version>
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.65</appengine-sdk.version>
+        <appengine-sdk.version>1.9.66</appengine-sdk.version>
         <aws-java-sdk.version>1.11.425</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
