@@ -152,7 +152,7 @@
         <json.version>20180813</json.version>
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.11.3</jsoup.version>
-        <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
+        <thymeleaf.version>3.0.10.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
@@ -216,7 +216,7 @@
         <unboundid-ldapsdk.version>4.0.8</unboundid-ldapsdk.version>
         <postgresql.version>42.2.5.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.4.0</jdbi.version>
+        <jdbi.version>3.5.1</jdbi.version>
         <couchbase-client.version>2.6.0</couchbase-client.version>
         <openjpa.version>3.0.0</openjpa.version>
         <mysql.version>8.0.12</mysql.version>
@@ -264,8 +264,8 @@
         <axiom.version>1.2.20</axiom.version>
         <apache-geode.version>1.7.0</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.65</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.424</aws-java-sdk.version>
+        <appengine-sdk.version>1.9.66</appengine-sdk.version>
+        <aws-java-sdk.version>1.11.425</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.71</kotlin.version>
