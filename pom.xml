@@ -156,7 +156,7 @@
         <thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
-        <thymeleaf-extras-springsecurity4.version>3.0.2.RELEASE</thymeleaf-extras-springsecurity4.version>
+        <thymeleaf-extras-springsecurity4.version>3.0.3.RELEASE</thymeleaf-extras-springsecurity4.version>
         <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
         <unbescape.version>1.1.6.RELEASE</unbescape.version>
         <attoparser.version>2.0.5.RELEASE</attoparser.version>
@@ -164,7 +164,7 @@
         <wss4j2.version>2.2.2</wss4j2.version>
         <objenesis.version>3.0</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
-        <rometools.version>1.11.0</rometools.version>
+        <rometools.version>1.11.1</rometools.version>
         <xmlprojector.version>1.4.16</xmlprojector.version>
         <freemarker.version>2.3.28</freemarker.version>
         <dom4j-java8.version>2.1.1</dom4j-java8.version>
@@ -180,7 +180,7 @@
         <jooq.version>3.11.5</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
-        <lettuce5.version>5.1.0.RELEASE</lettuce5.version>
+        <lettuce5.version>5.1.1.RELEASE</lettuce5.version>
         <caffeine.version>2.6.2</caffeine.version>
         <jettison.version>1.4.0</jettison.version>
         <mybatis.version>3.4.6</mybatis.version>
