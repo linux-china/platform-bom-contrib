@@ -80,7 +80,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
-        <bytebuddy.version>1.9.1</bytebuddy.version>
+        <bytebuddy.version>1.9.2</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.1</aspectj.version>
         <cglib.version>3.2.8</cglib.version>
@@ -252,7 +252,7 @@
         <solr.version>7.5.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>8.5.34</tomcat.version>
-        <groovy.version>2.5.2</groovy.version>
+        <groovy.version>2.5.3</groovy.version>
         <zookeeper.version>3.4.12</zookeeper.version>
         <curator.version>4.0.1</curator.version>
         <zkclient.version>0.10</zkclient.version>
@@ -277,16 +277,16 @@
         <narayana.version>5.9.0.Final</narayana.version>
         <atomikos.version>4.0.6</atomikos.version>
         <!--springsource-->
-        <spring.version>5.1.0.RELEASE</spring.version>
+        <spring.version>5.1.1.RELEASE</spring.version>
         <spring-batch.version>4.0.1.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.4.RELEASE</spring-ws.version>
-        <spring-session.version>2.0.5.RELEASE</spring-session.version>
+        <spring-session.version>2.1.0.RELEASE</spring-session.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.1.0.RELEASE</spring-security.version>
+        <spring-security.version>5.1.1.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.3.3.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.7.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
-        <spring-data-releasetrain.version>Lovelace-RELEASE</spring-data-releasetrain.version>
+        <spring-data-releasetrain.version>Lovelace-SR1</spring-data-releasetrain.version>
         <spring-integration.version>5.0.8.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.0.3.RELEASE</spring-integration-kafka.version>
@@ -298,7 +298,7 @@
         <spring-cloud-stream.version>Elmhurst.SR1</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.0.5.RELEASE</spring-amqp.version>
+        <spring-amqp.version>2.1.0.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.4.3</rabbit-amqp-client.version>
         <rabbit-http-client.version>2.1.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.1.0.RELEASE</spring-vault.version>
