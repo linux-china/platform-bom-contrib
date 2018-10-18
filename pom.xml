@@ -175,7 +175,7 @@
         <woodstox5.version>5.1.0</woodstox5.version>
         <openpdf.version>1.2.4</openpdf.version>
         <!--persistence-->
-        <hibernate.version>5.3.6.Final</hibernate.version>
+        <hibernate.version>5.3.7.Final</hibernate.version>
         <hibernate-validator.version>6.0.13.Final</hibernate-validator.version>
         <jooq.version>3.11.5</jooq.version>
         <jedis.version>2.9.0</jedis.version>
@@ -198,7 +198,7 @@
         <flyway.version>5.2.0</flyway.version>
         <liquibase.version>3.6.2</liquibase.version>
         <derby.version>10.14.2.0</derby.version>
-        <flexy-pool.version>2.0.0</flexy-pool.version>
+        <flexy-pool.version>2.0.1</flexy-pool.version>
         <h2.version>1.4.197</h2.version>
         <hsqldb.version>2.4.1</hsqldb.version>
         <sqlite-jdbc.version>3.25.2</sqlite-jdbc.version>
