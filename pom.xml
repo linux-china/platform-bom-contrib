@@ -7,7 +7,7 @@
     <parent>
         <groupId>io.spring.platform</groupId>
         <artifactId>platform-bom</artifactId>
-        <version>Brussels-SR13</version>
+        <version>Brussels-SR14</version>
     </parent>
 
     <groupId>com.github.linux-china</groupId>
@@ -255,7 +255,7 @@
         <axiom.version>1.2.20</axiom.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.66</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.425</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.431</aws-java-sdk.version>
         <sendgrid.version>4.2.1</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.2.71</kotlin.version>
