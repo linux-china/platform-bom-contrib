@@ -117,6 +117,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * jackson-datatype-protobuf: Jackson module that adds support for serializing and deserializing Google's Protocol Buffers to and from JSON
 * java faker: https://github.com/DiUS/java-faker
 * Passay: generate & validate password in Java: https://github.com/vt-middleware/passay  https://www.baeldung.com/java-passay
+* MBassador: MBassador is a light-weight, high-performance event bus implementing the publish subscribe pattern https://github.com/bennidi/mbassador
 
 ### Developer Notice
 
