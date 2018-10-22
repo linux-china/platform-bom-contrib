@@ -62,7 +62,7 @@
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
-        <ff4j.version>1.7.2</ff4j.version>
+        <ff4j.version>1.7.3</ff4j.version>
         <underscore.version>1.37</underscore.version>
         <java-util.version>1.34.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
@@ -220,7 +220,8 @@
         <jdbi.version>3.5.1</jdbi.version>
         <couchbase-client.version>2.6.0</couchbase-client.version>
         <openjpa.version>3.0.0</openjpa.version>
-        <mysql.version>8.0.12</mysql.version>
+        <mysql.version>8.0.13</mysql.version>
+        <influxdb-java.version>2.14</influxdb-java.version>
         <!--security-->
         <cas-client.version>3.5.0</cas-client.version>
         <jasypt.version>1.9.2</jasypt.version>
