@@ -62,7 +62,7 @@
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
-        <ff4j.version>1.7.2</ff4j.version>
+        <ff4j.version>1.7.3</ff4j.version>
         <underscore.version>1.37</underscore.version>
         <java-util.version>1.34.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
