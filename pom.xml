@@ -123,7 +123,7 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.30.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.15.1</grpc.version>
+        <grpc.version>1.16.0</grpc.version>
         <asynchttpclient.version>2.5.4</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -174,7 +174,7 @@
         <xstream.version>1.4.11-java7</xstream.version>
         <aalto-xml.version>1.1.1</aalto-xml.version>
         <woodstox5.version>5.1.0</woodstox5.version>
-        <openpdf.version>1.2.4</openpdf.version>
+        <openpdf.version>1.2.5</openpdf.version>
         <!--persistence-->
         <hibernate.version>5.3.7.Final</hibernate.version>
         <hibernate-validator.version>6.0.13.Final</hibernate-validator.version>
