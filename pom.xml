@@ -83,7 +83,7 @@
         <google-truth.version>0.42</google-truth.version>
         <bytebuddy.version>1.9.2</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
-        <aspectj.version>1.9.1</aspectj.version>
+        <aspectj.version>1.9.2</aspectj.version>
         <cglib.version>3.2.8</cglib.version>
         <lombok.version>1.18.2</lombok.version>
         <immutables.version>2.7.1</immutables.version>
@@ -181,7 +181,7 @@
         <jooq.version>3.11.5</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
-        <lettuce5.version>5.1.1.RELEASE</lettuce5.version>
+        <lettuce5.version>5.1.2.RELEASE</lettuce5.version>
         <caffeine.version>2.6.2</caffeine.version>
         <jettison.version>1.4.0</jettison.version>
         <mybatis.version>3.4.6</mybatis.version>
