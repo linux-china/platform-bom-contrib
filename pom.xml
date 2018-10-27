@@ -189,7 +189,7 @@
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>3.6.0</cassandra-driver.version>
         <ehcache3.version>3.6.1</ehcache3.version>
-        <ehcache.version>2.10.5</ehcache.version>
+        <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
         <flyway.version>5.2.1</flyway.version>
         <liquibase.version>3.6.2</liquibase.version>
