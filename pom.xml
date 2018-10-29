@@ -80,15 +80,15 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
-        <bytebuddy.version>1.9.2</bytebuddy.version>
+        <bytebuddy.version>1.9.3</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.2</aspectj.version>
-        <cglib.version>3.2.8</cglib.version>
+        <cglib.version>3.2.9</cglib.version>
         <lombok.version>1.18.2</lombok.version>
         <immutables.version>2.7.1</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
         <reflections.version>0.9.11</reflections.version>
-        <threetenbp.version>1.3.7</threetenbp.version>
+        <threetenbp.version>1.3.8</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.3.1</junit5.version>
@@ -153,7 +153,7 @@
         <json.version>20180813</json.version>
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.11.3</jsoup.version>
-        <thymeleaf.version>3.0.10.RELEASE</thymeleaf.version>
+        <thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
@@ -198,7 +198,7 @@
         <h2.version>1.4.197</h2.version>
         <hsqldb.version>2.4.1</hsqldb.version>
         <sqlite-jdbc.version>3.25.2</sqlite-jdbc.version>
-        <neo4j-ogm.version>3.1.3</neo4j-ogm.version>
+        <neo4j-ogm.version>3.1.4</neo4j-ogm.version>
         <etcd4j.version>2.16.0</etcd4j.version>
         <consul-api.version>1.4.1</consul-api.version>
         <elasticsearch.version>6.4.2</elasticsearch.version>
