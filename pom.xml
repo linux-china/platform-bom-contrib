@@ -81,15 +81,15 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
-        <bytebuddy.version>1.9.2</bytebuddy.version>
+        <bytebuddy.version>1.9.3</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.2</aspectj.version>
-        <cglib.version>3.2.8</cglib.version>
+        <cglib.version>3.2.9</cglib.version>
         <lombok.version>1.18.2</lombok.version>
         <immutables.version>2.7.1</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
         <reflections.version>0.9.11</reflections.version>
-        <threetenbp.version>1.3.7</threetenbp.version>
+        <threetenbp.version>1.3.8</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.3.1</junit5.version>
@@ -153,11 +153,12 @@
         <json.version>20180813</json.version>
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.11.3</jsoup.version>
-        <thymeleaf.version>3.0.10.RELEASE</thymeleaf.version>
+        <thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
         <thymeleaf-extras-springsecurity4.version>3.0.3.RELEASE</thymeleaf-extras-springsecurity4.version>
+        <thymeleaf-extras-springsecurity5.version>3.0.4.RELEASE</thymeleaf-extras-springsecurity5.version>
         <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
         <unbescape.version>1.1.6.RELEASE</unbescape.version>
         <attoparser.version>2.0.5.RELEASE</attoparser.version>
@@ -270,7 +271,7 @@
         <aws-java-sdk.version>1.11.438</aws-java-sdk.version>
         <sendgrid.version>4.3.0</sendgrid.version>
         <!--languages-->
-        <kotlin.version>1.2.71</kotlin.version>
+        <kotlin.version>1.3.0</kotlin.version>
         <jruby.version>9.2.0.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
@@ -279,7 +280,7 @@
         <narayana.version>5.9.0.Final</narayana.version>
         <atomikos.version>4.0.6</atomikos.version>
         <!--springsource-->
-        <spring.version>5.1.1.RELEASE</spring.version>
+        <spring.version>5.1.2.RELEASE</spring.version>
         <spring-batch.version>4.0.1.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.4.RELEASE</spring-ws.version>
         <spring-session-bom.version>Apple-SR6</spring-session-bom.version>
@@ -312,7 +313,7 @@
         <spring-cloud-connector.version>2.0.1.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <spring-cloud-localconfig-connector.version>2.0.1.RELEASE</spring-cloud-localconfig-connector.version>
-        <reactor-bom.version>Californium-SR1</reactor-bom.version>
+        <reactor-bom.version>Californium-SR2</reactor-bom.version>
         <micrometer.version>1.0.6</micrometer.version>
     </properties>
 
