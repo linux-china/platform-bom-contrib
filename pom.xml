@@ -158,7 +158,7 @@
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
         <thymeleaf-extras-springsecurity4.version>3.0.3.RELEASE</thymeleaf-extras-springsecurity4.version>
-        <thymeleaf-extras-springsecurity5.version>3.0.4.RELEASE</thymeleaf-extras-springsecurity5.version>
+        <thymeleaf-extras-springsecurity.version>3.0.4.RELEASE</thymeleaf-extras-springsecurity.version>
         <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
         <unbescape.version>1.1.6.RELEASE</unbescape.version>
         <attoparser.version>2.0.5.RELEASE</attoparser.version>
