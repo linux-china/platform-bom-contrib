@@ -121,7 +121,7 @@
         <okio.version>2.1.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.30.Final</netty.version>
+        <netty.version>4.1.31.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.16.1</grpc.version>
         <asynchttpclient.version>2.6.0</asynchttpclient.version>
@@ -302,8 +302,8 @@
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.1.0.RELEASE</spring-amqp.version>
-        <rabbit-amqp-client.version>5.4.3</rabbit-amqp-client.version>
-        <rabbit-http-client.version>2.1.0.RELEASE</rabbit-http-client.version>
+        <rabbit-amqp-client.version>5.5.0</rabbit-amqp-client.version>
+        <rabbit-http-client.version>3.0.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.1.0.RELEASE</spring-vault.version>
         <spring-kafka.version>2.2.0.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.2.RELEASE</spring-restdocs.version>
