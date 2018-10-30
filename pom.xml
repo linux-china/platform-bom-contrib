@@ -229,7 +229,7 @@
         <bouncycastle.version>1.60</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>6.2</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>6.1</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>6.1.1</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.10</httpcore.version>
         <httpclient.version>4.5.6</httpclient.version>
@@ -1383,6 +1383,13 @@
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-localconfig-connector</artifactId>
                 <version>${spring-cloud-localconfig-connector.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.session</groupId>
+                <artifactId>spring-session-bom</artifactId>
+                <version>${spring-session-bom.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
             </dependency>
             <dependency>
                 <groupId>org.springframework.boot</groupId>
