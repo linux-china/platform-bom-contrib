@@ -174,7 +174,7 @@
         <xmlunit.version>2.6.2</xmlunit.version>
         <xstream.version>1.4.11.1</xstream.version>
         <aalto-xml.version>1.1.1</aalto-xml.version>
-        <woodstox5.version>5.1.0</woodstox5.version>
+        <woodstox5.version>5.2.0</woodstox5.version>
         <openpdf.version>1.2.5</openpdf.version>
         <!--persistence-->
         <hibernate.version>5.3.7.Final</hibernate.version>
