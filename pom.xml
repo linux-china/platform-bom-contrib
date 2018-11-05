@@ -58,7 +58,7 @@
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>27.0-jre</guava.version>
         <guice.version>4.2.2</guice.version>
-        <jodd.version>5.0.5</jodd.version>
+        <jodd.version>5.0.6</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
@@ -96,7 +96,7 @@
         <java-faker.version>0.16</java-faker.version>
         <mockito.version>2.23.0</mockito.version>
         <htmlunit.version>2.33</htmlunit.version>
-        <testng.version>6.14.3</testng.version>
+        <testng.version>7.0.0-beta1</testng.version>
         <selenium.version>3.14.0</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
@@ -206,7 +206,7 @@
         <sqlite-jdbc.version>3.25.2</sqlite-jdbc.version>
         <neo4j-ogm.version>3.1.4</neo4j-ogm.version>
         <etcd4j.version>2.16.0</etcd4j.version>
-        <consul-api.version>1.4.1</consul-api.version>
+        <consul-api.version>1.4.2</consul-api.version>
         <elasticsearch.version>6.4.2</elasticsearch.version>
         <hazelcast.version>3.11</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
