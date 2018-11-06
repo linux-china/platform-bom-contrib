@@ -86,7 +86,7 @@
         <aspectj.version>1.9.2</aspectj.version>
         <cglib.version>3.2.9</cglib.version>
         <lombok.version>1.18.4</lombok.version>
-        <immutables.version>2.7.1</immutables.version>
+        <immutables.version>2.7.2</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
         <reflections.version>0.9.11</reflections.version>
         <threetenbp.version>1.3.8</threetenbp.version>
@@ -106,7 +106,7 @@
         <easymock.version>4.0.1</easymock.version>
         <fluentlenium.version>3.7.0</fluentlenium.version>
         <powermock.version>1.7.4</powermock.version>
-        <testcontainers.version>1.9.1</testcontainers.version>
+        <testcontainers.version>1.10.0</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>3.2.0</rest-assured.version>
         <assertj.version>3.11.1</assertj.version>
@@ -179,7 +179,7 @@
         <!--persistence-->
         <hibernate.version>5.3.7.Final</hibernate.version>
         <hibernate-validator.version>6.0.13.Final</hibernate-validator.version>
-        <jooq.version>3.11.6</jooq.version>
+        <jooq.version>3.11.7</jooq.version>
         <jedis.version>2.9.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
         <lettuce5.version>5.1.2.RELEASE</lettuce5.version>
@@ -207,7 +207,7 @@
         <neo4j-ogm.version>3.1.4</neo4j-ogm.version>
         <etcd4j.version>2.16.0</etcd4j.version>
         <consul-api.version>1.4.2</consul-api.version>
-        <elasticsearch.version>6.4.2</elasticsearch.version>
+        <elasticsearch.version>6.4.3</elasticsearch.version>
         <hazelcast.version>3.11</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
