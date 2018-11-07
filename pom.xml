@@ -105,7 +105,7 @@
         <spockframework.version>1.2-groovy-2.5</spockframework.version>
         <easymock.version>4.0.1</easymock.version>
         <fluentlenium.version>3.7.0</fluentlenium.version>
-        <powermock.version>1.7.4</powermock.version>
+        <powermock.version>2.0.0-RC.1</powermock.version>
         <testcontainers.version>1.10.0</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>3.2.0</rest-assured.version>
