@@ -1413,6 +1413,10 @@
             <url>https://repo.spring.io/release/</url>
         </repository>
         <repository>
+            <id>maven-central</id>
+            <url>http://central.maven.org/maven2/</url>
+        </repository>
+        <repository>
             <id>spring-milestone</id>
             <url>https://repo.spring.io/milestone/</url>
         </repository>
