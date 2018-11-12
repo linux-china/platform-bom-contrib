@@ -86,7 +86,7 @@
         <aspectj.version>1.9.2</aspectj.version>
         <cglib.version>3.2.9</cglib.version>
         <lombok.version>1.18.4</lombok.version>
-        <immutables.version>2.7.2</immutables.version>
+        <immutables.version>2.7.3</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
         <reflections.version>0.9.11</reflections.version>
         <threetenbp.version>1.3.8</threetenbp.version>
@@ -136,7 +136,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <!--servers-->
-        <jetty.version>9.4.12.v20180830</jetty.version>
+        <jetty.version>9.4.13.v20181111</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>2.0.15.Final</undertow.version>
         <!--parsers & templates & serializer-->
@@ -255,7 +255,7 @@
         <solr.version>7.5.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>9.0.13</tomcat.version>
-        <groovy.version>2.5.3</groovy.version>
+        <groovy.version>2.5.4</groovy.version>
         <zookeeper.version>3.4.13</zookeeper.version>
         <curator.version>4.0.1</curator.version>
         <zkclient.version>0.11</zkclient.version>
@@ -264,7 +264,7 @@
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
         <svnkit.version>1.9.3</svnkit.version>
-        <axiom.version>1.2.20</axiom.version>
+        <axiom.version>1.2.21</axiom.version>
         <apache-geode.version>1.7.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.67</appengine-sdk.version>
