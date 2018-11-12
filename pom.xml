@@ -136,7 +136,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <!--servers-->
-        <jetty.version>9.4.13.v20181111</jetty.version>
+        <jetty.version>9.4.12.v20180830</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>2.0.15.Final</undertow.version>
         <!--parsers & templates & serializer-->
