@@ -37,12 +37,12 @@
 
     <properties>
         <jline.version>3.0.0.M1</jline.version>
-        <janino.version>3.0.10</janino.version>
+        <janino.version>3.0.11</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.36</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.7.0</graphviz-java.version>
+        <graphviz-java.version>0.7.1</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.4.1</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
@@ -81,7 +81,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
-        <bytebuddy.version>1.9.3</bytebuddy.version>
+        <bytebuddy.version>1.9.4</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.2</aspectj.version>
         <cglib.version>3.2.9</cglib.version>
@@ -207,7 +207,7 @@
         <neo4j-ogm.version>3.1.4</neo4j-ogm.version>
         <etcd4j.version>2.16.0</etcd4j.version>
         <consul-api.version>1.4.2</consul-api.version>
-        <elasticsearch.version>6.4.3</elasticsearch.version>
+        <elasticsearch.version>6.5.0</elasticsearch.version>
         <hazelcast.version>3.11</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
@@ -268,7 +268,7 @@
         <apache-geode.version>1.7.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.67</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.448</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.449</aws-java-sdk.version>
         <sendgrid.version>4.3.0</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.3.10</kotlin.version>
@@ -305,7 +305,7 @@
         <spring-amqp.version>2.1.1.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.5.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.0.0.RELEASE</rabbit-http-client.version>
-        <spring-vault.version>2.1.0.RELEASE</spring-vault.version>
+        <spring-vault.version>2.1.1.RELEASE</spring-vault.version>
         <spring-kafka.version>2.2.0.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.2.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.2.RELEASE</spring-retry.version>
