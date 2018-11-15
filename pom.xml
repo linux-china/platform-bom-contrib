@@ -268,7 +268,7 @@
         <apache-geode.version>1.7.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.67</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.449</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.450</aws-java-sdk.version>
         <sendgrid.version>4.3.0</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.3.10</kotlin.version>
