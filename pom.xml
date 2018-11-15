@@ -50,7 +50,7 @@
         <jolokia.version>1.6.0</jolokia.version>
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <jna.version>5.0.0</jna.version>
+        <jna.version>5.1.0</jna.version>
         <!--productivity & tools-->
         <functionaljava.version>4.8.1</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
@@ -136,7 +136,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <!--servers-->
-        <jetty.version>9.4.13.v20181111</jetty.version>
+        <jetty.version>9.4.14.v20181114</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
         <undertow.version>2.0.15.Final</undertow.version>
         <!--parsers & templates & serializer-->
@@ -194,7 +194,7 @@
         <embedded-mongo.version>2.1.1</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>3.6.0</cassandra-driver.version>
-        <ehcache3.version>3.6.1</ehcache3.version>
+        <ehcache3.version>3.6.2</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
         <flyway.version>5.2.1</flyway.version>
@@ -229,7 +229,7 @@
         <bouncycastle.version>1.60</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>6.3</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>6.1.1</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>6.2</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.10</httpcore.version>
         <httpclient.version>4.5.6</httpclient.version>
@@ -267,7 +267,7 @@
         <axiom.version>1.2.21</axiom.version>
         <apache-geode.version>1.7.0</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.67</appengine-sdk.version>
+        <appengine-sdk.version>1.9.68</appengine-sdk.version>
         <aws-java-sdk.version>1.11.450</aws-java-sdk.version>
         <sendgrid.version>4.3.0</sendgrid.version>
         <!--languages-->
