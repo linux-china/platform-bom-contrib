@@ -42,7 +42,7 @@
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.36</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.7.1</graphviz-java.version>
+        <graphviz-java.version>0.8.0</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.4.1</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
