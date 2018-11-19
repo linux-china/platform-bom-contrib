@@ -105,7 +105,7 @@
         <spockframework.version>1.2-groovy-2.5</spockframework.version>
         <easymock.version>4.0.1</easymock.version>
         <fluentlenium.version>3.7.0</fluentlenium.version>
-        <powermock.version>2.0.0-RC.3</powermock.version>
+        <powermock.version>2.0.0-RC.4</powermock.version>
         <testcontainers.version>1.10.1</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>3.2.0</rest-assured.version>
@@ -259,7 +259,7 @@
         <zookeeper.version>3.4.13</zookeeper.version>
         <curator.version>4.0.1</curator.version>
         <zkclient.version>0.11</zkclient.version>
-        <activemq.version>5.15.7</activemq.version>
+        <activemq.version>5.15.8</activemq.version>
         <artemis.version>2.6.3</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
