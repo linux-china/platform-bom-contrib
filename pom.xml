@@ -56,7 +56,7 @@
         <fugue.version>4.7.2</fugue.version>
         <joda-time.version>2.10.1</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
-        <guava.version>27.0-jre</guava.version>
+        <guava.version> 27.0.1-jre</guava.version>
         <guice.version>4.2.2</guice.version>
         <jodd.version>5.0.6</jodd.version>
         <boon.version>0.34</boon.version>
@@ -215,7 +215,7 @@
         <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>3.2.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
-        <unboundid-ldapsdk.version>4.0.8</unboundid-ldapsdk.version>
+        <unboundid-ldapsdk.version>4.0.9</unboundid-ldapsdk.version>
         <postgresql.version>42.2.5.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.5.1</jdbi.version>
@@ -268,7 +268,7 @@
         <apache-geode.version>1.7.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.68</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.452</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.453</aws-java-sdk.version>
         <sendgrid.version>4.3.0</sendgrid.version>
         <!--languages-->
         <kotlin.version>1.3.10</kotlin.version>
