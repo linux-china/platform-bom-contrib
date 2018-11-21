@@ -118,6 +118,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * java faker: https://github.com/DiUS/java-faker
 * Passay: generate & validate password in Java: https://github.com/vt-middleware/passay  https://www.baeldung.com/java-passay
 * MBassador: MBassador is a light-weight, high-performance event bus implementing the publish subscribe pattern https://github.com/bennidi/mbassador
+* AWS Java SDK 2.0: https://docs.aws.amazon.com/zh_cn/sdk-for-java/v2/developer-guide/welcome.html
 
 ### Developer Notice
 
