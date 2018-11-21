@@ -46,7 +46,7 @@
         <twelvemonkeys-imageio.version>3.4.1</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
-        <dropwizard-metrics.version>4.0.2</dropwizard-metrics.version>
+        <dropwizard-metrics.version>4.0.3</dropwizard-metrics.version>
         <jolokia.version>1.6.0</jolokia.version>
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.25</slf4j.version>
@@ -212,7 +212,7 @@
         <hazelcast.version>3.11</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
-        <infinispan.version>9.4.1.Final</infinispan.version>
+        <infinispan.version>9.4.2.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>3.2.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
