@@ -94,7 +94,7 @@
         <!--testing-->
         <junit5.version>5.3.1</junit5.version>
         <java-faker.version>0.16</java-faker.version>
-        <mockito.version>2.23.0</mockito.version>
+        <mockito.version>2.23.4</mockito.version>
         <htmlunit.version>2.33</htmlunit.version>
         <testng.version>7.0.0-beta1</testng.version>
         <selenium.version>3.14.0</selenium.version>
@@ -250,7 +250,7 @@
         <commons-dbcp2.version>2.5.0</commons-dbcp2.version>
         <commons-rng.version>1.1</commons-rng.version>
         <poi.version>4.0.0</poi.version>
-        <kafka.version>2.0.1</kafka.version>
+        <kafka.version>2.1.0</kafka.version>
         <log4j2.version>2.11.1</log4j2.version>
         <solr.version>7.5.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
