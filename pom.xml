@@ -205,7 +205,7 @@
         <h2.version>1.4.197</h2.version>
         <hsqldb.version>2.4.1</hsqldb.version>
         <sqlite-jdbc.version>3.25.2</sqlite-jdbc.version>
-        <neo4j-ogm.version>3.1.4</neo4j-ogm.version>
+        <neo4j-ogm.version>3.1.5</neo4j-ogm.version>
         <etcd4j.version>2.16.0</etcd4j.version>
         <consul-api.version>1.4.2</consul-api.version>
         <elasticsearch.version>6.5.0</elasticsearch.version>
@@ -317,6 +317,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <spring-cloud-localconfig-connector.version>2.0.1.RELEASE</spring-cloud-localconfig-connector.version>
         <reactor-bom.version>Californium-SR3</reactor-bom.version>
+        <rxjava2.version>2.2.4</rxjava2.version>
         <micrometer.version>1.1.0</micrometer.version>
     </properties>
 
