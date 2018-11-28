@@ -77,7 +77,7 @@
         <mbassador.version>1.3.2</mbassador.version>
         <!--code & classes-->
         <jetbrains-annotations.version>16.0.3</jetbrains-annotations.version>
-        <swagger-oai.version>2.0.5</swagger-oai.version>
+        <swagger-oai.version>2.0.6</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
@@ -136,6 +136,7 @@
         <javax-cache.version>1.1.0</javax-cache.version>
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
+        <jsch.version>0.1.55</jsch.version>
         <!--servers-->
         <jetty.version>9.4.14.v20181114</jetty.version>
         <jetty-el.version>8.5.5</jetty-el.version>
@@ -190,7 +191,7 @@
         <mybatis-spring.version>1.3.2</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.3.0</mariadb.version>
-        <mongodb.version>3.9.0</mongodb.version>
+        <mongodb.version>3.9.1</mongodb.version>
         <mongodb-reactivestreams.version>1.9.2</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.1.1</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
@@ -229,7 +230,7 @@
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.60</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>6.4</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>6.4.1</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.2</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.10</httpcore.version>
@@ -304,11 +305,11 @@
         <spring-cloud-stream.version>Elmhurst.SR1</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.1.1.RELEASE</spring-amqp.version>
+        <spring-amqp.version>2.1.2.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.5.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.0.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.1.1.RELEASE</spring-vault.version>
-        <spring-kafka.version>2.2.0.RELEASE</spring-kafka.version>
+        <spring-kafka.version>2.2.1.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.2.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.2.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
