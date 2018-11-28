@@ -192,7 +192,7 @@
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.3.0</mariadb.version>
         <mongodb.version>3.9.1</mongodb.version>
-        <mongodb-reactivestreams.version>1.9.2</mongodb-reactivestreams.version>
+        <mongodb-reactivestreams.version>1.10.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.1.1</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>3.6.0</cassandra-driver.version>
