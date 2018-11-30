@@ -97,7 +97,7 @@
         <mockito.version>2.23.4</mockito.version>
         <htmlunit.version>2.33</htmlunit.version>
         <testng.version>7.0.0-beta1</testng.version>
-        <selenium.version>3.14.0</selenium.version>
+        <selenium.version>3.141.59</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.13</toomuchcoding-jsonassert.version>
