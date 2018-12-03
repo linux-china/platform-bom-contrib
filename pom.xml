@@ -169,7 +169,7 @@
         <wss4j2.version>2.2.2</wss4j2.version>
         <objenesis.version>3.0.1</objenesis.version>
         <jopt-simple.version>5.0.3</jopt-simple.version>
-        <rometools.version>1.11.1</rometools.version>
+        <rometools.version>1.12.0</rometools.version>
         <xmlprojector.version>1.4.16</xmlprojector.version>
         <freemarker.version>2.3.28</freemarker.version>
         <dom4j-java8.version>2.1.1</dom4j-java8.version>
@@ -178,7 +178,7 @@
         <xstream.version>1.4.11.1</xstream.version>
         <aalto-xml.version>1.1.1</aalto-xml.version>
         <woodstox5.version>5.2.0</woodstox5.version>
-        <openpdf.version>1.2.6</openpdf.version>
+        <openpdf.version>1.2.7</openpdf.version>
         <!--persistence-->
         <hibernate.version>5.3.7.Final</hibernate.version>
         <hibernate-validator.version>6.0.13.Final</hibernate-validator.version>
