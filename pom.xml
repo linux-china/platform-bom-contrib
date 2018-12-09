@@ -270,7 +270,7 @@
         <axiom.version>1.2.21</axiom.version>
         <apache-geode.version>1.7.0</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.69</appengine-sdk.version>
+        <appengine-sdk.version>1.9.70</appengine-sdk.version>
         <aws-java-sdk.version>1.11.466</aws-java-sdk.version>
         <aws-java-sdk2.version>2.1.4</aws-java-sdk2.version>
         <sendgrid.version>4.3.0</sendgrid.version>
