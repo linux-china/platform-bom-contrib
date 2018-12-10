@@ -194,7 +194,7 @@
         <mariadb.version>2.3.0</mariadb.version>
         <mongodb.version>3.9.1</mongodb.version>
         <mongodb-reactivestreams.version>1.10.0</mongodb-reactivestreams.version>
-        <embedded-mongo.version>2.1.1</embedded-mongo.version>
+        <embedded-mongo.version>2.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>3.6.0</cassandra-driver.version>
         <ehcache3.version>3.6.2</ehcache3.version>
