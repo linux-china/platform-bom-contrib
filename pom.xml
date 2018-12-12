@@ -84,7 +84,7 @@
         <bytebuddy.version>1.9.5</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.2</aspectj.version>
-        <cglib.version>3.2.9</cglib.version>
+        <cglib.version>3.2.10</cglib.version>
         <lombok.version>1.18.4</lombok.version>
         <immutables.version>2.7.3</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
@@ -231,7 +231,7 @@
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.60</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>6.4.2</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>6.5</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.2</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.10</httpcore.version>
@@ -268,7 +268,7 @@
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
         <svnkit.version>1.9.3</svnkit.version>
         <axiom.version>1.2.21</axiom.version>
-        <apache-geode.version>1.7.0</apache-geode.version>
+        <apache-geode.version>1.8.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.70</appengine-sdk.version>
         <aws-java-sdk.version>1.11.467</aws-java-sdk.version>
