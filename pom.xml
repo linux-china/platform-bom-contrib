@@ -180,7 +180,7 @@
         <woodstox5.version>5.2.0</woodstox5.version>
         <openpdf.version>1.2.7</openpdf.version>
         <!--persistence-->
-        <hibernate.version>5.3.7.Final</hibernate.version>
+        <hibernate.version>5.4.0.Final</hibernate.version>
         <hibernate-validator.version>6.0.13.Final</hibernate-validator.version>
         <jooq.version>3.11.7</jooq.version>
         <jedis.version>3.0.0</jedis.version>
@@ -232,7 +232,7 @@
         <bouncycastle.version>1.60</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>6.5</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>6.2</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>6.3</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.10</httpcore.version>
         <httpclient.version>4.5.6</httpclient.version>
@@ -251,7 +251,7 @@
         <commons-vfs2.version>2.2</commons-vfs2.version>
         <commons-pool2.version>2.6.0</commons-pool2.version>
         <commons-dbcp2.version>2.5.0</commons-dbcp2.version>
-        <commons-rng.version>1.1</commons-rng.version>
+        <commons-rng.version>1.2</commons-rng.version>
         <poi.version>4.0.1</poi.version>
         <kafka.version>2.1.0</kafka.version>
         <log4j2.version>2.11.1</log4j2.version>
