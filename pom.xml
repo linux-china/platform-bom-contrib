@@ -113,7 +113,7 @@
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.4.0</database-rider.version>
+        <database-rider.version>1.5.0</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <!--network-->
@@ -143,7 +143,7 @@
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.0.16.Final</undertow.version>
         <!--parsers & templates & serializer-->
-        <jackson.version>2.9.7</jackson.version>
+        <jackson.version>2.9.8</jackson.version>
         <jackson-protobuf.version>0.9.10-jackson2.9-proto3</jackson-protobuf.version>
         <classmate.version>1.4.0</classmate.version>
         <snakeyaml.version>1.23</snakeyaml.version>
