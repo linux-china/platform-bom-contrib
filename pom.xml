@@ -102,12 +102,12 @@
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.13</toomuchcoding-jsonassert.version>
-        <wiremock.version>2.19.0</wiremock.version>
+        <wiremock.version>2.20.0</wiremock.version>
         <spockframework.version>1.2-groovy-2.5</spockframework.version>
         <easymock.version>4.0.2</easymock.version>
         <fluentlenium.version>4.0.0</fluentlenium.version>
         <powermock.version>2.0.0-RC.4</powermock.version>
-        <testcontainers.version>1.10.2</testcontainers.version>
+        <testcontainers.version>1.10.3</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>3.2.0</rest-assured.version>
         <assertj.version>3.11.1</assertj.version>
@@ -198,7 +198,7 @@
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>3.6.0</cassandra-driver.version>
-        <ehcache3.version>3.6.2</ehcache3.version>
+        <ehcache3.version>3.6.3</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
         <flyway.version>5.2.4</flyway.version>
