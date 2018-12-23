@@ -50,7 +50,7 @@
         <jolokia.version>1.6.0</jolokia.version>
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <jna.version>5.1.0</jna.version>
+        <jna.version>5.2.0</jna.version>
         <!--productivity & tools-->
         <functionaljava.version>4.8.1</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
@@ -119,7 +119,7 @@
         <unitils.version>3.4.6</unitils.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>3.12.0</okhttp3.version>
+        <okhttp3.version>3.12.1</okhttp3.version>
         <okio.version>2.1.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
