@@ -107,7 +107,7 @@
         <easymock.version>4.0.2</easymock.version>
         <fluentlenium.version>4.0.0</fluentlenium.version>
         <powermock.version>2.0.0-RC.4</powermock.version>
-        <testcontainers.version>1.10.4</testcontainers.version>
+        <testcontainers.version>1.10.5</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>3.2.0</rest-assured.version>
         <assertj.version>3.11.1</assertj.version>
@@ -217,7 +217,7 @@
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
         <infinispan.version>9.4.5.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
-        <hikaricp.version>3.2.0</hikaricp.version>
+        <hikaricp.version>3.3.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.9</unboundid-ldapsdk.version>
         <postgresql.version>42.2.5.jre7</postgresql.version>
