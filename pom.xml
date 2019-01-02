@@ -63,7 +63,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
         <ff4j.version>1.7.3</ff4j.version>
-        <underscore.version>1.39</underscore.version>
+        <underscore.version>1.40</underscore.version>
         <java-util.version>1.34.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
@@ -107,7 +107,7 @@
         <easymock.version>4.0.2</easymock.version>
         <fluentlenium.version>4.0.0</fluentlenium.version>
         <powermock.version>2.0.0-RC.4</powermock.version>
-        <testcontainers.version>1.10.3</testcontainers.version>
+        <testcontainers.version>1.10.4</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>3.2.0</rest-assured.version>
         <assertj.version>3.11.1</assertj.version>
