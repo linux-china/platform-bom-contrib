@@ -304,7 +304,7 @@
         <spring-cloud-contract.version>2.0.1.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Finchley.SR2</spring-cloud.version>
         <spring-cloud-task.version>2.0.0.RELEASE</spring-cloud-task.version>
-        <spring-cloud-stream.version>Elmhurst.SR1</spring-cloud-stream.version>
+        <spring-cloud-stream.version>Fishtown.RELEASE</spring-cloud-stream.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.1.2.RELEASE</spring-amqp.version>
