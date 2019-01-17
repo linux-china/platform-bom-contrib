@@ -120,7 +120,7 @@
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>3.12.1</okhttp3.version>
-        <okio.version>2.1.0</okio.version>
+        <okio.version>2.2.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.32.Final</netty.version>
@@ -160,7 +160,7 @@
         <thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
-        <thymeleaf-extras-java8time.version>3.0.2.RELEASE</thymeleaf-extras-java8time.version>
+        <thymeleaf-extras-java8time.version>3.0.3.RELEASE</thymeleaf-extras-java8time.version>
         <thymeleaf-extras-springsecurity4.version>3.0.3.RELEASE</thymeleaf-extras-springsecurity4.version>
         <thymeleaf-extras-springsecurity.version>3.0.4.RELEASE</thymeleaf-extras-springsecurity.version>
         <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
@@ -179,7 +179,7 @@
         <xstream.version>1.4.11.1</xstream.version>
         <aalto-xml.version>1.1.1</aalto-xml.version>
         <woodstox5.version>5.2.0</woodstox5.version>
-        <openpdf.version>1.2.8</openpdf.version>
+        <openpdf.version>1.2.9</openpdf.version>
         <!--persistence-->
         <hibernate.version>5.4.0.Final</hibernate.version>
         <hibernate-validator.version>6.0.13.Final</hibernate-validator.version>
