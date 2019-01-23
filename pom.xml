@@ -1260,16 +1260,16 @@
                 <scope>import</scope>
             </dependency>
             <dependency>
-                <groupId>com.google.cloud</groupId>
-                <artifactId>google-cloud-bom</artifactId>
-                <version>${google-cloud-bom.version}</version>
+                <groupId>io.fabric8</groupId>
+                <artifactId>kubernetes-client-bom</artifactId>
+                <version>${kubernetes-client.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
             <dependency>
-                <groupId>io.fabric8</groupId>
-                <artifactId>kubernetes-client-bom</artifactId>
-                <version>${kubernetes-client.version}</version>
+                <groupId>com.google.cloud</groupId>
+                <artifactId>google-cloud-bom</artifactId>
+                <version>${google-cloud-bom.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
