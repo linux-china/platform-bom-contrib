@@ -37,7 +37,7 @@
 
     <properties>
         <jline.version>3.0.0.M1</jline.version>
-        <janino.version>3.0.11</janino.version>
+        <janino.version>3.0.12</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.36</webjars-locator-core.version>
@@ -302,7 +302,7 @@
         <spring-boot.version>2.1.1.RELEASE</spring-boot.version>
         <spring-hateoas.version>0.25.0.RELEASE</spring-hateoas.version>
         <spring-cloud-contract.version>2.0.1.RELEASE</spring-cloud-contract.version>
-        <spring-cloud.version>Finchley.SR2</spring-cloud.version>
+        <spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
         <spring-cloud-task.version>2.1.0.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Fishtown.RELEASE</spring-cloud-stream.version>
         <spring-cloud-function.version>2.0.0.RELEASE</spring-cloud-function.version>
