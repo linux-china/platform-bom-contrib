@@ -127,7 +127,7 @@
         <netty-boringssl.version>2.0.20.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.18.0</grpc.version>
-        <asynchttpclient.version>2.6.0</asynchttpclient.version>
+        <asynchttpclient.version>2.7.0</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
