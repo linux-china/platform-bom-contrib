@@ -107,7 +107,7 @@
         <easymock.version>4.0.2</easymock.version>
         <fluentlenium.version>4.0.0</fluentlenium.version>
         <powermock.version>2.0.0</powermock.version>
-        <testcontainers.version>1.10.5</testcontainers.version>
+        <testcontainers.version>1.10.6</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>3.3.0</rest-assured.version>
         <assertj.version>3.11.1</assertj.version>
@@ -120,7 +120,7 @@
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>3.12.1</okhttp3.version>
-        <okio.version>2.2.1</okio.version>
+        <okio.version>2.2.2</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.33.Final</netty.version>
@@ -192,7 +192,7 @@
         <mybatis.version>3.5.0</mybatis.version>
         <mybatis-spring.version>2.0.0</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
-        <mariadb.version>2.3.0</mariadb.version>
+        <mariadb.version>2.4.0</mariadb.version>
         <mongodb.version>3.9.1</mongodb.version>
         <mongodb-reactivestreams.version>1.10.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
@@ -202,7 +202,7 @@
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
         <flyway.version>5.2.4</flyway.version>
-        <liquibase.version>3.6.2</liquibase.version>
+        <liquibase.version>3.6.3</liquibase.version>
         <derby.version>10.14.2.0</derby.version>
         <flexy-pool.version>2.1.1</flexy-pool.version>
         <h2.version>1.4.197</h2.version>
