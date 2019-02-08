@@ -232,7 +232,7 @@
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.60</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>6.8</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>7.0</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.5</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.11</httpcore.version>
@@ -365,6 +365,11 @@
                 <groupId>org.junit.vintage</groupId>
                 <artifactId>junit-vintage-engine</artifactId>
                 <version>${junit5.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.mockito</groupId>
+                <artifactId>mockito-junit-jupiter</artifactId>
+                <version>${mockito.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.github.javafaker</groupId>
