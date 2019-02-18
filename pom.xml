@@ -42,7 +42,7 @@
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.37</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.8.1</graphviz-java.version>
+        <graphviz-java.version>0.8.2</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.4.1</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
@@ -58,7 +58,7 @@
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>27.0.1-jre</guava.version>
         <guice.version>4.2.2</guice.version>
-        <jodd.version>5.0.7</jodd.version>
+        <jodd.version>5.0.8</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
@@ -77,7 +77,7 @@
         <mbassador.version>1.3.2</mbassador.version>
         <!--code & classes-->
         <jetbrains-annotations.version>17.0.0</jetbrains-annotations.version>
-        <swagger-oai.version>2.0.6</swagger-oai.version>
+        <swagger-oai.version>2.0.7</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>0.42</google-truth.version>
@@ -95,7 +95,7 @@
         <junit5.version>5.4.0</junit5.version>
         <hamcrest.version>2.1</hamcrest.version>
         <java-faker.version>0.17.2</java-faker.version>
-        <mockito.version>2.24.0</mockito.version>
+        <mockito.version>2.24.5</mockito.version>
         <htmlunit.version>2.33</htmlunit.version>
         <testng.version>7.0.0-beta3</testng.version>
         <selenium.version>3.141.59</selenium.version>
@@ -140,7 +140,7 @@
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
         <!--servers-->
-        <jetty.version>9.4.14.v20181114</jetty.version>
+        <jetty.version>9.4.15.v20190215</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.0.17.Final</undertow.version>
         <!--parsers & templates & serializer-->
@@ -1256,6 +1256,13 @@
                 <scope>import</scope>
             </dependency>
             <dependency>
+                <groupId>io.fabric8</groupId>
+                <artifactId>kubernetes-client-bom</artifactId>
+                <version>${kubernetes-client.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
                 <groupId>com.amazonaws</groupId>
                 <artifactId>aws-java-sdk-bom</artifactId>
                 <version>${aws-java-sdk.version}</version>
@@ -1266,13 +1273,6 @@
                 <groupId>software.amazon.awssdk</groupId>
                 <artifactId>bom</artifactId>
                 <version>${aws-java-sdk2.version}</version>
-                <type>pom</type>
-                <scope>import</scope>
-            </dependency>
-            <dependency>
-                <groupId>io.fabric8</groupId>
-                <artifactId>kubernetes-client-bom</artifactId>
-                <version>${kubernetes-client.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
