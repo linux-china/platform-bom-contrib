@@ -117,6 +117,7 @@
         <database-rider.version>1.5.2</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
+        <jsqlparser.version>1.4</jsqlparser.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>3.13.1</okhttp3.version>
@@ -1132,6 +1133,11 @@
                 <groupId>com.github.rweisleder</groupId>
                 <artifactId>jfairy-junit-extension</artifactId>
                 <version>${jfairy-junit-extension.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.jsqlparser</groupId>
+                <artifactId>jsqlparser</artifactId>
+                <version>${jsqlparser.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.github.database-rider</groupId>
