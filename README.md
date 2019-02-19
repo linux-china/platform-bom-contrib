@@ -119,6 +119,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Passay: generate & validate password in Java: https://github.com/vt-middleware/passay  https://www.baeldung.com/java-passay
 * MBassador: MBassador is a light-weight, high-performance event bus implementing the publish subscribe pattern https://github.com/bennidi/mbassador
 * AWS Java SDK 2.0: https://docs.aws.amazon.com/zh_cn/sdk-for-java/v2/developer-guide/welcome.html
+* jsqlparser: JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes https://github.com/JSQLParser/JSqlParser
 
 ### Developer Notice
 
