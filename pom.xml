@@ -49,7 +49,7 @@
         <dropwizard-metrics.version>4.0.3</dropwizard-metrics.version>
         <jolokia.version>1.6.0</jolokia.version>
         <logback.version>1.2.3</logback.version>
-        <slf4j.version>1.7.25</slf4j.version>
+        <slf4j.version>1.7.26</slf4j.version>
         <jna.version>5.2.0</jna.version>
         <!--productivity & tools-->
         <functionaljava.version>4.8.1</functionaljava.version>
@@ -143,7 +143,7 @@
         <!--servers-->
         <jetty.version>9.4.15.v20190215</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.0.17.Final</undertow.version>
+        <undertow.version>2.0.18.Final</undertow.version>
         <!--parsers & templates & serializer-->
         <jackson.version>2.9.8</jackson.version>
         <jackson-protobuf.version>0.9.10-jackson2.9-proto3</jackson-protobuf.version>
@@ -273,8 +273,8 @@
         <apache-geode.version>1.8.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.71</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.502</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.4.11</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.503</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.4.12</aws-java-sdk2.version>
         <google-cloud-bom.version>0.80.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.3.0</sendgrid.version>
         <kubernetes-client.version>4.1.2</kubernetes-client.version>
@@ -285,7 +285,7 @@
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
         <reactive-streams.version>1.0.2</reactive-streams.version>
-        <narayana.version>5.9.2.Final</narayana.version>
+        <narayana.version>5.9.3.Final</narayana.version>
         <atomikos.version>4.0.6</atomikos.version>
         <!--springsource-->
         <spring.version>5.1.5.RELEASE</spring.version>
