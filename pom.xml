@@ -132,7 +132,7 @@
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
-        <smack4.version>4.3.0</smack4.version>
+        <smack4.version>4.3.1</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>10.2.0</openfeign.version>
         <javax-mail.version>1.6.2</javax-mail.version>
@@ -216,7 +216,7 @@
         <hazelcast.version>3.11.2</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
-        <infinispan.version>9.4.7.Final</infinispan.version>
+        <infinispan.version>9.4.8.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>3.3.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
@@ -1288,6 +1288,16 @@
                 <version>${google-cloud-bom.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.logging.log4j</groupId>
+                <artifactId>log4j-api</artifactId>
+                <version>${log4j2.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.logging.log4j</groupId>
+                <artifactId>log4j-core</artifactId>
+                <version>${log4j2.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
