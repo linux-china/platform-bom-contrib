@@ -42,7 +42,7 @@
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.37</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.8.2</graphviz-java.version>
+        <graphviz-java.version>0.8.3</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.4.1</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
@@ -188,7 +188,7 @@
         <jedis.version>3.0.1</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
         <lettuce5.version>5.1.4.RELEASE</lettuce5.version>
-        <caffeine.version>2.6.2</caffeine.version>
+        <caffeine.version>2.7.0</caffeine.version>
         <jettison.version>1.4.0</jettison.version>
         <mybatis.version>3.5.0</mybatis.version>
         <mybatis-spring.version>2.0.0</mybatis-spring.version>
@@ -233,7 +233,7 @@
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.61</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>7.0</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>7.0.1</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.5</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.11</httpcore.version>
@@ -273,8 +273,8 @@
         <apache-geode.version>1.8.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.71</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.504</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.4.13</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.505</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.4.14</aws-java-sdk2.version>
         <google-cloud-bom.version>0.81.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.3.0</sendgrid.version>
         <kubernetes-client.version>4.1.2</kubernetes-client.version>
@@ -291,7 +291,7 @@
         <spring.version>5.1.5.RELEASE</spring.version>
         <spring-framework.version>5.1.3.RELEASE</spring-framework.version>
         <spring-batch.version>4.1.1.RELEASE</spring-batch.version>
-        <spring-ws.version>3.0.6.RELEASE</spring-ws.version>
+        <spring-ws.version>3.0.7.RELEASE</spring-ws.version>
         <spring-session-bom.version>Bean-SR3</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.1.4.RELEASE</spring-security.version>
