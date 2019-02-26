@@ -80,7 +80,7 @@
         <swagger-oai.version>2.0.7</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
-        <google-truth.version>0.42</google-truth.version>
+        <google-truth.version>0.43/google-truth.version>
         <bytebuddy.version>1.9.10</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.2</aspectj.version>
@@ -199,7 +199,7 @@
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>3.6.0</cassandra-driver.version>
-        <ehcache3.version>3.6.3</ehcache3.version>
+        <ehcache3.version>3.7.0/ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
         <flyway.version>5.2.4</flyway.version>
@@ -227,7 +227,7 @@
         <couchbase-client.version>2.6.0</couchbase-client.version>
         <openjpa.version>3.0.0</openjpa.version>
         <mysql.version>8.0.15</mysql.version>
-        <influxdb-java.version>2.14</influxdb-java.version>
+        <influxdb-java.version>2.15</influxdb-java.version>
         <!--security-->
         <cas-client.version>3.5.1</cas-client.version>
         <jasypt.version>1.9.2</jasypt.version>
@@ -273,8 +273,8 @@
         <apache-geode.version>1.8.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.71</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.505</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.4.14</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.506</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.4.15</aws-java-sdk2.version>
         <google-cloud-bom.version>0.81.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.3.0</sendgrid.version>
         <kubernetes-client.version>4.1.2</kubernetes-client.version>
