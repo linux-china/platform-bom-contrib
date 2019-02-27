@@ -62,7 +62,7 @@
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
-        <ff4j.version>1.7.3</ff4j.version>
+        <ff4j.version>1.8</ff4j.version>
         <underscore.version>1.41</underscore.version>
         <java-util.version>1.34.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
@@ -80,7 +80,7 @@
         <swagger-oai.version>2.0.7</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
-        <google-truth.version>0.43/google-truth.version>
+        <google-truth.version>0.43</google-truth.version>
         <bytebuddy.version>1.9.10</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.2</aspectj.version>
@@ -198,8 +198,8 @@
         <mongodb-reactivestreams.version>1.11.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
-        <cassandra-driver.version>3.6.0</cassandra-driver.version>
-        <ehcache3.version>3.7.0/ehcache3.version>
+        <cassandra-driver.version>3.7.0</cassandra-driver.version>
+        <ehcache3.version>3.7.0</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
         <flyway.version>5.2.4</flyway.version>
@@ -257,7 +257,7 @@
         <poi.version>4.0.1</poi.version>
         <kafka.version>2.1.1</kafka.version>
         <log4j2.version>2.11.2</log4j2.version>
-        <solr.version>7.7.0</solr.version>
+        <solr.version>7.7.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>9.0.16</tomcat.version>
         <groovy.version>2.5.6</groovy.version>
@@ -273,8 +273,8 @@
         <apache-geode.version>1.8.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.71</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.506</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.4.15</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.507</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.4.16</aws-java-sdk2.version>
         <google-cloud-bom.version>0.81.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.3.0</sendgrid.version>
         <kubernetes-client.version>4.1.2</kubernetes-client.version>
@@ -314,7 +314,7 @@
         <spring-amqp.version>2.1.4.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.6.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.1.1.RELEASE</rabbit-http-client.version>
-        <spring-vault.version>2.1.1.RELEASE</spring-vault.version>
+        <spring-vault.version>2.1.2.RELEASE</spring-vault.version>
         <spring-kafka.version>2.2.4.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.3.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.4.RELEASE</spring-retry.version>
