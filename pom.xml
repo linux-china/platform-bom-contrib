@@ -127,8 +127,8 @@
         <netty.version>4.1.33.Final</netty.version>
         <netty-boringssl.version>2.0.20.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.18.0</grpc.version>
-        <asynchttpclient.version>2.7.0</asynchttpclient.version>
+        <grpc.version>1.19.0</grpc.version>
+        <asynchttpclient.version>2.8.0</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
@@ -273,8 +273,8 @@
         <apache-geode.version>1.8.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.71</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.507</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.4.16</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.508</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.4.17</aws-java-sdk2.version>
         <google-cloud-bom.version>0.81.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.3.0</sendgrid.version>
         <kubernetes-client.version>4.1.2</kubernetes-client.version>
