@@ -58,12 +58,12 @@
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>27.0.1-jre</guava.version>
         <guice.version>4.2.2</guice.version>
-        <jodd.version>5.0.8</jodd.version>
+        <jodd.version>5.0.9</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
         <ff4j.version>1.8</ff4j.version>
-        <underscore.version>1.41</underscore.version>
+        <underscore.version>1.42</underscore.version>
         <java-util.version>1.34.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
@@ -110,7 +110,7 @@
         <testcontainers.version>1.10.6</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>3.3.0</rest-assured.version>
-        <assertj.version>3.12.0</assertj.version>
+        <assertj.version>3.12.1</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
@@ -128,7 +128,7 @@
         <netty-boringssl.version>2.0.20.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.19.0</grpc.version>
-        <asynchttpclient.version>2.8.0</asynchttpclient.version>
+        <asynchttpclient.version>2.8.1</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
@@ -148,7 +148,7 @@
         <jackson.version>2.9.8</jackson.version>
         <jackson-protobuf.version>0.9.10-jackson2.9-proto3</jackson-protobuf.version>
         <classmate.version>1.4.0</classmate.version>
-        <snakeyaml.version>1.23</snakeyaml.version>
+        <snakeyaml.version>1.24</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.5</gson.version>
         <protobuf.version>3.6.1</protobuf.version>
@@ -324,7 +324,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <spring-cloud-localconfig-connector.version>2.0.1.RELEASE</spring-cloud-localconfig-connector.version>
         <reactor-bom.version>Californium-SR5</reactor-bom.version>
-        <rxjava2.version>2.2.6</rxjava2.version>
+        <rxjava2.version>2.2.7</rxjava2.version>
         <micrometer.version>1.1.3</micrometer.version>
     </properties>
 
