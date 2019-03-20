@@ -265,7 +265,7 @@
         <curator.version>4.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.15.9</activemq.version>
-        <artemis.version>2.6.4</artemis.version>
+        <artemis.version>2.7.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
         <svnkit.version>1.9.3</svnkit.version>
