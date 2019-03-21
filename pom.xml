@@ -208,7 +208,7 @@
         <flexy-pool.version>2.1.1</flexy-pool.version>
         <h2.version>1.4.199</h2.version>
         <hsqldb.version>2.4.1</hsqldb.version>
-        <sqlite-jdbc.version>3.27.2</sqlite-jdbc.version>
+        <sqlite-jdbc.version>3.27.2.1</sqlite-jdbc.version>
         <neo4j-ogm.version>3.1.8</neo4j-ogm.version>
         <etcd4j.version>2.17.0</etcd4j.version>
         <consul-api.version>1.4.2</consul-api.version>
