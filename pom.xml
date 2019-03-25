@@ -107,7 +107,7 @@
         <easymock.version>4.0.2</easymock.version>
         <fluentlenium.version>4.2.2</fluentlenium.version>
         <powermock.version>2.0.0</powermock.version>
-        <testcontainers.version>1.10.7</testcontainers.version>
+        <testcontainers.version>1.11.1</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>3.3.0</rest-assured.version>
         <assertj.version>3.12.2</assertj.version>
@@ -147,7 +147,7 @@
         <!--parsers & templates & serializer-->
         <jackson.version>2.9.8</jackson.version>
         <jackson-protobuf.version>0.9.10-jackson2.9-proto3</jackson-protobuf.version>
-        <classmate.version>1.4.0</classmate.version>
+        <classmate.version>1.5.0</classmate.version>
         <snakeyaml.version>1.24</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.5</gson.version>
@@ -255,7 +255,7 @@
         <commons-dbcp2.version>2.6.0</commons-dbcp2.version>
         <commons-rng.version>1.2</commons-rng.version>
         <poi.version>4.0.1</poi.version>
-        <kafka.version>2.1.1</kafka.version>
+        <kafka.version>2.2.0</kafka.version>
         <log4j2.version>2.11.2</log4j2.version>
         <solr.version>8.0.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
