@@ -285,7 +285,7 @@
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
         <reactive-streams.version>1.0.2</reactive-streams.version>
-        <narayana.version>5.9.4.Final</narayana.version>
+        <narayana.version>5.9.5.Final</narayana.version>
         <atomikos.version>4.0.6</atomikos.version>
         <!--springsource-->
         <spring.version>5.1.5.RELEASE</spring.version>
