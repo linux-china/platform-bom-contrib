@@ -63,7 +63,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
         <ff4j.version>1.8</ff4j.version>
-        <underscore.version>1.42</underscore.version>
+        <underscore.version>1.43</underscore.version>
         <java-util.version>1.34.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
@@ -159,7 +159,7 @@
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.11.3</jsoup.version>
         <thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
-        <thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
+        <thymeleaf-layout-dialect.version>2.4.1</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
         <thymeleaf-extras-springsecurity4.version>3.0.3.RELEASE</thymeleaf-extras-springsecurity4.version>
@@ -216,7 +216,7 @@
         <hazelcast.version>3.11.2</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
-        <infinispan.version>9.4.8.Final</infinispan.version>
+        <infinispan.version>9.4.11.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>3.3.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
@@ -261,7 +261,7 @@
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>9.0.17</tomcat.version>
         <groovy.version>2.5.6</groovy.version>
-        <zookeeper.version>3.4.13</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <curator.version>4.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.15.9</activemq.version>
@@ -294,7 +294,7 @@
         <spring-ws.version>3.0.7.RELEASE</spring-ws.version>
         <spring-session-bom.version>Bean-SR3</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.1.4.RELEASE</spring-security.version>
+        <spring-security.version>5.1.5.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.3.5.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.8.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
@@ -312,11 +312,11 @@
         <spring-cloud-function.version>2.0.1.RELEASE</spring-cloud-function.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.1.4.RELEASE</spring-amqp.version>
+        <spring-amqp.version>2.1.5.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.6.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.2.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.1.2.RELEASE</spring-vault.version>
-        <spring-kafka.version>2.2.4.RELEASE</spring-kafka.version>
+        <spring-kafka.version>2.2.5.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.3.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.4.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
