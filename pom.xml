@@ -143,7 +143,7 @@
         <!--servers-->
         <jetty.version>9.4.15.v20190215</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.0.19.Final</undertow.version>
+        <undertow.version>2.0.20.Final</undertow.version>
         <!--parsers & templates & serializer-->
         <jackson.version>2.9.8</jackson.version>
         <jackson-protobuf.version>0.9.10-jackson2.9-proto3</jackson-protobuf.version>
@@ -180,7 +180,7 @@
         <xstream.version>1.4.11.1</xstream.version>
         <aalto-xml.version>1.2.0</aalto-xml.version>
         <woodstox5.version>5.2.0</woodstox5.version>
-        <openpdf.version>1.2.14</openpdf.version>
+        <openpdf.version>1.2.15</openpdf.version>
         <!--persistence-->
         <hibernate.version>5.4.2.Final</hibernate.version>
         <hibernate-validator.version>6.0.16.Final</hibernate-validator.version>
@@ -273,8 +273,8 @@
         <apache-geode.version>1.8.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.73</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.533</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.5.24</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.534</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.5.25</aws-java-sdk2.version>
         <google-cloud-bom.version>0.87.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.3.0</sendgrid.version>
         <kubernetes-client.version>4.2.0</kubernetes-client.version>
