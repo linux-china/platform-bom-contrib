@@ -120,6 +120,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * MBassador: MBassador is a light-weight, high-performance event bus implementing the publish subscribe pattern https://github.com/bennidi/mbassador
 * AWS Java SDK 2.0: https://docs.aws.amazon.com/zh_cn/sdk-for-java/v2/developer-guide/welcome.html
 * jsqlparser: JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes https://github.com/JSQLParser/JSqlParser
+* progressbar: Terminal Based Progress Bar for Java Applications  http://tongfei.me/progressbar/
 
 ### Developer Notice
 
