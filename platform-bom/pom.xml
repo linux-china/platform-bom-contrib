@@ -79,7 +79,7 @@
 		<findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
 		<gemfire.version>9.1.1</gemfire.version>
 		<guava.version>27.1-jre</guava.version>
-		<guice.version>3.0</guice.version>
+		<guice.version>4.2.2</guice.version>
 		<hadoop.version>2.2.0</hadoop.version>
 		<hbase.version>0.96.2-hadoop2</hbase.version>
 		<hibernate-validator5.version>5.4.3.Final</hibernate-validator5.version>
@@ -116,11 +116,11 @@
 		<ldapsdk.version>4.1</ldapsdk.version>
 		<log4j.version>1.2.17</log4j.version>
 		<myfaces.version>2.3.3</myfaces.version>
-		<nimbus-jose-jwt.version>5.1</nimbus-jose-jwt.version>
-		<oauth2-oidc-sdk.version>5.54</oauth2-oidc-sdk.version>
+		<nimbus-jose-jwt.version>7.0.1</nimbus-jose-jwt.version>
+		<oauth2-oidc-sdk.version>6.6.1</oauth2-oidc-sdk.version>
 		<okhttp3.version>3.14.0</okhttp3.version>
-		<openjpa.version>2.4.3</openjpa.version>
-		<openpdf.version>1.0.5</openpdf.version>
+		<openjpa.version>3.0.0</openjpa.version>
+		<openpdf.version>1.2.15</openpdf.version>
 		<neo4j.version>2.3.2</neo4j.version>
 		<neo4j-cypher-dsl.version>2.0.1</neo4j-cypher-dsl.version>
 		<neo4j-spatial.version>0.12-neo4j-2.0.1</neo4j-spatial.version>
@@ -128,7 +128,7 @@
 		<openid4java.version>0.9.6</openid4java.version>
 		<paho-mqttv3-client.version>1.2.0</paho-mqttv3-client.version>
 		<pig.version>0.12.1</pig.version>
-		<poi.version>4.0.1</poi.version>
+		<poi.version>4.1.0</poi.version>
 		<protobuf.version>3.7.1</protobuf.version>
 		<protobuf-java-format.version>1.4</protobuf-java-format.version>
 		<rabbit-http-client.version>2.0.2.RELEASE</rabbit-http-client.version>
