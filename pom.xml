@@ -95,7 +95,7 @@
         <junit5.version>5.4.1</junit5.version>
         <hamcrest.version>2.1</hamcrest.version>
         <java-faker.version>0.17.2</java-faker.version>
-        <mockito.version>2.26.0</mockito.version>
+        <mockito.version>2.27.0</mockito.version>
         <htmlunit.version>2.34.1</htmlunit.version>
         <testng.version>7.0.0-beta4</testng.version>
         <selenium.version>3.141.59</selenium.version>
@@ -224,7 +224,7 @@
         <unboundid-ldapsdk.version>4.0.10</unboundid-ldapsdk.version>
         <postgresql.version>42.2.5.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.7.0</jdbi.version>
+        <jdbi.version>3.7.1</jdbi.version>
         <couchbase-client.version>2.7.4</couchbase-client.version>
         <openjpa.version>3.0.0</openjpa.version>
         <mysql.version>8.0.15</mysql.version>
@@ -281,7 +281,7 @@
         <kubernetes-client.version>4.2.0</kubernetes-client.version>
         <!--languages-->
         <kotlin.version>1.3.21</kotlin.version>
-        <jruby.version>9.2.1.0</jruby.version>
+        <jruby.version>9.2.7.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
