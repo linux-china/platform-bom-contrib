@@ -200,7 +200,7 @@
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>4.0.0</cassandra-driver.version>
-        <ehcache3.version>3.7.0</ehcache3.version>
+        <ehcache3.version>3.7.1</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
         <flyway.version>5.2.4</flyway.version>
