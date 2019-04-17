@@ -96,7 +96,7 @@
         <hamcrest.version>2.1</hamcrest.version>
         <java-faker.version>0.17.2</java-faker.version>
         <mockito.version>2.27.0</mockito.version>
-        <htmlunit.version>2.34.1</htmlunit.version>
+        <htmlunit.version>2.35.0</htmlunit.version>
         <testng.version>7.0.0-beta4</testng.version>
         <selenium.version>3.141.59</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -246,7 +246,7 @@
         <commons-codec.version>1.12</commons-codec.version>
         <commons-fileupload.version>1.4</commons-fileupload.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
-        <commons-lang3.version>3.8.1</commons-lang3.version>
+        <commons-lang3.version>3.9</commons-lang3.version>
         <commons-csv.version>1.6</commons-csv.version>
         <commons-crypto.version>1.0.0</commons-crypto.version>
         <commons-configuration2.version>2.4</commons-configuration2.version>
@@ -1332,6 +1332,11 @@
                 <groupId>io.projectreactor.ipc</groupId>
                 <artifactId>reactor-netty</artifactId>
                 <version>0.7.15.RELEASE</version>
+            </dependency>
+            <dependency>
+                <groupId>io.projectreactor.rabbitmq</groupId>
+                <artifactId>reactor-rabbitmq</artifactId>
+                <version>1.2.0.RELEASE</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.vault</groupId>
