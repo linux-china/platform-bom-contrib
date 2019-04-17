@@ -182,6 +182,7 @@
         <aalto-xml.version>1.2.0</aalto-xml.version>
         <woodstox5.version>5.2.0</woodstox5.version>
         <openpdf.version>1.2.16</openpdf.version>
+        <jaxen.version>1.2.0</jaxen.version>
         <!--persistence-->
         <hibernate.version>5.4.2.Final</hibernate.version>
         <hibernate-validator.version>6.0.16.Final</hibernate-validator.version>
@@ -703,6 +704,11 @@
                 <groupId>org.dom4j</groupId>
                 <artifactId>dom4j</artifactId>
                 <version>${dom4j-java8.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>jaxen</groupId>
+                <artifactId>jaxen</artifactId>
+                <version>${jaxen.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.unbescape</groupId>
