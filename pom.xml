@@ -236,7 +236,7 @@
         <bouncycastle.version>1.61</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>7.1</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>6.8</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>6.9</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.11</httpcore.version>
         <httpclient.version>4.5.8</httpclient.version>
