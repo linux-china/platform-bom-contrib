@@ -50,6 +50,7 @@
         <jolokia.version>1.6.1</jolokia.version>
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.26</slf4j.version>
+        <flogger.version>0.4</flogger.version>
         <jna.version>5.3.1</jna.version>
         <!--productivity & tools-->
         <functionaljava.version>4.8.1</functionaljava.version>
@@ -1152,6 +1153,26 @@
                 <groupId>net.java.dev.jna</groupId>
                 <artifactId>jna-platform</artifactId>
                 <version>${jna.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.flogger</groupId>
+                <artifactId>flogger</artifactId>
+                <version>${flogger.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.flogger</groupId>
+                <artifactId>flogger-log4j-backend</artifactId>
+                <version>${flogger.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.flogger</groupId>
+                <artifactId>flogger-slf4j-backend</artifactId>
+                <version>${flogger.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.flogger</groupId>
+                <artifactId>flogger-system-backend</artifactId>
+                <version>${flogger.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.spockframework</groupId>
