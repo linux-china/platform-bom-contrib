@@ -42,7 +42,7 @@
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.37</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.8.4</graphviz-java.version>
+        <graphviz-java.version>0.8.5</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.4.1</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
@@ -84,7 +84,7 @@
         <google-truth.version>0.44</google-truth.version>
         <bytebuddy.version>1.9.12</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
-        <aspectj.version>1.9.3</aspectj.version>
+        <aspectj.version>1.9.4</aspectj.version>
         <cglib.version>3.2.12</cglib.version>
         <lombok.version>1.18.8</lombok.version>
         <immutables.version>2.7.5</immutables.version>
@@ -95,7 +95,7 @@
         <!--testing-->
         <junit5.version>5.4.1</junit5.version>
         <hamcrest.version>2.1</hamcrest.version>
-        <java-faker.version>0.17.2</java-faker.version>
+        <java-faker.version>0.18</java-faker.version>
         <mockito.version>2.27.0</mockito.version>
         <htmlunit.version>2.35.0</htmlunit.version>
         <testng.version>7.0.0-beta4</testng.version>
@@ -110,7 +110,7 @@
         <powermock.version>2.0.2</powermock.version>
         <testcontainers.version>1.11.2</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
-        <rest-assured.version>3.3.0</rest-assured.version>
+        <rest-assured.version>4.0.0</rest-assured.version>
         <assertj.version>3.12.2</assertj.version>
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
@@ -159,7 +159,7 @@
         <itext.version>4.2.2</itext.version>
         <json.version>20180813</json.version>
         <kryo.version>4.0.2</kryo.version>
-        <jsoup.version>1.11.3</jsoup.version>
+        <jsoup.version>1.12.1</jsoup.version>
         <thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.4.1</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
@@ -237,7 +237,7 @@
         <bouncycastle.version>1.61</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>7.1</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>6.9</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>6.11</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.11</httpcore.version>
         <httpclient.version>4.5.8</httpclient.version>
@@ -261,10 +261,10 @@
         <kafka.version>2.2.0</kafka.version>
         <log4j2.version>2.11.2</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
-        <solr.version>8.0.0</solr.version>
+        <solr.version>8.1.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>9.0.19</tomcat.version>
-        <groovy.version>2.5.6</groovy.version>
+        <groovy.version>2.5.7</groovy.version>
         <zookeeper.version>3.4.14</zookeeper.version>
         <curator.version>4.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
@@ -276,7 +276,7 @@
         <axiom.version>1.2.22</axiom.version>
         <apache-geode.version>1.9.0</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.73</appengine-sdk.version>
+        <appengine-sdk.version>1.9.74</appengine-sdk.version>
         <aws-java-sdk.version>1.11.550</aws-java-sdk.version>
         <aws-java-sdk2.version>2.5.41</aws-java-sdk2.version>
         <google-cloud-bom.version>0.91.0-alpha</google-cloud-bom.version>
@@ -312,7 +312,7 @@
         <spring-cloud-contract.version>2.1.1.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Greenwich.SR1</spring-cloud.version>
         <spring-cloud-task.version>2.1.1.RELEASE</spring-cloud-task.version>
-        <spring-cloud-stream.version>Fishtown.SR2</spring-cloud-stream.version>
+        <spring-cloud-stream.version>Germantown.RELEASE</spring-cloud-stream.version>
         <spring-cloud-function.version>2.1.0.RELEASE</spring-cloud-function.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
@@ -1291,7 +1291,17 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>3.2.0</version>
+                <version>3.2.2</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.api.grpc</groupId>
+                <artifactId>grpc-google-common-protos</artifactId>
+                <version>1.16.0</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.api.grpc</groupId>
+                <artifactId>proto-google-common-protos</artifactId>
+                <version>1.16.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
