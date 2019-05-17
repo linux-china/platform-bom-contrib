@@ -122,6 +122,8 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * jsqlparser: JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes https://github.com/JSQLParser/JSqlParser
 * progressbar: Terminal Based Progress Bar for Java Applications  http://tongfei.me/progressbar/
 * flogger: A Fluent Logging API for Java https://github.com/google/flogger
+* Awaitility: Awaitility is a small Java DSL for synchronizing asynchronous operations  https://github.com/awaitility/awaitility
+* PF4J:  A plugin is a way for a third party to extend the functionality of an application https://pf4j.org/
 
 ### Developer Notice
 
