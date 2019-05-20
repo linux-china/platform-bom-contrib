@@ -265,7 +265,7 @@
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>9.0.20</tomcat.version>
         <groovy.version>2.5.7</groovy.version>
-        <zookeeper.version>3.4.14</zookeeper.version>
+        <zookeeper.version>3.5.5</zookeeper.version>
         <curator.version>4.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.15.9</activemq.version>
