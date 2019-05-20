@@ -42,7 +42,7 @@
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.37</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.8.6</graphviz-java.version>
+        <graphviz-java.version>0.8.7</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.4.1</twelvemonkeys-imageio.version>
         <emoji-java.version>4.0.0</emoji-java.version>
         <!--system management & monitor-->
@@ -227,7 +227,7 @@
         <postgresql.version>42.2.5.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.8.2</jdbi.version>
-        <couchbase-client.version>2.7.4</couchbase-client.version>
+        <couchbase-client.version>2.7.5</couchbase-client.version>
         <openjpa.version>3.1.0</openjpa.version>
         <mysql.version>8.0.16</mysql.version>
         <influxdb-java.version>2.15</influxdb-java.version>
