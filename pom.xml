@@ -115,7 +115,7 @@
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.5.3</database-rider.version>
+        <database-rider.version>1.6.0</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <jsqlparser.version>2.0</jsqlparser.version>
@@ -129,7 +129,7 @@
         <netty-boringssl.version>2.0.25.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.20.0</grpc.version>
-        <asynchttpclient.version>2.8.1</asynchttpclient.version>
+        <asynchttpclient.version>2.9.0</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
@@ -137,7 +137,7 @@
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>10.2.3</openfeign.version>
         <javax-mail.version>1.6.2</javax-mail.version>
-        <javax-cache.version>1.1.0</javax-cache.version>
+        <javax-cache.version>1.1.1</javax-cache.version>
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
@@ -227,7 +227,7 @@
         <postgresql.version>42.2.5.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.8.2</jdbi.version>
-        <couchbase-client.version>2.7.5</couchbase-client.version>
+        <couchbase-client.version>2.7.6</couchbase-client.version>
         <openjpa.version>3.1.0</openjpa.version>
         <mysql.version>8.0.16</mysql.version>
         <influxdb-java.version>2.15</influxdb-java.version>
