@@ -108,7 +108,7 @@
         <easymock.version>4.0.2</easymock.version>
         <fluentlenium.version>4.2.2</fluentlenium.version>
         <powermock.version>2.0.2</powermock.version>
-        <testcontainers.version>1.11.2</testcontainers.version>
+        <testcontainers.version>1.11.3</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>4.0.0</rest-assured.version>
         <assertj.version>3.12.2</assertj.version>
@@ -128,7 +128,7 @@
         <netty.version>4.1.36.Final</netty.version>
         <netty-boringssl.version>2.0.25.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.20.0</grpc.version>
+        <grpc.version>1.21.0</grpc.version>
         <asynchttpclient.version>2.9.0</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -236,7 +236,7 @@
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.61</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>7.1</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>7.2.1</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.13</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.11</httpcore.version>
