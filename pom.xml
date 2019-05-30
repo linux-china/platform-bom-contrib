@@ -186,7 +186,7 @@
         <openpdf.version>1.2.17</openpdf.version>
         <jaxen.version>1.2.0</jaxen.version>
         <!--persistence-->
-        <hibernate.version>5.4.2.Final</hibernate.version>
+        <hibernate.version>5.4.3.Final</hibernate.version>
         <hibernate-validator.version>6.0.16.Final</hibernate-validator.version>
         <jooq.version>3.11.11</jooq.version>
         <jedis.version>3.0.1</jedis.version>
