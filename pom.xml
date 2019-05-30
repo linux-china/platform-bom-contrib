@@ -277,8 +277,8 @@
         <apache-geode.version>1.9.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.74</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.561</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.5.52</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.562</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.5.53</aws-java-sdk2.version>
         <google-cloud-bom.version>0.93.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.2.2</kubernetes-client.version>
@@ -329,7 +329,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <spring-cloud-localconfig-connector.version>2.0.1.RELEASE</spring-cloud-localconfig-connector.version>
         <reactor-bom.version>Californium-SR8</reactor-bom.version>
-        <rxjava2.version>2.2.8</rxjava2.version>
+        <rxjava2.version>2.2.9</rxjava2.version>
         <micrometer.version>1.1.4</micrometer.version>
     </properties>
 
