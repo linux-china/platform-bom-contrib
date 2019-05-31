@@ -149,7 +149,7 @@
         <jersey.version>2.28</jersey.version>
         <!--parsers & templates & serializer-->
         <jackson.version>2.9.9</jackson.version>
-        <jackson-protobuf.version>0.9.10-jackson2.9-proto3</jackson-protobuf.version>
+        <jackson-protobuf.version>0.9.11-jackson2.9</jackson-protobuf.version>
         <classmate.version>1.5.0</classmate.version>
         <snakeyaml.version>1.24</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
@@ -181,9 +181,9 @@
         <hessian.version>4.0.60</hessian.version>
         <xmlunit.version>2.6.2</xmlunit.version>
         <xstream.version>1.4.11.1</xstream.version>
-        <aalto-xml.version>1.2.0</aalto-xml.version>
+        <aalto-xml.version>1.2.1</aalto-xml.version>
         <woodstox5.version>5.2.1</woodstox5.version>
-        <openpdf.version>1.2.17</openpdf.version>
+        <openpdf.version>1.2.18</openpdf.version>
         <jaxen.version>1.2.0</jaxen.version>
         <!--persistence-->
         <hibernate.version>5.4.3.Final</hibernate.version>
@@ -278,8 +278,8 @@
         <apache-geode.version>1.9.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.74</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.562</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.5.53</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.563</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.5.54</aws-java-sdk2.version>
         <google-cloud-bom.version>0.94.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.2.2</kubernetes-client.version>
