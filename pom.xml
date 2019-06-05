@@ -130,7 +130,7 @@
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.21.0</grpc.version>
         <google-gax.version>1.45.0</google-gax.version>
-        <asynchttpclient.version>2.9.0</asynchttpclient.version>
+        <asynchttpclient.version>2.10.0</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
@@ -224,7 +224,7 @@
         <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>3.3.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
-        <unboundid-ldapsdk.version>4.0.10</unboundid-ldapsdk.version>
+        <unboundid-ldapsdk.version>4.0.11</unboundid-ldapsdk.version>
         <postgresql.version>42.2.5.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.8.2</jdbi.version>
@@ -250,7 +250,7 @@
         <commons-fileupload.version>1.4</commons-fileupload.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
         <commons-lang3.version>3.9</commons-lang3.version>
-        <commons-csv.version>1.6</commons-csv.version>
+        <commons-csv.version>1.7</commons-csv.version>
         <commons-crypto.version>1.0.0</commons-crypto.version>
         <commons-configuration2.version>2.5</commons-configuration2.version>
         <commons-text.version>1.6</commons-text.version>
@@ -270,7 +270,7 @@
         <curator.version>4.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.15.9</activemq.version>
-        <artemis.version>2.8.1</artemis.version>
+        <artemis.version>2.9.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
         <svnkit.version>1.9.3</svnkit.version>
@@ -278,8 +278,8 @@
         <apache-geode.version>1.9.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.74</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.564</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.5.55</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.565</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.5.56</aws-java-sdk2.version>
         <google-cloud-bom.version>0.94.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.2.2</kubernetes-client.version>
