@@ -93,7 +93,7 @@
         <threetenbp.version>1.4.0</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
-        <junit5.version>5.4.1</junit5.version>
+        <junit5.version>5.5.0-RC1</junit5.version>
         <hamcrest.version>2.1</hamcrest.version>
         <java-faker.version>0.18</java-faker.version>
         <mockito.version>2.28.2</mockito.version>
@@ -235,7 +235,7 @@
         <!--security-->
         <cas-client.version>3.5.1</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
-        <bouncycastle.version>1.61</bouncycastle.version>
+        <bouncycastle.version>1.62</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>7.2.1</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.13</oauth2-oidc-sdk.version>
@@ -280,7 +280,7 @@
         <appengine-sdk.version>1.9.74</appengine-sdk.version>
         <aws-java-sdk.version>1.11.567</aws-java-sdk.version>
         <aws-java-sdk2.version>2.5.58</aws-java-sdk2.version>
-        <google-cloud-bom.version>0.94.0-alpha</google-cloud-bom.version>
+        <google-cloud-bom.version>0.95.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.2.2</kubernetes-client.version>
         <!--languages-->
