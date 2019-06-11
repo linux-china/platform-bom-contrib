@@ -241,7 +241,7 @@
         <oauth2-oidc-sdk.version>6.13</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.11</httpcore.version>
-        <httpclient.version>4.5.8</httpclient.version>
+        <httpclient.version>4.5.9</httpclient.version>
         <commons-cli.version>1.4</commons-cli.version>
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-net.version>3.6</commons-net.version>
@@ -264,7 +264,7 @@
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.1.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>9.0.20</tomcat.version>
+        <tomcat.version>9.0.21</tomcat.version>
         <groovy.version>2.5.7</groovy.version>
         <zookeeper.version>3.5.5</zookeeper.version>
         <curator.version>4.2.0</curator.version>
@@ -278,8 +278,8 @@
         <apache-geode.version>1.9.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.74</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.568</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.5.59</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.569</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.5.60</aws-java-sdk2.version>
         <google-cloud-bom.version>0.95.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.3.0</kubernetes-client.version>
@@ -329,7 +329,7 @@
         <spring-cloud-connector.version>2.0.4.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <spring-cloud-localconfig-connector.version>2.0.1.RELEASE</spring-cloud-localconfig-connector.version>
-        <reactor-bom.version>Californium-SR8</reactor-bom.version>
+        <reactor-bom.version>Californium-SR9</reactor-bom.version>
         <rxjava2.version>2.2.9</rxjava2.version>
         <micrometer.version>1.1.4</micrometer.version>
     </properties>
