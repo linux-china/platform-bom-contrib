@@ -57,7 +57,7 @@
         <fugue.version>4.7.2</fugue.version>
         <joda-time.version>2.10.2</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
-        <guava.version>27.1-jre</guava.version>
+        <guava.version>28.0-jre</guava.version>
         <guice.version>4.2.2</guice.version>
         <jodd.version>5.0.13</jodd.version>
         <boon.version>0.34</boon.version>
@@ -143,7 +143,7 @@
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
         <!--servers-->
-        <jetty.version>9.4.18.v20190429</jetty.version>
+        <jetty.version>9.4.19.v20190610</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.0.21.Final</undertow.version>
         <jersey.version>2.28</jersey.version>
@@ -183,7 +183,7 @@
         <xstream.version>1.4.11.1</xstream.version>
         <aalto-xml.version>1.2.1</aalto-xml.version>
         <woodstox5.version>5.2.1</woodstox5.version>
-        <openpdf.version>1.2.18</openpdf.version>
+        <openpdf.version>1.2.19</openpdf.version>
         <jaxen.version>1.2.0</jaxen.version>
         <!--persistence-->
         <hibernate.version>5.4.3.Final</hibernate.version>
@@ -217,7 +217,7 @@
         <etcd4j.version>2.17.0</etcd4j.version>
         <consul-api.version>1.4.2</consul-api.version>
         <elasticsearch.version>7.1.1</elasticsearch.version>
-        <hazelcast.version>3.12</hazelcast.version>
+        <hazelcast.version>3.12.1</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.3.2</hazelcast-hibernate5.version>
         <infinispan.version>9.4.14.Final</infinispan.version>
@@ -277,9 +277,9 @@
         <axiom.version>1.2.22</axiom.version>
         <apache-geode.version>1.9.0</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.74</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.569</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.5.60</aws-java-sdk2.version>
+        <appengine-sdk.version>1.9.75</appengine-sdk.version>
+        <aws-java-sdk.version>1.11.570</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.5.61</aws-java-sdk2.version>
         <google-cloud-bom.version>0.95.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.3.0</kubernetes-client.version>
