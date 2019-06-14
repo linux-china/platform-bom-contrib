@@ -183,7 +183,7 @@
         <xstream.version>1.4.11.1</xstream.version>
         <aalto-xml.version>1.2.1</aalto-xml.version>
         <woodstox5.version>5.2.1</woodstox5.version>
-        <openpdf.version>1.2.19</openpdf.version>
+        <openpdf.version>1.2.20</openpdf.version>
         <jaxen.version>1.2.0</jaxen.version>
         <!--persistence-->
         <hibernate.version>5.4.3.Final</hibernate.version>
@@ -278,9 +278,9 @@
         <apache-geode.version>1.9.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.75</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.571</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.5.62</aws-java-sdk2.version>
-        <google-cloud-bom.version>0.95.0-alpha</google-cloud-bom.version>
+        <aws-java-sdk.version>1.11.572</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.5.63</aws-java-sdk2.version>
+        <google-cloud-bom.version>0.96.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.3.0</kubernetes-client.version>
         <!--languages-->
