@@ -115,7 +115,7 @@
         <assertj-json.version>3.4.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.7.1</database-rider.version>
+        <database-rider.version>1.7.2</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <jsqlparser.version>2.0</jsqlparser.version>
@@ -145,7 +145,7 @@
         <!--servers-->
         <jetty.version>9.4.19.v20190610</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.0.21.Final</undertow.version>
+        <undertow.version>2.0.22.Final</undertow.version>
         <jersey.version>2.28</jersey.version>
         <!--parsers & templates & serializer-->
         <jackson.version>2.9.9</jackson.version>
@@ -197,7 +197,7 @@
         <mybatis.version>3.5.1</mybatis.version>
         <mybatis-spring.version>2.0.1</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
-        <mariadb.version>2.4.1</mariadb.version>
+        <mariadb.version>2.4.2</mariadb.version>
         <mongodb.version>3.10.1</mongodb.version>
         <mongodb-reactivestreams.version>1.11.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
@@ -331,7 +331,7 @@
         <spring-cloud-localconfig-connector.version>2.0.1.RELEASE</spring-cloud-localconfig-connector.version>
         <reactor-bom.version>Californium-SR9</reactor-bom.version>
         <rxjava2.version>2.2.9</rxjava2.version>
-        <micrometer.version>1.1.4</micrometer.version>
+        <micrometer.version>1.1.5</micrometer.version>
     </properties>
 
     <dependencyManagement>
