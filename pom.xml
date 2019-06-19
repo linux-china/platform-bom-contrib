@@ -237,7 +237,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.62</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>7.2.1</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>7.3</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.13</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.11</httpcore.version>
@@ -284,7 +284,7 @@
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.3.0</kubernetes-client.version>
         <!--languages-->
-        <kotlin.version>1.3.31</kotlin.version>
+        <kotlin.version>1.3.40</kotlin.version>
         <jruby.version>9.2.7.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
