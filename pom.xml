@@ -311,7 +311,7 @@
         <spring-hateoas.version>0.25.1.RELEASE</spring-hateoas.version>
         <spring-cloud-security.version>2.1.2.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>2.1.1.RELEASE</spring-cloud-contract.version>
-        <spring-cloud.version>Greenwich.SR1</spring-cloud.version>
+        <spring-cloud.version>Greenwich.SR2</spring-cloud.version>
         <spring-cloud-task.version>2.1.1.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Germantown.RELEASE</spring-cloud-stream.version>
         <spring-cloud-function.version>2.1.0.RELEASE</spring-cloud-function.version>
