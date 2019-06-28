@@ -37,7 +37,7 @@
 
     <properties>
         <jline.version>3.0.0.M1</jline.version>
-        <janino.version>3.0.12</janino.version>
+        <janino.version>3.0.13</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.37</webjars-locator-core.version>
@@ -81,7 +81,7 @@
         <swagger-oai.version>2.0.8</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
-        <google-truth.version>0.46</google-truth.version>
+        <google-truth.version>1.0-rc1</google-truth.version>
         <bytebuddy.version>1.9.13</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.4</aspectj.version>
@@ -121,15 +121,15 @@
         <jsqlparser.version>2.0</jsqlparser.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>3.14.2</okhttp3.version>
+        <okhttp3.version>4.0.0</okhttp3.version>
         <okio.version>2.2.2</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.36.Final</netty.version>
+        <netty.version>4.1.37.Final</netty.version>
         <netty-boringssl.version>2.0.25.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.21.0</grpc.version>
-        <google-gax.version>1.46.1</google-gax.version>
+        <google-gax.version>1.47.0</google-gax.version>
         <asynchttpclient.version>2.10.1</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -146,7 +146,7 @@
         <jetty.version>9.4.19.v20190610</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.0.22.Final</undertow.version>
-        <jersey.version>2.28</jersey.version>
+        <jersey.version>2.29</jersey.version>
         <!--parsers & templates & serializer-->
         <jackson.version>2.9.9</jackson.version>
         <jackson-protobuf.version>0.9.11-jackson2.9</jackson-protobuf.version>
@@ -291,7 +291,7 @@
         <!--java ee-->
         <reactive-streams.version>1.0.2</reactive-streams.version>
         <narayana.version>5.9.5.Final</narayana.version>
-        <atomikos.version>5.0.0</atomikos.version>
+        <atomikos.version>5.0.1</atomikos.version>
         <!--springsource-->
         <spring.version>5.1.8.RELEASE</spring.version>
         <spring-framework.version>5.1.7.RELEASE</spring-framework.version>
