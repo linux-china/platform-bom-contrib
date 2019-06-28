@@ -124,6 +124,8 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * flogger: A Fluent Logging API for Java https://github.com/google/flogger
 * Awaitility: Awaitility is a small Java DSL for synchronizing asynchronous operations  https://github.com/awaitility/awaitility
 * PF4J:  A plugin is a way for a third party to extend the functionality of an application https://pf4j.org/
+* Java-Thread-Affinity: Bind a java thread to a given core: https://github.com/OpenHFT/Java-Thread-Affinity
+* Chronicle-Queue: Micro second messaging that stores everything to disk https://github.com/OpenHFT/Chronicle-Queue
 
 ### Developer Notice
 
