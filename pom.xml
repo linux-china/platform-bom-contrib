@@ -37,7 +37,7 @@
 
     <properties>
         <jline.version>3.0.0.M1</jline.version>
-        <janino.version>3.0.13</janino.version>
+        <janino.version>3.0.14</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.37</webjars-locator-core.version>
@@ -55,7 +55,7 @@
         <!--productivity & tools-->
         <functionaljava.version>4.8.1</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
-        <joda-time.version>2.10.2</joda-time.version>
+        <joda-time.version>2.10.3</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>28.0-jre</guava.version>
         <guice.version>4.2.2</guice.version>
@@ -106,9 +106,9 @@
         <wiremock.version>2.23.2</wiremock.version>
         <spockframework.version>1.3-groovy-2.5</spockframework.version>
         <easymock.version>4.0.2</easymock.version>
-        <fluentlenium.version>4.2.2</fluentlenium.version>
+        <fluentlenium.version>4.3.0</fluentlenium.version>
         <powermock.version>2.0.2</powermock.version>
-        <testcontainers.version>1.11.3</testcontainers.version>
+        <testcontainers.version>1.11.4</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>4.0.0</rest-assured.version>
         <assertj.version>3.12.2</assertj.version>
@@ -220,7 +220,7 @@
         <hazelcast.version>3.12.1</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.3.2</hazelcast-hibernate5.version>
-        <infinispan.version>9.4.14.Final</infinispan.version>
+        <infinispan.version>9.4.15.Final</infinispan.version>
         <querydsl.version>4.2.1</querydsl.version>
         <hikaricp.version>3.3.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
@@ -273,18 +273,18 @@
         <artemis.version>2.9.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
-        <svnkit.version>1.9.3</svnkit.version>
+        <svnkit.version>1.10.1</svnkit.version>
         <axiom.version>1.2.22</axiom.version>
         <apache-geode.version>1.9.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.76</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.586</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.6.5</aws-java-sdk2.version>
-        <google-cloud-bom.version>0.98.0-alpha</google-cloud-bom.version>
+        <aws-java-sdk.version>1.11.587</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.7.0</aws-java-sdk2.version>
+        <google-cloud-bom.version>0.99.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.3.0</kubernetes-client.version>
         <!--languages-->
-        <kotlin.version>1.3.40</kotlin.version>
+        <kotlin.version>1.3.41</kotlin.version>
         <jruby.version>9.2.7.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
@@ -318,7 +318,7 @@
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.1.7.RELEASE</spring-amqp.version>
-        <rabbit-amqp-client.version>5.7.1</rabbit-amqp-client.version>
+        <rabbit-amqp-client.version>5.7.2</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.2.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.1.3.RELEASE</spring-vault.version>
         <spring-kafka.version>2.2.7.RELEASE</spring-kafka.version>
@@ -1279,6 +1279,26 @@
                 <scope>import</scope>
             </dependency>
             <dependency>
+                <groupId>com.google.api.grpc</groupId>
+                <artifactId>grpc-google-common-protos</artifactId>
+                <version>1.16.0</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.api.grpc</groupId>
+                <artifactId>proto-google-common-protos</artifactId>
+                <version>1.16.0</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.api</groupId>
+                <artifactId>gax</artifactId>
+                <version>${google-gax.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.api</groupId>
+                <artifactId>gax-grpc</artifactId>
+                <version>${google-gax.version}</version>
+            </dependency>
+            <dependency>
                 <groupId>com.google.cloud</groupId>
                 <artifactId>google-cloud-bom</artifactId>
                 <version>${google-cloud-bom.version}</version>
@@ -1303,26 +1323,6 @@
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
                 <version>3.3.0</version>
-            </dependency>
-            <dependency>
-                <groupId>com.google.api.grpc</groupId>
-                <artifactId>grpc-google-common-protos</artifactId>
-                <version>1.16.0</version>
-            </dependency>
-            <dependency>
-                <groupId>com.google.api.grpc</groupId>
-                <artifactId>proto-google-common-protos</artifactId>
-                <version>1.16.0</version>
-            </dependency>
-            <dependency>
-                <groupId>com.google.api</groupId>
-                <artifactId>gax</artifactId>
-                <version>${google-gax.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>com.google.api</groupId>
-                <artifactId>gax-grpc</artifactId>
-                <version>${google-gax.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
@@ -1536,10 +1536,10 @@
             <id>maven-central</id>
             <url>http://central.maven.org/maven2/</url>
         </repository>
-       <!-- <repository>
-            <id>spring-milestone</id>
-            <url>https://repo.spring.io/milestone/</url>
-        </repository>-->
+        <!-- <repository>
+             <id>spring-milestone</id>
+             <url>https://repo.spring.io/milestone/</url>
+         </repository>-->
     </repositories>
 
 </project>
