@@ -194,8 +194,8 @@
         <lettuce5.version>5.1.7.RELEASE</lettuce5.version>
         <caffeine.version>2.7.0</caffeine.version>
         <jettison.version>1.4.0</jettison.version>
-        <mybatis.version>3.5.1</mybatis.version>
-        <mybatis-spring.version>2.0.1</mybatis-spring.version>
+        <mybatis.version>3.5.2</mybatis.version>
+        <mybatis-spring.version>2.0.2</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.4.2</mariadb.version>
         <mongodb.version>3.10.1</mongodb.version>
