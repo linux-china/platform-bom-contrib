@@ -51,7 +51,7 @@
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.26</slf4j.version>
         <flogger.version>0.4</flogger.version>
-        <jna.version>5.3.1</jna.version>
+        <jna.version>5.4.0</jna.version>
         <!--productivity & tools-->
         <functionaljava.version>4.8.1</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
@@ -82,7 +82,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.0</google-truth.version>
-        <bytebuddy.version>1.9.14</bytebuddy.version>
+        <bytebuddy.version>1.9.15</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.4</aspectj.version>
         <cglib.version>3.2.12</cglib.version>
@@ -93,9 +93,9 @@
         <threetenbp.version>1.4.0</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
-        <junit5.version>5.5.0</junit5.version>
+        <junit5.version>5.5.1</junit5.version>
         <hamcrest.version>2.1</hamcrest.version>
-        <java-faker.version>0.18</java-faker.version>
+        <java-faker.version>1.0.0</java-faker.version>
         <mockito.version>3.0.0</mockito.version>
         <htmlunit.version>2.35.0</htmlunit.version>
         <testng.version>7.0.0-beta7</testng.version>
@@ -198,12 +198,12 @@
         <mybatis-spring.version>2.0.2</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.4.2</mariadb.version>
-        <mongodb.version>3.10.1</mongodb.version>
+        <mongodb.version>3.10.2</mongodb.version>
         <mongodb-reactivestreams.version>1.11.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>4.0.0</cassandra-driver.version>
-        <ehcache3.version>3.7.1</ehcache3.version>
+        <ehcache3.version>3.8.0</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
         <flyway.version>5.2.4</flyway.version>
