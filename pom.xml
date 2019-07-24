@@ -108,7 +108,7 @@
         <easymock.version>4.0.2</easymock.version>
         <fluentlenium.version>4.3.0</fluentlenium.version>
         <powermock.version>2.0.2</powermock.version>
-        <testcontainers.version>1.11.4</testcontainers.version>
+        <testcontainers.version>1.12.0</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>4.0.0</rest-assured.version>
         <assertj.version>3.12.2</assertj.version>
@@ -237,7 +237,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.62</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>7.5.1</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>7.6</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.14</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.11</httpcore.version>
