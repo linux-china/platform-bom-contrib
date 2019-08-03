@@ -82,7 +82,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.0</google-truth.version>
-        <bytebuddy.version>1.9.16</bytebuddy.version>
+        <bytebuddy.version>1.10.0</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.4</aspectj.version>
         <cglib.version>3.2.12</cglib.version>
