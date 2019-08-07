@@ -103,7 +103,7 @@
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.13</toomuchcoding-jsonassert.version>
-        <wiremock.version>2.24.0</wiremock.version>
+        <wiremock.version>2.24.1</wiremock.version>
         <spockframework.version>1.3-groovy-2.5</spockframework.version>
         <easymock.version>4.0.2</easymock.version>
         <fluentlenium.version>4.3.0</fluentlenium.version>
@@ -256,7 +256,7 @@
         <commons-text.version>1.7</commons-text.version>
         <commons-vfs2.version>2.4</commons-vfs2.version>
         <commons-pool2.version>2.7.0</commons-pool2.version>
-        <commons-dbcp2.version>2.6.0</commons-dbcp2.version>
+        <commons-dbcp2.version>2.7.0</commons-dbcp2.version>
         <commons-rng.version>1.2</commons-rng.version>
         <poi.version>4.1.0</poi.version>
         <kafka.version>2.3.0</kafka.version>
@@ -278,8 +278,8 @@
         <apache-geode.version>1.9.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.76</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.604</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.7.17</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.605</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.7.18</aws-java-sdk2.version>
         <google-cloud-bom.version>0.103.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.4.0</kubernetes-client.version>
@@ -290,7 +290,7 @@
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <!--java ee-->
         <reactive-streams.version>1.0.2</reactive-streams.version>
-        <narayana.version>5.9.5.Final</narayana.version>
+        <narayana.version>5.9.6.Final</narayana.version>
         <atomikos.version>5.0.1</atomikos.version>
         <!--springsource-->
         <spring.version>5.1.9.RELEASE</spring.version>
@@ -1322,7 +1322,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>3.3.0</version>
+                <version>3.4.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
