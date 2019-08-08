@@ -158,7 +158,7 @@
         <json-smart.version>2.3</json-smart.version>
         <json-path.version>2.4.0</json-path.version>
         <itext.version>4.2.2</itext.version>
-        <json.version>20180813</json.version>
+        <json.version>20190722</json.version>
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.12.1</jsoup.version>
         <thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
@@ -227,7 +227,7 @@
         <unboundid-ldapsdk.version>4.0.11</unboundid-ldapsdk.version>
         <postgresql.version>42.2.6.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.9.0</jdbi.version>
+        <jdbi.version>3.9.1</jdbi.version>
         <couchbase-client.version>2.7.9</couchbase-client.version>
         <openjpa.version>3.1.0</openjpa.version>
         <mysql.version>8.0.17</mysql.version>
@@ -265,7 +265,7 @@
         <solr.version>8.2.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>9.0.22</tomcat.version>
-        <groovy.version>3.0.0-beta-2</groovy.version>
+        <groovy.version>3.0.0-beta-3</groovy.version>
         <zookeeper.version>3.5.5</zookeeper.version>
         <curator.version>4.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
@@ -278,9 +278,9 @@
         <apache-geode.version>1.9.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.76</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.605</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.7.18</aws-java-sdk2.version>
-        <google-cloud-bom.version>0.103.0-alpha</google-cloud-bom.version>
+        <aws-java-sdk.version>1.11.606</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.7.19</aws-java-sdk2.version>
+        <google-cloud-bom.version>0.104.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.4.0</kubernetes-client.version>
         <!--languages-->
