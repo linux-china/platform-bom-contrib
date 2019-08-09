@@ -278,8 +278,8 @@
         <apache-geode.version>1.9.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.76</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.606</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.7.19</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.607</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.7.20</aws-java-sdk2.version>
         <google-cloud-bom.version>0.104.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.4.0</kubernetes-client.version>
@@ -288,6 +288,7 @@
         <jruby.version>9.2.7.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
+        <ribbon.version>2.7.17</ribbon.version>
         <!--java ee-->
         <reactive-streams.version>1.0.2</reactive-streams.version>
         <narayana.version>5.9.6.Final</narayana.version>
@@ -1345,6 +1346,31 @@
                 <groupId>com.netflix.netflix-commons</groupId>
                 <artifactId>netflix-commons-util</artifactId>
                 <version>${netflix-commons-util.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.netflix.ribbon</groupId>
+                <artifactId>ribbon</artifactId>
+                <version>${ribbon.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.netflix.ribbon</groupId>
+                <artifactId>ribbon-core</artifactId>
+                <version>${ribbon.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.netflix.ribbon</groupId>
+                <artifactId>ribbon-eureka</artifactId>
+                <version>${ribbon.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.netflix.ribbon</groupId>
+                <artifactId>ribbon-loadbalancer</artifactId>
+                <version>${ribbon.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.netflix.ribbon</groupId>
+                <artifactId>ribbon-httpclient</artifactId>
+                <version>${ribbon.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.rabbitmq</groupId>
