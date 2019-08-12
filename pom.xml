@@ -85,7 +85,7 @@
         <bytebuddy.version>1.10.1</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
         <aspectj.version>1.9.4</aspectj.version>
-        <cglib.version>3.2.12</cglib.version>
+        <cglib.version>3.3.0</cglib.version>
         <lombok.version>1.18.8</lombok.version>
         <immutables.version>2.7.5</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
@@ -136,7 +136,7 @@
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
         <smack4.version>4.3.1</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
-        <openfeign.version>10.2.3</openfeign.version>
+        <openfeign.version>10.3.0</openfeign.version>
         <javax-mail.version>1.6.3</javax-mail.version>
         <javax-cache.version>1.1.1</javax-cache.version>
         <javax-validation.version>2.0.1.Final</javax-validation.version>
