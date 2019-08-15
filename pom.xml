@@ -44,7 +44,7 @@
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.9.0</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.4.2</twelvemonkeys-imageio.version>
-        <emoji-java.version>4.0.0</emoji-java.version>
+        <emoji-java.version>5.0.0</emoji-java.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.1.0</dropwizard-metrics.version>
         <jolokia.version>1.6.2</jolokia.version>
@@ -145,7 +145,7 @@
         <!--servers-->
         <jetty.version>10.0.0-alpha0</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.0.24.Final</undertow.version>
+        <undertow.version>2.0.25.Final</undertow.version>
         <jersey.version>2.29</jersey.version>
         <!--parsers & templates & serializer-->
         <jackson.version>2.10.0.pr1</jackson.version>
@@ -254,7 +254,7 @@
         <commons-crypto.version>1.0.0</commons-crypto.version>
         <commons-configuration2.version>2.5</commons-configuration2.version>
         <commons-text.version>1.7</commons-text.version>
-        <commons-vfs2.version>2.4</commons-vfs2.version>
+        <commons-vfs2.version>2.4.1</commons-vfs2.version>
         <commons-pool2.version>2.7.0</commons-pool2.version>
         <commons-dbcp2.version>2.7.0</commons-dbcp2.version>
         <commons-rng.version>1.2</commons-rng.version>
@@ -278,9 +278,9 @@
         <apache-geode.version>1.9.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.76</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.610</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.7.23</aws-java-sdk2.version>
-        <google-cloud-bom.version>0.104.0-alpha</google-cloud-bom.version>
+        <aws-java-sdk.version>1.11.611</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.7.24</aws-java-sdk2.version>
+        <google-cloud-bom.version>0.105.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.4.1</kubernetes-client.version>
         <!--languages-->
