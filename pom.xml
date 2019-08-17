@@ -95,7 +95,7 @@
         <!--testing-->
         <junit5.version>5.5.1</junit5.version>
         <hamcrest.version>2.1</hamcrest.version>
-        <java-faker.version>1.0.0</java-faker.version>
+        <java-faker.version>1.0.1</java-faker.version>
         <mockito.version>3.0.0</mockito.version>
         <htmlunit.version>2.35.0</htmlunit.version>
         <testng.version>7.0.0-beta7</testng.version>
@@ -264,7 +264,7 @@
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.2.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>9.0.22</tomcat.version>
+        <tomcat.version>9.0.24</tomcat.version>
         <groovy.version>3.0.0-beta-3</groovy.version>
         <zookeeper.version>3.5.5</zookeeper.version>
         <curator.version>4.2.0</curator.version>
