@@ -98,7 +98,7 @@
         <java-faker.version>1.0.1</java-faker.version>
         <mockito.version>3.0.0</mockito.version>
         <htmlunit.version>2.35.0</htmlunit.version>
-        <testng.version>7.0.0-beta7</testng.version>
+        <testng.version>7.0.0</testng.version>
         <selenium.version>4.0.0-alpha-2</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
@@ -176,7 +176,7 @@
         <jopt-simple.version>5.0.3</jopt-simple.version>
         <rometools.version>1.12.1</rometools.version>
         <xmlprojector.version>1.4.16</xmlprojector.version>
-        <freemarker.version>2.3.28</freemarker.version>
+        <freemarker.version>2.3.29</freemarker.version>
         <dom4j-java8.version>2.1.1</dom4j-java8.version>
         <hessian.version>4.0.62</hessian.version>
         <xmlunit.version>2.6.3</xmlunit.version>
