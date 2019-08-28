@@ -44,7 +44,7 @@
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.10.0</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.4.2</twelvemonkeys-imageio.version>
-        <emoji-java.version>5.0.0</emoji-java.version>
+        <emoji-java.version>5.1.0</emoji-java.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.1.0</dropwizard-metrics.version>
         <jolokia.version>1.6.2</jolokia.version>
@@ -290,7 +290,7 @@
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <ribbon.version>2.7.17</ribbon.version>
         <!--java ee-->
-        <reactive-streams.version>1.0.2</reactive-streams.version>
+        <reactive-streams.version>1.0.3</reactive-streams.version>
         <narayana.version>5.9.7.Final</narayana.version>
         <atomikos.version>5.0.1</atomikos.version>
         <!--springsource-->
