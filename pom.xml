@@ -148,7 +148,7 @@
         <undertow.version>2.0.25.Final</undertow.version>
         <jersey.version>2.29</jersey.version>
         <!--parsers & templates & serializer-->
-        <jackson.version>2.10.0.pr1</jackson.version>
+        <jackson.version>2.10.0.pr2</jackson.version>
         <jackson-protobuf.version>0.9.11-jackson2.9</jackson-protobuf.version>
         <classmate.version>1.5.0</classmate.version>
         <snakeyaml.version>1.25</snakeyaml.version>
