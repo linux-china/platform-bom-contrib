@@ -188,7 +188,7 @@
         <!--persistence-->
         <hibernate.version>5.4.4.Final</hibernate.version>
         <hibernate-validator.version>6.0.16.Final</hibernate-validator.version>
-        <jooq.version>3.12.0</jooq.version>
+        <jooq.version>3.12.1</jooq.version>
         <jedis.version>3.1.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
         <lettuce5.version>5.1.8.RELEASE</lettuce5.version>
@@ -253,7 +253,7 @@
         <commons-csv.version>1.7</commons-csv.version>
         <commons-crypto.version>1.0.0</commons-crypto.version>
         <commons-configuration2.version>2.5</commons-configuration2.version>
-        <commons-text.version>1.7</commons-text.version>
+        <commons-text.version>1.8</commons-text.version>
         <commons-vfs2.version>2.4.1</commons-vfs2.version>
         <commons-pool2.version>2.7.0</commons-pool2.version>
         <commons-dbcp2.version>2.7.0</commons-dbcp2.version>
@@ -291,7 +291,7 @@
         <ribbon.version>2.7.17</ribbon.version>
         <!--java ee-->
         <reactive-streams.version>1.0.3</reactive-streams.version>
-        <narayana.version>5.9.7.Final</narayana.version>
+        <narayana.version>5.9.8.Final</narayana.version>
         <atomikos.version>5.0.1</atomikos.version>
         <!--springsource-->
         <spring.version>5.1.9.RELEASE</spring.version>
