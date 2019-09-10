@@ -130,7 +130,7 @@
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.23.0</grpc.version>
         <google-gax.version>1.48.1</google-gax.version>
-        <asynchttpclient.version>2.10.1</asynchttpclient.version>
+        <asynchttpclient.version>2.10.2</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
@@ -332,7 +332,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <reactor-bom.version>Californium-SR11</reactor-bom.version>
         <rxjava2.version>2.2.12</rxjava2.version>
-        <micrometer.version>1.2.0</micrometer.version>
+        <micrometer.version>1.2.1</micrometer.version>
     </properties>
 
     <dependencyManagement>
