@@ -44,7 +44,7 @@
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.10.0</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.4.2</twelvemonkeys-imageio.version>
-        <emoji-java.version>5.1.0</emoji-java.version>
+        <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.1.0</dropwizard-metrics.version>
         <jolokia.version>1.6.2</jolokia.version>
@@ -206,7 +206,7 @@
         <ehcache3.version>3.8.1</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
-        <flyway.version>6.0.1</flyway.version>
+        <flyway.version>6.0.2</flyway.version>
         <liquibase.version>3.8.0</liquibase.version>
         <derby.version>10.15.1.3</derby.version>
         <flexy-pool.version>2.1.2</flexy-pool.version>
@@ -241,7 +241,7 @@
         <oauth2-oidc-sdk.version>6.14</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.12</httpcore.version>
-        <httpclient.version>4.5.9</httpclient.version>
+        <httpclient.version>4.5.10</httpclient.version>
         <commons-cli.version>1.4</commons-cli.version>
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-net.version>3.6</commons-net.version>
@@ -1540,6 +1540,13 @@
                 <groupId>org.springframework.session</groupId>
                 <artifactId>spring-session-bom</artifactId>
                 <version>${spring-session-bom.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.glassfish.jersey</groupId>
+                <artifactId>jersey-bom</artifactId>
+                <version>${jersey.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
