@@ -295,7 +295,7 @@
         <atomikos.version>5.0.1</atomikos.version>
         <!--springsource-->
         <spring.version>5.1.9.RELEASE</spring.version>
-        <spring-framework.version>5.1.7.RELEASE</spring-framework.version>
+        <spring-framework.version>5.1.8.RELEASE</spring-framework.version>
         <spring-batch.version>4.1.2.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.7.RELEASE</spring-ws.version>
         <spring-session-bom.version>Bean-SR7</spring-session-bom.version>
