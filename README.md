@@ -126,6 +126,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * PF4J:  A plugin is a way for a third party to extend the functionality of an application https://pf4j.org/
 * Java-Thread-Affinity: Bind a java thread to a given core: https://github.com/OpenHFT/Java-Thread-Affinity
 * Chronicle-Queue: Micro second messaging that stores everything to disk https://github.com/OpenHFT/Chronicle-Queue
+* Jakarta EE: https://jakarta.ee/
 
 ### Developer Notice
 
