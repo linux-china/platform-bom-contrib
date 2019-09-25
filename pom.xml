@@ -125,7 +125,7 @@
         <okio.version>2.4.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.41.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <netty-boringssl.version>2.0.26.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.23.0</grpc.version>
@@ -279,8 +279,8 @@
         <apache-geode.version>1.9.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.76</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.637</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.9.5</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.638</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.9.6</aws-java-sdk2.version>
         <google-cloud-bom.version>0.110.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.6.0</kubernetes-client.version>
@@ -334,7 +334,7 @@
         <spring-cloud-connector.version>2.0.5.RELEASE</spring-cloud-connector.version>
         <spring-cloud-localconfig-connector.version>2.0.5.RELEASE</spring-cloud-localconfig-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
-        <reactor-bom.version>Californium-SR12</reactor-bom.version>
+        <reactor-bom.version>Dysprosium-RELEASE</reactor-bom.version>
         <rxjava2.version>2.2.12</rxjava2.version>
         <micrometer.version>1.2.1</micrometer.version>
     </properties>
@@ -1438,11 +1438,6 @@
                 <groupId>io.projectreactor.ipc</groupId>
                 <artifactId>reactor-netty</artifactId>
                 <version>0.7.15.RELEASE</version>
-            </dependency>
-            <dependency>
-                <groupId>io.projectreactor.rabbitmq</groupId>
-                <artifactId>reactor-rabbitmq</artifactId>
-                <version>1.2.0.RELEASE</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.vault</groupId>
