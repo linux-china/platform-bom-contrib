@@ -65,7 +65,7 @@
         <togglz.version>2.6.1.Final</togglz.version>
         <ff4j.version>1.8.1</ff4j.version>
         <underscore.version>1.47</underscore.version>
-        <java-util.version>1.36.0</java-util.version>
+        <java-util.version>1.37.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
         <vavr.version>0.10.2</vavr.version>
@@ -148,8 +148,7 @@
         <undertow.version>2.0.26.Final</undertow.version>
         <jersey.version>2.29.1</jersey.version>
         <!--parsers & templates & serializer-->
-        <jackson.version>2.10.0.pr3</jackson.version>
-        <jackson-protobuf.version>0.9.11-jackson2.9</jackson-protobuf.version>
+        <jackson.version>2.10.0</jackson.version>
         <classmate.version>1.5.0</classmate.version>
         <snakeyaml.version>1.25</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
@@ -271,12 +270,12 @@
         <curator.version>4.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.15.10</activemq.version>
-        <artemis.version>2.10.0</artemis.version>
+        <artemis.version>2.10.1</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
         <svnkit.version>1.10.1</svnkit.version>
         <axiom.version>1.2.22</axiom.version>
-        <apache-geode.version>1.9.1</apache-geode.version>
+        <apache-geode.version>1.10.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.76</appengine-sdk.version>
         <aws-java-sdk.version>1.11.640</aws-java-sdk.version>
@@ -399,11 +398,6 @@
                 <groupId>com.fasterxml.jackson.core</groupId>
                 <artifactId>jackson-annotations</artifactId>
                 <version>${jackson.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>com.hubspot.jackson</groupId>
-                <artifactId>jackson-datatype-protobuf</artifactId>
-                <version>${jackson-protobuf.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.dropwizard.metrics</groupId>
