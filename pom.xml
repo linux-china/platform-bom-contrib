@@ -40,7 +40,7 @@
         <janino.version>3.1.0</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
-        <webjars-locator-core.version>0.40</webjars-locator-core.version>
+        <webjars-locator-core.version>0.41</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.11.0</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.4.2</twelvemonkeys-imageio.version>
@@ -64,7 +64,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
         <ff4j.version>1.8.1</ff4j.version>
-        <underscore.version>1.47</underscore.version>
+        <underscore.version>1.48</underscore.version>
         <java-util.version>1.37.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
@@ -110,7 +110,7 @@
         <powermock.version>2.0.2</powermock.version>
         <testcontainers.version>1.12.2</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
-        <rest-assured.version>4.1.1</rest-assured.version>
+        <rest-assured.version>4.1.2</rest-assured.version>
         <assertj.version>3.13.2</assertj.version>
         <assertj-json.vaaltoersion>3.4.1</assertj-json.vaaltoersion>
         <jfairy.version>0.5.9</jfairy.version>
@@ -121,7 +121,7 @@
         <jsqlparser.version>3.0</jsqlparser.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>4.2.0</okhttp3.version>
+        <okhttp3.version>4.2.1</okhttp3.version>
         <okio.version>2.4.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -279,7 +279,7 @@
         <!--cloud services-->
         <appengine-sdk.version>1.9.76</appengine-sdk.version>
         <aws-java-sdk.version>1.11.642</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.9.10</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.9.11</aws-java-sdk2.version>
         <google-cloud-bom.version>0.111.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.6.0</kubernetes-client.version>
