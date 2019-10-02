@@ -300,7 +300,7 @@
         <spring.version>5.2.0.RELEASE</spring.version>
         <spring-framework.version>5.2.0.RELEASE</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
-        <spring-batch.version>4.1.2.RELEASE</spring-batch.version>
+        <spring-batch.version>4.2.0.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.7.RELEASE</spring-ws.version>
         <spring-session-bom.version>Bean-SR8</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
