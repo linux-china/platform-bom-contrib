@@ -121,7 +121,7 @@
         <jsqlparser.version>3.0</jsqlparser.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>4.2.1</okhttp3.version>
+        <okhttp3.version>4.2.2</okhttp3.version>
         <okio.version>2.4.1</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -237,7 +237,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.63</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>7.8</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>7.9</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.14</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.12</httpcore.version>
