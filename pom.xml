@@ -129,7 +129,7 @@
         <netty-boringssl.version>2.0.26.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.24.0</grpc.version>
-        <google-gax.version>1.49.0</google-gax.version>
+        <google-gax.version>1.49.1</google-gax.version>
         <asynchttpclient.version>2.10.4</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -188,7 +188,7 @@
         <hibernate.version>5.4.7.Final</hibernate.version>
         <hibernate-validator.version>6.0.16.Final</hibernate-validator.version>
         <hibernate-types.version>2.7.1</hibernate-types.version>
-        <jooq.version>3.12.1</jooq.version>
+        <jooq.version>3.12.2</jooq.version>
         <jedis.version>3.1.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
         <lettuce5.version>5.2.0.RELEASE</lettuce5.version>
