@@ -55,7 +55,7 @@
         <!--productivity & tools-->
         <functionaljava.version>4.8.1</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
-        <joda-time.version>2.10.4</joda-time.version>
+        <joda-time.version>2.10.5</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>28.1-jre</guava.version>
         <guice.version>4.2.2</guice.version>
@@ -72,7 +72,7 @@
         <awaitility.version>1.7.0</awaitility.version>
         <concurrentlinkedhashmap.version>1.4.2</concurrentlinkedhashmap.version>
         <moneta.version>1.3</moneta.version>  <!-- java money -->
-        <quartz.version>2.3.1</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <snappy.version>1.1.7.1</snappy.version>
         <springfox.version>2.9.2</springfox.version>
         <mbassador.version>1.3.2</mbassador.version>
@@ -125,10 +125,10 @@
         <okio.version>2.4.1</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.42.Final</netty.version>
+        <netty.version>4.1.43.Final</netty.version>
         <netty-boringssl.version>2.0.26.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.24.0</grpc.version>
+        <grpc.version>1.24.1</grpc.version>
         <google-gax.version>1.49.1</google-gax.version>
         <asynchttpclient.version>2.10.4</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
@@ -216,7 +216,7 @@
         <neo4j-ogm.version>3.2.1</neo4j-ogm.version>
         <etcd4j.version>2.17.0</etcd4j.version>
         <consul-api.version>1.4.2</consul-api.version>
-        <elasticsearch.version>7.4.0</elasticsearch.version>
+        <elasticsearch.version>7.4.1</elasticsearch.version>
         <hazelcast.version>3.12.3</hazelcast.version>
         <hazelcast-hibernate4.version>3.8.2</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>1.3.2</hazelcast-hibernate5.version>
@@ -238,7 +238,7 @@
         <bouncycastle.version>1.64</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>8.2</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>6.16.4</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>6.16.5</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.12</httpcore.version>
         <httpclient.version>4.5.10</httpclient.version>
@@ -278,8 +278,8 @@
         <apache-geode.version>1.10.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.76</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.657</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.9.25</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.658</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.9.26</aws-java-sdk2.version>
         <google-cloud-bom.version>0.116.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.6.1</kubernetes-client.version>
@@ -325,7 +325,7 @@
         <spring-amqp.version>2.2.0.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.7.3</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.4.0.RELEASE</rabbit-http-client.version>
-        <spring-vault.version>2.1.3.RELEASE</spring-vault.version>
+        <spring-vault.version>2.1.4.RELEASE</spring-vault.version>
         <spring-kafka.version>2.3.1.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.4.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.4.RELEASE</spring-retry.version>
