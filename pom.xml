@@ -259,13 +259,13 @@
         <commons-dbcp2.version>2.7.0</commons-dbcp2.version>
         <commons-rng.version>1.2</commons-rng.version>
         <poi.version>4.1.1</poi.version>
-        <kafka.version>2.3.0</kafka.version>
+        <kafka.version>2.3.1</kafka.version>
         <log4j2.version>2.12.1</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.2.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>9.0.27</tomcat.version>
-        <groovy.version>3.0.0-beta-3</groovy.version>
+        <groovy.version>3.0.0-rc-1</groovy.version>
         <zookeeper.version>3.5.6</zookeeper.version>
         <curator.version>4.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
@@ -278,8 +278,8 @@
         <apache-geode.version>1.10.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.76</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.658</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.9.26</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.659</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.10.0</aws-java-sdk2.version>
         <google-cloud-bom.version>0.116.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.6.1</kubernetes-client.version>
