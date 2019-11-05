@@ -49,7 +49,7 @@
         <dropwizard-metrics.version>4.1.1</dropwizard-metrics.version>
         <jolokia.version>1.6.2</jolokia.version>
         <logback.version>1.2.3</logback.version>
-        <slf4j.version>1.7.28</slf4j.version>
+        <slf4j.version>1.7.29</slf4j.version>
         <flogger.version>0.4</flogger.version>
         <jna.version>5.5.0</jna.version>
         <!--productivity & tools-->
@@ -172,7 +172,7 @@
         <jmustache.version>1.15</jmustache.version>
         <wss4j2.version>2.2.4</wss4j2.version>
         <objenesis.version>3.1</objenesis.version>
-        <jopt-simple.version>5.0.3</jopt-simple.version>
+        <jopt-simple.version>5.0.4</jopt-simple.version>
         <rometools.version>1.12.2</rometools.version>
         <xmlprojector.version>1.4.16</xmlprojector.version>
         <freemarker.version>2.3.29</freemarker.version>
@@ -191,7 +191,7 @@
         <jooq.version>3.12.3</jooq.version>
         <jedis.version>3.1.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
-        <lettuce5.version>5.2.0.RELEASE</lettuce5.version>
+        <lettuce5.version>5.2.1.RELEASE</lettuce5.version>
         <caffeine.version>2.8.0</caffeine.version>
         <jettison.version>1.4.0</jettison.version>
         <mybatis.version>3.5.3</mybatis.version>
@@ -304,12 +304,12 @@
         <spring-ws.version>3.0.8.RELEASE</spring-ws.version>
         <spring-session-bom.version>Corn-RELEASE</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.2.0.RELEASE</spring-security.version>
+        <spring-security.version>5.2.1.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.3.7.RELEASE</spring-security-oauth.version>
         <spring-security-rsa.version>1.0.8.RELEASE</spring-security-rsa.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Moore-SR1</spring-data-releasetrain.version>
-        <spring-integration.version>5.2.0.RELEASE</spring-integration.version>
+        <spring-integration.version>5.2.1.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.2.0.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.1.9.RELEASE</spring-boot.version>
@@ -334,9 +334,9 @@
         <spring-cloud-connector.version>2.0.5.RELEASE</spring-cloud-connector.version>
         <spring-cloud-localconfig-connector.version>2.0.5.RELEASE</spring-cloud-localconfig-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
-        <reactor-bom.version>Dysprosium-RELEASE</reactor-bom.version>
+        <reactor-bom.version>Dysprosium-SR1</reactor-bom.version>
         <rxjava2.version>2.2.14</rxjava2.version>
-        <micrometer.version>1.3.0</micrometer.version>
+        <micrometer.version>1.3.1</micrometer.version>
     </properties>
 
     <dependencyManagement>
