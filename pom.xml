@@ -42,7 +42,7 @@
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.42</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.11.0</graphviz-java.version>
+        <graphviz-java.version>0.11.1</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.4.2</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
@@ -105,7 +105,7 @@
         <toomuchcoding-jsonassert.version>0.4.13</toomuchcoding-jsonassert.version>
         <wiremock.version>2.25.1</wiremock.version>
         <spockframework.version>1.3-groovy-2.5</spockframework.version>
-        <easymock.version>4.0.2</easymock.version>
+        <easymock.version>4.1</easymock.version>
         <fluentlenium.version>4.3.1</fluentlenium.version>
         <powermock.version>2.0.4</powermock.version>
         <testcontainers.version>1.12.3</testcontainers.version>
@@ -278,7 +278,7 @@
         <apache-geode.version>1.10.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.76</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.671</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.672</aws-java-sdk.version>
         <aws-java-sdk2.version>2.10.13</aws-java-sdk2.version>
         <google-cloud-bom.version>0.118.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
