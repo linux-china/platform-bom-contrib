@@ -18,7 +18,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
          <dependency>
              <groupId>com.github.linux-china</groupId>
              <artifactId>platform-bom-contrib</artifactId>
-             <version>Cairo-SR3</version>
+             <version>Cairo-SR9</version>
              <type>pom</type>
              <scope>import</scope>
          </dependency>
@@ -43,9 +43,9 @@ If your application is Spring Boot based, just use following code in your pom.xm
 
 ### Base Dependencies
 
-* Spring: 4.3.6
-* Spring Security: 4.2.0
-* Spring Boot: 1.5.1
+* Spring: 5.2.x
+* Spring Security: 5.2.x
+* Spring Boot: 2.2.x
 * Spring Cloud: Camden.SR5
 * Spring Platform IO BOM: Brussels-RELEASE
      
