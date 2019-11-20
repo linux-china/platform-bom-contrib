@@ -42,7 +42,7 @@
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.43</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.12.0</graphviz-java.version>
+        <graphviz-java.version>0.12.1</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.4.2</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
@@ -228,7 +228,7 @@
         <unboundid-ldapsdk.version>4.0.12</unboundid-ldapsdk.version>
         <postgresql.version>42.2.8.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.11.0</jdbi.version>
+        <jdbi.version>3.11.1</jdbi.version>
         <couchbase-client.version>2.7.10</couchbase-client.version>
         <openjpa.version>3.1.0</openjpa.version>
         <mysql.version>8.0.18</mysql.version>
@@ -1321,7 +1321,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>3.4.3</version>
+                <version>3.5.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
