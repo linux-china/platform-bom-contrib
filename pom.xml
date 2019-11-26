@@ -136,7 +136,7 @@
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
         <smack4.version>4.3.1</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
-        <openfeign.version>10.6.0</openfeign.version>
+        <openfeign.version>10.7.0</openfeign.version>
         <javax-mail.version>1.6.3</javax-mail.version>
         <javax-cache.version>1.1.1</javax-cache.version>
         <javax-validation.version>2.0.1.Final</javax-validation.version>
@@ -225,7 +225,7 @@
         <querydsl.version>4.2.2</querydsl.version>
         <hikaricp.version>3.4.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
-        <unboundid-ldapsdk.version>4.0.12</unboundid-ldapsdk.version>
+        <unboundid-ldapsdk.version>4.0.13</unboundid-ldapsdk.version>
         <postgresql.version>42.2.8.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.11.1</jdbi.version>
@@ -270,7 +270,7 @@
         <zookeeper.version>3.5.6</zookeeper.version>
         <curator.version>4.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
-        <activemq.version>5.15.10</activemq.version>
+        <activemq.version>5.15.11</activemq.version>
         <artemis.version>2.10.1</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
@@ -279,8 +279,8 @@
         <apache-geode.version>1.10.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.77</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.681</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.10.23</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.682</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.10.24</aws-java-sdk2.version>
         <google-cloud-bom.version>0.119.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.6.4</kubernetes-client.version>
@@ -320,8 +320,8 @@
         <spring-cloud-contract.version>2.1.4.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Greenwich.SR4</spring-cloud.version>
         <spring-cloud-task.version>2.2.1.RELEASE</spring-cloud-task.version>
-        <spring-cloud-stream.version>Germantown.SR1</spring-cloud-stream.version>
-        <spring-cloud-function.version>2.1.1.RELEASE</spring-cloud-function.version>
+        <spring-cloud-stream.version>Horsham.RELEASE</spring-cloud-stream.version>
+        <spring-cloud-function.version>3.0.0.RELEASE</spring-cloud-function.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.2.1.RELEASE</spring-amqp.version>
