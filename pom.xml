@@ -82,9 +82,9 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.0</google-truth.version>
-        <bytebuddy.version>1.10.3</bytebuddy.version>
+        <bytebuddy.version>1.10.4</bytebuddy.version>
         <javapoet.version>1.11.1</javapoet.version>
-        <aspectj.version>1.9.4</aspectj.version>
+        <aspectj.version>1.9.5</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
         <lombok.version>1.18.10</lombok.version>
         <immutables.version>2.8.2</immutables.version>
@@ -96,7 +96,7 @@
         <junit5.version>5.5.2</junit5.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.1</java-faker.version>
-        <mockito.version>3.1.0</mockito.version>
+        <mockito.version>3.2.0</mockito.version>
         <htmlunit.version>2.36.0</htmlunit.version>
         <testng.version>7.0.0</testng.version>
         <selenium.version>4.0.0-alpha-3</selenium.version>
@@ -108,14 +108,14 @@
         <easymock.version>4.1</easymock.version>
         <fluentlenium.version>4.3.1</fluentlenium.version>
         <powermock.version>2.0.4</powermock.version>
-        <testcontainers.version>1.12.3</testcontainers.version>
+        <testcontainers.version>1.12.4</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>4.1.2</rest-assured.version>
         <assertj.version>3.14.0</assertj.version>
         <assertj-json.vaaltoersion>3.4.1</assertj-json.vaaltoersion>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.7.5</database-rider.version>
+        <database-rider.version>1.8.1</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <jsqlparser.version>3.1</jsqlparser.version>
@@ -208,7 +208,7 @@
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
         <flyway.version>6.1.0</flyway.version>
-        <liquibase.version>3.8.1</liquibase.version>
+        <liquibase.version>3.8.2</liquibase.version>
         <derby.version>10.15.1.3</derby.version>
         <flexy-pool.version>2.1.2</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
@@ -239,7 +239,7 @@
         <bouncycastle.version>1.64</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>8.2.1</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>6.18.1</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>6.18.2</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.12</httpcore.version>
         <httpclient.version>4.5.10</httpclient.version>
@@ -293,7 +293,7 @@
         <!--java ee-->
         <reactive-streams.version>1.0.3</reactive-streams.version>
         <narayana.version>5.10.0.Final</narayana.version>
-        <atomikos.version>5.0.3</atomikos.version>
+        <atomikos.version>5.0.4</atomikos.version>
         <jakarta-ee.version>8.0.0</jakarta-ee.version>
         <jakarta.messaging-api.version>2.0.3</jakarta.messaging-api.version>
         <jakarta-persistence-api.version>2.2.3</jakarta-persistence-api.version>
