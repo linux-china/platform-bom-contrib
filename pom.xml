@@ -229,7 +229,7 @@
         <postgresql.version>42.2.8.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.11.1</jdbi.version>
-        <couchbase-client.version>2.7.10</couchbase-client.version>
+        <couchbase-client.version>2.7.11</couchbase-client.version>
         <openjpa.version>3.1.0</openjpa.version>
         <mysql.version>8.0.18</mysql.version>
         <influxdb-java.version>2.16</influxdb-java.version>
@@ -239,7 +239,7 @@
         <bouncycastle.version>1.64</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>8.2.1</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>6.18.2</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>6.20</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.12</httpcore.version>
         <httpclient.version>4.5.10</httpclient.version>
@@ -292,7 +292,7 @@
         <ribbon.version>2.7.17</ribbon.version>
         <!--java ee-->
         <reactive-streams.version>1.0.3</reactive-streams.version>
-        <narayana.version>5.10.0.Final</narayana.version>
+        <narayana.version>5.10.1.Final</narayana.version>
         <atomikos.version>5.0.4</atomikos.version>
         <jakarta-ee.version>8.0.0</jakarta-ee.version>
         <jakarta.messaging-api.version>2.0.3</jakarta.messaging-api.version>
@@ -301,7 +301,7 @@
         <spring.version>5.2.2.RELEASE</spring.version>
         <spring-framework.version>5.2.2.RELEASE</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
-        <spring-batch.version>4.2.0.RELEASE</spring-batch.version>
+        <spring-batch.version>4.2.1.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.8.RELEASE</spring-ws.version>
         <spring-session-bom.version>Corn-RELEASE</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
@@ -310,8 +310,8 @@
         <spring-security-rsa.version>1.0.8.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.0.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
-        <spring-data-releasetrain.version>Moore-SR2</spring-data-releasetrain.version>
-        <spring-integration.version>5.2.1.RELEASE</spring-integration.version>
+        <spring-data-releasetrain.version>Moore-SR3</spring-data-releasetrain.version>
+        <spring-integration.version>5.2.2.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.2.0.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.2.1.RELEASE</spring-boot.version>
@@ -324,11 +324,11 @@
         <spring-cloud-function.version>3.0.0.RELEASE</spring-cloud-function.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.2.1.RELEASE</spring-amqp.version>
+        <spring-amqp.version>2.2.2.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.7.3</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.5.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.2.0.RELEASE</spring-vault.version>
-        <spring-kafka.version>2.3.3.RELEASE</spring-kafka.version>
+        <spring-kafka.version>2.3.4.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.4.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.4.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
