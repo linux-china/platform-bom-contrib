@@ -122,7 +122,7 @@
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>4.2.2</okhttp3.version>
-        <okio.version>2.4.1</okio.version>
+        <okio.version>2.4.2</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.43.Final</netty.version>
@@ -200,7 +200,7 @@
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.5.2</mariadb.version>
         <mongodb.version>3.12.0</mongodb.version>
-        <mongodb-reactivestreams.version>1.12.0</mongodb-reactivestreams.version>
+        <mongodb-reactivestreams.version>1.13.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>4.0.0</cassandra-driver.version>
@@ -225,7 +225,7 @@
         <querydsl.version>4.2.2</querydsl.version>
         <hikaricp.version>3.4.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
-        <unboundid-ldapsdk.version>4.0.13</unboundid-ldapsdk.version>
+        <unboundid-ldapsdk.version>4.0.14</unboundid-ldapsdk.version>
         <postgresql.version>42.2.9.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.11.1</jdbi.version>
@@ -238,7 +238,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.64</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>8.2.1</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>8.3</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.21</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.12</httpcore.version>
@@ -279,7 +279,7 @@
         <apache-geode.version>1.10.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.77</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.692</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.693</aws-java-sdk.version>
         <aws-java-sdk2.version>2.10.34</aws-java-sdk2.version>
         <google-cloud-bom.version>0.120.2-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
