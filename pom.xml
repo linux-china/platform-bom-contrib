@@ -49,7 +49,7 @@
         <dropwizard-metrics.version>4.1.2</dropwizard-metrics.version>
         <jolokia.version>1.6.2</jolokia.version>
         <logback.version>1.2.3</logback.version>
-        <slf4j.version>1.7.29</slf4j.version>
+        <slf4j.version>1.7.30</slf4j.version>
         <flogger.version>0.4</flogger.version>
         <jna.version>5.5.0</jna.version>
         <!--productivity & tools-->
@@ -122,14 +122,14 @@
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>4.2.2</okhttp3.version>
-        <okio.version>2.4.2</okio.version>
+        <okio.version>2.4.3</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.44.Final</netty.version>
         <netty-boringssl.version>2.0.28.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.26.0</grpc.version>
-        <google-gax.version>1.50.1</google-gax.version>
+        <google-gax.version>1.52.0</google-gax.version>
         <asynchttpclient.version>2.10.4</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -207,8 +207,8 @@
         <ehcache3.version>3.8.1</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.7</mapdb.version>
-        <flyway.version>6.1.2</flyway.version>
-        <liquibase.version>3.8.3</liquibase.version>
+        <flyway.version>6.1.3</flyway.version>
+        <liquibase.version>3.8.4</liquibase.version>
         <derby.version>10.15.1.3</derby.version>
         <flexy-pool.version>2.2.1</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
@@ -238,7 +238,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.64</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>8.3</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>8.4</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.21.2</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.12</httpcore.version>
@@ -318,7 +318,7 @@
         <spring-boot.version>2.2.1.RELEASE</spring-boot.version>
         <spring-hateoas.version>1.1.0.RELEASE</spring-hateoas.version>
         <spring-cloud-security.version>2.2.0.RELEASE</spring-cloud-security.version>
-        <spring-cloud-contract.version>2.2.0.RELEASE</spring-cloud-contract.version>
+        <spring-cloud-contract.version>2.2.1.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Hoxton.SR1</spring-cloud.version>
         <spring-cloud-task.version>2.2.2.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Horsham.SR1</spring-cloud-stream.version>
