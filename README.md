@@ -46,7 +46,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Spring: 5.2.x
 * Spring Security: 5.2.x
 * Spring Boot: 2.2.x
-* Spring Cloud: Camden.SR5
+* Spring Cloud: Hoxton.SR1
 * Spring Platform IO BOM: Brussels-RELEASE
      
 ### New dependencies
