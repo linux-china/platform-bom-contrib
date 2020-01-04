@@ -127,6 +127,8 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Java-Thread-Affinity: Bind a java thread to a given core: https://github.com/OpenHFT/Java-Thread-Affinity
 * Chronicle-Queue: Micro second messaging that stores everything to disk https://github.com/OpenHFT/Chronicle-Queue
 * Jakarta EE: https://jakarta.ee/
+* Awaitility: a small Java DSL for synchronizing asynchronous operations  https://github.com/awaitility/awaitility
+
 
 ### Developer Notice
 
