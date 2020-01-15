@@ -313,7 +313,7 @@
         <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.0.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
-        <spring-data-releasetrain.version>Moore-SR3</spring-data-releasetrain.version>
+        <spring-data-releasetrain.version>Moore-SR4</spring-data-releasetrain.version>
         <spring-integration.version>5.2.2.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.2.0.RELEASE</spring-integration-kafka.version>
@@ -327,7 +327,7 @@
         <spring-cloud-function.version>3.0.1.RELEASE</spring-cloud-function.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.2.2.RELEASE</spring-amqp.version>
+        <spring-amqp.version>2.2.3.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.8.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.5.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.2.0.RELEASE</spring-vault.version>
@@ -1626,10 +1626,6 @@
         <repository>
             <id>spring-repo</id>
             <url>https://repo.spring.io/release/</url>
-        </repository>
-        <repository>
-            <id>maven-central</id>
-            <url>http://central.maven.org/maven2/</url>
         </repository>
         <repository>
             <id>spring-milestone</id>
