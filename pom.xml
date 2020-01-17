@@ -195,13 +195,13 @@
         <jedis.version>3.2.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
         <lettuce5.version>5.2.1.RELEASE</lettuce5.version>
-        <caffeine.version>2.8.0</caffeine.version>
+        <caffeine.version>2.8.1</caffeine.version>
         <jettison.version>1.4.0</jettison.version>
         <mybatis.version>3.5.3</mybatis.version>
         <mybatis-spring.version>2.0.3</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.5.3</mariadb.version>
-        <mongodb.version>3.12.0</mongodb.version>
+        <mongodb.version>3.12.1</mongodb.version>
         <mongodb-reactivestreams.version>1.13.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
@@ -273,7 +273,7 @@
         <curator.version>4.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.15.11</activemq.version>
-        <artemis.version>2.10.1</artemis.version>
+        <artemis.version>2.11.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
         <svnkit.version>1.10.1</svnkit.version>
@@ -281,8 +281,8 @@
         <apache-geode.version>1.11.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.77</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.707</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.10.49</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.708</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.10.50</aws-java-sdk2.version>
         <google-cloud-bom.version>0.121.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.7.0</kubernetes-client.version>
@@ -330,7 +330,7 @@
         <spring-amqp.version>2.2.3.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.8.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.5.0.RELEASE</rabbit-http-client.version>
-        <spring-vault.version>2.2.0.RELEASE</spring-vault.version>
+        <spring-vault.version>2.2.1.RELEASE</spring-vault.version>
         <spring-kafka.version>2.4.1.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.4.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.5.RELEASE</spring-retry.version>
