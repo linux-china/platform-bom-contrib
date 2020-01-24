@@ -109,14 +109,14 @@
         <easymock.version>4.1</easymock.version>
         <fluentlenium.version>4.3.1</fluentlenium.version>
         <powermock.version>2.0.4</powermock.version>
-        <testcontainers.version>1.12.4</testcontainers.version>
+        <testcontainers.version>1.12.5</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>4.2.0</rest-assured.version>
         <assertj.version>3.14.0</assertj.version>
         <assertj-json.vaaltoersion>3.4.1</assertj-json.vaaltoersion>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.9.1</database-rider.version>
+        <database-rider.version>1.10.0</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.0.2</awaitility.version>
@@ -282,8 +282,8 @@
         <apache-geode.version>1.11.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.77</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.712</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.10.54</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.713</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.10.55</aws-java-sdk2.version>
         <google-cloud-bom.version>0.121.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.1</sendgrid.version>
         <kubernetes-client.version>4.7.0</kubernetes-client.version>
@@ -296,7 +296,7 @@
         <ribbon.version>2.7.17</ribbon.version>
         <!--java ee-->
         <reactive-streams.version>1.0.3</reactive-streams.version>
-        <narayana.version>5.10.1.Final</narayana.version>
+        <narayana.version>5.10.3.Final</narayana.version>
         <atomikos.version>5.0.6</atomikos.version>
         <jakarta-ee.version>8.0.0</jakarta-ee.version>
         <jakarta.messaging-api.version>2.0.3</jakarta.messaging-api.version>
