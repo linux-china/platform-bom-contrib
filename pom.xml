@@ -143,6 +143,8 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
+        <zipkin-brave.version>5.9.1</zipkin-brave.version>
+        <zipkin-reporter2.version>2.12.1</zipkin-reporter2.version>
         <!--servers-->
         <jetty.version>10.0.0.alpha1</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
@@ -1574,6 +1576,20 @@
                 <version>${spring-retry.version}</version>
             </dependency>
             <dependency>
+                <groupId>io.zipkin.reporter2</groupId>
+                <artifactId>zipkin-reporter-bom</artifactId>
+                <version>${zipkin-reporter2.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>io.zipkin.brave</groupId>
+                <artifactId>brave-bom</artifactId>
+                <version>${zipkin-brave.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-security-dependencies</artifactId>
                 <version>${spring-cloud-security.version}</version>
@@ -1669,15 +1685,15 @@
         </dependencies>
     </dependencyManagement>
 
-   <!-- <repositories>
-        <repository>
-            <id>spring-repo</id>
-            <url>https://repo.spring.io/release/</url>
-        </repository>
-        <repository>
-            <id>spring-milestone</id>
-            <url>https://repo.spring.io/milestone/</url>
-        </repository>
-    </repositories>-->
+    <!-- <repositories>
+         <repository>
+             <id>spring-repo</id>
+             <url>https://repo.spring.io/release/</url>
+         </repository>
+         <repository>
+             <id>spring-milestone</id>
+             <url>https://repo.spring.io/milestone/</url>
+         </repository>
+     </repositories>-->
 
 </project>
