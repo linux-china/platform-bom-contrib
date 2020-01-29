@@ -98,7 +98,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.1</java-faker.version>
         <mockito.version>3.2.4</mockito.version>
-        <htmlunit.version>2.36.0</htmlunit.version>
+        <htmlunit.version>2.37.0</htmlunit.version>
         <testng.version>7.1.0</testng.version>
         <selenium.version>4.0.0-alpha-4</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -106,13 +106,13 @@
         <toomuchcoding-jsonassert.version>0.4.14</toomuchcoding-jsonassert.version>
         <wiremock.version>2.25.1</wiremock.version>
         <spockframework.version>2.0-M1-groovy-2.5</spockframework.version>
-        <easymock.version>4.1</easymock.version>
+        <easymock.version>4.2</easymock.version>
         <fluentlenium.version>4.3.1</fluentlenium.version>
         <powermock.version>2.0.5</powermock.version>
         <testcontainers.version>1.12.5</testcontainers.version>
         <dbunit.version>2.6.0</dbunit.version>
         <rest-assured.version>4.2.0</rest-assured.version>
-        <assertj.version>3.14.0</assertj.version>
+        <assertj.version>3.15.0</assertj.version>
         <assertj-json.vaaltoersion>3.4.1</assertj-json.vaaltoersion>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
@@ -143,7 +143,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
-        <zipkin-brave.version>5.9.1</zipkin-brave.version>
+        <zipkin-brave.version>5.9.2</zipkin-brave.version>
         <zipkin-reporter2.version>2.12.1</zipkin-reporter2.version>
         <!--servers-->
         <jetty.version>10.0.0.alpha1</jetty.version>
