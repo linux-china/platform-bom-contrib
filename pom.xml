@@ -283,7 +283,7 @@
         <axiom.version>1.2.22</axiom.version>
         <apache-geode.version>1.11.0</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.77</appengine-sdk.version>
+        <appengine-sdk.version>1.9.78</appengine-sdk.version>
         <aws-java-sdk.version>1.11.714</aws-java-sdk.version>
         <aws-java-sdk2.version>2.10.56</aws-java-sdk2.version>
         <google-cloud-bom.version>0.121.0-alpha</google-cloud-bom.version>
@@ -434,6 +434,31 @@
             <dependency>
                 <groupId>com.squareup.okhttp3</groupId>
                 <artifactId>logging-interceptor</artifactId>
+                <version>${okhttp3.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.squareup.okhttp3</groupId>
+                <artifactId>okhttp-tls</artifactId>
+                <version>${okhttp3.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.squareup.okhttp3</groupId>
+                <artifactId>okcurl</artifactId>
+                <version>${okhttp3.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.squareup.okhttp3</groupId>
+                <artifactId>okhttp-dnsoverhttps</artifactId>
+                <version>${okhttp3.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.squareup.okhttp3</groupId>
+                <artifactId>okhttp-sse</artifactId>
+                <version>${okhttp3.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.squareup.okhttp3</groupId>
+                <artifactId>okhttp-urlconnection</artifactId>
                 <version>${okhttp3.version}</version>
             </dependency>
             <dependency>
