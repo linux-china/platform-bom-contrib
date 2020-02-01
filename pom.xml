@@ -64,7 +64,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
         <ff4j.version>1.8.2</ff4j.version>
-        <underscore.version>1.51</underscore.version>
+        <underscore.version>1.52</underscore.version>
         <java-util.version>1.40.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
@@ -104,7 +104,7 @@
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.14</toomuchcoding-jsonassert.version>
-        <wiremock.version>2.25.1</wiremock.version>
+        <wiremock.version>2.26.0</wiremock.version>
         <spockframework.version>2.0-M1-groovy-2.5</spockframework.version>
         <easymock.version>4.2</easymock.version>
         <fluentlenium.version>4.3.1</fluentlenium.version>
@@ -194,7 +194,7 @@
         <hibernate.version>5.4.10.Final</hibernate.version>
         <hibernate-validator.version>6.1.1.Final</hibernate-validator.version>
         <hibernate-types.version>2.9.3</hibernate-types.version>
-        <jooq.version>3.12.3</jooq.version>
+        <jooq.version>3.12.4</jooq.version>
         <jedis.version>3.2.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
         <lettuce5.version>5.2.1.RELEASE</lettuce5.version>
