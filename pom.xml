@@ -143,7 +143,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
-        <zipkin-brave.version>5.9.2</zipkin-brave.version>
+        <zipkin-brave.version>5.9.3</zipkin-brave.version>
         <zipkin-reporter2.version>2.12.1</zipkin-reporter2.version>
         <!--servers-->
         <jetty.version>10.0.0.alpha1</jetty.version>
@@ -158,7 +158,7 @@
         <snakeyaml.version>1.25</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.6</gson.version>
-        <protobuf.version>3.11.1</protobuf.version>
+        <protobuf.version>3.11.3</protobuf.version>
         <json-smart.version>2.3</json-smart.version>
         <json-path.version>2.4.0</json-path.version>
         <itext.version>4.2.2</itext.version>
