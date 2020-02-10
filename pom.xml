@@ -153,7 +153,7 @@
         <jersey.version>2.30</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>3.1</jsqlparser.version>
-        <javaparser.version>3.15.11</javaparser.version>
+        <javaparser.version>3.15.12</javaparser.version>
         <jackson.version>2.10.2</jackson.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>1.25</snakeyaml.version>
@@ -165,7 +165,7 @@
         <itext.version>4.2.2</itext.version>
         <json.version>20190722</json.version>
         <kryo.version>4.0.2</kryo.version>
-        <jsoup.version>1.12.1</jsoup.version>
+        <jsoup.version>1.12.2</jsoup.version>
         <thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.4.1</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
@@ -232,7 +232,7 @@
         <hikaricp.version>3.4.2</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>4.0.14</unboundid-ldapsdk.version>
-        <postgresql.version>42.2.9.jre7</postgresql.version>
+        <postgresql.version>42.2.10.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.12.0</jdbi.version>
         <couchbase-client.version>3.0.1</couchbase-client.version>
@@ -244,7 +244,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.64</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>8.5.1</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>8.6</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>6.23</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.13</httpcore.version>
