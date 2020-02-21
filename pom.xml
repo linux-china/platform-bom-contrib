@@ -42,7 +42,7 @@
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.44</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.14.1</graphviz-java.version>
+        <graphviz-java.version>0.14.2</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.5</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
@@ -151,7 +151,7 @@
         <jetty.version>10.0.0.alpha1</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.0.29.Final</undertow.version>
-        <jersey.version>2.30</jersey.version>
+        <jersey.version>2.30.1</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>3.1</jsqlparser.version>
         <javaparser.version>3.15.12</javaparser.version>
@@ -197,7 +197,7 @@
         <hibernate.version>5.4.12.Final</hibernate.version>
         <hibernate-validator.version>6.1.2.Final</hibernate-validator.version>
         <hibernate-types.version>2.9.3</hibernate-types.version>
-        <jooq.version>3.13.0</jooq.version>
+        <jooq.version>3.13.1</jooq.version>
         <jedis.version>3.2.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
         <lettuce5.version>5.2.2.RELEASE</lettuce5.version>
@@ -247,7 +247,7 @@
         <bouncycastle.version>1.64</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>8.6</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>7.0</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>7.0.2</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.13</httpcore.version>
         <httpclient.version>4.5.11</httpclient.version>
@@ -287,8 +287,8 @@
         <apache-geode.version>1.11.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.78</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.726</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.10.68</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.727</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.10.69</aws-java-sdk2.version>
         <google-cloud-bom.version>0.122.2-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.5</sendgrid.version>
         <kubernetes-client.version>4.8.0</kubernetes-client.version>
