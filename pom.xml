@@ -251,6 +251,8 @@
         <!--apache-->
         <httpcore.version>4.4.13</httpcore.version>
         <httpclient.version>4.5.11</httpclient.version>
+        <httpcore5.version>5.0</httpcore5.version>
+        <httpclient5.version>5.0</httpclient5.version>
         <commons-cli.version>1.4</commons-cli.version>
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-net.version>3.6</commons-net.version>
@@ -1098,6 +1100,31 @@
                 <groupId>org.asynchttpclient</groupId>
                 <artifactId>async-http-client</artifactId>
                 <version>${asynchttpclient.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.httpcomponents.core5</groupId>
+                <artifactId>httpcore5</artifactId>
+                <version>${httpcore5.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.httpcomponents.core5</groupId>
+                <artifactId>httpcore5-h2</artifactId>
+                <version>${httpcore5.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.httpcomponents.core5</groupId>
+                <artifactId>httpcore5-reactive</artifactId>
+                <version>${httpcore5.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.httpcomponents.client5</groupId>
+                <artifactId>httpclient5</artifactId>
+                <version>${httpclient5.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.httpcomponents.client5</groupId>
+                <artifactId>httpclient5-fluent</artifactId>
+                <version>${httpclient5.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.mashape.unirest</groupId>
