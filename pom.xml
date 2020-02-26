@@ -130,7 +130,7 @@
         <netty.version>4.1.45.Final</netty.version>
         <netty-boringssl.version>2.0.29.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.27.1</grpc.version>
+        <grpc.version>1.27.2</grpc.version>
         <google-gax.version>1.53.0</google-gax.version>
         <asynchttpclient.version>2.10.5</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
@@ -196,7 +196,7 @@
         <!--persistence-->
         <hibernate.version>5.4.12.Final</hibernate.version>
         <hibernate-validator.version>6.1.2.Final</hibernate-validator.version>
-        <hibernate-types.version>2.9.3</hibernate-types.version>
+        <hibernate-types.version>2.9.4</hibernate-types.version>
         <jooq.version>3.13.1</jooq.version>
         <jedis.version>3.2.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
@@ -222,7 +222,7 @@
         <h2.version>1.4.200</h2.version>
         <hsqldb.version>2.5.0</hsqldb.version>
         <sqlite-jdbc.version>3.30.1</sqlite-jdbc.version>
-        <neo4j-ogm.version>3.2.8</neo4j-ogm.version>
+        <neo4j-ogm.version>3.2.9</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.4</consul-api.version>
         <elasticsearch.version>7.6.0</elasticsearch.version>
@@ -289,8 +289,8 @@
         <apache-geode.version>1.11.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.78</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.729</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.10.71</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.730</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.10.72</aws-java-sdk2.version>
         <google-cloud-bom.version>0.122.2-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.5</sendgrid.version>
         <kubernetes-client.version>4.8.0</kubernetes-client.version>
@@ -309,7 +309,7 @@
         <jakarta.messaging-api.version>2.0.3</jakarta.messaging-api.version>
         <jakarta-persistence-api.version>2.2.3</jakarta-persistence-api.version>
         <!--springsource-->
-        <spring.version>5.2.3.RELEASE</spring.version>
+        <spring.version>5.2.4.RELEASE</spring.version>
         <spring-framework.version>5.2.3.RELEASE</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.2.1.RELEASE</spring-batch.version>
@@ -322,7 +322,7 @@
         <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.0.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
-        <spring-data-releasetrain.version>Moore-SR4</spring-data-releasetrain.version>
+        <spring-data-releasetrain.version>Moore-SR5</spring-data-releasetrain.version>
         <spring-integration.version>5.2.3.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.2.0.RELEASE</spring-integration-kafka.version>
@@ -339,7 +339,7 @@
         <spring-amqp.version>2.2.4.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.8.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.6.1.RELEASE</rabbit-http-client.version>
-        <spring-vault.version>2.2.1.RELEASE</spring-vault.version>
+        <spring-vault.version>2.2.2.RELEASE</spring-vault.version>
         <spring-kafka.version>2.4.2.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.4.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.5.RELEASE</spring-retry.version>
@@ -1442,7 +1442,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>3.5.1</version>
+                <version>3.5.2</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
