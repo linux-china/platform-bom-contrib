@@ -314,9 +314,9 @@
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.2.1.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.8.RELEASE</spring-ws.version>
-        <spring-session-bom.version>Corn-SR1</spring-session-bom.version>
+        <spring-session-bom.version>Corn-SR2</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.2.2.RELEASE</spring-security.version>
+        <spring-security.version>5.3.0.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.4.0.RELEASE</spring-security-oauth.version>
         <spring-security-oauth2-autoconfigure.version>2.2.4.RELEASE</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
