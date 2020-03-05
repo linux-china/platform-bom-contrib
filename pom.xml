@@ -59,7 +59,7 @@
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>28.2-jre</guava.version>
         <guice.version>4.2.2</guice.version>
-        <jodd.version>5.1.3</jodd.version>
+        <jodd.version>5.1.4</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
@@ -207,7 +207,7 @@
         <mybatis-spring.version>2.0.3</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.5.4</mariadb.version>
-        <mongodb.version>3.12.1</mongodb.version>
+        <mongodb.version>3.12.2</mongodb.version>
         <mongodb-reactivestreams.version>1.13.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
@@ -215,7 +215,7 @@
         <ehcache3.version>3.8.1</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>6.2.4</flyway.version>
+        <flyway.version>6.3.0</flyway.version>
         <liquibase.version>3.8.7</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.1</flexy-pool.version>
@@ -225,7 +225,7 @@
         <neo4j-ogm.version>3.2.9</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.4</consul-api.version>
-        <elasticsearch.version>7.6.0</elasticsearch.version>
+        <elasticsearch.version>7.6.1</elasticsearch.version>
         <hazelcast.version>4.0</hazelcast.version>
         <hazelcast-hibernate4.version>2.0.0</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>2.0.0</hazelcast-hibernate5.version>
@@ -289,8 +289,8 @@
         <apache-geode.version>1.11.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.78</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.736</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.10.78</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.737</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.10.79</aws-java-sdk2.version>
         <google-cloud-bom.version>0.122.3-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.5</sendgrid.version>
         <kubernetes-client.version>4.8.0</kubernetes-client.version>
@@ -328,9 +328,9 @@
         <spring-integration-kafka.version>3.2.0.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.2.5.RELEASE</spring-boot.version>
         <spring-hateoas.version>1.1.0.RELEASE</spring-hateoas.version>
-        <spring-cloud-security.version>2.2.0.RELEASE</spring-cloud-security.version>
-        <spring-cloud-contract.version>2.2.1.RELEASE</spring-cloud-contract.version>
-        <spring-cloud.version>Hoxton.SR2</spring-cloud.version>
+        <spring-cloud-security.version>2.2.1.RELEASE</spring-cloud-security.version>
+        <spring-cloud-contract.version>2.2.2.RELEASE</spring-cloud-contract.version>
+        <spring-cloud.version>Hoxton.SR3</spring-cloud.version>
         <spring-cloud-task.version>2.2.3.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Horsham.SR3</spring-cloud-stream.version>
         <spring-cloud-function.version>3.0.3.RELEASE</spring-cloud-function.version>
