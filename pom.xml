@@ -105,7 +105,7 @@
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.14</toomuchcoding-jsonassert.version>
-        <wiremock.version>2.26.2</wiremock.version>
+        <wiremock.version>2.26.3</wiremock.version>
         <spockframework.version>2.0-M2-groovy-3.0</spockframework.version>
         <easymock.version>4.2</easymock.version>
         <fluentlenium.version>4.3.1</fluentlenium.version>
@@ -183,7 +183,7 @@
         <jopt-simple.version>5.0.4</jopt-simple.version>
         <rometools.version>1.12.2</rometools.version>
         <xmlprojector.version>1.4.16</xmlprojector.version>
-        <freemarker.version>2.3.29</freemarker.version>
+        <freemarker.version>2.3.30</freemarker.version>
         <dom4j-java8.version>2.1.1</dom4j-java8.version>
         <hessian.version>4.0.63</hessian.version>
         <xmlunit.version>2.6.3</xmlunit.version>
@@ -207,8 +207,8 @@
         <mybatis-spring.version>2.0.3</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.5.4</mariadb.version>
-        <mongodb.version>3.12.2</mongodb.version>
-        <mongodb-reactivestreams.version>1.13.0</mongodb-reactivestreams.version>
+        <mongodb.version>4.0.0</mongodb.version>
+        <mongodb-reactivestreams.version>4.0.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>4.0.0</cassandra-driver.version>
@@ -289,8 +289,8 @@
         <apache-geode.version>1.11.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.78</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.737</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.10.79</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.738</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.10.80</aws-java-sdk2.version>
         <google-cloud-bom.version>0.122.3-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.5</sendgrid.version>
         <kubernetes-client.version>4.8.0</kubernetes-client.version>
