@@ -130,7 +130,7 @@
         <netty.version>4.1.47.Final</netty.version>
         <netty-boringssl.version>2.0.29.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.27.2</grpc.version>
+        <grpc.version>1.28.0</grpc.version>
         <google-gax.version>1.54.0</google-gax.version>
         <asynchttpclient.version>2.11.0</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
@@ -150,7 +150,7 @@
         <!--servers-->
         <jetty.version>10.0.0.alpha1</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.0.29.Final</undertow.version>
+        <undertow.version>2.0.30.Final</undertow.version>
         <jersey.version>2.30.1</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>3.1</jsqlparser.version>
@@ -234,7 +234,7 @@
         <hikaricp.version>3.4.2</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>5.0.0</unboundid-ldapsdk.version>
-        <postgresql.version>42.2.10.jre7</postgresql.version>
+        <postgresql.version>42.2.11.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.12.2</jdbi.version>
         <couchbase-client.version>3.0.2</couchbase-client.version>
@@ -246,8 +246,8 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.64</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>8.9</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>7.1.1</oauth2-oidc-sdk.version>
+        <nimbus-jose-jwt.version>8.10</nimbus-jose-jwt.version>
+        <oauth2-oidc-sdk.version>7.2</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.13</httpcore.version>
         <httpclient.version>4.5.12</httpclient.version>
@@ -263,14 +263,14 @@
         <commons-lang3.version>3.9</commons-lang3.version>
         <commons-csv.version>1.8</commons-csv.version>
         <commons-crypto.version>1.0.0</commons-crypto.version>
-        <commons-configuration2.version>2.6</commons-configuration2.version>
+        <commons-configuration2.version>2.7</commons-configuration2.version>
         <commons-text.version>1.8</commons-text.version>
         <commons-vfs2.version>2.6.0</commons-vfs2.version>
         <commons-pool2.version>2.8.0</commons-pool2.version>
         <commons-dbcp2.version>2.7.0</commons-dbcp2.version>
         <commons-rng.version>1.3</commons-rng.version>
         <poi.version>4.1.2</poi.version>
-        <kafka.version>2.4.0</kafka.version>
+        <kafka.version>2.4.1</kafka.version>
         <log4j2.version>2.13.1</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.4.1</solr.version>
@@ -289,8 +289,8 @@
         <apache-geode.version>1.11.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.78</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.740</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.10.82</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.741</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.10.83</aws-java-sdk2.version>
         <google-cloud-bom.version>0.122.4-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.5</sendgrid.version>
         <kubernetes-client.version>4.8.0</kubernetes-client.version>
