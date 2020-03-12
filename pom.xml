@@ -340,7 +340,7 @@
         <rabbit-amqp-client.version>5.8.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.6.1.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.2.2.RELEASE</spring-vault.version>
-        <spring-kafka.version>2.4.3.RELEASE</spring-kafka.version>
+        <spring-kafka.version>2.4.4.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.4.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.2.5.RELEASE</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
