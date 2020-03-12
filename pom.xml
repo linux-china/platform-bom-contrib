@@ -37,7 +37,7 @@
 
     <properties>
         <jline.version>3.0.0.M1</jline.version>
-        <janino.version>3.1.0</janino.version>
+        <janino.version>3.1.1</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.44</webjars-locator-core.version>
@@ -289,11 +289,11 @@
         <apache-geode.version>1.11.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.78</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.741</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.10.83</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.742</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.10.84</aws-java-sdk2.version>
         <google-cloud-bom.version>0.122.4-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.5</sendgrid.version>
-        <kubernetes-client.version>4.8.0</kubernetes-client.version>
+        <kubernetes-client.version>4.9.0</kubernetes-client.version>
         <!--languages-->
         <kotlin.version>1.3.70</kotlin.version>
         <kotlinx-coroutines.version>1.3.4</kotlinx-coroutines.version>
