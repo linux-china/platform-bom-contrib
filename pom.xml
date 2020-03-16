@@ -233,7 +233,7 @@
         <querydsl.version>4.3.0</querydsl.version>
         <hikaricp.version>3.4.2</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
-        <unboundid-ldapsdk.version>5.0.0</unboundid-ldapsdk.version>
+        <unboundid-ldapsdk.version>5.0.1</unboundid-ldapsdk.version>
         <postgresql.version>42.2.11.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.12.2</jdbi.version>
@@ -350,7 +350,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <reactor-bom.version>Dysprosium-SR5</reactor-bom.version>
         <rxjava2.version>2.2.19</rxjava2.version>
-        <micrometer.version>1.3.5</micrometer.version>
+        <micrometer.version>1.3.6</micrometer.version>
     </properties>
 
     <dependencyManagement>
