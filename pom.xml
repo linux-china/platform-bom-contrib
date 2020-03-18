@@ -37,7 +37,7 @@
 
     <properties>
         <jline.version>3.0.0.M1</jline.version>
-        <janino.version>3.1.1</janino.version>
+        <janino.version>3.1.2</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.44</webjars-locator-core.version>
@@ -101,7 +101,7 @@
         <mockito.version>3.3.3</mockito.version>
         <htmlunit.version>2.38.0</htmlunit.version>
         <testng.version>7.1.0</testng.version>
-        <selenium.version>4.0.0-alpha-4</selenium.version>
+        <selenium.version>4.0.0-alpha-5</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.14</toomuchcoding-jsonassert.version>
@@ -127,7 +127,7 @@
         <okio.version>2.4.3</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.47.Final</netty.version>
+        <netty.version>4.1.48.Final</netty.version>
         <netty-boringssl.version>2.0.29.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.28.0</grpc.version>
@@ -178,7 +178,7 @@
         <unbescape.version>1.1.6.RELEASE</unbescape.version>
         <attoparser.version>2.0.5.RELEASE</attoparser.version>
         <jmustache.version>1.15</jmustache.version>
-        <wss4j2.version>2.2.4</wss4j2.version>
+        <wss4j2.version>2.2.5</wss4j2.version>
         <objenesis.version>3.1</objenesis.version>
         <jopt-simple.version>5.0.4</jopt-simple.version>
         <rometools.version>1.12.2</rometools.version>
@@ -273,14 +273,14 @@
         <kafka.version>2.4.1</kafka.version>
         <log4j2.version>2.13.1</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
-        <solr.version>8.4.1</solr.version>
+        <solr.version>8.5.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>9.0.33</tomcat.version>
         <groovy.version>3.0.2</groovy.version>
         <zookeeper.version>3.5.7</zookeeper.version>
         <curator.version>4.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
-        <activemq.version>5.15.11</activemq.version>
+        <activemq.version>5.15.12</activemq.version>
         <artemis.version>2.11.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
@@ -289,8 +289,8 @@
         <apache-geode.version>1.11.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.78</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.745</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.10.87</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.746</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.10.88</aws-java-sdk2.version>
         <google-cloud-bom.version>0.122.4-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.5</sendgrid.version>
         <kubernetes-client.version>4.9.0</kubernetes-client.version>
