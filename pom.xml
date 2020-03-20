@@ -58,12 +58,12 @@
         <joda-time.version>2.10.5</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>28.2-jre</guava.version>
-        <guice.version>4.2.2</guice.version>
+        <guice.version>4.2.3</guice.version>
         <jodd.version>5.1.4</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
-        <ff4j.version>1.8.3</ff4j.version>
+        <ff4j.version>1.8.4</ff4j.version>
         <underscore.version>1.53</underscore.version>
         <java-util.version>1.40.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
@@ -92,7 +92,7 @@
         <immutables.version>2.8.3</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
         <reflections.version>0.9.12</reflections.version>
-        <threetenbp.version>1.4.1</threetenbp.version>
+        <threetenbp.version>1.4.2</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.6.0</junit5.version>
@@ -124,7 +124,7 @@
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>4.4.1</okhttp3.version>
-        <okio.version>2.4.3</okio.version>
+        <okio.version>2.5.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.48.Final</netty.version>
@@ -206,9 +206,9 @@
         <mybatis.version>3.5.4</mybatis.version>
         <mybatis-spring.version>2.0.4</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
-        <mariadb.version>2.5.4</mariadb.version>
-        <mongodb.version>4.0.0</mongodb.version>
-        <mongodb-reactivestreams.version>4.0.0</mongodb-reactivestreams.version>
+        <mariadb.version>2.6.0</mariadb.version>
+        <mongodb.version>4.0.1</mongodb.version>
+        <mongodb-reactivestreams.version>4.0.1</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>4.0.0</cassandra-driver.version>
@@ -216,7 +216,7 @@
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
         <flyway.version>6.3.1</flyway.version>
-        <liquibase.version>3.8.7</liquibase.version>
+        <liquibase.version>3.8.8</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.1</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
@@ -289,8 +289,8 @@
         <apache-geode.version>1.11.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.78</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.747</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.10.89</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.748</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.10.90</aws-java-sdk2.version>
         <google-cloud-bom.version>0.122.5-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.6</sendgrid.version>
         <kubernetes-client.version>4.9.0</kubernetes-client.version>
