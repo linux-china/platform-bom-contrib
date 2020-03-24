@@ -215,7 +215,7 @@
         <ehcache3.version>3.8.1</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>6.3.1</flyway.version>
+        <flyway.version>6.3.2</flyway.version>
         <liquibase.version>3.8.8</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.1</flexy-pool.version>
@@ -289,8 +289,8 @@
         <apache-geode.version>1.11.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.78</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.749</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.10.91</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.750</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.11.0</aws-java-sdk2.version>
         <google-cloud-bom.version>0.122.5-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.6</sendgrid.version>
         <kubernetes-client.version>4.9.0</kubernetes-client.version>
@@ -309,8 +309,8 @@
         <jakarta.messaging-api.version>2.0.3</jakarta.messaging-api.version>
         <jakarta-persistence-api.version>2.2.3</jakarta-persistence-api.version>
         <!--springsource-->
-        <spring.version>5.2.4.RELEASE</spring.version>
-        <spring-framework.version>5.2.4.RELEASE</spring-framework.version>
+        <spring.version>5.2.5.RELEASE</spring.version>
+        <spring-framework.version>5.2.5.RELEASE</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.2.1.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.8.RELEASE</spring-ws.version>
