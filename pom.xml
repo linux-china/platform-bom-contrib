@@ -138,7 +138,7 @@
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
         <smack4.version>4.3.1</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
-        <openfeign.version>10.8</openfeign.version>
+        <openfeign.version>10.9</openfeign.version>
         <javax-mail.version>1.6.3</javax-mail.version>
         <javax-cache.version>1.1.1</javax-cache.version>
         <javax-validation.version>2.0.1.Final</javax-validation.version>
@@ -148,13 +148,13 @@
         <zipkin-reporter2.version>2.12.1</zipkin-reporter2.version>
         <rsocket.versoin>1.0.0-RC6</rsocket.versoin>
         <!--servers-->
-        <jetty.version>10.0.0.alpha1</jetty.version>
+        <jetty.version>10.0.0.alpha2</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.0.30.Final</undertow.version>
         <jersey.version>2.30.1</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>3.1</jsqlparser.version>
-        <javaparser.version>3.15.15</javaparser.version>
+        <javaparser.version>3.15.17</javaparser.version>
         <jackson.version>2.11.0.rc1</jackson.version>
         <moshi.version>1.9.2</moshi.version>
         <classmate.version>1.5.1</classmate.version>
@@ -246,7 +246,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.64</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>8.10</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>8.11</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>7.3</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.13</httpcore.version>
@@ -289,9 +289,9 @@
         <apache-geode.version>1.11.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.78</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.751</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.11.1</aws-java-sdk2.version>
-        <google-cloud-bom.version>0.122.5-alpha</google-cloud-bom.version>
+        <aws-java-sdk.version>1.11.752</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.11.2</aws-java-sdk2.version>
+        <google-cloud-bom.version>0.123.0-alpha</google-cloud-bom.version>
         <sendgrid.version>4.4.6</sendgrid.version>
         <kubernetes-client.version>4.9.0</kubernetes-client.version>
         <!--languages-->
@@ -323,10 +323,10 @@
         <spring-security-jwt.version>1.1.0.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Moore-SR6</spring-data-releasetrain.version>
-        <spring-integration.version>5.2.4.RELEASE</spring-integration.version>
+        <spring-integration.version>5.2.5.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.2.0.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>2.2.5.RELEASE</spring-boot.version>
+        <spring-boot.version>2.2.6.RELEASE</spring-boot.version>
         <spring-hateoas.version>1.1.0.RELEASE</spring-hateoas.version>
         <spring-cloud-security.version>2.2.1.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>2.2.2.RELEASE</spring-cloud-contract.version>
