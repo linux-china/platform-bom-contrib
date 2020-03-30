@@ -350,7 +350,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <reactor-bom.version>Dysprosium-SR6</reactor-bom.version>
         <rxjava2.version>2.2.19</rxjava2.version>
-        <micrometer.version>1.4.0</micrometer.version>
+        <micrometer.version>1.4.1</micrometer.version>
     </properties>
 
     <dependencyManagement>
