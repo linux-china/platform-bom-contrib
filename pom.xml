@@ -109,7 +109,7 @@
         <spockframework.version>2.0-M2-groovy-3.0</spockframework.version>
         <easymock.version>4.2</easymock.version>
         <fluentlenium.version>4.3.1</fluentlenium.version>
-        <powermock.version>2.0.6</powermock.version>
+        <powermock.version>2.0.7</powermock.version>
         <testcontainers.version>1.13.0</testcontainers.version>
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.3.0</rest-assured.version>
@@ -288,7 +288,7 @@
         <axiom.version>1.2.22</axiom.version>
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.78</appengine-sdk.version>
+        <appengine-sdk.version>1.9.79</appengine-sdk.version>
         <aws-java-sdk.version>1.11.755</aws-java-sdk.version>
         <aws-java-sdk2.version>2.11.5</aws-java-sdk2.version>
         <google-cloud-bom.version>0.123.1-alpha</google-cloud-bom.version>
