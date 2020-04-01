@@ -80,7 +80,7 @@
         <eclipse-collections.version>10.2.0</eclipse-collections.version>
         <!--code & classes-->
         <jetbrains-annotations.version>19.0.0</jetbrains-annotations.version>
-        <swagger-oai.version>2.1.1</swagger-oai.version>
+        <swagger-oai.version>2.1.2</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.0.1</google-truth.version>
@@ -234,7 +234,7 @@
         <hikaricp.version>3.4.2</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>5.0.1</unboundid-ldapsdk.version>
-        <postgresql.version>42.2.11.jre7</postgresql.version>
+        <postgresql.version>42.2.12.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.12.2</jdbi.version>
         <couchbase-client.version>3.0.2</couchbase-client.version>
@@ -312,11 +312,11 @@
         <spring.version>5.2.5.RELEASE</spring.version>
         <spring-framework.version>5.2.5.RELEASE</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
-        <spring-batch.version>4.2.1.RELEASE</spring-batch.version>
+        <spring-batch.version>4.2.2.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.8.RELEASE</spring-ws.version>
         <spring-session-bom.version>Corn-SR2</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.3.0.RELEASE</spring-security.version>
+        <spring-security.version>5.3.1.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.4.0.RELEASE</spring-security-oauth.version>
         <spring-security-oauth2-autoconfigure.version>2.2.6.RELEASE</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
@@ -1442,7 +1442,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>3.5.2</version>
+                <version>3.5.3</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
