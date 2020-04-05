@@ -92,14 +92,14 @@
         <immutables.version>2.8.3</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
         <reflections.version>0.9.12</reflections.version>
-        <threetenbp.version>1.4.2</threetenbp.version>
+        <threetenbp.version>1.4.3</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.6.1</junit5.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <mockito.version>3.3.3</mockito.version>
-        <htmlunit.version>2.38.0</htmlunit.version>
+        <htmlunit.version>2.39.0</htmlunit.version>
         <testng.version>7.1.0</testng.version>
         <selenium.version>4.0.0-alpha-5</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -117,7 +117,7 @@
         <assertj-json.vaaltoersion>3.4.1</assertj-json.vaaltoersion>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.10.1</database-rider.version>
+        <database-rider.version>1.11.1</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.0.2</awaitility.version>
@@ -130,7 +130,7 @@
         <netty.version>4.1.48.Final</netty.version>
         <netty-boringssl.version>2.0.30.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.28.0</grpc.version>
+        <grpc.version>1.28.1</grpc.version>
         <google-gax.version>1.54.0</google-gax.version>
         <asynchttpclient.version>2.11.0</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
@@ -144,7 +144,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
-        <zipkin-brave.version>5.10.2</zipkin-brave.version>
+        <zipkin-brave.version>5.11.1</zipkin-brave.version>
         <zipkin-reporter2.version>2.12.2</zipkin-reporter2.version>
         <rsocket.versoin>1.0.0-RC6</rsocket.versoin>
         <!--servers-->
@@ -246,7 +246,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.64</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>8.11</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>8.12</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>7.3</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.13</httpcore.version>
