@@ -65,7 +65,7 @@
         <togglz.version>2.6.1.Final</togglz.version>
         <ff4j.version>1.8.4</ff4j.version>
         <underscore.version>1.54</underscore.version>
-        <java-util.version>1.43.0</java-util.version>
+        <java-util.version>1.44.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
         <vavr.version>0.10.2</vavr.version>
@@ -123,7 +123,7 @@
         <awaitility.version>4.0.2</awaitility.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>4.4.1</okhttp3.version>
+        <okhttp3.version>4.5.0</okhttp3.version>
         <okio.version>2.5.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -132,7 +132,7 @@
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.28.1</grpc.version>
         <google-gax.version>1.54.0</google-gax.version>
-        <asynchttpclient.version>2.11.0</asynchttpclient.version>
+        <asynchttpclient.version>2.12.0</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
@@ -144,7 +144,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
-        <zipkin-brave.version>5.11.1</zipkin-brave.version>
+        <zipkin-brave.version>5.11.2</zipkin-brave.version>
         <zipkin-reporter2.version>2.12.2</zipkin-reporter2.version>
         <rsocket.versoin>1.0.0-RC6</rsocket.versoin>
         <!--servers-->
@@ -154,7 +154,7 @@
         <jersey.version>2.30.1</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>3.1</jsqlparser.version>
-        <javaparser.version>3.15.17</javaparser.version>
+        <javaparser.version>3.15.18</javaparser.version>
         <jackson.version>2.11.0.rc1</jackson.version>
         <moshi.version>1.9.2</moshi.version>
         <classmate.version>1.5.1</classmate.version>
@@ -215,7 +215,7 @@
         <ehcache3.version>3.8.1</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>6.3.2</flyway.version>
+        <flyway.version>6.3.3</flyway.version>
         <liquibase.version>3.8.8</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.1</flexy-pool.version>
@@ -244,7 +244,7 @@
         <!--security-->
         <cas-client.version>3.6.1</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
-        <bouncycastle.version>1.64</bouncycastle.version>
+        <bouncycastle.version>1.65</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>8.12</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>7.3</oauth2-oidc-sdk.version>
