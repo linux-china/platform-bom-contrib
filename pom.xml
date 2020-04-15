@@ -57,7 +57,7 @@
         <fugue.version>4.7.2</fugue.version>
         <joda-time.version>2.10.5</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
-        <guava.version>28.2-jre</guava.version>
+        <guava.version>29-jre</guava.version>
         <guice.version>4.2.3</guice.version>
         <jodd.version>5.1.4</jodd.version>
         <boon.version>0.34</boon.version>
@@ -65,7 +65,7 @@
         <togglz.version>2.6.1.Final</togglz.version>
         <ff4j.version>1.8.4</ff4j.version>
         <underscore.version>1.54</underscore.version>
-        <java-util.version>1.48.0</java-util.version>
+        <java-util.version>1.49.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
         <vavr.version>0.10.2</vavr.version>
@@ -115,10 +115,10 @@
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.3.0</rest-assured.version>
         <assertj.version>3.15.0</assertj.version>
-        <assertj-json.vaaltoersion>3.4.1</assertj-json.vaaltoersion>
+        <assertj-json.version>2.17.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.11.1</database-rider.version>
+        <database-rider.version>1.12.0</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.0.2</awaitility.version>
@@ -271,10 +271,10 @@
         <commons-dbcp2.version>2.7.0</commons-dbcp2.version>
         <commons-rng.version>1.3</commons-rng.version>
         <poi.version>4.1.2</poi.version>
-        <kafka.version>2.4.1</kafka.version>
+        <kafka.version>2.5.0</kafka.version>
         <log4j2.version>2.13.1</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
-        <solr.version>8.5.0</solr.version>
+        <solr.version>8.5.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>9.0.34</tomcat.version>
         <groovy.version>3.0.3</groovy.version>
@@ -338,7 +338,7 @@
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.2.5.RELEASE</spring-amqp.version>
-        <rabbit-amqp-client.version>5.8.0</rabbit-amqp-client.version>
+        <rabbit-amqp-client.version>5.9.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.6.1.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.2.2.RELEASE</spring-vault.version>
         <spring-kafka.version>2.4.5.RELEASE</spring-kafka.version>
