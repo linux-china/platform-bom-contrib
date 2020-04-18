@@ -151,7 +151,7 @@
         <!--servers-->
         <jetty.version>10.0.0.alpha2</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.0.30.Final</undertow.version>
+        <undertow.version>2.1.0.Final</undertow.version>
         <jersey.version>2.30.1</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>3.1</jsqlparser.version>
@@ -290,8 +290,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.79</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.763</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.11.13</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.764</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.11.14</aws-java-sdk2.version>
         <google-cloud-bom.version>0.124.0</google-cloud-bom.version>
         <sendgrid.version>4.4.8</sendgrid.version>
         <kubernetes-client.version>4.9.1</kubernetes-client.version>
