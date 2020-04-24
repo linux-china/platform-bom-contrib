@@ -290,8 +290,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.767</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.1</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.768</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.2</aws-java-sdk2.version>
         <google-cloud-bom.version>0.125.0</google-cloud-bom.version>
         <sendgrid.version>4.4.8</sendgrid.version>
         <kubernetes-client.version>4.9.1</kubernetes-client.version>
