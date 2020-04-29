@@ -332,7 +332,7 @@
         <spring-hateoas.version>1.1.0.RELEASE</spring-hateoas.version>
         <spring-cloud-security.version>2.2.1.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>2.2.2.RELEASE</spring-cloud-contract.version>
-        <spring-cloud.version>Hoxton.SR3</spring-cloud.version>
+        <spring-cloud.version>Hoxton.SR4</spring-cloud.version>
         <spring-cloud-task.version>2.2.3.RELEASE</spring-cloud-task.version>
         <spring-cloud-stream.version>Horsham.SR4</spring-cloud-stream.version>
         <spring-cloud-function.version>3.0.6.RELEASE</spring-cloud-function.version>
