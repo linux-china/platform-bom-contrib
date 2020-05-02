@@ -63,7 +63,7 @@
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
-        <ff4j.version>1.8.4</ff4j.version>
+        <ff4j.version>1.8.5</ff4j.version>
         <underscore.version>1.54</underscore.version>
         <java-util.version>1.50.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
@@ -100,7 +100,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <mockito.version>3.3.3</mockito.version>
-        <htmlunit.version>2.39.1</htmlunit.version>
+        <htmlunit.version>2.40.0</htmlunit.version>
         <testng.version>7.1.0</testng.version>
         <selenium.version>4.0.0-alpha-5</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -290,8 +290,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.773</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.7</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.774</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.8</aws-java-sdk2.version>
         <google-cloud-bom.version>0.125.0</google-cloud-bom.version>
         <sendgrid.version>4.4.8</sendgrid.version>
         <kubernetes-client.version>4.9.1</kubernetes-client.version>
@@ -319,7 +319,7 @@
         <spring-session-bom.version>Corn-SR2</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.3.1.RELEASE</spring-security.version>
-        <spring-security-oauth.version>2.4.0.RELEASE</spring-security-oauth.version>
+        <spring-security-oauth.version>2.4.1.RELEASE</spring-security-oauth.version>
         <spring-security-oauth2-autoconfigure.version>2.2.6.RELEASE</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.0.RELEASE</spring-security-jwt.version>
@@ -338,7 +338,7 @@
         <spring-cloud-function.version>3.0.6.RELEASE</spring-cloud-function.version>
         <spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.2.5.RELEASE</spring-amqp.version>
+        <spring-amqp.version>2.2.6.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.9.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.6.1.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.2.2.RELEASE</spring-vault.version>
