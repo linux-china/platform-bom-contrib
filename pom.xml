@@ -290,8 +290,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.776</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.10</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.777</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.11</aws-java-sdk2.version>
         <google-cloud-bom.version>0.125.0</google-cloud-bom.version>
         <sendgrid.version>4.4.8</sendgrid.version>
         <kubernetes-client.version>4.10.1</kubernetes-client.version>
@@ -318,7 +318,7 @@
         <spring-ws.version>3.0.9.RELEASE</spring-ws.version>
         <spring-session-bom.version>Corn-SR2</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.3.1.RELEASE</spring-security.version>
+        <spring-security.version>5.3.2.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.4.1.RELEASE</spring-security-oauth.version>
         <spring-security-oauth2-autoconfigure.version>2.2.6.RELEASE</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
@@ -328,7 +328,7 @@
         <spring-integration.version>5.2.6.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.2.0.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>2.2.6.RELEASE</spring-boot.version>
+        <spring-boot.version>2.2.7.RELEASE</spring-boot.version>
         <spring-hateoas.version>1.1.0.RELEASE</spring-hateoas.version>
         <spring-cloud-security.version>2.2.1.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>2.2.2.RELEASE</spring-cloud-contract.version>
