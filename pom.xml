@@ -146,7 +146,7 @@
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
         <zipkin-brave.version>5.11.2</zipkin-brave.version>
-        <zipkin-reporter2.version>2.12.3</zipkin-reporter2.version>
+        <zipkin-reporter2.version>2.13.0</zipkin-reporter2.version>
         <rsocket.versoin>1.0.0-RC7</rsocket.versoin>
         <!--servers-->
         <jetty.version>10.0.0.alpha2</jetty.version>
@@ -208,8 +208,8 @@
         <mybatis-spring.version>2.0.4</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.6.0</mariadb.version>
-        <mongodb.version>4.0.2</mongodb.version>
-        <mongodb-reactivestreams.version>4.0.2</mongodb-reactivestreams.version>
+        <mongodb.version>4.0.3</mongodb.version>
+        <mongodb-reactivestreams.version>4.0.3</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>4.0.0</cassandra-driver.version>
@@ -232,7 +232,7 @@
         <hazelcast-hibernate5.version>2.0.0</hazelcast-hibernate5.version>
         <infinispan.version>10.1.6.Final</infinispan.version>
         <querydsl.version>4.3.1</querydsl.version>
-        <hikaricp.version>3.4.3</hikaricp.version>
+        <hikaricp.version>3.4.4</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>5.0.1</unboundid-ldapsdk.version>
         <postgresql.version>42.2.12.jre7</postgresql.version>
@@ -290,8 +290,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.777</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.11</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.778</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.12</aws-java-sdk2.version>
         <google-cloud-bom.version>0.125.0</google-cloud-bom.version>
         <sendgrid.version>4.4.8</sendgrid.version>
         <kubernetes-client.version>4.10.1</kubernetes-client.version>
