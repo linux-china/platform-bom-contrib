@@ -146,8 +146,8 @@
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
         <zipkin-brave.version>5.11.2</zipkin-brave.version>
-        <zipkin-reporter2.version>2.13.1</zipkin-reporter2.version>
-        <rsocket.versoin>1.0.0-RC7</rsocket.versoin>
+        <zipkin-reporter2.version>2.13.2</zipkin-reporter2.version>
+        <rsocket.versoin>1.0.0</rsocket.versoin>
         <!--servers-->
         <jetty.version>10.0.0.alpha2</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
@@ -155,7 +155,7 @@
         <jersey.version>3.0.0-M1</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>3.1</jsqlparser.version>
-        <javaparser.version>3.15.21</javaparser.version>
+        <javaparser.version>3.15.22</javaparser.version>
         <jackson.version>2.11.0</jackson.version>
         <moshi.version>1.9.2</moshi.version>
         <classmate.version>1.5.1</classmate.version>
@@ -216,7 +216,7 @@
         <ehcache3.version>3.8.1</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>6.4.1</flyway.version>
+        <flyway.version>6.4.2</flyway.version>
         <liquibase.version>3.8.9</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.1</flexy-pool.version>
@@ -276,10 +276,10 @@
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.5.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>9.0.34</tomcat.version>
+        <tomcat.version>9.0.35</tomcat.version>
         <groovy.version>3.0.3</groovy.version>
-        <zookeeper.version>3.5.7</zookeeper.version>
-        <curator.version>4.2.0</curator.version>
+        <zookeeper.version>3.6.1</zookeeper.version>
+        <curator.version>4.3.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.15.12</activemq.version>
         <artemis.version>2.12.0</artemis.version>
@@ -290,8 +290,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.779</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.13</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.780</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.14</aws-java-sdk2.version>
         <google-cloud-bom.version>0.125.0</google-cloud-bom.version>
         <sendgrid.version>4.4.8</sendgrid.version>
         <kubernetes-client.version>4.10.1</kubernetes-client.version>
@@ -320,11 +320,11 @@
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.3.2.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.4.1.RELEASE</spring-security-oauth.version>
-        <spring-security-oauth2-autoconfigure.version>2.2.6.RELEASE</spring-security-oauth2-autoconfigure.version>
+        <spring-security-oauth2-autoconfigure.version>2.2.7.RELEASE</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.0.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
-        <spring-data-releasetrain.version>Moore-SR7</spring-data-releasetrain.version>
+        <spring-data-releasetrain.version>Neumann-RELEASE</spring-data-releasetrain.version>
         <spring-integration.version>5.2.6.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.2.0.RELEASE</spring-integration-kafka.version>
