@@ -129,6 +129,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Jakarta EE: https://jakarta.ee/
 * Awaitility: a small Java DSL for synchronizing asynchronous operations  https://github.com/awaitility/awaitility
 * JavaParser: Java 1-13 Parser and Abstract Syntax Tree for Java https://github.com/javaparser/javaparser
+* MathParser: https://github.com/mariuszgromada/MathParser.org-mXparser
 
 
 ### Developer Notice
