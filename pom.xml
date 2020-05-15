@@ -46,7 +46,7 @@
         <twelvemonkeys-imageio.version>3.5</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
-        <dropwizard-metrics.version>4.1.7</dropwizard-metrics.version>
+        <dropwizard-metrics.version>4.1.8</dropwizard-metrics.version>
         <jolokia.version>1.6.2</jolokia.version>
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.30</slf4j.version>
@@ -111,7 +111,7 @@
         <easymock.version>4.2</easymock.version>
         <fluentlenium.version>4.3.1</fluentlenium.version>
         <powermock.version>2.0.7</powermock.version>
-        <testcontainers.version>1.14.1</testcontainers.version>
+        <testcontainers.version>1.14.2</testcontainers.version>
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.3.0</rest-assured.version>
         <assertj.version>3.16.1</assertj.version>
@@ -151,7 +151,7 @@
         <!--servers-->
         <jetty.version>10.0.0.alpha2</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.1.0.Final</undertow.version>
+        <undertow.version>2.1.1.Final</undertow.version>
         <jersey.version>3.0.0-M1</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>3.1</jsqlparser.version>
@@ -197,7 +197,7 @@
         <!--persistence-->
         <hibernate.version>5.4.14.Final</hibernate.version>
         <hibernate-validator.version>6.1.2.Final</hibernate-validator.version>
-        <hibernate-types.version>2.9.9</hibernate-types.version>
+        <hibernate-types.version>2.9.10</hibernate-types.version>
         <jooq.version>3.13.2</jooq.version>
         <jedis.version>3.3.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
@@ -290,8 +290,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.782</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.16</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.783</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.17</aws-java-sdk2.version>
         <google-cloud-bom.version>0.125.0</google-cloud-bom.version>
         <sendgrid.version>4.5.0</sendgrid.version>
         <kubernetes-client.version>4.10.1</kubernetes-client.version>
@@ -328,7 +328,7 @@
         <spring-integration.version>5.3.0.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.2.0.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>2.2.7.RELEASE</spring-boot.version>
+        <spring-boot.version>2.3.0.RELEASE</spring-boot.version>
         <spring-hateoas.version>1.1.0.RELEASE</spring-hateoas.version>
         <spring-cloud-security.version>2.2.1.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>2.2.2.RELEASE</spring-cloud-contract.version>
