@@ -46,7 +46,7 @@
         <twelvemonkeys-imageio.version>3.5</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
-        <dropwizard-metrics.version>4.1.8</dropwizard-metrics.version>
+        <dropwizard-metrics.version>4.1.9</dropwizard-metrics.version>
         <jolokia.version>1.6.2</jolokia.version>
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.30</slf4j.version>
@@ -342,7 +342,7 @@
         <rabbit-amqp-client.version>5.9.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.6.1.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.2.2.RELEASE</spring-vault.version>
-        <spring-kafka.version>2.5.0.RELEASE</spring-kafka.version>
+        <spring-kafka.version>2.5.1.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.4.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.3.0</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
