@@ -149,7 +149,7 @@
         <zipkin-reporter2.version>2.15.0</zipkin-reporter2.version>
         <rsocket.versoin>1.0.0</rsocket.versoin>
         <!--servers-->
-        <jetty.version>10.0.0.alpha2</jetty.version>
+        <jetty.version>10.0.0.beta0</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.1.1.Final</undertow.version>
         <jersey.version>3.0.0-M1</jersey.version>
@@ -162,7 +162,7 @@
         <snakeyaml.version>1.26</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.6</gson.version>
-        <protobuf.version>3.12.1</protobuf.version>
+        <protobuf.version>3.12.2</protobuf.version>
         <json-smart.version>2.3</json-smart.version>
         <json-path.version>2.4.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -230,7 +230,7 @@
         <hazelcast.version>4.0.1</hazelcast.version>
         <hazelcast-hibernate4.version>2.0.0</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>2.0.0</hazelcast-hibernate5.version>
-        <infinispan.version>10.1.6.Final</infinispan.version>
+        <infinispan.version>10.1.8.Final</infinispan.version>
         <querydsl.version>4.3.1</querydsl.version>
         <hikaricp.version>3.4.5</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
@@ -242,6 +242,7 @@
         <openjpa.version>3.1.1</openjpa.version>
         <mysql.version>8.0.20</mysql.version>
         <influxdb-java.version>2.19</influxdb-java.version>
+        <r2dbc-bom.version>Arabba-SR4</r2dbc-bom.version>
         <!--security-->
         <cas-client.version>3.6.1</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
@@ -257,7 +258,7 @@
         <commons-cli.version>1.4</commons-cli.version>
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-net.version>3.6</commons-net.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-codec.version>1.14</commons-codec.version>
         <commons-fileupload.version>1.4</commons-fileupload.version>
         <commons-beanutils.version>1.9.4</commons-beanutils.version>
@@ -290,8 +291,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.790</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.24</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.791</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.25</aws-java-sdk2.version>
         <google-cloud-bom.version>0.126.0</google-cloud-bom.version>
         <sendgrid.version>4.5.0</sendgrid.version>
         <kubernetes-client.version>4.10.1</kubernetes-client.version>
@@ -319,10 +320,10 @@
         <spring-session-bom.version>Dragonfruit-RELEASE</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.3.2.RELEASE</spring-security.version>
-        <spring-security-oauth.version>2.4.1.RELEASE</spring-security-oauth.version>
+        <spring-security-oauth.version>2.5.0.RELEASE</spring-security-oauth.version>
         <spring-security-oauth2-autoconfigure.version>2.3.0.RELEASE</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
-        <spring-security-jwt.version>1.1.0.RELEASE</spring-security-jwt.version>
+        <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-RELEASE</spring-data-releasetrain.version>
         <spring-integration.version>5.3.0.RELEASE</spring-integration.version>
@@ -334,8 +335,8 @@
         <spring-cloud-contract.version>2.2.2.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Hoxton.SR4</spring-cloud.version>
         <spring-cloud-task.version>2.2.3.RELEASE</spring-cloud-task.version>
-        <spring-cloud-stream.version>Horsham.SR4</spring-cloud-stream.version>
-        <spring-cloud-function.version>3.0.6.RELEASE</spring-cloud-function.version>
+        <spring-cloud-stream.version>Horsham.SR5</spring-cloud-stream.version>
+        <spring-cloud-function.version>3.0.7.RELEASE</spring-cloud-function.version>
         <spring-ldap.version>2.3.3.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.2.7.RELEASE</spring-amqp.version>
@@ -1377,6 +1378,13 @@
                 <groupId>com.twelvemonkeys.imageio</groupId>
                 <artifactId>imageio-jpeg</artifactId>
                 <version>${twelvemonkeys-imageio.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.r2dbc</groupId>
+                <artifactId>r2dbc-bom</artifactId>
+                <version>${r2dbc-bom.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
             </dependency>
             <dependency>
                 <groupId>org.jodd</groupId>
