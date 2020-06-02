@@ -349,7 +349,6 @@
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-cloud-connector.version>2.0.7.RELEASE</spring-cloud-connector.version>
-        <spring-cloud-localconfig-connector.version>2.0.5.RELEASE</spring-cloud-localconfig-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <reactor-bom.version>Dysprosium-SR7</reactor-bom.version>
         <rxjava2.version>2.2.19</rxjava2.version>
@@ -1705,12 +1704,12 @@
             </dependency>
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
-                <artifactId>spring-cloud-localconfig-connector</artifactId>
+                <artifactId>spring-cloud-heroku-connector</artifactId>
                 <version>${spring-cloud-connector.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
-                <artifactId>spring-cloud-heroku-connector</artifactId>
+                <artifactId>spring-cloud-localconfig-connector</artifactId>
                 <version>${spring-cloud-connector.version}</version>
             </dependency>
             <dependency>
@@ -1719,11 +1718,6 @@
                 <version>${spring-cloud.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
-            </dependency>
-            <dependency>
-                <groupId>org.springframework.cloud</groupId>
-                <artifactId>spring-cloud-localconfig-connector</artifactId>
-                <version>${spring-cloud-localconfig-connector.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.session</groupId>
