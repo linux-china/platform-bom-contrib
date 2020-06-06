@@ -168,7 +168,7 @@
         <rometools.version>1.12.0</rometools.version>
         <xmlprojector.version>1.4.16</xmlprojector.version>
         <freemarker.version>2.3.28</freemarker.version>
-        <dom4j-java8.version>2.1.0</dom4j-java8.version>
+        <dom4j-java8.version>2.1.3</dom4j-java8.version>
         <hessian.version>4.0.60</hessian.version>
         <xstream.version>1.4.11.1</xstream.version>
         <!--persistence-->
