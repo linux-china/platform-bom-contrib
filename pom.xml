@@ -63,7 +63,7 @@
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.6.1.Final</togglz.version>
-        <ff4j.version>1.8.6</ff4j.version>
+        <ff4j.version>1.8.7</ff4j.version>
         <underscore.version>1.55</underscore.version>
         <java-util.version>1.52.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
@@ -157,7 +157,7 @@
         <jsqlparser.version>3.1</jsqlparser.version>
         <javaparser.version>3.16.1</javaparser.version>
         <jackson.version>2.11.0</jackson.version>
-        <moshi.version>1.9.2</moshi.version>
+        <moshi.version>1.9.3</moshi.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>1.26</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
@@ -235,7 +235,7 @@
         <hikaricp.version>3.4.5</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>5.1.0</unboundid-ldapsdk.version>
-        <postgresql.version>42.2.13.jre7</postgresql.version>
+        <postgresql.version>42.2.14.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.13.0</jdbi.version>
         <couchbase-client.version>3.0.5</couchbase-client.version>
@@ -291,8 +291,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.800</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.34</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.801</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.35</aws-java-sdk2.version>
         <google-cloud-bom.version>0.128.0</google-cloud-bom.version>
         <sendgrid.version>4.6.0</sendgrid.version>
         <kubernetes-client.version>4.10.2</kubernetes-client.version>
@@ -329,7 +329,7 @@
         <spring-integration.version>5.3.1.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.2.0.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>2.3.0.RELEASE</spring-boot.version>
+        <spring-boot.version>2.3.1.RELEASE</spring-boot.version>
         <spring-hateoas.version>1.1.0.RELEASE</spring-hateoas.version>
         <spring-cloud-security.version>2.2.2.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>2.2.3.RELEASE</spring-cloud-contract.version>
