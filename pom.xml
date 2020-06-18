@@ -84,7 +84,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.0.1</google-truth.version>
-        <bytebuddy.version>1.10.11</bytebuddy.version>
+        <bytebuddy.version>1.10.12</bytebuddy.version>
         <javapoet.version>1.12.1</javapoet.version>
         <aspectj.version>1.9.5</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
@@ -179,7 +179,7 @@
         <unbescape.version>1.1.6.RELEASE</unbescape.version>
         <attoparser.version>2.0.5.RELEASE</attoparser.version>
         <jmustache.version>1.15</jmustache.version>
-        <wss4j2.version>2.2.5</wss4j2.version>
+        <wss4j2.version>2.3.0</wss4j2.version>
         <objenesis.version>3.1</objenesis.version>
         <jopt-simple.version>5.0.4</jopt-simple.version>
         <rometools.version>1.14.0</rometools.version>
@@ -226,7 +226,7 @@
         <neo4j-ogm.version>3.2.12</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>7.7.1</elasticsearch.version>
+        <elasticsearch.version>7.8.0</elasticsearch.version>
         <hazelcast.version>4.0.1</hazelcast.version>
         <hazelcast-hibernate4.version>2.0.0</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>2.0.0</hazelcast-hibernate5.version>
@@ -237,7 +237,7 @@
         <unboundid-ldapsdk.version>5.1.0</unboundid-ldapsdk.version>
         <postgresql.version>42.2.14.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.14.0</jdbi.version>
+        <jdbi.version>3.14.1</jdbi.version>
         <couchbase-client.version>3.0.5</couchbase-client.version>
         <openjpa.version>3.1.1</openjpa.version>
         <mysql.version>8.0.20</mysql.version>
@@ -291,8 +291,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.803</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.37</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.805</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.39</aws-java-sdk2.version>
         <google-cloud-bom.version>0.129.0</google-cloud-bom.version>
         <sendgrid.version>4.6.0</sendgrid.version>
         <kubernetes-client.version>4.10.2</kubernetes-client.version>
