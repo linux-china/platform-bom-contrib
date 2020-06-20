@@ -131,7 +131,7 @@
         <netty.version>4.1.50.Final</netty.version>
         <netty-boringssl.version>2.0.31.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.30.0</grpc.version>
+        <grpc.version>1.30.1</grpc.version>
         <google-gax.version>1.57.0</google-gax.version>
         <asynchttpclient.version>2.12.1</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
@@ -197,7 +197,7 @@
         <!--persistence-->
         <hibernate.version>5.4.16.Final</hibernate.version>
         <hibernate-validator.version>6.1.2.Final</hibernate-validator.version>
-        <hibernate-types.version>2.9.11</hibernate-types.version>
+        <hibernate-types.version>2.9.12</hibernate-types.version>
         <jooq.version>3.13.2</jooq.version>
         <jedis.version>3.3.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
@@ -222,7 +222,7 @@
         <flexy-pool.version>2.2.1</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
         <hsqldb.version>2.5.0</hsqldb.version>
-        <sqlite-jdbc.version>3.31.1</sqlite-jdbc.version>
+        <sqlite-jdbc.version>3.32.3</sqlite-jdbc.version>
         <neo4j-ogm.version>3.2.12</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
@@ -291,8 +291,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.806</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.40</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.807</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.41</aws-java-sdk2.version>
         <google-cloud-bom.version>0.129.0</google-cloud-bom.version>
         <sendgrid.version>4.6.0</sendgrid.version>
         <kubernetes-client.version>4.10.2</kubernetes-client.version>
