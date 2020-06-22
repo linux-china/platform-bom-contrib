@@ -335,8 +335,8 @@
         <spring-cloud-contract.version>2.2.3.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Hoxton.SR5</spring-cloud.version>
         <spring-cloud-task.version>2.2.3.RELEASE</spring-cloud-task.version>
-        <spring-cloud-stream.version>Horsham.SR5</spring-cloud-stream.version>
-        <spring-cloud-function.version>3.0.7.RELEASE</spring-cloud-function.version>
+        <spring-cloud-stream.version>Horsham.SR6</spring-cloud-stream.version>
+        <spring-cloud-function.version>3.0.8.RELEASE</spring-cloud-function.version>
         <spring-ldap.version>2.3.3.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.2.7.RELEASE</spring-amqp.version>
