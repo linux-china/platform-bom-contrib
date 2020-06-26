@@ -152,7 +152,7 @@
         <jetty.version>11.0.0-alpha0</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.1.3.Final</undertow.version>
-        <jersey.version>3.0.0-M1</jersey.version>
+        <jersey.version>3.0.0-M6</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>3.1</jsqlparser.version>
         <javaparser.version>3.16.1</javaparser.version>
@@ -216,7 +216,7 @@
         <ehcache3.version>3.8.1</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>6.4.4</flyway.version>
+        <flyway.version>6.5.0</flyway.version>
         <liquibase.version>3.8.9</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.1</flexy-pool.version>
@@ -291,8 +291,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.810</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.44</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.811</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.46</aws-java-sdk2.version>
         <google-cloud-bom.version>0.130.0</google-cloud-bom.version>
         <sendgrid.version>4.6.0</sendgrid.version>
         <kubernetes-client.version>4.10.2</kubernetes-client.version>
@@ -339,11 +339,11 @@
         <spring-cloud-function.version>3.0.8.RELEASE</spring-cloud-function.version>
         <spring-ldap.version>2.3.3.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.2.7.RELEASE</spring-amqp.version>
+        <spring-amqp.version>2.2.8.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.9.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.7.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.2.2.RELEASE</spring-vault.version>
-        <spring-kafka.version>2.5.2.RELEASE</spring-kafka.version>
+        <spring-kafka.version>2.5.3.RELEASE</spring-kafka.version>
         <spring-restdocs.version>2.0.4.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.3.0</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
