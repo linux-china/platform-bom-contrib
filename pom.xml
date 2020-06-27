@@ -80,7 +80,7 @@
         <math-parser.version>4.4.2</math-parser.version>
         <!--code & classes-->
         <jetbrains-annotations.version>19.0.0</jetbrains-annotations.version>
-        <swagger-oai.version>2.1.2</swagger-oai.version>
+        <swagger-oai.version>2.1.3</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.0.1</google-truth.version>
@@ -241,6 +241,7 @@
         <couchbase-client.version>3.0.5</couchbase-client.version>
         <openjpa.version>3.1.1</openjpa.version>
         <mysql.version>8.0.20</mysql.version>
+        <orale.version>19.7.0.0</orale.version>
         <influxdb-java.version>2.19</influxdb-java.version>
         <r2dbc-bom.version>Arabba-SR4</r2dbc-bom.version>
         <!--security-->
@@ -291,7 +292,7 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.811</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.812</aws-java-sdk.version>
         <aws-java-sdk2.version>2.13.46</aws-java-sdk2.version>
         <google-cloud-bom.version>0.130.0</google-cloud-bom.version>
         <sendgrid.version>4.6.0</sendgrid.version>
@@ -1377,6 +1378,13 @@
                 <groupId>com.twelvemonkeys.imageio</groupId>
                 <artifactId>imageio-jpeg</artifactId>
                 <version>${twelvemonkeys-imageio.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.oracle.database.jdbc</groupId>
+                <artifactId>ojdbc-bom</artifactId>
+                <version>${orale.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
             </dependency>
             <dependency>
                 <groupId>io.r2dbc</groupId>
