@@ -250,7 +250,7 @@
         <bouncycastle.version>1.65</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>8.19</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>8.11</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>8.12</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.13</httpcore.version>
         <httpclient.version>4.5.12</httpclient.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.812</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.46</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.813</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.47</aws-java-sdk2.version>
         <google-cloud-bom.version>0.130.0</google-cloud-bom.version>
         <sendgrid.version>4.6.0</sendgrid.version>
         <kubernetes-client.version>4.10.2</kubernetes-client.version>
@@ -309,7 +309,7 @@
         <reactive-streams.version>1.0.3</reactive-streams.version>
         <narayana.version>5.10.5.Final</narayana.version>
         <atomikos.version>5.0.7</atomikos.version>
-        <jakarta-ee.version>9.0.0-RC1</jakarta-ee.version>
+        <jakarta-ee.version>9.0.0-RC2</jakarta-ee.version>
         <jakarta.messaging-api.version>2.0.3</jakarta.messaging-api.version>
         <jakarta-persistence-api.version>2.2.3</jakarta-persistence-api.version>
         <!--springsource-->
