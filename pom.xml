@@ -106,7 +106,7 @@
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.14</toomuchcoding-jsonassert.version>
-        <wiremock.version>2.26.3</wiremock.version>
+        <wiremock.version>2.27.0</wiremock.version>
         <spockframework.version>2.0-M3-groovy-3.0</spockframework.version>
         <easymock.version>4.2</easymock.version>
         <fluentlenium.version>4.3.1</fluentlenium.version>
@@ -115,7 +115,7 @@
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.3.0</rest-assured.version>
         <assertj.version>3.16.1</assertj.version>
-        <assertj-json.version>2.17.0</assertj-json.version>
+        <assertj-json.version>2.18.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
         <database-rider.version>1.14.0</database-rider.version>
@@ -230,7 +230,7 @@
         <hazelcast.version>4.0.1</hazelcast.version>
         <hazelcast-hibernate4.version>2.0.0</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>2.0.0</hazelcast-hibernate5.version>
-        <infinispan.version>10.1.8.Final</infinispan.version>
+        <infinispan.version>11.0.1.Final</infinispan.version>
         <querydsl.version>4.3.1</querydsl.version>
         <hikaricp.version>3.4.5</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
@@ -250,7 +250,7 @@
         <bouncycastle.version>1.65</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>8.19</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>8.12</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>8.13</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.13</httpcore.version>
         <httpclient.version>4.5.12</httpclient.version>
@@ -283,7 +283,7 @@
         <zookeeper.version>3.6.1</zookeeper.version>
         <curator.version>5.0.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
-        <activemq.version>5.15.12</activemq.version>
+        <activemq.version>5.16.0</activemq.version>
         <artemis.version>2.12.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.813</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.47</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.814</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.48</aws-java-sdk2.version>
         <google-cloud-bom.version>0.130.0</google-cloud-bom.version>
         <sendgrid.version>4.6.0</sendgrid.version>
         <kubernetes-client.version>4.10.2</kubernetes-client.version>
