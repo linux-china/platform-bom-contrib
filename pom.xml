@@ -43,7 +43,7 @@
         <webjars-locator-core.version>0.46</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.16.3</graphviz-java.version>
-        <twelvemonkeys-imageio.version>3.5</twelvemonkeys-imageio.version>
+        <twelvemonkeys-imageio.version>3.6</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.1.10.1</dropwizard-metrics.version>
@@ -65,7 +65,7 @@
         <togglz.version>2.6.1.Final</togglz.version>
         <ff4j.version>1.8.7</ff4j.version>
         <underscore.version>1.56</underscore.version>
-        <java-util.version>1.52.0</java-util.version>
+        <java-util.version>1.53.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
         <vavr.version>0.10.3</vavr.version>
@@ -99,8 +99,8 @@
         <junit.version>4.13</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
-        <mockito.version>3.3.3</mockito.version>
-        <htmlunit.version>2.41.0</htmlunit.version>
+        <mockito.version>3.4.0</mockito.version>
+        <htmlunit.version>2.42.0</htmlunit.version>
         <testng.version>7.1.0</testng.version>
         <selenium.version>4.0.0-alpha-6</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -118,13 +118,13 @@
         <assertj-json.version>2.18.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.15.2</database-rider.version>
+        <database-rider.version>1.15.3</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.0.3</awaitility.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>4.7.2</okhttp3.version>
+        <okhttp3.version>4.8.0</okhttp3.version>
         <okio.version>2.7.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -250,7 +250,7 @@
         <bouncycastle.version>1.66</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>8.19</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>8.15.1</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>8.16</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.13</httpcore.version>
         <httpclient.version>4.5.12</httpclient.version>
