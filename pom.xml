@@ -239,7 +239,7 @@
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.14.1</jdbi.version>
         <couchbase-client.version>3.0.5</couchbase-client.version>
-        <openjpa.version>3.1.1</openjpa.version>
+        <openjpa.version>3.1.2</openjpa.version>
         <mysql.version>8.0.20</mysql.version>
         <orale.version>19.7.0.0</orale.version>
         <influxdb-java.version>2.19</influxdb-java.version>
