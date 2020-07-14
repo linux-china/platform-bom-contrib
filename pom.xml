@@ -42,7 +42,7 @@
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.46</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.16.3</graphviz-java.version>
+        <graphviz-java.version>0.17.0</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.6</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
@@ -216,8 +216,8 @@
         <ehcache3.version>3.8.1</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>6.5.0</flyway.version>
-        <liquibase.version>3.8.9</liquibase.version>
+        <flyway.version>6.5.1</flyway.version>
+        <liquibase.version>4.0.0</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.1</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
@@ -228,8 +228,8 @@
         <consul-api.version>1.4.5</consul-api.version>
         <elasticsearch.version>7.8.0</elasticsearch.version>
         <hazelcast.version>4.0.2</hazelcast.version>
-        <hazelcast-hibernate4.version>2.0.0</hazelcast-hibernate4.version>
-        <hazelcast-hibernate5.version>2.0.0</hazelcast-hibernate5.version>
+        <hazelcast-hibernate4.version>2.1.0</hazelcast-hibernate4.version>
+        <hazelcast-hibernate5.version>2.1.0</hazelcast-hibernate5.version>
         <infinispan.version>11.0.1.Final</infinispan.version>
         <querydsl.version>4.3.1</querydsl.version>
         <hikaricp.version>3.4.5</hikaricp.version>
@@ -238,9 +238,9 @@
         <postgresql.version>42.2.14.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.14.1</jdbi.version>
-        <couchbase-client.version>3.0.5</couchbase-client.version>
+        <couchbase-client.version>3.0.6</couchbase-client.version>
         <openjpa.version>3.1.2</openjpa.version>
-        <mysql.version>8.0.20</mysql.version>
+        <mysql.version>8.0.21</mysql.version>
         <orale.version>19.7.0.0</orale.version>
         <influxdb-java.version>2.19</influxdb-java.version>
         <r2dbc-bom.version>Arabba-SR4</r2dbc-bom.version>
@@ -250,7 +250,7 @@
         <bouncycastle.version>1.66</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>8.19</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>8.16</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>8.16.1</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.13</httpcore.version>
         <httpclient.version>4.5.12</httpclient.version>
@@ -294,7 +294,7 @@
         <appengine-sdk.version>1.9.80</appengine-sdk.version>
         <aws-java-sdk.version>1.11.820</aws-java-sdk.version>
         <aws-java-sdk2.version>2.13.54</aws-java-sdk2.version>
-        <google-cloud-bom.version>0.130.0</google-cloud-bom.version>
+        <google-cloud-bom.version>0.131.0</google-cloud-bom.version>
         <sendgrid.version>4.6.1</sendgrid.version>
         <kubernetes-client.version>4.10.2</kubernetes-client.version>
         <istio-client.version>1.1.1</istio-client.version>
