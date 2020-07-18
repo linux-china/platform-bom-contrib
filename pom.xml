@@ -243,7 +243,7 @@
         <mysql.version>8.0.21</mysql.version>
         <orale.version>19.7.0.0</orale.version>
         <influxdb-java.version>2.19</influxdb-java.version>
-        <r2dbc-bom.version>Arabba-SR5</r2dbc-bom.version>
+        <r2dbc-bom.version>Arabba-SR6</r2dbc-bom.version>
         <!--security-->
         <cas-client.version>3.6.1</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
