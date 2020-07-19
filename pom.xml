@@ -99,7 +99,7 @@
         <junit.version>4.13</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
-        <mockito.version>3.4.3</mockito.version>
+        <mockito.version>3.4.4</mockito.version>
         <htmlunit.version>2.42.0</htmlunit.version>
         <testng.version>7.1.0</testng.version>
         <selenium.version>4.0.0-alpha-6</selenium.version>
