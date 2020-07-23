@@ -85,7 +85,7 @@
         <google-truth.version>1.0.1</google-truth.version>
         <bytebuddy.version>1.10.13</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
-        <aspectj.version>1.9.5</aspectj.version>
+        <aspectj.version>1.9.6</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
         <lombok.version>1.18.12</lombok.version>
         <immutables.version>2.8.8</immutables.version>
@@ -291,8 +291,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.81</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.824</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.58</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.825</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.59</aws-java-sdk2.version>
         <google-cloud-bom.version>0.131.0</google-cloud-bom.version>
         <sendgrid.version>4.6.1</sendgrid.version>
         <kubernetes-client.version>4.10.3</kubernetes-client.version>
