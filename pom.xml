@@ -196,7 +196,7 @@
         <!--persistence-->
         <hibernate.version>5.4.19.Final</hibernate.version>
         <hibernate-validator.version>6.1.2.Final</hibernate-validator.version>
-        <hibernate-types.version>2.9.12</hibernate-types.version>
+        <hibernate-types.version>2.9.13</hibernate-types.version>
         <jooq.version>3.13.4</jooq.version>
         <jedis.version>3.3.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
@@ -1472,7 +1472,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>3.5.5</version>
+                <version>3.5.6</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
