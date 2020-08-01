@@ -64,7 +64,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.7.2</togglz.version>
         <ff4j.version>1.8.7</ff4j.version>
-        <underscore.version>1.56</underscore.version>
+        <underscore.version>1.57</underscore.version>
         <java-util.version>1.53.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
@@ -291,8 +291,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.81</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.831</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.65</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.832</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.66</aws-java-sdk2.version>
         <google-cloud-bom.version>0.131.0</google-cloud-bom.version>
         <sendgrid.version>4.6.2</sendgrid.version>
         <kubernetes-client.version>4.10.3</kubernetes-client.version>
@@ -325,7 +325,7 @@
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.3.3.RELEASE</spring-security.version>
         <spring-security-oauth.version>2.5.0.RELEASE</spring-security-oauth.version>
-        <spring-security-oauth2-autoconfigure.version>2.3.1.RELEASE</spring-security-oauth2-autoconfigure.version>
+        <spring-security-oauth2-autoconfigure.version>2.3.2.RELEASE</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
@@ -335,12 +335,12 @@
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.3.2.RELEASE</spring-boot.version>
         <spring-hateoas.version>1.1.1.RELEASE</spring-hateoas.version>
-        <spring-cloud-security.version>2.2.2.RELEASE</spring-cloud-security.version>
-        <spring-cloud-contract.version>2.2.3.RELEASE</spring-cloud-contract.version>
-        <spring-cloud.version>Hoxton.SR6</spring-cloud.version>
+        <spring-cloud-security.version>2.2.4.RELEASE</spring-cloud-security.version>
+        <spring-cloud-contract.version>2.2.4.RELEASE</spring-cloud-contract.version>
+        <spring-cloud.version>Hoxton.SR7</spring-cloud.version>
         <spring-cloud-task.version>2.2.3.RELEASE</spring-cloud-task.version>
-        <spring-cloud-stream.version>Horsham.SR6</spring-cloud-stream.version>
-        <spring-cloud-function.version>3.0.8.RELEASE</spring-cloud-function.version>
+        <spring-cloud-stream.version>Horsham.SR7</spring-cloud-stream.version>
+        <spring-cloud-function.version>3.0.9.RELEASE</spring-cloud-function.version>
         <spring-ldap.version>2.3.3.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.2.9.RELEASE</spring-amqp.version>
