@@ -100,7 +100,7 @@
         <java-faker.version>1.0.2</java-faker.version>
         <mockito.version>3.4.6</mockito.version>
         <htmlunit.version>2.42.0</htmlunit.version>
-        <testng.version>7.1.0</testng.version>
+        <testng.version>7.3.0</testng.version>
         <selenium.version>4.0.0-alpha-6</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
@@ -155,7 +155,7 @@
         <!--parsers & templates & serializer-->
         <jsqlparser.version>3.2</jsqlparser.version>
         <javaparser.version>3.16.1</javaparser.version>
-        <jackson.version>2.11.1</jackson.version>
+        <jackson.version>2.11.2</jackson.version>
         <moshi.version>1.9.3</moshi.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>1.26</snakeyaml.version>
@@ -243,6 +243,7 @@
         <orale.version>19.7.0.0</orale.version>
         <influxdb-java.version>2.19</influxdb-java.version>
         <r2dbc-bom.version>Arabba-SR6</r2dbc-bom.version>
+        <datastax.version>4.8.0</datastax.version>
         <!--security-->
         <cas-client.version>3.6.1</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
@@ -683,6 +684,13 @@
                 <groupId>org.jdbi</groupId>
                 <artifactId>jdbi3-core</artifactId>
                 <version>${jdbi.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.datastax.oss</groupId>
+                <artifactId>java-driver-bom</artifactId>
+                <version>${datastax.version}</version>
+                <scope>import</scope>
+                <type>pom</type>
             </dependency>
             <dependency>
                 <groupId>org.tmatesoft.svnkit</groupId>
