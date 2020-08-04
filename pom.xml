@@ -200,7 +200,7 @@
         <jooq.version>3.13.4</jooq.version>
         <jedis.version>3.3.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
-        <lettuce5.version>5.3.1.RELEASE</lettuce5.version>
+        <lettuce5.version>5.3.2.RELEASE</lettuce5.version>
         <caffeine.version>2.8.5</caffeine.version>
         <jettison.version>1.4.1</jettison.version>
         <mybatis.version>3.5.5</mybatis.version>
@@ -237,7 +237,7 @@
         <postgresql.version>42.2.14.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.14.1</jdbi.version>
-        <couchbase-client.version>3.0.6</couchbase-client.version>
+        <couchbase-client.version>3.0.7</couchbase-client.version>
         <openjpa.version>3.1.2</openjpa.version>
         <mysql.version>8.0.21</mysql.version>
         <orale.version>19.7.0.0</orale.version>
@@ -273,7 +273,7 @@
         <commons-dbcp2.version>2.7.0</commons-dbcp2.version>
         <commons-rng.version>1.3</commons-rng.version>
         <poi.version>4.1.2</poi.version>
-        <kafka.version>2.5.0</kafka.version>
+        <kafka.version>2.6.0</kafka.version>
         <log4j2.version>2.13.3</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.6.0</solr.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.81</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.832</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.66</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.833</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.67</aws-java-sdk2.version>
         <google-cloud-bom.version>0.131.0</google-cloud-bom.version>
         <sendgrid.version>4.6.2</sendgrid.version>
         <kubernetes-client.version>4.10.3</kubernetes-client.version>
@@ -826,6 +826,11 @@
             <dependency>
                 <groupId>com.github.tomakehurst</groupId>
                 <artifactId>wiremock-standalone</artifactId>
+                <version>${wiremock.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.tomakehurst</groupId>
+                <artifactId>wiremock-jre8-standalone</artifactId>
                 <version>${wiremock.version}</version>
             </dependency>
             <dependency>
