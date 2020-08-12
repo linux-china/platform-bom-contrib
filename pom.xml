@@ -59,11 +59,11 @@
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>29-jre</guava.version>
         <guice.version>4.2.3</guice.version>
-        <jodd.version>5.1.5</jodd.version>
+        <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.7.2</togglz.version>
-        <ff4j.version>1.8.7</ff4j.version>
+        <ff4j.version>1.8.8</ff4j.version>
         <underscore.version>1.57</underscore.version>
         <java-util.version>1.53.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
@@ -75,7 +75,7 @@
         <springdoc-openapi.version>1.4.4</springdoc-openapi.version>
         <mbassador.version>1.3.2</mbassador.version>
         <resilience4j.version>1.5.0</resilience4j.version>
-        <eclipse-collections.version>10.2.0</eclipse-collections.version>
+        <eclipse-collections.version>10.3.0</eclipse-collections.version>
         <math-parser.version>4.4.2</math-parser.version>
         <!--code & classes-->
         <jetbrains-annotations.version>20.0.0</jetbrains-annotations.version>
@@ -182,7 +182,7 @@
         <objenesis.version>3.1</objenesis.version>
         <jopt-simple.version>5.0.4</jopt-simple.version>
         <rometools.version>1.15.0</rometools.version>
-        <xmlprojector.version>1.4.16</xmlprojector.version>
+        <xmlprojector.version>1.4.17</xmlprojector.version>
         <freemarker.version>2.3.30</freemarker.version>
         <dom4j-java8.version>2.1.3</dom4j-java8.version>
         <hessian.version>4.0.63</hessian.version>
@@ -215,7 +215,7 @@
         <ehcache3.version>3.8.1</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>6.5.3</flyway.version>
+        <flyway.version>6.5.4</flyway.version>
         <liquibase.version>4.0.0</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.1</flexy-pool.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.81</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.837</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.13.71</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.839</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.13.73</aws-java-sdk2.version>
         <google-cloud-bom.version>0.131.0</google-cloud-bom.version>
         <sendgrid.version>4.6.3</sendgrid.version>
         <kubernetes-client.version>4.10.3</kubernetes-client.version>
@@ -330,7 +330,7 @@
         <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
-        <spring-data-releasetrain.version>Neumann-SR2</spring-data-releasetrain.version>
+        <spring-data-releasetrain.version>Neumann-SR3</spring-data-releasetrain.version>
         <spring-integration.version>5.3.2.RELEASE</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
@@ -344,7 +344,7 @@
         <spring-cloud-function.version>3.0.9.RELEASE</spring-cloud-function.version>
         <spring-ldap.version>2.3.3.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.2.9.RELEASE</spring-amqp.version>
+        <spring-amqp.version>2.2.10.RELEASE</spring-amqp.version>
         <rabbit-amqp-client.version>5.9.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.7.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.2.2.RELEASE</spring-vault.version>
