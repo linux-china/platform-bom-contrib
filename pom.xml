@@ -98,7 +98,7 @@
         <junit.version>4.13</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
-        <mockito.version>3.4.6</mockito.version>
+        <mockito.version>3.5.0</mockito.version>
         <htmlunit.version>2.43.0</htmlunit.version>
         <testng.version>7.3.0</testng.version>
         <selenium.version>4.0.0-alpha-6</selenium.version>
@@ -234,7 +234,7 @@
         <hikaricp.version>3.4.5</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>5.1.0</unboundid-ldapsdk.version>
-        <postgresql.version>42.2.14.jre7</postgresql.version>
+        <postgresql.version>42.2.15.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.14.3</jdbi.version>
         <couchbase-client.version>3.0.7</couchbase-client.version>
