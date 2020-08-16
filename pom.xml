@@ -94,7 +94,7 @@
         <threetenbp.version>1.4.4</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
-        <junit5.version>5.7.0-M1</junit5.version>
+        <junit5.version>5.7.0-RC1</junit5.version>
         <junit.version>4.13</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
@@ -1490,7 +1490,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>3.5.6</version>
+                <version>3.5.7</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
