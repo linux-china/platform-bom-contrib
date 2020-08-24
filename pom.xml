@@ -63,7 +63,7 @@
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.8.0</togglz.version>
-        <ff4j.version>1.8.8</ff4j.version>
+        <ff4j.version>1.8.9</ff4j.version>
         <underscore.version>1.57</underscore.version>
         <java-util.version>1.53.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
@@ -98,7 +98,7 @@
         <junit.version>4.13</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
-        <mockito.version>3.5.2</mockito.version>
+        <mockito.version>3.5.5</mockito.version>
         <htmlunit.version>2.43.0</htmlunit.version>
         <testng.version>7.3.0</testng.version>
         <selenium.version>4.0.0-alpha-6</selenium.version>
@@ -113,7 +113,7 @@
         <testcontainers.version>1.15.0-rc1</testcontainers.version>
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.3.1</rest-assured.version>
-        <assertj.version>3.16.1</assertj.version>
+        <assertj.version>3.17.0</assertj.version>
         <assertj-json.version>2.18.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
@@ -128,7 +128,7 @@
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.51.Final</netty.version>
-        <netty-boringssl.version>2.0.33.Final</netty-boringssl.version>
+        <netty-boringssl.version>2.0.34.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.31.1</grpc.version>
         <google-gax.version>1.58.0</google-gax.version>
@@ -234,9 +234,9 @@
         <hikaricp.version>3.4.5</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>5.1.0</unboundid-ldapsdk.version>
-        <postgresql.version>42.2.15.jre7</postgresql.version>
+        <postgresql.version>42.2.16.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.14.3</jdbi.version>
+        <jdbi.version>3.14.4</jdbi.version>
         <couchbase-client.version>3.0.7</couchbase-client.version>
         <openjpa.version>3.1.2</openjpa.version>
         <mysql.version>8.0.21</mysql.version>
