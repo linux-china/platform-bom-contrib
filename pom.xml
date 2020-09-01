@@ -227,8 +227,8 @@
         <consul-api.version>1.4.5</consul-api.version>
         <elasticsearch.version>7.9.0</elasticsearch.version>
         <hazelcast.version>4.0.2</hazelcast.version>
-        <hazelcast-hibernate4.version>2.1.0</hazelcast-hibernate4.version>
-        <hazelcast-hibernate5.version>2.1.0</hazelcast-hibernate5.version>
+        <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
+        <hazelcast-hibernate5.version>2.1.1</hazelcast-hibernate5.version>
         <infinispan.version>11.0.1.Final</infinispan.version>
         <querydsl.version>4.3.1</querydsl.version>
         <hikaricp.version>3.4.5</hikaricp.version>
@@ -243,7 +243,7 @@
         <orale.version>19.7.0.0</orale.version>
         <influxdb-java.version>2.20</influxdb-java.version>
         <r2dbc-bom.version>Arabba-SR6</r2dbc-bom.version>
-        <datastax.version>4.8.0</datastax.version>
+        <datastax.version>4.9.0</datastax.version>
         <!--security-->
         <cas-client.version>3.6.1</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
@@ -260,12 +260,12 @@
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-net.version>3.7</commons-net.version>
         <commons-io.version>2.7</commons-io.version>
-        <commons-codec.version>1.14</commons-codec.version>
+        <commons-codec.version>1.15</commons-codec.version>
         <commons-fileupload.version>1.4</commons-fileupload.version>
         <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <commons-lang3.version>3.11</commons-lang3.version>
         <commons-csv.version>1.8</commons-csv.version>
-        <commons-crypto.version>1.0.0</commons-crypto.version>
+        <commons-crypto.version>1.1.0</commons-crypto.version>
         <commons-configuration2.version>2.7</commons-configuration2.version>
         <commons-text.version>1.9</commons-text.version>
         <commons-vfs2.version>2.6.0</commons-vfs2.version>
@@ -284,7 +284,7 @@
         <curator.version>5.1.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.16.0</activemq.version>
-        <artemis.version>2.14.0</artemis.version>
+        <artemis.version>2.15.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
         <svnkit.version>1.10.1</svnkit.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.12.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.82</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.851</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.14.7</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.852</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.14.9</aws-java-sdk2.version>
         <google-cloud-bom.version>0.134.0</google-cloud-bom.version>
         <sendgrid.version>4.6.4</sendgrid.version>
         <kubernetes-client.version>4.11.0</kubernetes-client.version>
