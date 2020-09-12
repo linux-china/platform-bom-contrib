@@ -114,7 +114,7 @@
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.3.1</rest-assured.version>
         <assertj.version>3.17.2</assertj.version>
-        <assertj-json.version>2.18.1</assertj-json.version>
+        <assertj-json.version>2.19.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
         <database-rider.version>1.16.0</database-rider.version>
@@ -123,7 +123,7 @@
         <awaitility.version>4.0.3</awaitility.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>4.8.1</okhttp3.version>
+        <okhttp3.version>4.9.0</okhttp3.version>
         <okio.version>2.8.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -144,7 +144,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
-        <zipkin-brave.version>5.12.5</zipkin-brave.version>
+        <zipkin-brave.version>5.12.6</zipkin-brave.version>
         <zipkin-reporter2.version>2.15.2</zipkin-reporter2.version>
         <rsocket.versoin>1.0.2</rsocket.versoin>
         <!--servers-->
@@ -255,7 +255,7 @@
         <httpcore.version>4.4.13</httpcore.version>
         <httpclient.version>4.5.12</httpclient.version>
         <httpcore5.version>5.0.1</httpcore5.version>
-        <httpclient5.version>5.0</httpclient5.version>
+        <httpclient5.version>5.0.1</httpclient5.version>
         <commons-cli.version>1.4</commons-cli.version>
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-net.version>3.7</commons-net.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.82</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.859</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.14.15</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.860</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.14.16</aws-java-sdk2.version>
         <google-cloud-bom.version>0.135.0</google-cloud-bom.version>
         <sendgrid.version>4.6.4</sendgrid.version>
         <kubernetes-client.version>4.11.1</kubernetes-client.version>
