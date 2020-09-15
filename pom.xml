@@ -169,7 +169,7 @@
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.13.1</jsoup.version>
         <thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
-        <thymeleaf-layout-dialect.version>2.5.0</thymeleaf-layout-dialect.version>
+        <thymeleaf-layout-dialect.version>2.5.1</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
         <thymeleaf-extras-springsecurity4.version>3.0.3.RELEASE</thymeleaf-extras-springsecurity4.version>
@@ -249,7 +249,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.66</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.0</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>9.0.1</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>8.19.2</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.13</httpcore.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.82</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.860</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.14.16</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.861</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.14.17</aws-java-sdk2.version>
         <google-cloud-bom.version>0.135.0</google-cloud-bom.version>
         <sendgrid.version>4.6.4</sendgrid.version>
         <kubernetes-client.version>4.11.1</kubernetes-client.version>
@@ -317,8 +317,8 @@
         <javax-money.version>1.1</javax-money.version>
         <moneta.version>1.4.2</moneta.version>  <!-- javax money -->
         <!--springsource-->
-        <spring.version>5.2.8.RELEASE</spring.version>
-        <spring-framework.version>5.2.8.RELEASE</spring-framework.version>
+        <spring.version>5.2.9.RELEASE</spring.version>
+        <spring-framework.version>5.2.9.RELEASE</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.2.4.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.9.RELEASE</spring-ws.version>
