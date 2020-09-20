@@ -250,7 +250,7 @@
         <bouncycastle.version>1.66</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.0.1</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>8.21</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>8.22</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.13</httpcore.version>
         <httpclient.version>4.5.12</httpclient.version>
