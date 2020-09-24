@@ -98,7 +98,7 @@
         <junit.version>4.13</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
-        <mockito.version>3.5.11</mockito.version>
+        <mockito.version>3.5.13</mockito.version>
         <htmlunit.version>2.43.0</htmlunit.version>
         <testng.version>7.3.0</testng.version>
         <selenium.version>4.0.0-alpha-6</selenium.version>
@@ -206,7 +206,7 @@
         <mybatis.version>3.5.5</mybatis.version>
         <mybatis-spring.version>2.0.5</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
-        <mariadb.version>2.6.2</mariadb.version>
+        <mariadb.version>2.7.0</mariadb.version>
         <mongodb.version>4.1.0</mongodb.version>
         <mongodb-reactivestreams.version>4.1.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
@@ -225,7 +225,7 @@
         <neo4j-ogm.version>3.2.16</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>7.9.1</elasticsearch.version>
+        <elasticsearch.version>7.9.2</elasticsearch.version>
         <hazelcast.version>4.0.2</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>2.1.1</hazelcast-hibernate5.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.82</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.867</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.14.23</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.868</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.14.24</aws-java-sdk2.version>
         <google-cloud-bom.version>0.136.0</google-cloud-bom.version>
         <sendgrid.version>4.6.5</sendgrid.version>
         <kubernetes-client.version>4.11.1</kubernetes-client.version>
