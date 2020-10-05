@@ -63,7 +63,7 @@
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.8.0</togglz.version>
-        <ff4j.version>1.8.9</ff4j.version>
+        <ff4j.version>1.8.10</ff4j.version>
         <underscore.version>1.59</underscore.version>
         <java-util.version>1.61.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
@@ -99,7 +99,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <mockito.version>3.5.13</mockito.version>
-        <htmlunit.version>2.43.0</htmlunit.version>
+        <htmlunit.version>2.44.0</htmlunit.version>
         <testng.version>7.3.0</testng.version>
         <selenium.version>4.0.0-alpha-6</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -124,7 +124,7 @@
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>4.9.0</okhttp3.version>
-        <okio.version>2.8.0</okio.version>
+        <okio.version>2.9.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.52.Final</netty.version>
@@ -258,7 +258,7 @@
         <httpclient5.version>5.0.2</httpclient5.version>
         <commons-cli.version>1.4</commons-cli.version>
         <commons-configuration.version>1.10</commons-configuration.version>
-        <commons-net.version>3.7</commons-net.version>
+        <commons-net.version>3.7.1</commons-net.version>
         <commons-io.version>2.8.0</commons-io.version>
         <commons-codec.version>1.15</commons-codec.version>
         <commons-fileupload.version>1.4</commons-fileupload.version>
