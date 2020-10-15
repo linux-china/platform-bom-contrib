@@ -207,7 +207,7 @@
         <mybatis-spring.version>2.0.5</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.7.0</mariadb.version>
-        <mongodb.version>4.1.0</mongodb.version>
+        <mongodb.version>4.1.1</mongodb.version>
         <mongodb-reactivestreams.version>4.1.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>2.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
@@ -234,7 +234,7 @@
         <hikaricp.version>3.4.5</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>5.1.1</unboundid-ldapsdk.version>
-        <postgresql.version>42.2.17.jre7</postgresql.version>
+        <postgresql.version>42.2.18.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.16.0</jdbi.version>
         <couchbase-client.version>3.0.9</couchbase-client.version>
@@ -295,7 +295,7 @@
         <aws-java-sdk.version>1.11.880</aws-java-sdk.version>
         <aws-java-sdk2.version>2.15.7</aws-java-sdk2.version>
         <google-cloud-bom.version>0.140.0</google-cloud-bom.version>
-        <sendgrid.version>4.6.6</sendgrid.version>
+        <sendgrid.version>4.6.7</sendgrid.version>
         <kubernetes-client.version>4.12.0</kubernetes-client.version>
         <istio-client.version>1.6.5-Beta6</istio-client.version>
         <!--languages-->
@@ -1490,7 +1490,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>4.0.0</version>
+                <version>4.1.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
