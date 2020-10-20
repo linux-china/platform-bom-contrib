@@ -98,7 +98,7 @@
         <junit.version>4.13</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
-        <mockito.version>3.5.13</mockito.version>
+        <mockito.version>3.5.15</mockito.version>
         <htmlunit.version>2.44.0</htmlunit.version>
         <testng.version>7.3.0</testng.version>
         <selenium.version>4.0.0-alpha-6</selenium.version>
@@ -154,7 +154,7 @@
         <jersey.version>3.0.0-M6</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>3.2</jsqlparser.version>
-        <javaparser.version>3.16.1</javaparser.version>
+        <javaparser.version>3.16.2</javaparser.version>
         <jackson.version>2.11.3</jackson.version>
         <moshi.version>1.9.3</moshi.version>
         <classmate.version>1.5.1</classmate.version>
@@ -189,7 +189,7 @@
         <xmlunit.version>2.7.0</xmlunit.version>
         <xstream.version>1.4.13-java7</xstream.version>
         <aalto-xml.version>1.2.2</aalto-xml.version>
-        <woodstox5.version>6.2.2</woodstox5.version>
+        <woodstox5.version>6.2.3</woodstox5.version>
         <openpdf.version>1.3.22</openpdf.version>
         <jaxen.version>1.2.0</jaxen.version>
         <xom.version>1.3.5</xom.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.82</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.882</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.9</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.883</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.10</aws-java-sdk2.version>
         <google-cloud-bom.version>0.140.0</google-cloud-bom.version>
         <sendgrid.version>4.6.7</sendgrid.version>
         <kubernetes-client.version>4.12.0</kubernetes-client.version>
