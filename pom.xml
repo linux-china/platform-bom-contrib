@@ -46,7 +46,7 @@
         <twelvemonkeys-imageio.version>3.6</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
-        <dropwizard-metrics.version>4.1.13</dropwizard-metrics.version>
+        <dropwizard-metrics.version>4.1.14</dropwizard-metrics.version>
         <jolokia.version>1.6.2</jolokia.version>
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.30</slf4j.version>
@@ -55,7 +55,7 @@
         <!--productivity & tools-->
         <functionaljava.version>4.8.1</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
-        <joda-time.version>2.10.6</joda-time.version>
+        <joda-time.version>2.10.7</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>30.0-jre</guava.version>
         <guice.version>4.2.3</guice.version>
@@ -130,7 +130,7 @@
         <netty.version>4.1.53.Final</netty.version>
         <netty-boringssl.version>2.0.34.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.32.2</grpc.version>
+        <grpc.version>1.33.0</grpc.version>
         <google-gax.version>1.59.0</google-gax.version>
         <asynchttpclient.version>2.12.1</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
@@ -148,7 +148,7 @@
         <zipkin-reporter2.version>2.15.2</zipkin-reporter2.version>
         <rsocket.versoin>1.0.2</rsocket.versoin>
         <!--servers-->
-        <jetty.version>11.0.0.beta2</jetty.version>
+        <jetty.version>11.0.0.beta3</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.2.2.Final</undertow.version>
         <jersey.version>3.0.0-M6</jersey.version>
@@ -197,7 +197,7 @@
         <hibernate.version>5.4.21.Final</hibernate.version>
         <hibernate-validator.version>6.1.6.Final</hibernate-validator.version>
         <hibernate-types.version>2.10.0</hibernate-types.version>
-        <jooq.version>3.13.5</jooq.version>
+        <jooq.version>3.14.0</jooq.version>
         <jedis.version>3.3.0</jedis.version>
         <lettuce.version>4.5.0.Final</lettuce.version>
         <lettuce5.version>6.0.0.RELEASE</lettuce5.version>
@@ -225,7 +225,7 @@
         <neo4j-ogm.version>3.2.17</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>7.9.2</elasticsearch.version>
+        <elasticsearch.version>7.9.3</elasticsearch.version>
         <hazelcast.version>4.0.2</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>2.1.1</hazelcast-hibernate5.version>
@@ -242,7 +242,7 @@
         <mysql.version>8.0.22</mysql.version>
         <orale.version>19.7.0.0</orale.version>
         <influxdb-java.version>2.20</influxdb-java.version>
-        <r2dbc-bom.version>Arabba-SR7</r2dbc-bom.version>
+        <r2dbc-bom.version>Arabba-SR8</r2dbc-bom.version>
         <datastax.version>4.9.0</datastax.version>
         <!--security-->
         <cas-client.version>3.6.1</cas-client.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.82</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.883</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.10</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.885</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.13</aws-java-sdk2.version>
         <google-cloud-bom.version>0.140.0</google-cloud-bom.version>
         <sendgrid.version>4.6.7</sendgrid.version>
         <kubernetes-client.version>4.12.0</kubernetes-client.version>
@@ -1490,7 +1490,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>4.1.0</version>
+                <version>4.2.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
