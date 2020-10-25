@@ -113,7 +113,7 @@
         <testcontainers.version>1.15.0-rc2</testcontainers.version>
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.3.1</rest-assured.version>
-        <assertj.version>3.17.2</assertj.version>
+        <assertj.version>3.18.0</assertj.version>
         <assertj-json.version>2.19.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
@@ -155,7 +155,7 @@
         <!--parsers & templates & serializer-->
         <jsqlparser.version>3.2</jsqlparser.version>
         <javaparser.version>3.16.2</javaparser.version>
-        <jackson.version>2.11.3</jackson.version>
+        <jackson.version>2.12.0-rc1</jackson.version>
         <moshi.version>1.9.3</moshi.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>1.27</snakeyaml.version>
