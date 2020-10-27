@@ -55,7 +55,7 @@
         <!--productivity & tools-->
         <functionaljava.version>4.8.1</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
-        <joda-time.version>2.10.7</joda-time.version>
+        <joda-time.version>2.10.8</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>30.0-jre</guava.version>
         <guice.version>4.2.3</guice.version>
@@ -98,7 +98,7 @@
         <junit.version>4.13</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
-        <mockito.version>3.5.15</mockito.version>
+        <mockito.version>3.6.0</mockito.version>
         <htmlunit.version>2.44.0</htmlunit.version>
         <testng.version>7.3.0</testng.version>
         <selenium.version>4.0.0-alpha-6</selenium.version>
@@ -131,7 +131,7 @@
         <netty-boringssl.version>2.0.34.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.33.0</grpc.version>
-        <google-gax.version>1.59.0</google-gax.version>
+        <google-gax.version>1.60.0</google-gax.version>
         <asynchttpclient.version>2.12.1</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -146,7 +146,7 @@
         <jsch.version>0.1.55</jsch.version>
         <zipkin-brave.version>5.12.7</zipkin-brave.version>
         <zipkin-reporter2.version>2.15.2</zipkin-reporter2.version>
-        <rsocket.versoin>1.0.2</rsocket.versoin>
+        <rsocket.versoin>1.1.0</rsocket.versoin>
         <!--servers-->
         <jetty.version>11.0.0.beta3</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
@@ -215,7 +215,7 @@
         <ehcache3.version>3.9.0</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>7.0.4</flyway.version>
+        <flyway.version>7.1.0</flyway.version>
         <liquibase.version>4.1.1</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -249,8 +249,8 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.66</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.1</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>8.23</oauth2-oidc-sdk.version>
+        <nimbus-jose-jwt.version>9.1.1</nimbus-jose-jwt.version>
+        <oauth2-oidc-sdk.version>8.23.1</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.13</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -292,15 +292,15 @@
         <apache-geode.version>1.13.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.82</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.887</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.14</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.888</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.15</aws-java-sdk2.version>
         <google-cloud-bom.version>0.141.0</google-cloud-bom.version>
         <sendgrid.version>4.6.7</sendgrid.version>
         <kubernetes-client.version>4.12.0</kubernetes-client.version>
         <istio-client.version>1.6.5-Beta6</istio-client.version>
         <!--languages-->
         <kotlin.version>1.4.10</kotlin.version>
-        <kotlinx-coroutines.version>1.3.9</kotlinx-coroutines.version>
+        <kotlinx-coroutines.version>1.4.0</kotlinx-coroutines.version>
         <jruby.version>9.2.11.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
@@ -317,8 +317,8 @@
         <javax-money.version>1.1</javax-money.version>
         <moneta.version>1.4.2</moneta.version>  <!-- javax money -->
         <!--springsource-->
-        <spring.version>5.2.9.RELEASE</spring.version>
-        <spring-framework.version>5.2.9.RELEASE</spring-framework.version>
+        <spring.version>5.3.0</spring.version>
+        <spring-framework.version>5.3.0</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.2.4.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.10.RELEASE</spring-ws.version>
@@ -355,7 +355,7 @@
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-cloud-connector.version>2.0.7.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
-        <reactor-bom.version>Dysprosium-SR12</reactor-bom.version>
+        <reactor-bom.version>2020.0.0</reactor-bom.version>
         <rxjava2.version>2.2.20</rxjava2.version>
         <micrometer.version>1.5.5</micrometer.version>
     </properties>
@@ -1490,7 +1490,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>4.2.0</version>
+                <version>4.2.1</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
