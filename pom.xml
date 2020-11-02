@@ -42,7 +42,7 @@
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.46</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
-        <graphviz-java.version>0.17.0</graphviz-java.version>
+        <graphviz-java.version>0.17.1</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.6</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
@@ -64,7 +64,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.8.0</togglz.version>
         <ff4j.version>1.8.10</ff4j.version>
-        <underscore.version>1.59</underscore.version>
+        <underscore.version>1.60</underscore.version>
         <java-util.version>1.61.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
@@ -83,7 +83,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1</google-truth.version>
-        <bytebuddy.version>1.10.17</bytebuddy.version>
+        <bytebuddy.version>1.10.18</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.6</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
@@ -106,10 +106,10 @@
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.4.14</toomuchcoding-jsonassert.version>
         <wiremock.version>2.27.2</wiremock.version>
-        <spockframework.version>2.0-M3-groovy-3.0</spockframework.version>
+        <spockframework.version>2.0-M4-groovy-3.0</spockframework.version>
         <easymock.version>4.2</easymock.version>
         <fluentlenium.version>4.5.1</fluentlenium.version>
-        <powermock.version>2.0.7</powermock.version>
+        <powermock.version>2.0.9</powermock.version>
         <testcontainers.version>1.15.0-rc2</testcontainers.version>
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.3.1</rest-assured.version>
@@ -145,7 +145,7 @@
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
         <zipkin-brave.version>5.12.7</zipkin-brave.version>
-        <zipkin-reporter2.version>2.15.2</zipkin-reporter2.version>
+        <zipkin-reporter2.version>2.15.4</zipkin-reporter2.version>
         <rsocket.versoin>1.1.0</rsocket.versoin>
         <!--servers-->
         <jetty.version>11.0.0.beta3</jetty.version>
@@ -246,7 +246,7 @@
         <!--security-->
         <cas-client.version>3.6.1</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
-        <bouncycastle.version>1.66</bouncycastle.version>
+        <bouncycastle.version>1.67</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.1.2</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>8.23.1</oauth2-oidc-sdk.version>
@@ -1490,7 +1490,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>4.2.1</version>
+                <version>4.2.2</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
