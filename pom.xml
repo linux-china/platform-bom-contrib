@@ -225,9 +225,9 @@
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
         <elasticsearch.version>7.9.3</elasticsearch.version>
-        <hazelcast.version>4.0.2</hazelcast.version>
+        <hazelcast.version>4.1</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
-        <hazelcast-hibernate5.version>2.1.1</hazelcast-hibernate5.version>
+        <hazelcast-hibernate5.version>4.1</hazelcast-hibernate5.version>
         <infinispan.version>11.0.3.Final</infinispan.version>
         <querydsl.version>4.4.0</querydsl.version>
         <hikaricp.version>3.4.5</hikaricp.version>
@@ -293,13 +293,13 @@
         <appengine-sdk.version>1.9.82</appengine-sdk.version>
         <aws-java-sdk.version>1.11.893</aws-java-sdk.version>
         <aws-java-sdk2.version>2.15.20</aws-java-sdk2.version>
-        <google-cloud-bom.version>0.141.0</google-cloud-bom.version>
+        <google-cloud-bom.version>0.142.0</google-cloud-bom.version>
         <sendgrid.version>4.6.7</sendgrid.version>
         <kubernetes-client.version>4.12.0</kubernetes-client.version>
-        <istio-client.version>1.6.5-Beta6</istio-client.version>
+        <istio-client.version>1.7.3-Alpha2</istio-client.version>
         <!--languages-->
         <kotlin.version>1.4.10</kotlin.version>
-        <kotlinx-coroutines.version>1.4.0</kotlinx-coroutines.version>
+        <kotlinx-coroutines.version>1.4.1</kotlinx-coroutines.version>
         <jruby.version>9.2.11.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
