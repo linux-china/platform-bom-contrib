@@ -63,7 +63,7 @@
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.8.0</togglz.version>
-        <ff4j.version>1.8.10</ff4j.version>
+        <ff4j.version>1.8.11</ff4j.version>
         <underscore.version>1.60</underscore.version>
         <java-util.version>1.61.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
@@ -110,7 +110,7 @@
         <easymock.version>4.2</easymock.version>
         <fluentlenium.version>4.5.1</fluentlenium.version>
         <powermock.version>2.0.9</powermock.version>
-        <testcontainers.version>1.15.0-rc2</testcontainers.version>
+        <testcontainers.version>1.15.0</testcontainers.version>
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.3.1</rest-assured.version>
         <assertj.version>3.18.0</assertj.version>
@@ -145,7 +145,7 @@
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
         <zipkin-brave.version>5.13.1</zipkin-brave.version>
-        <zipkin-reporter2.version>2.15.4</zipkin-reporter2.version>
+        <zipkin-reporter2.version>2.16.0</zipkin-reporter2.version>
         <rsocket.versoin>1.1.0</rsocket.versoin>
         <!--servers-->
         <jetty.version>11.0.0.beta3</jetty.version>
@@ -283,18 +283,18 @@
         <curator.version>5.1.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.16.0</activemq.version>
-        <artemis.version>2.15.0</artemis.version>
+        <artemis.version>2.16.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
         <svnkit.version>1.10.1</svnkit.version>
         <axiom.version>1.2.22</axiom.version>
         <apache-geode.version>1.13.0</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.82</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.894</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.21</aws-java-sdk2.version>
+        <appengine-sdk.version>1.9.83</appengine-sdk.version>
+        <aws-java-sdk.version>1.11.896</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.23</aws-java-sdk2.version>
         <google-cloud-bom.version>0.142.0</google-cloud-bom.version>
-        <sendgrid.version>4.6.7</sendgrid.version>
+        <sendgrid.version>4.6.8</sendgrid.version>
         <kubernetes-client.version>4.12.0</kubernetes-client.version>
         <istio-client.version>1.7.3-Alpha2</istio-client.version>
         <!--languages-->
@@ -340,8 +340,8 @@
         <spring-cloud-contract.version>2.2.4.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Hoxton.SR8</spring-cloud.version>
         <spring-cloud-task.version>2.2.4.RELEASE</spring-cloud-task.version>
-        <spring-cloud-stream.version>Horsham.SR8</spring-cloud-stream.version>
-        <spring-cloud-function.version>3.0.10.RELEASE</spring-cloud-function.version>
+        <spring-cloud-stream.version>Horsham.SR9</spring-cloud-stream.version>
+        <spring-cloud-function.version>3.0.11.RELEASE</spring-cloud-function.version>
         <spring-ldap.version>2.3.3.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.3.0</spring-amqp.version>
