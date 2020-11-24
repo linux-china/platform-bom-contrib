@@ -144,14 +144,14 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
-        <zipkin-brave.version>5.13.1</zipkin-brave.version>
-        <zipkin-reporter2.version>2.16.0</zipkin-reporter2.version>
+        <zipkin-brave.version>5.13.2</zipkin-brave.version>
+        <zipkin-reporter2.version>2.16.1</zipkin-reporter2.version>
         <rsocket.versoin>1.1.0</rsocket.versoin>
         <!--servers-->
         <jetty.version>11.0.0.beta3</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.2.2.Final</undertow.version>
-        <jersey.version>3.0.0-M6</jersey.version>
+        <jersey.version>3.0.0-RC2</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>3.2</jsqlparser.version>
         <javaparser.version>3.17.0</javaparser.version>
@@ -291,11 +291,11 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.83</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.906</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.33</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.907</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.34</aws-java-sdk2.version>
         <google-cloud-bom.version>0.145.0</google-cloud-bom.version>
         <sendgrid.version>4.7.0</sendgrid.version>
-        <kubernetes-client.version>5.0.0-alpha-1</kubernetes-client.version>
+        <kubernetes-client.version>5.0.0-alpha-2</kubernetes-client.version>
         <istio-client.version>1.7.3-Alpha2</istio-client.version>
         <!--languages-->
         <kotlin.version>1.4.20</kotlin.version>
@@ -308,7 +308,7 @@
         <reactive-streams.version>1.0.3</reactive-streams.version>
         <narayana.version>5.10.6.Final</narayana.version>
         <atomikos.version>5.0.8</atomikos.version>
-        <jakarta-ee.version>9.0.0-RC3</jakarta-ee.version>
+        <jakarta-ee.version>9.0.0</jakarta-ee.version>
         <jakarta.messaging-api.version>2.0.3</jakarta.messaging-api.version>
         <jakarta-persistence-api.version>2.2.3</jakarta-persistence-api.version>
         <servlet-api.version>4.0.1</servlet-api.version>
@@ -340,8 +340,8 @@
         <spring-cloud-contract.version>2.2.5.RELEASE</spring-cloud-contract.version>
         <spring-cloud.version>Hoxton.SR9</spring-cloud.version>
         <spring-cloud-task.version>2.2.4.RELEASE</spring-cloud-task.version>
-        <spring-cloud-stream.version>Horsham.SR9</spring-cloud-stream.version>
-        <spring-cloud-function.version>3.0.11.RELEASE</spring-cloud-function.version>
+        <spring-cloud-stream.version>Horsham.SR10</spring-cloud-stream.version>
+        <spring-cloud-function.version>3.0.12.RELEASE</spring-cloud-function.version>
         <spring-ldap.version>2.3.3.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.3.1</spring-amqp.version>
