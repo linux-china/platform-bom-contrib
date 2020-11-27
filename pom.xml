@@ -205,7 +205,7 @@
         <mybatis.version>3.5.6</mybatis.version>
         <mybatis-spring.version>2.0.6</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
-        <mariadb.version>2.7.0</mariadb.version>
+        <mariadb.version>2.7.1</mariadb.version>
         <mongodb.version>4.1.1</mongodb.version>
         <mongodb-reactivestreams.version>4.1.1</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.0.0</embedded-mongo.version>
