@@ -104,7 +104,7 @@
         <selenium.version>4.0.0-alpha-7</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
-        <toomuchcoding-jsonassert.version>0.4.14</toomuchcoding-jsonassert.version>
+        <toomuchcoding-jsonassert.version>0.5.0</toomuchcoding-jsonassert.version>
         <wiremock.version>2.27.2</wiremock.version>
         <spockframework.version>2.0-M4-groovy-3.0</spockframework.version>
         <easymock.version>4.2</easymock.version>
@@ -291,8 +291,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.83</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.908</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.35</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.909</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.36</aws-java-sdk2.version>
         <google-cloud-bom.version>0.145.0</google-cloud-bom.version>
         <sendgrid.version>4.7.0</sendgrid.version>
         <kubernetes-client.version>5.0.0-alpha-2</kubernetes-client.version>
