@@ -117,7 +117,7 @@
         <assertj-json.version>2.22.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.18.0</database-rider.version>
+        <database-rider.version>1.19.0</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.0.3</awaitility.version>
@@ -128,7 +128,7 @@
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.55.Final</netty.version>
-        <netty-boringssl.version>2.0.34.Final</netty-boringssl.version>
+        <netty-boringssl.version>2.0.35.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.34.0</grpc.version>
         <google-gax.version>1.60.0</google-gax.version>
@@ -291,7 +291,7 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.83</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.917</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.918</aws-java-sdk.version>
         <aws-java-sdk2.version>2.15.45</aws-java-sdk2.version>
         <google-cloud-bom.version>0.146.0</google-cloud-bom.version>
         <sendgrid.version>4.7.0</sendgrid.version>
