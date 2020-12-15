@@ -130,7 +130,7 @@
         <netty.version>4.1.55.Final</netty.version>
         <netty-boringssl.version>2.0.35.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.34.0</grpc.version>
+        <grpc.version>1.34.1</grpc.version>
         <google-gax.version>1.60.0</google-gax.version>
         <asynchttpclient.version>2.12.1</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
@@ -187,7 +187,7 @@
         <dom4j-java8.version>2.1.3</dom4j-java8.version>
         <hessian.version>4.0.63</hessian.version>
         <xmlunit.version>2.8.1</xmlunit.version>
-        <xstream.version>1.4.14-jdk7</xstream.version>
+        <xstream.version>1.4.15</xstream.version>
         <aalto-xml.version>1.2.2</aalto-xml.version>
         <woodstox5.version>6.2.3</woodstox5.version>
         <openpdf.version>1.3.23</openpdf.version>
@@ -221,7 +221,7 @@
         <h2.version>1.4.200</h2.version>
         <hsqldb.version>2.5.1</hsqldb.version>
         <sqlite-jdbc.version>3.34.0</sqlite-jdbc.version>
-        <neo4j-ogm.version>3.2.18</neo4j-ogm.version>
+        <neo4j-ogm.version>3.2.19</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
         <elasticsearch.version>7.10.1</elasticsearch.version>
@@ -248,8 +248,8 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.67</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.1.5</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>8.28.3</oauth2-oidc-sdk.version>
+        <nimbus-jose-jwt.version>9.2</nimbus-jose-jwt.version>
+        <oauth2-oidc-sdk.version>8.28.4</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -290,9 +290,9 @@
         <axiom.version>1.2.22</axiom.version>
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.83</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.918</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.45</aws-java-sdk2.version>
+        <appengine-sdk.version>1.9.84</appengine-sdk.version>
+        <aws-java-sdk.version>1.11.919</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.46</aws-java-sdk2.version>
         <google-cloud-bom.version>0.146.0</google-cloud-bom.version>
         <sendgrid.version>4.7.0</sendgrid.version>
         <kubernetes-client.version>5.0.0-alpha-3</kubernetes-client.version>
@@ -1490,7 +1490,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>4.2.3</version>
+                <version>4.3.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
