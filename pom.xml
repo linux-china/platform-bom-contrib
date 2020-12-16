@@ -57,7 +57,7 @@
         <fugue.version>4.7.2</fugue.version>
         <joda-time.version>2.10.8</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
-        <guava.version>30.0-jre</guava.version>
+        <guava.version>30.1-jre</guava.version>
         <guice.version>4.2.3</guice.version>
         <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
@@ -117,7 +117,7 @@
         <assertj-json.version>2.22.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.19.0</database-rider.version>
+        <database-rider.version>1.20.0</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.0.3</awaitility.version>
@@ -214,7 +214,7 @@
         <ehcache3.version>3.9.0</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>7.3.1</flyway.version>
+        <flyway.version>7.3.2</flyway.version>
         <liquibase.version>4.2.2</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -291,8 +291,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.84</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.919</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.46</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.920</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.48</aws-java-sdk2.version>
         <google-cloud-bom.version>0.146.0</google-cloud-bom.version>
         <sendgrid.version>4.7.0</sendgrid.version>
         <kubernetes-client.version>5.0.0-alpha-3</kubernetes-client.version>
