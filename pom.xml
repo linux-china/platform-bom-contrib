@@ -249,7 +249,7 @@
         <bouncycastle.version>1.67</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.2</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>8.28.4</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>8.29</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -291,8 +291,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.84</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.921</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.48</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.923</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.50</aws-java-sdk2.version>
         <google-cloud-bom.version>0.146.0</google-cloud-bom.version>
         <sendgrid.version>4.7.1</sendgrid.version>
         <kubernetes-client.version>5.0.0-alpha-3</kubernetes-client.version>
