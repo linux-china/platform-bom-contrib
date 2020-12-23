@@ -117,7 +117,7 @@
         <assertj-json.version>2.22.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.20.0</database-rider.version>
+        <database-rider.version>1.21.0</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.0.3</awaitility.version>
@@ -178,7 +178,7 @@
         <unbescape.version>1.1.6.RELEASE</unbescape.version>
         <attoparser.version>2.0.5.RELEASE</attoparser.version>
         <jmustache.version>1.15</jmustache.version>
-        <wss4j2.version>2.3.0</wss4j2.version>
+        <wss4j2.version>2.3.1</wss4j2.version>
         <objenesis.version>3.1</objenesis.version>
         <jopt-simple.version>5.0.4</jopt-simple.version>
         <rometools.version>1.15.0</rometools.version>
@@ -246,7 +246,7 @@
         <!--security-->
         <cas-client.version>3.6.1</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
-        <bouncycastle.version>1.67</bouncycastle.version>
+        <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.2</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>8.29</oauth2-oidc-sdk.version>
@@ -291,8 +291,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.84</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.924</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.51</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.925</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.53</aws-java-sdk2.version>
         <google-cloud-bom.version>0.146.0</google-cloud-bom.version>
         <sendgrid.version>4.7.1</sendgrid.version>
         <kubernetes-client.version>5.0.0-beta-1</kubernetes-client.version>
@@ -826,6 +826,11 @@
             <dependency>
                 <groupId>com.github.tomakehurst</groupId>
                 <artifactId>wiremock</artifactId>
+                <version>${wiremock.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.tomakehurst</groupId>
+                <artifactId>wiremock-jre8</artifactId>
                 <version>${wiremock.version}</version>
             </dependency>
             <dependency>
