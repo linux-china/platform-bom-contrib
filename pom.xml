@@ -144,8 +144,8 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
-        <zipkin-brave.version>5.13.2</zipkin-brave.version>
-        <zipkin-reporter2.version>2.16.2</zipkin-reporter2.version>
+        <zipkin-brave.version>5.13.3</zipkin-brave.version>
+        <zipkin-reporter2.version>2.16.3</zipkin-reporter2.version>
         <rsocket.versoin>1.1.0</rsocket.versoin>
         <!--servers-->
         <jetty.version>11.0.0</jetty.version>
