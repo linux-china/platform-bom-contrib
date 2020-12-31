@@ -131,7 +131,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * JavaParser: Java 1-13 Parser and Abstract Syntax Tree for Java https://github.com/javaparser/javaparser
 * MathParser: https://github.com/mariuszgromada/MathParser.org-mXparser
 * Hoverfly: Create API simulations. Use them to develop and test faster. https://hoverfly.io/
-
+* 36 Java libraries: https://sizovs.net/2020/11/24/java-libraries-i-like/
 
 ### Developer Notice
 
