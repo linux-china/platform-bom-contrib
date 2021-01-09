@@ -117,7 +117,7 @@
         <assertj-json.version>2.22.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.21.0</database-rider.version>
+        <database-rider.version>1.21.1</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.0.3</awaitility.version>
@@ -155,7 +155,7 @@
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.0</jsqlparser.version>
         <javaparser.version>3.18.0</javaparser.version>
-        <jackson.version>2.12.0</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <moshi.version>1.9.3</moshi.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>1.27</snakeyaml.version>
@@ -249,7 +249,7 @@
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.4.1</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>8.31</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>8.32</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
