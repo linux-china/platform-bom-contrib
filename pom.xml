@@ -46,7 +46,7 @@
         <twelvemonkeys-imageio.version>3.6.1</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
-        <dropwizard-metrics.version>4.1.16</dropwizard-metrics.version>
+        <dropwizard-metrics.version>4.2.0-beta.1</dropwizard-metrics.version>
         <jolokia.version>1.6.2</jolokia.version>
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.30</slf4j.version>
@@ -62,7 +62,7 @@
         <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
-        <togglz.version>2.9.2</togglz.version>
+        <togglz.version>2.9.3</togglz.version>
         <ff4j.version>1.8.11</ff4j.version>
         <underscore.version>1.62</underscore.version>
         <java-util.version>1.61.0</java-util.version>
@@ -214,7 +214,7 @@
         <ehcache3.version>3.9.0</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>7.4.0</flyway.version>
+        <flyway.version>7.5.0</flyway.version>
         <liquibase.version>4.2.2</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -249,7 +249,7 @@
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.4.1</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>8.32</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>8.32.1</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -355,7 +355,7 @@
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-cloud-connector.version>2.0.7.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
-        <reactor-bom.version>2020.0.2</reactor-bom.version>
+        <reactor-bom.version>2020.0.3</reactor-bom.version>
         <rxjava2.version>2.2.20</rxjava2.version>
         <micrometer.version>1.6.2</micrometer.version>
     </properties>
