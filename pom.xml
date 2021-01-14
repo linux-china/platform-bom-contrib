@@ -291,8 +291,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.84</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.936</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.63</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.937</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.64</aws-java-sdk2.version>
         <google-cloud-bom.version>0.147.0</google-cloud-bom.version>
         <sendgrid.version>4.7.1</sendgrid.version>
         <kubernetes-client.version>5.0.0</kubernetes-client.version>
@@ -331,7 +331,7 @@
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-SR5</spring-data-releasetrain.version>
         <spring-data-bom.version>2020.0.3</spring-data-bom.version>
-        <spring-integration.version>5.4.2</spring-integration.version>
+        <spring-integration.version>5.4.3</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.4.1</spring-boot.version>
@@ -344,7 +344,7 @@
         <spring-cloud-function.version>3.1.0</spring-cloud-function.version>
         <spring-ldap.version>2.3.3.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.3.3</spring-amqp.version>
+        <spring-amqp.version>2.3.4</spring-amqp.version>
         <rabbit-amqp-client.version>5.10.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.9.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.3.0</spring-vault.version>
@@ -859,6 +859,11 @@
                 <type>pom</type>
                 <scope>import</scope>
                 <version>${netty.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.netty</groupId>
+                <artifactId>netty-tcnative</artifactId>
+                <version>${netty-boringssl.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.netty</groupId>
