@@ -10,7 +10,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <spring-boot.version>2.3.5.RELEASE</spring-boot.version>
+        <spring-boot.version>2.4.2</spring-boot.version>
     </properties>
     <dependencies>
         <dependency>
@@ -42,7 +42,7 @@
             <dependency>
                 <groupId>com.github.linux-china</groupId>
                 <artifactId>platform-bom-contrib</artifactId>
-                <version>Cairo-SR6</version>
+                <version>Cairo-SR9-SNAPSHOT</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
