@@ -114,7 +114,7 @@
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.3.3</rest-assured.version>
         <assertj.version>3.18.1</assertj.version>
-        <assertj-json.version>2.22.0</assertj-json.version>
+        <assertj-json.version>2.22.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
         <database-rider.version>1.21.1</database-rider.version>
@@ -298,7 +298,7 @@
         <kubernetes-client.version>5.0.0</kubernetes-client.version>
         <istio-client.version>1.7.3-Alpha2</istio-client.version>
         <!--languages-->
-        <kotlin.version>1.4.30-M1</kotlin.version>
+        <kotlin.version>1.4.30-RC</kotlin.version>
         <kotlinx-coroutines.version>1.4.2</kotlinx-coroutines.version>
         <jruby.version>9.2.14.0</jruby.version>
         <!--netflix-->
