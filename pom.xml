@@ -248,7 +248,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.4.1</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>9.4.2</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>8.35.0</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
@@ -291,8 +291,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.84</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.943</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.70</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.944</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.71</aws-java-sdk2.version>
         <google-cloud-bom.version>0.147.0</google-cloud-bom.version>
         <sendgrid.version>4.7.1</sendgrid.version>
         <kubernetes-client.version>5.0.1</kubernetes-client.version>
@@ -325,7 +325,7 @@
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.4.2</spring-security.version>
         <spring-security-oauth.version>2.5.0.RELEASE</spring-security-oauth.version>
-        <spring-security-oauth2-autoconfigure.version>2.4.0</spring-security-oauth2-autoconfigure.version>
+        <spring-security-oauth2-autoconfigure.version>2.4.2</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
@@ -337,8 +337,8 @@
         <spring-boot.version>2.4.1</spring-boot.version>
         <spring-hateoas.version>1.2.3</spring-hateoas.version>
         <spring-cloud-security.version>2.2.4.RELEASE</spring-cloud-security.version>
-        <spring-cloud-contract.version>3.0.0</spring-cloud-contract.version>
-        <spring-cloud.version>2020.0.0</spring-cloud.version>
+        <spring-cloud-contract.version>3.0.1</spring-cloud-contract.version>
+        <spring-cloud.version>2020.0.1</spring-cloud.version>
         <spring-cloud-task.version>2.3.0</spring-cloud-task.version>
         <spring-cloud-stream.version>3.1.1</spring-cloud-stream.version>
         <spring-cloud-function.version>3.1.1</spring-cloud-function.version>
