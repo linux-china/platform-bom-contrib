@@ -151,7 +151,7 @@
         <jetty.version>11.0.0</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.2.3.Final</undertow.version>
-        <jersey.version>3.0.0</jersey.version>
+        <jersey.version>3.0.1</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.0</jsqlparser.version>
         <javaparser.version>3.18.0</javaparser.version>
@@ -205,7 +205,7 @@
         <mybatis.version>3.5.6</mybatis.version>
         <mybatis-spring.version>2.0.6</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
-        <mariadb.version>2.7.1</mariadb.version>
+        <mariadb.version>2.7.2</mariadb.version>
         <mongodb.version>4.2.0-beta1</mongodb.version>
         <mongodb-reactivestreams.version>4.1.1</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.0.0</embedded-mongo.version>
@@ -249,7 +249,7 @@
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.4.2</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>8.35.0</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>8.36</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -291,8 +291,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.84</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.944</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.71</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.945</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.72</aws-java-sdk2.version>
         <google-cloud-bom.version>0.147.0</google-cloud-bom.version>
         <sendgrid.version>4.7.1</sendgrid.version>
         <kubernetes-client.version>5.0.1</kubernetes-client.version>
