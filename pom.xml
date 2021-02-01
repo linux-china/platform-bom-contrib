@@ -37,7 +37,7 @@
 
     <properties>
         <jline.version>3.0.0.M1</jline.version>
-        <janino.version>3.1.2</janino.version>
+        <janino.version>3.1.3</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.46</webjars-locator-core.version>
@@ -64,8 +64,8 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.9.4</togglz.version>
         <ff4j.version>1.8.11</ff4j.version>
-        <underscore.version>1.62</underscore.version>
-        <java-util.version>1.62.0</java-util.version>
+        <underscore.version>1.63</underscore.version>
+        <java-util.version>1.63.0</java-util.version>
         <verbalregex.version>1.6</verbalregex.version>
         <javaslang.version>2.0.6</javaslang.version>
         <vavr.version>0.10.3</vavr.version>
@@ -114,7 +114,7 @@
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.3.3</rest-assured.version>
         <assertj.version>3.19.0</assertj.version>
-        <assertj-json.version>2.22.1</assertj-json.version>
+        <assertj-json.version>2.24.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
         <database-rider.version>1.22.0</database-rider.version>
@@ -248,8 +248,8 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.4.2</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>8.36</oauth2-oidc-sdk.version>
+        <nimbus-jose-jwt.version>9.5</nimbus-jose-jwt.version>
+        <oauth2-oidc-sdk.version>9.0</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -275,7 +275,7 @@
         <kafka.version>2.7.0</kafka.version>
         <log4j2.version>2.14.0</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
-        <solr.version>8.7.0</solr.version>
+        <solr.version>8.8.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>10.0.0</tomcat.version>
         <groovy.version>3.0.7</groovy.version>
