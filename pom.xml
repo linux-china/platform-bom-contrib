@@ -62,7 +62,7 @@
         <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
-        <togglz.version>2.9.4</togglz.version>
+        <togglz.version>2.9.5</togglz.version>
         <ff4j.version>1.8.11</ff4j.version>
         <underscore.version>1.63</underscore.version>
         <java-util.version>1.63.0</java-util.version>
@@ -83,7 +83,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.2f</google-truth.version>
-        <bytebuddy.version>1.10.19</bytebuddy.version>
+        <bytebuddy.version>1.10.20</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.6</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
@@ -197,7 +197,7 @@
         <hibernate.version>5.4.25.Final</hibernate.version>
         <hibernate-validator.version>7.0.0.Final</hibernate-validator.version>
         <hibernate-types.version>2.10.2</hibernate-types.version>
-        <jooq.version>3.14.6</jooq.version>
+        <jooq.version>3.14.7</jooq.version>
         <jedis.version>3.5.1</jedis.version>
         <lettuce.version>6.0.2.RELEASE</lettuce.version>
         <caffeine.version>2.8.8</caffeine.version>
@@ -236,7 +236,7 @@
         <postgresql.version>42.2.18.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.18.0</jdbi.version>
-        <couchbase-client.version>3.1.1</couchbase-client.version>
+        <couchbase-client.version>3.1.2</couchbase-client.version>
         <openjpa.version>3.1.2</openjpa.version>
         <mysql.version>8.0.23</mysql.version>
         <orale.version>21.1.0.0</orale.version>
@@ -244,12 +244,12 @@
         <r2dbc-bom.version>Arabba-SR8</r2dbc-bom.version>
         <datastax.version>4.10.0</datastax.version>
         <!--security-->
-        <cas-client.version>3.6.1</cas-client.version>
+        <cas-client.version>3.6.2</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.5</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.0</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.1</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -291,14 +291,14 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.84</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.946</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.73</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.947</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.75</aws-java-sdk2.version>
         <google-cloud-bom.version>0.147.0</google-cloud-bom.version>
         <sendgrid.version>4.7.1</sendgrid.version>
         <kubernetes-client.version>5.0.1</kubernetes-client.version>
         <istio-client.version>1.7.3-Alpha2</istio-client.version>
         <!--languages-->
-        <kotlin.version>1.4.30-RC</kotlin.version>
+        <kotlin.version>1.4.30</kotlin.version>
         <kotlinx-coroutines.version>1.4.2</kotlinx-coroutines.version>
         <jruby.version>9.2.14.0</jruby.version>
         <!--netflix-->
