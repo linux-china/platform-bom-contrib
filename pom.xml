@@ -55,7 +55,7 @@
         <!--productivity & tools-->
         <functionaljava.version>4.8.1</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
-        <joda-time.version>2.10.9</joda-time.version>
+        <joda-time.version>2.10.10</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>30.1-jre</guava.version>
         <guice.version>4.2.3</guice.version>
@@ -99,7 +99,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <mockito.version>3.7.7</mockito.version>
-        <htmlunit.version>2.46.0</htmlunit.version>
+        <htmlunit.version>2.47.0</htmlunit.version>
         <testng.version>7.3.0</testng.version>
         <selenium.version>4.0.0-alpha-7</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -291,8 +291,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.85</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.949</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.15.76</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.950</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.15.77</aws-java-sdk2.version>
         <google-cloud-bom.version>0.147.0</google-cloud-bom.version>
         <sendgrid.version>4.7.1</sendgrid.version>
         <kubernetes-client.version>5.0.1</kubernetes-client.version>
