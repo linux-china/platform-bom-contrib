@@ -154,7 +154,7 @@
         <jersey.version>3.0.1</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.0</jsqlparser.version>
-        <javaparser.version>3.18.0</javaparser.version>
+        <javaparser.version>3.19.0</javaparser.version>
         <jackson.version>2.12.1</jackson.version>
         <moshi.version>1.9.3</moshi.version>
         <classmate.version>1.5.1</classmate.version>
@@ -224,7 +224,7 @@
         <neo4j-ogm.version>3.2.20</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>7.11.0</elasticsearch.version>
+        <elasticsearch.version>7.11.1</elasticsearch.version>
         <hazelcast.version>4.1.1</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.1</hazelcast-hibernate5.version>
@@ -291,11 +291,11 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.86</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.955</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.956</aws-java-sdk.version>
         <aws-java-sdk2.version>2.16.0</aws-java-sdk2.version>
         <google-cloud-bom.version>0.147.0</google-cloud-bom.version>
         <sendgrid.version>4.7.1</sendgrid.version>
-        <kubernetes-client.version>5.0.2</kubernetes-client.version>
+        <kubernetes-client.version>5.1.0</kubernetes-client.version>
         <istio-client.version>1.7.3-Alpha2</istio-client.version>
         <!--languages-->
         <kotlin.version>1.4.30</kotlin.version>
@@ -330,7 +330,7 @@
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-SR5</spring-data-releasetrain.version>
-        <spring-data-bom.version>2020.0.3</spring-data-bom.version>
+        <spring-data-bom.version>2020.0.4</spring-data-bom.version>
         <spring-integration.version>5.4.3</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
@@ -357,7 +357,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <reactor-bom.version>2020.0.4</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
-        <micrometer.version>1.6.3</micrometer.version>
+        <micrometer.version>1.6.4</micrometer.version>
     </properties>
 
     <dependencyManagement>
@@ -1648,7 +1648,7 @@
             <dependency>
                 <groupId>org.springframework.data</groupId>
                 <artifactId>spring-data-rest-hal-browser</artifactId>
-                <version>3.3.6.RELEASE</version>
+                <version>3.3.7.RELEASE</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.integration</groupId>
