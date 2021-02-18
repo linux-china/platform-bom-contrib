@@ -291,8 +291,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.86</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.956</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.0</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.957</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.1</aws-java-sdk2.version>
         <google-cloud-bom.version>0.147.0</google-cloud-bom.version>
         <sendgrid.version>4.7.1</sendgrid.version>
         <kubernetes-client.version>5.1.0</kubernetes-client.version>
@@ -323,18 +323,18 @@
         <spring-ws.version>3.0.10.RELEASE</spring-ws.version>
         <spring-session-bom.version>2020.0.3</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.4.4</spring-security.version>
+        <spring-security.version>5.4.5</spring-security.version>
         <spring-security-oauth.version>2.5.0.RELEASE</spring-security-oauth.version>
         <spring-security-oauth2-autoconfigure.version>2.4.2</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-SR5</spring-data-releasetrain.version>
-        <spring-data-bom.version>2020.0.4</spring-data-bom.version>
-        <spring-integration.version>5.4.3</spring-integration.version>
+        <spring-data-bom.version>2020.0.5</spring-data-bom.version>
+        <spring-integration.version>5.4.4</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>2.4.1</spring-boot.version>
+        <spring-boot.version>2.4.3</spring-boot.version>
         <spring-hateoas.version>1.2.4</spring-hateoas.version>
         <spring-cloud-security.version>2.2.4.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>3.0.1</spring-cloud-contract.version>
@@ -344,11 +344,11 @@
         <spring-cloud-function.version>3.1.1</spring-cloud-function.version>
         <spring-ldap.version>2.3.3.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.3.4</spring-amqp.version>
+        <spring-amqp.version>2.3.5</spring-amqp.version>
         <rabbit-amqp-client.version>5.10.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.9.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.3.1</spring-vault.version>
-        <spring-kafka.version>2.6.5</spring-kafka.version>
+        <spring-kafka.version>2.6.6</spring-kafka.version>
         <spring-restdocs.version>2.0.5.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.3.1</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
@@ -683,7 +683,7 @@
             <dependency>
                 <groupId>org.threeten</groupId>
                 <artifactId>threeten-extra</artifactId>
-                <version>1.5.0</version>
+                <version>1.6.0</version>
             </dependency>
             <dependency>
                 <groupId>org.jdbi</groupId>
