@@ -132,6 +132,8 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * MathParser: https://github.com/mariuszgromada/MathParser.org-mXparser
 * Hoverfly: Create API simulations. Use them to develop and test faster. https://hoverfly.io/
 * 36 Java libraries: https://sizovs.net/2020/11/24/java-libraries-i-like/
+* jte:  a secure and lightweight template engine for Java.  https://github.com/casid/jte
+
 
 ### Developer Notice
 
