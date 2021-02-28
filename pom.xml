@@ -43,7 +43,7 @@
         <webjars-locator-core.version>0.46</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.18.0</graphviz-java.version>
-        <twelvemonkeys-imageio.version>3.6.2</twelvemonkeys-imageio.version>
+        <twelvemonkeys-imageio.version>3.6.3</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.2.0-beta.2</dropwizard-metrics.version>
@@ -100,7 +100,7 @@
         <java-faker.version>1.0.2</java-faker.version>
         <mockito.version>3.8.0</mockito.version>
         <htmlunit.version>2.47.1</htmlunit.version>
-        <testng.version>7.3.0</testng.version>
+        <testng.version>7.4.0</testng.version>
         <selenium.version>4.0.0-beta-1</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
@@ -291,7 +291,7 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.86</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.963</aws-java-sdk.version>
+        <aws-java-sdk.version>1.11.964</aws-java-sdk.version>
         <aws-java-sdk2.version>2.16.8</aws-java-sdk2.version>
         <google-cloud-bom.version>0.148.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
