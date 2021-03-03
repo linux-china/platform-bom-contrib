@@ -195,7 +195,7 @@
         <xom.version>1.3.5</xom.version>
         <jte.version>1.8.0</jte.version>
         <!--persistence-->
-        <hibernate.version>5.4.28.Final</hibernate.version>
+        <hibernate.version>5.4.29.Final</hibernate.version>
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
         <hibernate-types.version>2.10.3</hibernate-types.version>
         <jooq.version>3.14.8</jooq.version>
@@ -207,7 +207,7 @@
         <mybatis-spring.version>2.0.6</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>2.7.2</mariadb.version>
-        <mongodb.version>4.2.1</mongodb.version>
+        <mongodb.version>4.2.2</mongodb.version>
         <mongodb-reactivestreams.version>4.2.1</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.0.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
@@ -231,13 +231,13 @@
         <hazelcast-hibernate5.version>4.1</hazelcast-hibernate5.version>
         <infinispan.version>11.0.8.Final</infinispan.version>
         <querydsl.version>4.4.0</querydsl.version>
-        <hikaricp.version>4.0.2</hikaricp.version>
+        <hikaricp.version>4.0.3</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>5.1.3</unboundid-ldapsdk.version>
         <postgresql.version>42.2.19.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.18.0</jdbi.version>
-        <couchbase-client.version>3.1.2</couchbase-client.version>
+        <couchbase-client.version>3.1.3</couchbase-client.version>
         <openjpa.version>3.1.2</openjpa.version>
         <mysql.version>8.0.23</mysql.version>
         <orale.version>21.1.0.0</orale.version>
@@ -263,7 +263,7 @@
         <commons-codec.version>1.15</commons-codec.version>
         <commons-fileupload.version>1.4</commons-fileupload.version>
         <commons-beanutils.version>1.9.4</commons-beanutils.version>
-        <commons-lang3.version>3.11</commons-lang3.version>
+        <commons-lang3.version>3.12.0</commons-lang3.version>
         <commons-csv.version>1.8</commons-csv.version>
         <commons-crypto.version>1.1.0</commons-crypto.version>
         <commons-configuration2.version>2.7</commons-configuration2.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.86</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.964</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.8</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.966</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.11</aws-java-sdk2.version>
         <google-cloud-bom.version>0.148.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.1.1</kubernetes-client.version>
@@ -1433,17 +1433,17 @@
             <dependency>
                 <groupId>io.kubernetes</groupId>
                 <artifactId>client-java</artifactId>
-                <version>11.0.0</version>
+                <version>11.0.1</version>
             </dependency>
             <dependency>
                 <groupId>io.kubernetes</groupId>
                 <artifactId>client-java-extended</artifactId>
-                <version>11.0.0</version>
+                <version>11.0.1</version>
             </dependency>
             <dependency>
                 <groupId>io.kubernetes</groupId>
                 <artifactId>client-java-spring-integration</artifactId>
-                <version>11.0.0</version>
+                <version>11.0.1</version>
             </dependency>
             <dependency>
                 <groupId>me.snowdrop</groupId>
