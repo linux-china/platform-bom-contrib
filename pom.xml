@@ -150,7 +150,7 @@
         <!--servers-->
         <jetty.version>11.0.1</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.2.4.Final</undertow.version>
+        <undertow.version>2.2.5.Final</undertow.version>
         <jersey.version>3.0.1</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.0</jsqlparser.version>
@@ -215,14 +215,14 @@
         <ehcache3.version>3.9.2</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>7.5.4</flyway.version>
+        <flyway.version>7.6.0</flyway.version>
         <liquibase.version>4.3.1</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
         <hsqldb.version>2.5.1</hsqldb.version>
         <sqlite-jdbc.version>3.34.0</sqlite-jdbc.version>
-        <neo4j-ogm.version>3.2.20</neo4j-ogm.version>
+        <neo4j-ogm.version>3.2.21</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
         <elasticsearch.version>7.11.1</elasticsearch.version>
@@ -292,15 +292,15 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.86</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.967</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.11</aws-java-sdk2.version>
-        <google-cloud-bom.version>0.148.0</google-cloud-bom.version>
+        <aws-java-sdk.version>1.11.968</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.12</aws-java-sdk2.version>
+        <google-cloud-bom.version>0.149.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.1.1</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <!--languages-->
         <kotlin.version>1.4.31</kotlin.version>
-        <kotlinx-coroutines.version>1.4.2</kotlinx-coroutines.version>
+        <kotlinx-coroutines.version>1.4.3</kotlinx-coroutines.version>
         <jruby.version>9.2.16.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
