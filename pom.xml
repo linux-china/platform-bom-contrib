@@ -43,7 +43,7 @@
         <webjars-locator-core.version>0.46</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.18.1</graphviz-java.version>
-        <twelvemonkeys-imageio.version>3.6.3</twelvemonkeys-imageio.version>
+        <twelvemonkeys-imageio.version>3.6.4</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.2.0-beta.2</dropwizard-metrics.version>
@@ -83,7 +83,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.2f</google-truth.version>
-        <bytebuddy.version>1.10.21</bytebuddy.version>
+        <bytebuddy.version>1.10.22</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.6</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
@@ -117,7 +117,7 @@
         <assertj-json.version>2.24.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.22.0</database-rider.version>
+        <database-rider.version>1.23.0</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.0.3</awaitility.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.86</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.969</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.13</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.970</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.14</aws-java-sdk2.version>
         <google-cloud-bom.version>0.149.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.1.1</kubernetes-client.version>
