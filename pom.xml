@@ -127,7 +127,7 @@
         <okio.version>2.9.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.59.Final</netty.version>
+        <netty.version>4.1.60.Final</netty.version>
         <netty-boringssl.version>2.0.36.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.36.0</grpc.version>
@@ -136,7 +136,7 @@
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
-        <smack4.version>4.4.0</smack4.version>
+        <smack4.version>4.4.1</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>11.0</openfeign.version>
         <javax-mail.version>1.6.3</javax-mail.version>
@@ -225,11 +225,11 @@
         <neo4j-ogm.version>3.2.21</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>7.11.1</elasticsearch.version>
+        <elasticsearch.version>7.11.2</elasticsearch.version>
         <hazelcast.version>4.1.1</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.1</hazelcast-hibernate5.version>
-        <infinispan.version>11.0.8.Final</infinispan.version>
+        <infinispan.version>12.0.1.Final</infinispan.version>
         <querydsl.version>4.4.0</querydsl.version>
         <hikaricp.version>4.0.3</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
@@ -278,7 +278,7 @@
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.8.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>10.0.2</tomcat.version>
+        <tomcat.version>10.0.4</tomcat.version>
         <groovy.version>3.0.7</groovy.version>
         <zookeeper.version>3.6.2</zookeeper.version>
         <curator.version>5.1.0</curator.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.86</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.970</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.14</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.971</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.15</aws-java-sdk2.version>
         <google-cloud-bom.version>0.149.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.1.1</kubernetes-client.version>
