@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.87</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.976</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.20</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.977</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.21</aws-java-sdk2.version>
         <google-cloud-bom.version>0.150.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.2.1</kubernetes-client.version>
@@ -320,7 +320,7 @@
         <spring.version>5.3.5</spring.version>
         <spring-framework.version>5.3.5</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
-        <spring-batch.version>4.3.1</spring-batch.version>
+        <spring-batch.version>4.3.2</spring-batch.version>
         <spring-ws.version>3.0.10.RELEASE</spring-ws.version>
         <spring-session-bom.version>2020.0.3</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
@@ -332,15 +332,15 @@
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-SR5</spring-data-releasetrain.version>
         <spring-data-bom.version>2020.0.6</spring-data-bom.version>
-        <spring-integration.version>5.4.4</spring-integration.version>
+        <spring-integration.version>5.4.5</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>2.4.3</spring-boot.version>
+        <spring-boot.version>2.4.4</spring-boot.version>
         <spring-hateoas.version>1.2.5</spring-hateoas.version>
         <spring-cloud-security.version>2.2.4.RELEASE</spring-cloud-security.version>
-        <spring-cloud-contract.version>3.0.1</spring-cloud-contract.version>
-        <spring-cloud.version>2020.0.1</spring-cloud.version>
-        <spring-cloud-task.version>2.3.0</spring-cloud-task.version>
+        <spring-cloud-contract.version>3.0.2</spring-cloud-contract.version>
+        <spring-cloud.version>2020.0.2</spring-cloud.version>
+        <spring-cloud-task.version>2.3.1</spring-cloud-task.version>
         <spring-cloud-stream.version>3.1.2</spring-cloud-stream.version>
         <spring-cloud-function.version>3.1.2</spring-cloud-function.version>
         <spring-ldap.version>2.3.3.RELEASE</spring-ldap.version>
@@ -543,73 +543,10 @@
             </dependency>
             <dependency>
                 <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-core</artifactId>
+                <artifactId>feign-bom</artifactId>
                 <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-httpclient</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-hystrix</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-okhttp</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-slf4j</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-java8</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-gson</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-jackson</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-jackson-jaxb</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-jaxb</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-jaxrs</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-ribbon</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-sax</artifactId>
-                <version>${openfeign.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.openfeign</groupId>
-                <artifactId>feign-mock</artifactId>
-                <version>${openfeign.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
             </dependency>
             <dependency>
                 <groupId>io.searchbox</groupId>
