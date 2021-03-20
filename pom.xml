@@ -250,7 +250,7 @@
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.7</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.2.2</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.2.3</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.87</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.978</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.22</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.979</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.23</aws-java-sdk2.version>
         <google-cloud-bom.version>0.150.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.2.1</kubernetes-client.version>
@@ -307,7 +307,7 @@
         <ribbon.version>2.7.18</ribbon.version>
         <!--java ee-->
         <reactive-streams.version>1.0.3</reactive-streams.version>
-        <narayana.version>5.10.6.Final</narayana.version>
+        <narayana.version>5.11.0.Final</narayana.version>
         <atomikos.version>5.0.8</atomikos.version>
         <jakarta-ee.version>9.1.0-RC1</jakarta-ee.version>
         <jakarta.messaging-api.version>2.0.3</jakarta.messaging-api.version>
@@ -326,7 +326,7 @@
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.4.5</spring-security.version>
         <spring-security-oauth.version>2.5.0.RELEASE</spring-security-oauth.version>
-        <spring-security-oauth2-autoconfigure.version>2.4.3</spring-security-oauth2-autoconfigure.version>
+        <spring-security-oauth2-autoconfigure.version>2.4.4</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
