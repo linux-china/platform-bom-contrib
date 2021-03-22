@@ -51,13 +51,13 @@
         <logback.version>1.2.3</logback.version>
         <slf4j.version>1.7.30</slf4j.version>
         <flogger.version>0.5.1</flogger.version>
-        <jna.version>5.7.0</jna.version>
+        <jna.version>5.8.0</jna.version>
         <!--productivity & tools-->
         <functionaljava.version>4.9</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
         <joda-time.version>2.10.10</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
-        <guava.version>30.1-jre</guava.version>
+        <guava.version>30.1.1-jre</guava.version>
         <guice.version>5.0.1</guice.version>
         <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
@@ -179,7 +179,7 @@
         <attoparser.version>2.0.5.RELEASE</attoparser.version>
         <jmustache.version>1.15</jmustache.version>
         <wss4j2.version>2.3.1</wss4j2.version>
-        <objenesis.version>3.1</objenesis.version>
+        <objenesis.version>3.2</objenesis.version>
         <jopt-simple.version>5.0.4</jopt-simple.version>
         <rometools.version>1.15.0</rometools.version>
         <xmlprojector.version>1.4.18</xmlprojector.version>
