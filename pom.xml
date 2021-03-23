@@ -99,7 +99,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <mockito.version>3.8.0</mockito.version>
-        <htmlunit.version>2.47.1</htmlunit.version>
+        <htmlunit.version>2.48.0</htmlunit.version>
         <testng.version>7.4.0</testng.version>
         <selenium.version>4.0.0-beta-2</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
@@ -114,7 +114,7 @@
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.3.3</rest-assured.version>
         <assertj.version>3.19.0</assertj.version>
-        <assertj-json.version>2.24.0</assertj-json.version>
+        <assertj-json.version>2.25.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
         <database-rider.version>1.23.0</database-rider.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.87</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.979</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.23</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.980</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.24</aws-java-sdk2.version>
         <google-cloud-bom.version>0.150.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.2.1</kubernetes-client.version>
