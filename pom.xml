@@ -106,7 +106,7 @@
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.5.0</toomuchcoding-jsonassert.version>
         <wiremock.version>2.27.2</wiremock.version>
-        <spockframework.version>2.0-M4-groovy-3.0</spockframework.version>
+        <spockframework.version>2.0-M5-groovy-3.0</spockframework.version>
         <easymock.version>4.2</easymock.version>
         <fluentlenium.version>4.6.1</fluentlenium.version>
         <powermock.version>2.0.9</powermock.version>
@@ -197,7 +197,7 @@
         <!--persistence-->
         <hibernate.version>5.4.30.Final</hibernate.version>
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
-        <hibernate-types.version>2.10.3</hibernate-types.version>
+        <hibernate-types.version>2.10.4</hibernate-types.version>
         <jooq.version>3.14.8</jooq.version>
         <jedis.version>3.5.2</jedis.version>
         <lettuce.version>6.0.3.RELEASE</lettuce.version>
@@ -216,7 +216,7 @@
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
         <flyway.version>7.7.0</flyway.version>
-        <liquibase.version>4.3.1</liquibase.version>
+        <liquibase.version>4.3.2</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
@@ -243,14 +243,14 @@
         <orale.version>21.1.0.0</orale.version>
         <influxdb-java.version>2.21</influxdb-java.version>
         <r2dbc-bom.version>Arabba-SR9</r2dbc-bom.version>
-        <datastax.version>4.10.0</datastax.version>
+        <datastax.version>4.11.0</datastax.version>
         <!--security-->
         <cas-client.version>3.6.2</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.7</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.2.3</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.2.4</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.87</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.980</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.24</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.981</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.25</aws-java-sdk2.version>
         <google-cloud-bom.version>0.150.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.2.1</kubernetes-client.version>
@@ -327,7 +327,7 @@
         <spring-security.version>5.4.5</spring-security.version>
         <spring-security-oauth.version>2.5.0.RELEASE</spring-security-oauth.version>
         <spring-security-oauth2-autoconfigure.version>2.4.4</spring-security-oauth2-autoconfigure.version>
-        <spring-security-rsa.version>1.0.9.RELEASE</spring-security-rsa.version>
+        <spring-security-rsa.version>1.0.10.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-SR5</spring-data-releasetrain.version>
