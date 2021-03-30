@@ -127,7 +127,7 @@
         <okio.version>2.9.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.60.Final</netty.version>
+        <netty.version>4.1.61.Final</netty.version>
         <netty-boringssl.version>2.0.38.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.36.1</grpc.version>
@@ -154,7 +154,7 @@
         <jersey.version>3.0.1</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.0</jsqlparser.version>
-        <javaparser.version>3.20.0</javaparser.version>
+        <javaparser.version>3.20.2</javaparser.version>
         <jackson.version>2.12.2</jackson.version>
         <moshi.version>1.9.3</moshi.version>
         <classmate.version>1.5.1</classmate.version>
@@ -200,7 +200,7 @@
         <hibernate-types.version>2.10.4</hibernate-types.version>
         <jooq.version>3.14.8</jooq.version>
         <jedis.version>3.5.2</jedis.version>
-        <lettuce.version>6.0.3.RELEASE</lettuce.version>
+        <lettuce.version>6.1.0.RELEASE</lettuce.version>
         <caffeine.version>2.9.0</caffeine.version>
         <jettison.version>1.4.1</jettison.version>
         <mybatis.version>3.5.6</mybatis.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.87</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.986</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.29</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.987</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.30</aws-java-sdk2.version>
         <google-cloud-bom.version>0.150.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.2.1</kubernetes-client.version>
