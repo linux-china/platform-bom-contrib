@@ -150,7 +150,7 @@
         <!--servers-->
         <jetty.version>11.0.2</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.2.5.Final</undertow.version>
+        <undertow.version>2.2.6.Final</undertow.version>
         <jersey.version>3.0.1</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.0</jsqlparser.version>
