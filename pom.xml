@@ -98,7 +98,7 @@
         <junit.version>4.13.2</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
-        <mockito.version>3.8.0</mockito.version>
+        <mockito.version>3.9.0</mockito.version>
         <htmlunit.version>2.48.0</htmlunit.version>
         <testng.version>7.4.0</testng.version>
         <selenium.version>4.0.0-beta-2</selenium.version>
@@ -249,8 +249,8 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.8</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.3</oauth2-oidc-sdk.version>
+        <nimbus-jose-jwt.version>9.8.1</nimbus-jose-jwt.version>
+        <oauth2-oidc-sdk.version>9.3.1</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -291,9 +291,9 @@
         <axiom.version>1.2.22</axiom.version>
         <apache-geode.version>1.13.2</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.87</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.992</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.35</aws-java-sdk2.version>
+        <appengine-sdk.version>1.9.88</appengine-sdk.version>
+        <aws-java-sdk.version>1.11.993</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.37</aws-java-sdk2.version>
         <google-cloud-bom.version>0.150.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.2.1</kubernetes-client.version>
