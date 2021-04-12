@@ -250,7 +250,7 @@
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.8.1</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.3.1</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.3.3</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -356,7 +356,7 @@
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-cloud-connector.version>2.0.7.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
-        <reactor-bom.version>2020.0.5</reactor-bom.version>
+        <reactor-bom.version>2020.0.6</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
         <micrometer.version>1.6.5</micrometer.version>
     </properties>
