@@ -110,7 +110,7 @@
         <easymock.version>4.2</easymock.version>
         <fluentlenium.version>4.6.1</fluentlenium.version>
         <powermock.version>2.0.9</powermock.version>
-        <testcontainers.version>1.15.2</testcontainers.version>
+        <testcontainers.version>1.15.3</testcontainers.version>
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.3.3</rest-assured.version>
         <assertj.version>3.19.0</assertj.version>
@@ -215,7 +215,7 @@
         <ehcache3.version>3.9.2</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>7.7.3</flyway.version>
+        <flyway.version>7.8.0</flyway.version>
         <liquibase.version>4.3.3</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.88</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.998</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.42</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.1000</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.43</aws-java-sdk2.version>
         <google-cloud-bom.version>0.152.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.3.0</kubernetes-client.version>
@@ -307,7 +307,7 @@
         <ribbon.version>2.7.18</ribbon.version>
         <!--java ee-->
         <reactive-streams.version>1.0.3</reactive-streams.version>
-        <narayana.version>5.11.0.Final</narayana.version>
+        <narayana.version>5.11.1.Final</narayana.version>
         <atomikos.version>5.0.8</atomikos.version>
         <jakarta-ee.version>9.1.0-RC1</jakarta-ee.version>
         <jakarta.messaging-api.version>2.0.3</jakarta.messaging-api.version>
@@ -346,7 +346,7 @@
         <spring-ldap.version>2.3.3.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.3.6</spring-amqp.version>
-        <rabbit-amqp-client.version>5.11.0</rabbit-amqp-client.version>
+        <rabbit-amqp-client.version>5.12.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.9.0.RELEASE</rabbit-http-client.version>
         <spring-vault.version>2.3.2</spring-vault.version>
         <spring-kafka.version>2.7.0</spring-kafka.version>
