@@ -169,7 +169,7 @@
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.13.1</jsoup.version>
         <thymeleaf.version>3.0.12.RELEASE</thymeleaf.version>
-        <thymeleaf-layout-dialect.version>2.5.2</thymeleaf-layout-dialect.version>
+        <thymeleaf-layout-dialect.version>2.5.3</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
         <thymeleaf-extras-springsecurity4.version>3.0.3.RELEASE</thymeleaf-extras-springsecurity4.version>
@@ -215,7 +215,7 @@
         <ehcache3.version>3.9.2</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>7.8.0</flyway.version>
+        <flyway.version>7.8.1</flyway.version>
         <liquibase.version>4.3.3</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
