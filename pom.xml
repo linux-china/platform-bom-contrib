@@ -212,11 +212,11 @@
         <embedded-mongo.version>3.0.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>4.0.0</cassandra-driver.version>
-        <ehcache3.version>3.9.2</ehcache3.version>
+        <ehcache3.version>3.9.3</ehcache3.version>
         <ehcache.version>2.10.6</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
         <flyway.version>7.8.1</flyway.version>
-        <liquibase.version>4.3.3</liquibase.version>
+        <liquibase.version>4.3.4</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
@@ -239,7 +239,7 @@
         <jdbi.version>3.19.0</jdbi.version>
         <couchbase-client.version>3.1.4</couchbase-client.version>
         <openjpa.version>3.1.2</openjpa.version>
-        <mysql.version>8.0.23</mysql.version>
+        <mysql.version>8.0.24</mysql.version>
         <orale.version>21.1.0.0</orale.version>
         <influxdb-java.version>2.21</influxdb-java.version>
         <r2dbc-bom.version>Arabba-SR9</r2dbc-bom.version>
@@ -250,7 +250,7 @@
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.8.1</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.3.3</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.4</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -322,7 +322,7 @@
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.3.2</spring-batch.version>
         <spring-ws.version>3.0.10.RELEASE</spring-ws.version>
-        <spring-session-bom.version>2020.0.3</spring-session-bom.version>
+        <spring-session-bom.version>2020.0.4</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.4.6</spring-security.version>
         <spring-security-oauth.version>2.5.1.RELEASE</spring-security-oauth.version>
@@ -1601,7 +1601,7 @@
             <dependency>
                 <groupId>org.springframework.data</groupId>
                 <artifactId>spring-data-rest-hal-browser</artifactId>
-                <version>3.3.8.RELEASE</version>
+                <version>3.3.9.RELEASE</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.integration</groupId>
