@@ -62,7 +62,7 @@
         <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
-        <togglz.version>2.9.6</togglz.version>
+        <togglz.version>2.9.7</togglz.version>
         <ff4j.version>1.8.11</ff4j.version>
         <underscore.version>1.65</underscore.version>
         <java-util.version>1.64.0</java-util.version>
@@ -234,9 +234,9 @@
         <hikaricp.version>4.0.3</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>5.1.4</unboundid-ldapsdk.version>
-        <postgresql.version>42.2.19.jre7</postgresql.version>
+        <postgresql.version>42.2.20.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.19.0</jdbi.version>
+        <jdbi.version>3.20.0</jdbi.version>
         <couchbase-client.version>3.1.4</couchbase-client.version>
         <openjpa.version>3.1.2</openjpa.version>
         <mysql.version>8.0.24</mysql.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.88</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.1001</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.44</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.1003</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.46</aws-java-sdk2.version>
         <google-cloud-bom.version>0.152.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.3.0</kubernetes-client.version>
@@ -326,7 +326,7 @@
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.4.6</spring-security.version>
         <spring-security-oauth.version>2.5.1.RELEASE</spring-security-oauth.version>
-        <spring-security-oauth2-autoconfigure.version>2.4.4</spring-security-oauth2-autoconfigure.version>
+        <spring-security-oauth2-autoconfigure.version>2.4.5</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.10.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
