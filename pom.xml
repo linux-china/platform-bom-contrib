@@ -225,7 +225,7 @@
         <neo4j-ogm.version>3.2.22</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>7.12.0</elasticsearch.version>
+        <elasticsearch.version>7.12.1</elasticsearch.version>
         <hazelcast.version>4.2</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -243,7 +243,7 @@
         <orale.version>21.1.0.0</orale.version>
         <influxdb-java.version>2.21</influxdb-java.version>
         <r2dbc-bom.version>Arabba-SR9</r2dbc-bom.version>
-        <datastax.version>4.11.0</datastax.version>
+        <datastax.version>4.11.1</datastax.version>
         <!--security-->
         <cas-client.version>3.6.2</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
@@ -283,7 +283,7 @@
         <zookeeper.version>3.7.0</zookeeper.version>
         <curator.version>5.1.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
-        <activemq.version>5.16.1</activemq.version>
+        <activemq.version>5.16.2</activemq.version>
         <artemis.version>2.17.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.88</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.1005</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.48</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.1006</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.49</aws-java-sdk2.version>
         <google-cloud-bom.version>0.152.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.3.1</kubernetes-client.version>
