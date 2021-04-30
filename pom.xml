@@ -267,7 +267,7 @@
         <narayana.version>5.9.3.Final</narayana.version>
         <atomikos.version>4.0.6</atomikos.version>
         <!--springsource-->
-        <spring.version>5.0.12.RELEASE</spring.version>
+        <spring.version>5.0.19.RELEASE</spring.version>
         <spring-batch.version>4.0.1.RELEASE</spring-batch.version>
         <spring-ws.version>3.0.7.RELEASE</spring-ws.version>
         <spring-session.version>2.0.6.RELEASE</spring-session.version>
