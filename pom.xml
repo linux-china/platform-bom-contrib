@@ -138,7 +138,7 @@
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
         <smack4.version>4.4.2</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
-        <openfeign.version>11.1</openfeign.version>
+        <openfeign.version>11.2</openfeign.version>
         <javax-mail.version>1.6.3</javax-mail.version>
         <javax-cache.version>1.1.1</javax-cache.version>
         <javax-validation.version>2.0.1.Final</javax-validation.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.88</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.1010</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.54</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.1013</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.57</aws-java-sdk2.version>
         <google-cloud-bom.version>0.153.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.3.1</kubernetes-client.version>
@@ -347,7 +347,7 @@
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.3.6</spring-amqp.version>
         <rabbit-amqp-client.version>5.12.0</rabbit-amqp-client.version>
-        <rabbit-http-client.version>3.9.0.RELEASE</rabbit-http-client.version>
+        <rabbit-http-client.version>3.10.0</rabbit-http-client.version>
         <spring-vault.version>2.3.2</spring-vault.version>
         <spring-kafka.version>2.7.0</spring-kafka.version>
         <spring-restdocs.version>2.0.5.RELEASE</spring-restdocs.version>
