@@ -161,7 +161,7 @@
         <snakeyaml.version>1.28</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.6</gson.version>
-        <protobuf.version>3.15.8</protobuf.version>
+        <protobuf.version>3.17.0</protobuf.version>
         <json-smart.version>2.4.7</json-smart.version>
         <json-path.version>2.5.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -188,7 +188,7 @@
         <hessian.version>4.0.65</hessian.version>
         <xmlunit.version>2.8.2</xmlunit.version>
         <xstream.version>1.4.16</xstream.version>
-        <aalto-xml.version>1.2.2</aalto-xml.version>
+        <aalto-xml.version>1.3.0</aalto-xml.version>
         <woodstox5.version>6.2.6</woodstox5.version>
         <openpdf.version>1.3.26</openpdf.version>
         <jaxen.version>1.2.0</jaxen.version>
@@ -215,7 +215,7 @@
         <ehcache3.version>3.9.3</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>7.8.2</flyway.version>
+        <flyway.version>7.9.0</flyway.version>
         <liquibase.version>4.3.5</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -239,7 +239,7 @@
         <jdbi.version>3.20.0</jdbi.version>
         <couchbase-client.version>3.1.5</couchbase-client.version>
         <openjpa.version>3.1.2</openjpa.version>
-        <mysql.version>8.0.24</mysql.version>
+        <mysql.version>8.0.25</mysql.version>
         <orale.version>21.1.0.0</orale.version>
         <influxdb-java.version>2.21</influxdb-java.version>
         <r2dbc-bom.version>Arabba-SR9</r2dbc-bom.version>
@@ -278,7 +278,7 @@
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.8.2</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>10.0.5</tomcat.version>
+        <tomcat.version>10.0.6</tomcat.version>
         <groovy.version>3.0.8</groovy.version>
         <zookeeper.version>3.7.0</zookeeper.version>
         <curator.version>5.1.0</curator.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.88</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.1017</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.61</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.1018</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.62</aws-java-sdk2.version>
         <google-cloud-bom.version>0.153.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.3.1</kubernetes-client.version>
