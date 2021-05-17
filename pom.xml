@@ -67,7 +67,7 @@
         <underscore.version>1.66</underscore.version>
         <java-util.version>1.64.0</java-util.version>
         <verbalregex.version>1.8</verbalregex.version>
-        <javaslang.version>2.0.6</javaslang.version>
+        <javaslang.version>2.1.0-alpha</javaslang.version>
         <vavr.version>1.0.0-alpha-3</vavr.version>
         <concurrentlinkedhashmap.version>1.4.2</concurrentlinkedhashmap.version>
         <quartz.version>2.3.2</quartz.version>
@@ -99,14 +99,14 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <mockito.version>3.10.0</mockito.version>
-        <htmlunit.version>2.49.1</htmlunit.version>
+        <htmlunit.version>2.50.0</htmlunit.version>
         <testng.version>7.4.0</testng.version>
         <selenium.version>4.0.0-beta-3</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.0</toomuchcoding-jsonassert.version>
         <wiremock.version>2.28.0</wiremock.version>
-        <spockframework.version>2.0-M5-groovy-3.0</spockframework.version>
+        <spockframework.version>2.0-groovy-3.0</spockframework.version>
         <easymock.version>4.3</easymock.version>
         <fluentlenium.version>4.6.1</fluentlenium.version>
         <powermock.version>2.0.9</powermock.version>
@@ -127,7 +127,7 @@
         <okio.version>2.9.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.63.Final</netty.version>
+        <netty.version>4.1.64.Final</netty.version>
         <netty-boringssl.version>2.0.39.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.37.1</grpc.version>
@@ -238,7 +238,7 @@
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.20.0</jdbi.version>
         <couchbase-client.version>3.1.5</couchbase-client.version>
-        <openjpa.version>3.1.2</openjpa.version>
+        <openjpa.version>3.2.0</openjpa.version>
         <mysql.version>8.0.25</mysql.version>
         <orale.version>21.1.0.0</orale.version>
         <influxdb-java.version>2.21</influxdb-java.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.88</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.1018</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.62</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.1020</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.64</aws-java-sdk2.version>
         <google-cloud-bom.version>0.153.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.3.1</kubernetes-client.version>
@@ -345,11 +345,11 @@
         <spring-cloud-function.version>3.1.2</spring-cloud-function.version>
         <spring-ldap.version>2.3.4.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.3.6</spring-amqp.version>
+        <spring-amqp.version>2.3.7</spring-amqp.version>
         <rabbit-amqp-client.version>5.12.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.10.0</rabbit-http-client.version>
         <spring-vault.version>2.3.2</spring-vault.version>
-        <spring-kafka.version>2.7.0</spring-kafka.version>
+        <spring-kafka.version>2.7.1</spring-kafka.version>
         <spring-restdocs.version>2.0.5.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.3.1</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
