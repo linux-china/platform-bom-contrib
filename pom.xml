@@ -117,7 +117,7 @@
         <assertj-json.version>2.25.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.23.0</database-rider.version>
+        <database-rider.version>1.23.1</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.1.0</awaitility.version>
@@ -127,10 +127,10 @@
         <okio.version>2.9.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.64.Final</netty.version>
+        <netty.version>4.1.65.Final</netty.version>
         <netty-boringssl.version>2.0.39.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.37.1</grpc.version>
+        <grpc.version>1.38.0</grpc.version>
         <google-gax.version>1.60.0</google-gax.version>
         <asynchttpclient.version>2.12.3</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
@@ -154,7 +154,7 @@
         <jersey.version>3.0.2</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.0</jsqlparser.version>
-        <javaparser.version>3.22.0</javaparser.version>
+        <javaparser.version>3.22.1</javaparser.version>
         <jackson.version>2.12.3</jackson.version>
         <moshi.version>1.9.3</moshi.version>
         <classmate.version>1.5.1</classmate.version>
@@ -250,7 +250,7 @@
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.9.3</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.5.1</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.5.2</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -292,11 +292,11 @@
         <apache-geode.version>1.13.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.88</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.1020</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.64</aws-java-sdk2.version>
-        <google-cloud-bom.version>0.153.0</google-cloud-bom.version>
+        <aws-java-sdk.version>1.11.1021</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.65</aws-java-sdk2.version>
+        <google-cloud-bom.version>0.154.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
-        <kubernetes-client.version>5.3.1</kubernetes-client.version>
+        <kubernetes-client.version>5.4.0</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <!--languages-->
         <kotlin.version>1.5.0</kotlin.version>
@@ -320,7 +320,7 @@
         <spring.version>5.3.7</spring.version>
         <spring-framework.version>5.3.7</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
-        <spring-batch.version>4.3.2</spring-batch.version>
+        <spring-batch.version>4.3.3</spring-batch.version>
         <spring-ws.version>3.1.1</spring-ws.version>
         <spring-session-bom.version>2020.0.4</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
@@ -332,7 +332,7 @@
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-SR5</spring-data-releasetrain.version>
         <spring-data-bom.version>2021.0.1</spring-data-bom.version>
-        <spring-integration.version>5.4.7</spring-integration.version>
+        <spring-integration.version>5.5.0</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.4.4</spring-boot.version>
