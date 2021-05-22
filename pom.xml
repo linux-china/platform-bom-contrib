@@ -112,7 +112,7 @@
         <powermock.version>2.0.9</powermock.version>
         <testcontainers.version>1.15.3</testcontainers.version>
         <dbunit.version>2.7.0</dbunit.version>
-        <rest-assured.version>4.3.3</rest-assured.version>
+        <rest-assured.version>4.4.0</rest-assured.version>
         <assertj.version>3.19.0</assertj.version>
         <assertj-json.version>2.25.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
@@ -148,7 +148,7 @@
         <zipkin-reporter2.version>2.16.3</zipkin-reporter2.version>
         <rsocket.versoin>1.1.0</rsocket.versoin>
         <!--servers-->
-        <jetty.version>11.0.2</jetty.version>
+        <jetty.version>11.0.3</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.2.7.Final</undertow.version>
         <jersey.version>3.0.2</jersey.version>
@@ -198,7 +198,7 @@
         <hibernate.version>5.4.30.Final</hibernate.version>
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
         <hibernate-types.version>2.11.1</hibernate-types.version>
-        <jooq.version>3.14.9</jooq.version>
+        <jooq.version>3.14.11</jooq.version>
         <jedis.version>3.6.0</jedis.version>
         <lettuce.version>6.1.2.RELEASE</lettuce.version>
         <caffeine.version>2.9.1</caffeine.version>
@@ -212,7 +212,7 @@
         <embedded-mongo.version>3.0.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>4.0.0</cassandra-driver.version>
-        <ehcache3.version>3.9.3</ehcache3.version>
+        <ehcache3.version>3.9.4</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
         <flyway.version>7.9.1</flyway.version>
@@ -250,7 +250,7 @@
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.9.3</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.5.2</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.6</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.88</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.1022</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.66</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.11.1024</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.68</aws-java-sdk2.version>
         <google-cloud-bom.version>0.154.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.4.0</kubernetes-client.version>
