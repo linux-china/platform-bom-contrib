@@ -78,7 +78,7 @@
         <eclipse-collections.version>10.4.0</eclipse-collections.version>
         <math-parser.version>4.4.2</math-parser.version>
         <!--code & classes-->
-        <jetbrains-annotations.version>20.1.0</jetbrains-annotations.version>
+        <jetbrains-annotations.version>21.0.0</jetbrains-annotations.version>
         <swagger-oai.version>2.1.9</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
@@ -250,7 +250,7 @@
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.9.3</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.6</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.7</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
