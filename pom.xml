@@ -64,7 +64,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>2.9.8</togglz.version>
         <ff4j.version>1.8.11</ff4j.version>
-        <underscore.version>1.66</underscore.version>
+        <underscore.version>1.67</underscore.version>
         <java-util.version>1.64.0</java-util.version>
         <verbalregex.version>1.8</verbalregex.version>
         <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -296,7 +296,7 @@
         <aws-java-sdk2.version>2.16.74</aws-java-sdk2.version>
         <google-cloud-bom.version>0.154.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
-        <kubernetes-client.version>5.4.0</kubernetes-client.version>
+        <kubernetes-client.version>5.4.1</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <!--languages-->
         <kotlin.version>1.5.10</kotlin.version>
@@ -1435,7 +1435,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>4.5.0</version>
+                <version>4.5.1</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
