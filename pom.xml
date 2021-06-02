@@ -240,7 +240,7 @@
         <couchbase-client.version>3.1.5</couchbase-client.version>
         <openjpa.version>3.2.0</openjpa.version>
         <mysql.version>8.0.25</mysql.version>
-        <orale.version>21.1.0.0</orale.version>
+        <oracle.version>21.1.0.0</oracle.version>
         <influxdb-java.version>2.21</influxdb-java.version>
         <r2dbc-bom.version>Arabba-SR10</r2dbc-bom.version>
         <datastax.version>4.11.1</datastax.version>
@@ -1333,7 +1333,7 @@
             <dependency>
                 <groupId>com.oracle.database.jdbc</groupId>
                 <artifactId>ojdbc-bom</artifactId>
-                <version>${orale.version}</version>
+                <version>${oracle.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
