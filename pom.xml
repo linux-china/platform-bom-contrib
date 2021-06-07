@@ -101,11 +101,11 @@
         <mockito.version>3.11.0</mockito.version>
         <htmlunit.version>2.50.0</htmlunit.version>
         <testng.version>7.4.0</testng.version>
-        <selenium.version>4.0.0-beta-3</selenium.version>
+        <selenium.version>4.0.0-beta-4</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
-        <toomuchcoding-jsonassert.version>0.6.0</toomuchcoding-jsonassert.version>
-        <wiremock.version>2.28.0</wiremock.version>
+        <toomuchcoding-jsonassert.version>0.6.1</toomuchcoding-jsonassert.version>
+        <wiremock.version>2.28.1</wiremock.version>
         <spockframework.version>2.0-groovy-3.0</spockframework.version>
         <easymock.version>4.3</easymock.version>
         <fluentlenium.version>4.6.2</fluentlenium.version>
@@ -222,7 +222,7 @@
         <h2.version>1.4.200</h2.version>
         <hsqldb.version>2.6.0</hsqldb.version>
         <sqlite-jdbc.version>3.34.0</sqlite-jdbc.version>
-        <neo4j-ogm.version>3.2.23</neo4j-ogm.version>
+        <neo4j-ogm.version>3.2.24</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
         <elasticsearch.version>7.13.1</elasticsearch.version>
@@ -250,7 +250,7 @@
         <bouncycastle.version>1.68</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.10</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.8.1</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.9</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
