@@ -158,7 +158,7 @@
         <jackson.version>2.12.3</jackson.version>
         <moshi.version>1.9.3</moshi.version>
         <classmate.version>1.5.1</classmate.version>
-        <snakeyaml.version>1.28</snakeyaml.version>
+        <snakeyaml.version>1.29</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.7</gson.version>
         <protobuf.version>3.17.1</protobuf.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.89</appengine-sdk.version>
-        <aws-java-sdk.version>1.11.1034</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.78</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.1</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.79</aws-java-sdk2.version>
         <google-cloud-bom.version>0.155.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.4.1</kubernetes-client.version>
@@ -1435,7 +1435,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>4.5.2</version>
+                <version>4.5.3</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
