@@ -301,7 +301,7 @@
         <!--languages-->
         <kotlin.version>1.5.10</kotlin.version>
         <kotlinx-coroutines.version>1.5.0</kotlinx-coroutines.version>
-        <jruby.version>9.2.17.0</jruby.version>
+        <jruby.version>9.2.18.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <ribbon.version>2.7.18</ribbon.version>
