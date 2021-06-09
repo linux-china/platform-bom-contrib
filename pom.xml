@@ -117,7 +117,7 @@
         <assertj-json.version>2.26.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.23.1</database-rider.version>
+        <database-rider.version>1.24.0</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.1.0</awaitility.version>
@@ -146,9 +146,9 @@
         <jsch.version>0.1.55</jsch.version>
         <zipkin-brave.version>5.13.3</zipkin-brave.version>
         <zipkin-reporter2.version>2.16.3</zipkin-reporter2.version>
-        <rsocket.versoin>1.1.0</rsocket.versoin>
+        <rsocket.versoin>1.1.1</rsocket.versoin>
         <!--servers-->
-        <jetty.version>11.0.3</jetty.version>
+        <jetty.version>11.0.4</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.2.8.Final</undertow.version>
         <jersey.version>3.0.2</jersey.version>
@@ -161,7 +161,7 @@
         <snakeyaml.version>1.29</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.7</gson.version>
-        <protobuf.version>3.17.1</protobuf.version>
+        <protobuf.version>3.17.3</protobuf.version>
         <json-smart.version>2.4.7</json-smart.version>
         <json-path.version>2.6.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -236,7 +236,7 @@
         <unboundid-ldapsdk.version>6.0.0</unboundid-ldapsdk.version>
         <postgresql.version>42.2.20.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.20.0</jdbi.version>
+        <jdbi.version>3.20.1</jdbi.version>
         <couchbase-client.version>3.1.6</couchbase-client.version>
         <openjpa.version>3.2.0</openjpa.version>
         <mysql.version>8.0.25</mysql.version>
@@ -247,7 +247,7 @@
         <!--security-->
         <cas-client.version>3.6.2</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
-        <bouncycastle.version>1.68</bouncycastle.version>
+        <bouncycastle.version>1.69</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.10</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>9.9</oauth2-oidc-sdk.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.89</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.1</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.79</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.2</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.80</aws-java-sdk2.version>
         <google-cloud-bom.version>0.155.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.4.1</kubernetes-client.version>
@@ -317,8 +317,8 @@
         <javax-money.version>1.1</javax-money.version>
         <moneta.version>1.4.2</moneta.version>  <!-- javax money -->
         <!--springsource-->
-        <spring.version>5.3.7</spring.version>
-        <spring-framework.version>5.3.7</spring-framework.version>
+        <spring.version>5.3.8</spring.version>
+        <spring-framework.version>5.3.8</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.3.3</spring-batch.version>
         <spring-ws.version>3.1.1</spring-ws.version>
@@ -340,16 +340,16 @@
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>3.0.3</spring-cloud-contract.version>
         <spring-cloud.version>2020.0.3</spring-cloud.version>
-        <spring-cloud-task.version>2.3.2</spring-cloud-task.version>
+        <spring-cloud-task.version>2.3.3</spring-cloud-task.version>
         <spring-cloud-stream.version>3.1.3</spring-cloud-stream.version>
         <spring-cloud-function.version>3.1.3</spring-cloud-function.version>
         <spring-ldap.version>2.3.4.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.3.7</spring-amqp.version>
+        <spring-amqp.version>2.3.8</spring-amqp.version>
         <rabbit-amqp-client.version>5.12.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.10.0</rabbit-http-client.version>
         <spring-vault.version>2.3.2</spring-vault.version>
-        <spring-kafka.version>2.7.1</spring-kafka.version>
+        <spring-kafka.version>2.7.2</spring-kafka.version>
         <spring-restdocs.version>2.0.5.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.3.1</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
