@@ -83,7 +83,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
-        <bytebuddy.version>1.11.1</bytebuddy.version>
+        <bytebuddy.version>1.11.2</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.6</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
@@ -98,7 +98,7 @@
         <junit.version>4.13.2</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
-        <mockito.version>3.11.0</mockito.version>
+        <mockito.version>3.11.1</mockito.version>
         <htmlunit.version>2.50.0</htmlunit.version>
         <testng.version>7.4.0</testng.version>
         <selenium.version>4.0.0-beta-4</selenium.version>
@@ -148,7 +148,7 @@
         <zipkin-reporter2.version>2.16.3</zipkin-reporter2.version>
         <rsocket.versoin>1.1.1</rsocket.versoin>
         <!--servers-->
-        <jetty.version>11.0.4</jetty.version>
+        <jetty.version>11.0.5</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.2.8.Final</undertow.version>
         <jersey.version>3.0.2</jersey.version>
@@ -207,7 +207,7 @@
         <mybatis-spring.version>2.0.6</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>3.0.0-alpha</mariadb.version>
-        <mongodb.version>4.3.0-beta1</mongodb.version>
+        <mongodb.version>4.3.0-beta2</mongodb.version>
         <mongodb-reactivestreams.version>4.3.0-beta2</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.0.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
@@ -215,8 +215,8 @@
         <ehcache3.version>3.9.4</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>7.9.2</flyway.version>
-        <liquibase.version>4.3.5</liquibase.version>
+        <flyway.version>7.10.0</flyway.version>
+        <liquibase.version>4.4.0</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
@@ -234,7 +234,7 @@
         <hikaricp.version>4.0.3</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>6.0.0</unboundid-ldapsdk.version>
-        <postgresql.version>42.2.20.jre7</postgresql.version>
+        <postgresql.version>42.2.21.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.20.1</jdbi.version>
         <couchbase-client.version>3.1.6</couchbase-client.version>
@@ -292,8 +292,8 @@
         <apache-geode.version>1.13.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.89</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.2</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.80</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.5</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.83</aws-java-sdk2.version>
         <google-cloud-bom.version>0.155.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.4.1</kubernetes-client.version>
@@ -307,7 +307,7 @@
         <ribbon.version>2.7.18</ribbon.version>
         <!--java ee-->
         <reactive-streams.version>1.0.3</reactive-streams.version>
-        <narayana.version>5.11.2.Final</narayana.version>
+        <narayana.version>5.12.0.Final</narayana.version>
         <atomikos.version>5.0.8</atomikos.version>
         <jakarta-ee.version>9.1.0</jakarta-ee.version>
         <jakarta.messaging-api.version>2.0.3</jakarta.messaging-api.version>
