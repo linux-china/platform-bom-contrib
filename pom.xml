@@ -199,7 +199,7 @@
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
         <hibernate-types.version>2.11.1</hibernate-types.version>
         <jooq.version>3.14.11</jooq.version>
-        <jedis.version>3.6.0</jedis.version>
+        <jedis.version>3.6.1</jedis.version>
         <lettuce.version>6.1.2.RELEASE</lettuce.version>
         <caffeine.version>2.9.1</caffeine.version>
         <jettison.version>1.4.1</jettison.version>
@@ -259,7 +259,7 @@
         <commons-cli.version>1.4</commons-cli.version>
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-net.version>3.8.0</commons-net.version>
-        <commons-io.version>2.9.0</commons-io.version>
+        <commons-io.version>2.10.0</commons-io.version>
         <commons-codec.version>1.15</commons-codec.version>
         <commons-fileupload.version>1.4</commons-fileupload.version>
         <commons-beanutils.version>1.9.4</commons-beanutils.version>
@@ -1347,7 +1347,7 @@
             <dependency>
                 <groupId>com.oracle.database.r2dbc</groupId>
                 <artifactId>oracle-r2dbc</artifactId>
-                <version>0.1.0</version>
+                <version>0.2.0</version>
             </dependency>
             <dependency>
                 <groupId>org.jodd</groupId>
