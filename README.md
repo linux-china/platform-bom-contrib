@@ -133,7 +133,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Hoverfly: Create API simulations. Use them to develop and test faster. https://hoverfly.io/
 * 36 Java libraries: https://sizovs.net/2020/11/24/java-libraries-i-like/
 * jte:  a secure and lightweight template engine for Java.  https://github.com/casid/jte
-* ModelAssert: Assertions for model data https://github.com/webcompere/model-assert
+* ModelAssert: Assertions for model data: POJO, json and yaml https://github.com/webcompere/model-assert
 
 ### Developer Notice
 
