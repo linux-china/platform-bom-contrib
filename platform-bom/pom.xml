@@ -72,7 +72,7 @@
         <cas-client.version>3.5.1</cas-client.version>
         <castor.version>1.4.1</castor.version>
         <commonj.version>1.1.1</commonj.version>
-        <commons-beanutils.version>1.9.3</commons-beanutils.version>
+        <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <commons-cli.version>1.4</commons-cli.version>
         <commons-collections.version>3.2.2</commons-collections.version>
         <commons-fileupload.version>1.4</commons-fileupload.version>
