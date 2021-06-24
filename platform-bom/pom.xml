@@ -62,7 +62,7 @@
 
         <aalto-xml.version>1.3.0</aalto-xml.version>
         <apacheds.version>1.5.7</apacheds.version>
-        <apache-geode.version>1.8.0</apache-geode.version>
+        <apache-geode.version>1.9.0</apache-geode.version>
         <apache-shared-ldap.version>0.9.15</apache-shared-ldap.version>
         <apache-shiro.version>1.7.1</apache-shiro.version>
         <axiom.version>1.2.22</axiom.version>
