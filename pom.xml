@@ -113,7 +113,7 @@
         <testcontainers.version>1.15.3</testcontainers.version>
         <dbunit.version>2.7.0</dbunit.version>
         <rest-assured.version>4.4.0</rest-assured.version>
-        <assertj.version>3.20.1</assertj.version>
+        <assertj.version>3.20.2</assertj.version>
         <assertj-json.version>2.27.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
@@ -279,7 +279,7 @@
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.9.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>10.0.6</tomcat.version>
+        <tomcat.version>10.0.7</tomcat.version>
         <groovy.version>3.0.8</groovy.version>
         <zookeeper.version>3.7.0</zookeeper.version>
         <curator.version>5.1.0</curator.version>
