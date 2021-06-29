@@ -208,7 +208,7 @@
         <mybatis-spring.version>2.0.6</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>3.0.0-alpha</mariadb.version>
-        <mongodb.version>4.3.0-beta2</mongodb.version>
+        <mongodb.version>4.3.0-beta3</mongodb.version>
         <mongodb-reactivestreams.version>4.3.0-beta2</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.0.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
@@ -293,8 +293,8 @@
         <apache-geode.version>1.13.3</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.89</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.13</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.91</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.14</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.92</aws-java-sdk2.version>
         <google-cloud-bom.version>0.156.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.4.1</kubernetes-client.version>
