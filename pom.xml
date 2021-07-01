@@ -216,13 +216,13 @@
         <ehcache3.version>3.9.4</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>7.10.0</flyway.version>
+        <flyway.version>7.11.0</flyway.version>
         <liquibase.version>4.4.0</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
         <hsqldb.version>2.6.0</hsqldb.version>
-        <sqlite-jdbc.version>3.36.0</sqlite-jdbc.version>
+        <sqlite-jdbc.version>3.36.0.1</sqlite-jdbc.version>
         <neo4j-ogm.version>3.2.24</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
@@ -293,8 +293,8 @@
         <apache-geode.version>1.13.3</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.89</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.14</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.92</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.16</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.94</aws-java-sdk2.version>
         <google-cloud-bom.version>0.156.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.5.0</kubernetes-client.version>
@@ -1441,7 +1441,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>4.5.4</version>
+                <version>4.5.5</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
