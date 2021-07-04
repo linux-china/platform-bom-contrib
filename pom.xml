@@ -83,7 +83,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
-        <bytebuddy.version>1.11.5</bytebuddy.version>
+        <bytebuddy.version>1.11.6</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.7</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
@@ -99,7 +99,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <mockito.version>3.11.2</mockito.version>
-        <htmlunit.version>2.50.0</htmlunit.version>
+        <htmlunit.version>2.51.0</htmlunit.version>
         <testng.version>7.4.0</testng.version>
         <selenium.version>4.0.0-beta-4</selenium.version>
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
