@@ -74,7 +74,7 @@
         <snappy.version>1.1.7.1</snappy.version>
         <springdoc-openapi.version>1.5.9</springdoc-openapi.version>
         <mbassador.version>1.3.2</mbassador.version>
-	    <resilience4j.version>1.7.0</resilience4j.version>
+        <resilience4j.version>1.7.0</resilience4j.version>
         <eclipse-collections.version>10.4.0</eclipse-collections.version>
         <math-parser.version>4.4.2</math-parser.version>
         <!--code & classes-->
@@ -137,7 +137,7 @@
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
-        <smack4.version>4.4.2</smack4.version>
+        <smack4.version>4.4.3</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>11.2</openfeign.version>
         <javax-mail.version>1.6.3</javax-mail.version>
@@ -149,14 +149,14 @@
         <zipkin-reporter2.version>2.16.3</zipkin-reporter2.version>
         <rsocket.versoin>1.1.1</rsocket.versoin>
         <!--servers-->
-        <jetty.version>11.0.5</jetty.version>
+        <jetty.version>11.0.6</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.2.8.Final</undertow.version>
         <jersey.version>3.0.2</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.1</jsqlparser.version>
         <javaparser.version>3.22.1</javaparser.version>
-        <jackson.version>2.12.3</jackson.version>
+        <jackson.version>2.12.4</jackson.version>
         <moshi.version>1.9.3</moshi.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>1.29</snakeyaml.version>
@@ -182,7 +182,7 @@
         <wss4j2.version>2.3.2</wss4j2.version>
         <objenesis.version>3.2</objenesis.version>
         <jopt-simple.version>5.0.4</jopt-simple.version>
-        <rometools.version>1.15.0</rometools.version>
+        <rometools.version>1.16.0</rometools.version>
         <xmlprojector.version>1.4.20</xmlprojector.version>
         <freemarker.version>2.3.31</freemarker.version>
         <dom4j-java8.version>2.1.3</dom4j-java8.version>
@@ -226,7 +226,7 @@
         <neo4j-ogm.version>3.2.24</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>7.13.2</elasticsearch.version>
+        <elasticsearch.version>7.13.3</elasticsearch.version>
         <hazelcast.version>4.2</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -235,7 +235,7 @@
         <hikaricp.version>4.0.3</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>6.0.0</unboundid-ldapsdk.version>
-        <postgresql.version>42.2.22.jre7</postgresql.version>
+        <postgresql.version>42.2.32.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.20.1</jdbi.version>
         <couchbase-client.version>3.1.6</couchbase-client.version>
@@ -279,7 +279,7 @@
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.9.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>10.0.7</tomcat.version>
+        <tomcat.version>10.0.8</tomcat.version>
         <groovy.version>3.0.8</groovy.version>
         <zookeeper.version>3.7.0</zookeeper.version>
         <curator.version>5.1.0</curator.version>
@@ -293,8 +293,8 @@
         <apache-geode.version>1.13.3</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.89</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.17</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.95</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.19</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.97</aws-java-sdk2.version>
         <google-cloud-bom.version>0.156.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.5.0</kubernetes-client.version>
@@ -327,7 +327,7 @@
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.5.1</spring-security.version>
         <spring-security-oauth.version>2.5.1.RELEASE</spring-security-oauth.version>
-        <spring-security-oauth2-autoconfigure.version>2.5.1</spring-security-oauth2-autoconfigure.version>
+        <spring-security-oauth2-autoconfigure.version>2.5.2</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.10.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
