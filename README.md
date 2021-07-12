@@ -134,6 +134,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * 36 Java libraries: https://sizovs.net/2020/11/24/java-libraries-i-like/
 * jte:  a secure and lightweight template engine for Java.  https://github.com/casid/jte
 * ModelAssert: Assertions for model data: POJO, json and yaml https://github.com/webcompere/model-assert
+* evo-inflector: Singular to plural english word converter https://github.com/atteo/evo-inflector
 
 ### Developer Notice
 
