@@ -105,7 +105,7 @@
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.1</toomuchcoding-jsonassert.version>
-        <wiremock.version>2.29.0</wiremock.version>
+        <wiremock.version>2.29.1</wiremock.version>
         <spockframework.version>2.0-groovy-3.0</spockframework.version>
         <easymock.version>4.3</easymock.version>
         <fluentlenium.version>4.8.0</fluentlenium.version>
@@ -201,7 +201,7 @@
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
         <hibernate-types.version>2.12.1</hibernate-types.version>
         <jooq.version>3.15.0</jooq.version>
-        <jedis.version>3.6.1</jedis.version>
+        <jedis.version>3.6.2</jedis.version>
         <lettuce.version>6.1.4.RELEASE</lettuce.version>
         <caffeine.version>2.9.2</caffeine.version>
         <jettison.version>1.4.1</jettison.version>
@@ -252,7 +252,7 @@
         <bouncycastle.version>1.69</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.11.1</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.9.1</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.10.1</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -294,8 +294,8 @@
         <apache-geode.version>1.13.3</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.89</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.23</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.16.101</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.26</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.16.104</aws-java-sdk2.version>
         <google-cloud-bom.version>0.157.0</google-cloud-bom.version>
         <sendgrid.version>4.7.2</sendgrid.version>
         <kubernetes-client.version>5.5.0</kubernetes-client.version>
@@ -333,7 +333,7 @@
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-SR5</spring-data-releasetrain.version>
-        <spring-data-bom.version>2021.0.2</spring-data-bom.version>
+        <spring-data-bom.version>2021.0.3</spring-data-bom.version>
         <spring-integration.version>5.5.1</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
@@ -360,7 +360,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <reactor-bom.version>2020.0.9</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
-        <micrometer.version>1.7.1</micrometer.version>
+        <micrometer.version>1.7.2</micrometer.version>
     </properties>
 
     <dependencyManagement>
