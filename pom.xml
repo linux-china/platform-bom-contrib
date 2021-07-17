@@ -83,7 +83,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
-        <bytebuddy.version>1.11.7</bytebuddy.version>
+        <bytebuddy.version>1.11.8</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.7</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
@@ -128,7 +128,7 @@
         <okio.version>2.9.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.65.Final</netty.version>
+        <netty.version>4.1.66.Final</netty.version>
         <netty-boringssl.version>2.0.40.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.39.0</grpc.version>
@@ -200,7 +200,7 @@
         <hibernate.version>5.5.3.Final</hibernate.version>
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
         <hibernate-types.version>2.12.1</hibernate-types.version>
-        <jooq.version>3.15.0</jooq.version>
+        <jooq.version>3.15.1</jooq.version>
         <jedis.version>3.6.2</jedis.version>
         <lettuce.version>6.1.4.RELEASE</lettuce.version>
         <caffeine.version>2.9.2</caffeine.version>
@@ -238,7 +238,7 @@
         <unboundid-ldapsdk.version>6.0.0</unboundid-ldapsdk.version>
         <postgresql.version>42.2.32.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.20.1</jdbi.version>
+        <jdbi.version>3.21.0</jdbi.version>
         <couchbase-client.version>3.1.6</couchbase-client.version>
         <openjpa.version>3.2.0</openjpa.version>
         <mysql.version>8.0.25</mysql.version>
@@ -293,7 +293,7 @@
         <axiom.version>1.3.0</axiom.version>
         <apache-geode.version>1.13.3</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>1.9.89</appengine-sdk.version>
+        <appengine-sdk.version>1.9.90</appengine-sdk.version>
         <aws-java-sdk.version>1.12.26</aws-java-sdk.version>
         <aws-java-sdk2.version>2.16.104</aws-java-sdk2.version>
         <google-cloud-bom.version>0.157.0</google-cloud-bom.version>
