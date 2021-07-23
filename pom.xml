@@ -320,7 +320,7 @@
         <moneta.version>1.4.2</moneta.version>  <!-- javax money -->
         <!--springsource-->
         <spring.version>5.3.9</spring.version>
-        <spring-framework.version>5.3.8</spring-framework.version>
+        <spring-framework.version>5.3.9</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.3.3</spring-batch.version>
         <spring-ws.version>3.1.1</spring-ws.version>
@@ -337,7 +337,7 @@
         <spring-integration.version>5.5.2</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>2.5.2</spring-boot.version>
+        <spring-boot.version>2.5.3</spring-boot.version>
         <spring-hateoas.version>1.3.3</spring-hateoas.version>
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>3.0.3</spring-cloud-contract.version>
