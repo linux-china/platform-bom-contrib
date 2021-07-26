@@ -217,14 +217,14 @@
         <ehcache3.version>3.9.4</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>7.11.3</flyway.version>
+        <flyway.version>7.11.4</flyway.version>
         <liquibase.version>4.4.2</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
         <hsqldb.version>2.6.0</hsqldb.version>
         <sqlite-jdbc.version>3.36.0.1</sqlite-jdbc.version>
-        <neo4j-ogm.version>3.2.24</neo4j-ogm.version>
+        <neo4j-ogm.version>3.2.25</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
         <elasticsearch.version>7.13.4</elasticsearch.version>
@@ -283,7 +283,7 @@
         <tomcat.version>10.0.8</tomcat.version>
         <groovy.version>3.0.8</groovy.version>
         <zookeeper.version>3.7.0</zookeeper.version>
-        <curator.version>5.1.0</curator.version>
+        <curator.version>5.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.16.2</activemq.version>
         <artemis.version>2.17.0</artemis.version>
@@ -351,7 +351,7 @@
         <rabbit-amqp-client.version>5.13.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.11.0</rabbit-http-client.version>
         <spring-vault.version>2.3.2</spring-vault.version>
-        <spring-kafka.version>2.7.4</spring-kafka.version>
+        <spring-kafka.version>2.7.5</spring-kafka.version>
         <spring-restdocs.version>2.0.5.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.3.1</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
