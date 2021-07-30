@@ -217,7 +217,7 @@
         <ehcache3.version>3.9.4</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>7.11.4</flyway.version>
+        <flyway.version>7.12.0</flyway.version>
         <liquibase.version>4.4.2</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -245,7 +245,7 @@
         <oracle.version>21.1.0.0</oracle.version>
         <influxdb-java.version>2.21</influxdb-java.version>
         <r2dbc-bom.version>Arabba-SR10</r2dbc-bom.version>
-        <datastax.version>4.12.0</datastax.version>
+        <datastax.version>4.13.0</datastax.version>
         <!--security-->
         <cas-client.version>3.6.2</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
@@ -266,7 +266,7 @@
         <commons-fileupload.version>1.4</commons-fileupload.version>
         <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <commons-lang3.version>3.12.0</commons-lang3.version>
-        <commons-csv.version>1.8</commons-csv.version>
+        <commons-csv.version>1.9.0</commons-csv.version>
         <commons-crypto.version>1.1.0</commons-crypto.version>
         <commons-configuration2.version>2.7</commons-configuration2.version>
         <commons-text.version>1.9</commons-text.version>
@@ -291,13 +291,13 @@
         <httpasyncclient.version>4.1.4</httpasyncclient.version>
         <svnkit.version>1.10.3</svnkit.version>
         <axiom.version>1.3.0</axiom.version>
-        <apache-geode.version>1.13.3</apache-geode.version>
+        <apache-geode.version>1.13.4</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.90</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.35</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.7</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.36</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.8</aws-java-sdk2.version>
         <google-cloud-bom.version>0.158.0</google-cloud-bom.version>
-        <sendgrid.version>4.7.2</sendgrid.version>
+        <sendgrid.version>4.7.3</sendgrid.version>
         <kubernetes-client.version>5.6.0</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <!--languages-->
