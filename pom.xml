@@ -52,6 +52,7 @@
         <slf4j.version>1.7.32</slf4j.version>
         <flogger.version>0.6.0</flogger.version>
         <jna.version>5.8.0</jna.version>
+        <prometheus-client.version>0.11.0</prometheus-client.version>
         <!--productivity & tools-->
         <functionaljava.version>4.9</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
@@ -228,7 +229,7 @@
         <neo4j-ogm.version>3.2.25</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>7.13.4</elasticsearch.version>
+        <elasticsearch.version>7.14.0</elasticsearch.version>
         <hazelcast.version>4.2.1</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -295,8 +296,8 @@
         <apache-geode.version>1.13.4</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.90</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.37</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.9</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.38</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.10</aws-java-sdk2.version>
         <google-cloud-bom.version>0.158.0</google-cloud-bom.version>
         <sendgrid.version>4.7.3</sendgrid.version>
         <kubernetes-client.version>5.6.0</kubernetes-client.version>
@@ -1347,6 +1348,13 @@
                 <groupId>com.github.curious-odd-man</groupId>
                 <artifactId>rgxgen</artifactId>
                 <version>${rgxgen.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.prometheus</groupId>
+                <artifactId>simpleclient_bom</artifactId>
+                <version>${prometheus-client.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
             </dependency>
             <dependency>
                 <groupId>com.oracle.database.jdbc</groupId>
