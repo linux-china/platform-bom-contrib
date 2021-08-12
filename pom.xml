@@ -80,7 +80,7 @@
         <math-parser.version>4.4.2</math-parser.version>
         <rgxgen.version>1.3</rgxgen.version>
         <!--code & classes-->
-        <jetbrains-annotations.version>21.0.1</jetbrains-annotations.version>
+        <jetbrains-annotations.version>22.0.0</jetbrains-annotations.version>
         <swagger-oai.version>2.1.10</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
