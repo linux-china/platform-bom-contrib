@@ -163,7 +163,7 @@
         <xmlschema.version>2.2.5</xmlschema.version>
         <xmlunit.version>1.6</xmlunit.version>
         <xom.version>1.3.7</xom.version>
-        <xstream.version>1.4.17</xstream.version>
+        <xstream.version>1.4.18</xstream.version>
         <xws-security.version>3.0</xws-security.version>
     </properties>
 
