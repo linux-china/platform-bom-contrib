@@ -172,7 +172,7 @@
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.14.2</jsoup.version>
         <thymeleaf.version>3.0.12.RELEASE</thymeleaf.version>
-        <thymeleaf-layout-dialect.version>2.5.3</thymeleaf-layout-dialect.version>
+        <thymeleaf-layout-dialect.version>3.0.0</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
         <thymeleaf-extras-springsecurity4.version>3.0.3.RELEASE</thymeleaf-extras-springsecurity4.version>
@@ -296,8 +296,8 @@
         <apache-geode.version>1.13.4</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.56</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.28</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.57</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.29</aws-java-sdk2.version>
         <google-cloud-bom.version>0.160.0</google-cloud-bom.version>
         <sendgrid.version>4.7.4</sendgrid.version>
         <kubernetes-client.version>5.7.0</kubernetes-client.version>
