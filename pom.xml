@@ -219,7 +219,7 @@
         <ehcache3.version>3.9.6</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>7.14.1</flyway.version>
+        <flyway.version>7.15.0</flyway.version>
         <liquibase.version>4.4.3</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -283,7 +283,7 @@
         <solr.version>8.9.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>10.0.10</tomcat.version>
-        <groovy.version>3.0.8</groovy.version>
+        <groovy.version>3.0.9</groovy.version>
         <zookeeper.version>3.7.0</zookeeper.version>
         <curator.version>5.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
@@ -298,7 +298,7 @@
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
         <aws-java-sdk.version>1.12.62</aws-java-sdk.version>
         <aws-java-sdk2.version>2.17.34</aws-java-sdk2.version>
-        <google-cloud-bom.version>0.160.0</google-cloud-bom.version>
+        <google-cloud-bom.version>0.161.0</google-cloud-bom.version>
         <sendgrid.version>4.7.4</sendgrid.version>
         <kubernetes-client.version>5.7.2</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
