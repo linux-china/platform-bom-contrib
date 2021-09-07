@@ -107,7 +107,7 @@
         <selenium-htmlunit-driver.version>2.52.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.1</toomuchcoding-jsonassert.version>
-        <wiremock.version>2.30.1</wiremock.version>
+        <wiremock.version>2.31.0</wiremock.version>
         <spockframework.version>2.0-groovy-3.0</spockframework.version>
         <easymock.version>4.3</easymock.version>
         <fluentlenium.version>4.8.0</fluentlenium.version>
