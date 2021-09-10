@@ -297,8 +297,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.64</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.36</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.65</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.37</aws-java-sdk2.version>
         <google-cloud-bom.version>0.161.0</google-cloud-bom.version>
         <sendgrid.version>4.7.4</sendgrid.version>
         <kubernetes-client.version>5.7.3</kubernetes-client.version>
@@ -352,7 +352,7 @@
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.3.10</spring-amqp.version>
         <rabbit-amqp-client.version>5.13.1</rabbit-amqp-client.version>
-        <rabbit-http-client.version>3.11.0</rabbit-http-client.version>
+        <rabbit-http-client.version>3.12.0</rabbit-http-client.version>
         <spring-vault.version>2.3.2</spring-vault.version>
         <spring-kafka.version>2.7.6</spring-kafka.version>
         <spring-restdocs.version>2.0.5.RELEASE</spring-restdocs.version>
