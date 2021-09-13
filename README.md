@@ -136,6 +136,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * ModelAssert: Assertions for model data: POJO, json and yaml https://github.com/webcompere/model-assert
 * evo-inflector: Singular to plural english word converter https://github.com/atteo/evo-inflector
 * RgxGen: generate matching and non matching strings based on regex pattern https://github.com/curious-odd-man/RgxGen
+* jcabi: Small Useful Java Components https://www.jcabi.com/
 
 ### Developer Notice
 
