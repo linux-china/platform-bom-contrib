@@ -142,8 +142,3 @@ If your application is Spring Boot based, just use following code in your pom.xm
 
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
 * local install: mvn -DskipTests -pl . clean package install
-
-### Changes 
-
-* Brussels-SR7
-* Spring Boot 1.5.10
