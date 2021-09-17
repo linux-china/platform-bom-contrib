@@ -63,7 +63,7 @@
         <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
-        <togglz.version>2.9.9</togglz.version>
+        <togglz.version>3.0.0</togglz.version>
         <ff4j.version>1.8.11</ff4j.version>
         <underscore.version>1.69</underscore.version>
         <java-util.version>1.65.0</java-util.version>
@@ -85,7 +85,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
-        <bytebuddy.version>1.11.15</bytebuddy.version>
+        <bytebuddy.version>1.11.16</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.7</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
@@ -165,7 +165,7 @@
         <snakeyaml.version>1.29</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.8</gson.version>
-        <protobuf.version>3.17.3</protobuf.version>
+        <protobuf.version>3.18.0</protobuf.version>
         <json-smart.version>2.4.7</json-smart.version>
         <json-path.version>2.6.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -203,7 +203,7 @@
         <hibernate.version>5.5.7.Final</hibernate.version>
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
         <hibernate-types.version>2.12.1</hibernate-types.version>
-        <jooq.version>3.15.2</jooq.version>
+        <jooq.version>3.15.3</jooq.version>
         <jedis.version>3.7.0</jedis.version>
         <lettuce.version>6.1.5.RELEASE</lettuce.version>
         <caffeine.version>2.9.2</caffeine.version>
@@ -211,7 +211,7 @@
         <mybatis.version>3.5.7</mybatis.version>
         <mybatis-spring.version>2.0.6</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
-        <mariadb.version>3.0.1-beta</mariadb.version>
+        <mariadb.version>3.0.2-rc</mariadb.version>
         <mongodb.version>4.3.2</mongodb.version>
         <mongodb-reactivestreams.version>4.3.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.0.0</embedded-mongo.version>
@@ -246,7 +246,7 @@
         <openjpa.version>3.2.0</openjpa.version>
         <mysql.version>8.0.26</mysql.version>
         <oracle.version>21.3.0.0</oracle.version>
-        <influxdb-java.version>2.21</influxdb-java.version>
+        <influxdb-java.version>2.22</influxdb-java.version>
         <r2dbc-bom.version>Arabba-SR10</r2dbc-bom.version>
         <datastax.version>4.13.0</datastax.version>
         <!--security-->
@@ -278,7 +278,7 @@
         <commons-dbcp2.version>2.9.0</commons-dbcp2.version>
         <commons-rng.version>1.4</commons-rng.version>
         <poi.version>5.0.0</poi.version>
-        <kafka.version>2.8.0</kafka.version>
+        <kafka.version>2.8.1</kafka.version>
         <log4j2.version>2.14.1</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.9.0</solr.version>
@@ -297,8 +297,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.68</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.40</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.69</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.42</aws-java-sdk2.version>
         <google-cloud-bom.version>0.161.0</google-cloud-bom.version>
         <sendgrid.version>4.7.4</sendgrid.version>
         <kubernetes-client.version>5.7.3</kubernetes-client.version>
@@ -312,7 +312,7 @@
         <ribbon.version>2.7.18</ribbon.version>
         <!--java ee-->
         <reactive-streams.version>1.0.3</reactive-streams.version>
-        <narayana.version>5.12.0.Final</narayana.version>
+        <narayana.version>5.12.1.Final</narayana.version>
         <atomikos.version>5.0.8</atomikos.version>
         <jakarta-ee.version>9.1.0</jakarta-ee.version>
         <jakarta.messaging-api.version>2.0.3</jakarta.messaging-api.version>
@@ -336,7 +336,7 @@
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-SR5</spring-data-releasetrain.version>
-        <spring-data-bom.version>2021.0.4</spring-data-bom.version>
+        <spring-data-bom.version>2021.0.5</spring-data-bom.version>
         <spring-integration.version>5.5.3</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
@@ -354,7 +354,7 @@
         <rabbit-amqp-client.version>5.13.1</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.12.1</rabbit-http-client.version>
         <spring-vault.version>2.3.2</spring-vault.version>
-        <spring-kafka.version>2.7.6</spring-kafka.version>
+        <spring-kafka.version>2.7.7</spring-kafka.version>
         <spring-restdocs.version>2.0.5.RELEASE</spring-restdocs.version>
         <spring-retry.version>1.3.1</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
