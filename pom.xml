@@ -101,7 +101,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <mockito.version>3.12.4</mockito.version>
-        <htmlunit.version>2.52.0</htmlunit.version>
+        <htmlunit.version>2.53.0</htmlunit.version>
         <testng.version>7.4.0</testng.version>
         <selenium.version>4.0.0-rc-1</selenium.version>
         <selenium-htmlunit-driver.version>2.53.0</selenium-htmlunit-driver.version>
@@ -182,7 +182,7 @@
         <unbescape.version>1.1.6.RELEASE</unbescape.version>
         <attoparser.version>2.0.5.RELEASE</attoparser.version>
         <jmustache.version>1.15</jmustache.version>
-        <wss4j2.version>2.3.2</wss4j2.version>
+        <wss4j2.version>2.3.3</wss4j2.version>
         <objenesis.version>3.2</objenesis.version>
         <jopt-simple.version>5.0.4</jopt-simple.version>
         <rometools.version>1.16.0</rometools.version>
@@ -278,7 +278,7 @@
         <commons-dbcp2.version>2.9.0</commons-dbcp2.version>
         <commons-rng.version>1.4</commons-rng.version>
         <poi.version>5.0.0</poi.version>
-        <kafka.version>2.8.1</kafka.version>
+        <kafka.version>3.0.0</kafka.version>
         <log4j2.version>2.14.1</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.9.0</solr.version>
@@ -1472,7 +1472,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>4.5.6</version>
+                <version>4.5.7</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
