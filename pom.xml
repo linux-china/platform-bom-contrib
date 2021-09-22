@@ -96,7 +96,7 @@
         <threetenbp.version>1.5.1</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
-        <junit5.version>5.8.0</junit5.version>
+        <junit5.version>5.8.1</junit5.version>
         <junit.version>4.13.2</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
@@ -306,7 +306,7 @@
         <!--languages-->
         <kotlin.version>1.5.31</kotlin.version>
         <kotlinx-coroutines.version>1.5.2</kotlinx-coroutines.version>
-        <jruby.version>9.2.19.0</jruby.version>
+        <jruby.version>9.3.0.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <ribbon.version>2.7.18</ribbon.version>
