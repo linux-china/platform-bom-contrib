@@ -155,7 +155,7 @@
         <jetty.version>11.0.6</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.2.10.Final</undertow.version>
-        <jersey.version>3.0.2</jersey.version>
+        <jersey.version>3.0.3</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.2</jsqlparser.version>
         <javaparser.version>3.23.0</javaparser.version>
@@ -220,7 +220,7 @@
         <ehcache3.version>3.9.6</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>8.0.0-beta1</flyway.version>
+        <flyway.version>8.0.0-beta2</flyway.version>
         <liquibase.version>4.4.3</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -255,7 +255,7 @@
         <bouncycastle.version>1.69</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.14</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.16</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.17</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -297,8 +297,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.70</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.42</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.71</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.43</aws-java-sdk2.version>
         <google-cloud-bom.version>0.161.0</google-cloud-bom.version>
         <sendgrid.version>4.7.4</sendgrid.version>
         <kubernetes-client.version>5.7.3</kubernetes-client.version>
@@ -337,13 +337,13 @@
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-SR5</spring-data-releasetrain.version>
         <spring-data-bom.version>2021.0.5</spring-data-bom.version>
-        <spring-integration.version>5.5.3</spring-integration.version>
+        <spring-integration.version>5.5.4</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.5.4</spring-boot.version>
         <spring-hateoas.version>1.3.4</spring-hateoas.version>
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
-        <spring-cloud-contract.version>3.0.3</spring-cloud-contract.version>
+        <spring-cloud-contract.version>3.0.4</spring-cloud-contract.version>
         <spring-cloud.version>2020.0.3</spring-cloud.version>
         <spring-cloud-task.version>2.3.3</spring-cloud-task.version>
         <spring-cloud-stream.version>3.1.4</spring-cloud-stream.version>
