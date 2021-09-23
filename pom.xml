@@ -56,7 +56,7 @@
         <!--productivity & tools-->
         <functionaljava.version>4.9</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
-        <joda-time.version>2.10.10</joda-time.version>
+        <joda-time.version>2.10.11</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>30.1.1-jre</guava.version>
         <guice.version>5.0.1</guice.version>
@@ -85,14 +85,14 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
-        <bytebuddy.version>1.11.16</bytebuddy.version>
+        <bytebuddy.version>1.11.18</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.7</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
         <lombok.version>1.18.20</lombok.version>
         <immutables.version>2.8.8</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
-        <reflections.version>0.9.12</reflections.version>
+        <reflections.version>0.10-RC1</reflections.version>
         <threetenbp.version>1.5.1</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
@@ -134,7 +134,7 @@
         <tcnative.version>2.0.42.Final</tcnative.version>
         <netty-boringssl.version>2.0.43.Final</netty-boringssl.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.40.1</grpc.version>
+        <grpc.version>1.41.0</grpc.version>
         <google-gax.version>1.60.0</google-gax.version>
         <asynchttpclient.version>2.12.3</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
@@ -297,10 +297,10 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.71</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.43</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.72</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.44</aws-java-sdk2.version>
         <google-cloud-bom.version>0.161.0</google-cloud-bom.version>
-        <sendgrid.version>4.7.4</sendgrid.version>
+        <sendgrid.version>4.7.5</sendgrid.version>
         <kubernetes-client.version>5.7.3</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <!--languages-->
@@ -344,7 +344,7 @@
         <spring-hateoas.version>1.3.4</spring-hateoas.version>
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>3.0.4</spring-cloud-contract.version>
-        <spring-cloud.version>2020.0.3</spring-cloud.version>
+        <spring-cloud.version>2020.0.4</spring-cloud.version>
         <spring-cloud-task.version>2.3.3</spring-cloud-task.version>
         <spring-cloud-stream.version>3.1.4</spring-cloud-stream.version>
         <spring-cloud-function.version>3.1.4</spring-cloud-function.version>
