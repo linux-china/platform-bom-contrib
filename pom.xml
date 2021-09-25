@@ -50,7 +50,7 @@
         <jolokia.version>1.7.1</jolokia.version>
         <logback.version>1.2.5</logback.version>
         <slf4j.version>1.7.32</slf4j.version>
-        <flogger.version>0.6.0</flogger.version>
+        <flogger.version>0.7</flogger.version>
         <jna.version>5.9.0</jna.version>
         <prometheus-client.version>0.12.0</prometheus-client.version>
         <!--productivity & tools-->
@@ -58,7 +58,7 @@
         <fugue.version>4.7.2</fugue.version>
         <joda-time.version>2.10.11</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
-        <guava.version>30.1.1-jre</guava.version>
+        <guava.version>31.0-jre</guava.version>
         <guice.version>5.0.1</guice.version>
         <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
@@ -197,7 +197,7 @@
         <openpdf.version>1.3.26</openpdf.version>
         <jaxen.version>1.2.0</jaxen.version>
         <xom.version>1.3.7</xom.version>
-        <jte.version>1.11.4</jte.version>
+        <jte.version>1.12.0</jte.version>
         <evo-inflector.version>1.3</evo-inflector.version>
         <!--persistence-->
         <hibernate.version>5.5.7.Final</hibernate.version>
@@ -247,14 +247,14 @@
         <mysql.version>8.0.26</mysql.version>
         <oracle.version>21.3.0.0</oracle.version>
         <influxdb-java.version>2.22</influxdb-java.version>
-        <r2dbc-bom.version>Arabba-SR10</r2dbc-bom.version>
+        <r2dbc-bom.version>Arabba-SR11</r2dbc-bom.version>
         <datastax.version>4.13.0</datastax.version>
         <!--security-->
         <cas-client.version>3.6.2</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.69</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.14</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>9.15</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>9.17</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
@@ -297,14 +297,14 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.72</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.44</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.74</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.46</aws-java-sdk2.version>
         <google-cloud-bom.version>0.161.0</google-cloud-bom.version>
         <sendgrid.version>4.7.5</sendgrid.version>
-        <kubernetes-client.version>5.7.3</kubernetes-client.version>
+        <kubernetes-client.version>5.8.0</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <!--languages-->
-        <kotlin.version>1.5.31</kotlin.version>
+        <kotlin.version>1.6.0-M1</kotlin.version>
         <kotlinx-coroutines.version>1.5.2</kotlinx-coroutines.version>
         <jruby.version>9.3.0.0</jruby.version>
         <!--netflix-->
