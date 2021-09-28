@@ -50,7 +50,7 @@
         <jolokia.version>1.7.1</jolokia.version>
         <logback.version>1.2.5</logback.version>
         <slf4j.version>1.7.32</slf4j.version>
-        <flogger.version>0.7</flogger.version>
+        <flogger.version>0.7.1</flogger.version>
         <jna.version>5.9.0</jna.version>
         <prometheus-client.version>0.12.0</prometheus-client.version>
         <!--productivity & tools-->
@@ -58,7 +58,7 @@
         <fugue.version>4.7.2</fugue.version>
         <joda-time.version>2.10.11</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
-        <guava.version>31.0-jre</guava.version>
+        <guava.version>31.0.1-jre</guava.version>
         <guice.version>5.0.1</guice.version>
         <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
@@ -154,7 +154,7 @@
         <!--servers-->
         <jetty.version>11.0.6</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.2.10.Final</undertow.version>
+        <undertow.version>2.2.11.Final</undertow.version>
         <jersey.version>3.0.3</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.2</jsqlparser.version>
@@ -254,7 +254,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.69</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.15</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>9.15.2</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>9.17</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
@@ -297,8 +297,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.74</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.46</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.75</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.47</aws-java-sdk2.version>
         <google-cloud-bom.version>0.161.0</google-cloud-bom.version>
         <sendgrid.version>4.7.5</sendgrid.version>
         <kubernetes-client.version>5.8.0</kubernetes-client.version>
