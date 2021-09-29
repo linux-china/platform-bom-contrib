@@ -56,7 +56,7 @@
         <!--productivity & tools-->
         <functionaljava.version>4.9</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
-        <joda-time.version>2.10.11</joda-time.version>
+        <joda-time.version>2.10.12</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>30.1.1-jre</guava.version>
         <guice.version>5.0.1</guice.version>
@@ -92,7 +92,7 @@
         <lombok.version>1.18.20</lombok.version>
         <immutables.version>2.8.8</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
-        <reflections.version>0.10-RC1</reflections.version>
+        <reflections.version>0.10-RC2</reflections.version>
         <threetenbp.version>1.5.1</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
@@ -220,8 +220,8 @@
         <ehcache3.version>3.9.6</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>8.0.0-beta2</flyway.version>
-        <liquibase.version>4.4.3</liquibase.version>
+        <flyway.version>8.0.0-beta3</flyway.version>
+        <liquibase.version>4.5.0</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
@@ -281,7 +281,7 @@
         <kafka.version>3.0.0</kafka.version>
         <log4j2.version>2.14.1</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
-        <solr.version>8.9.0</solr.version>
+        <solr.version>8.10.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>10.0.11</tomcat.version>
         <groovy.version>3.0.9</groovy.version>
@@ -297,9 +297,9 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.75</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.47</aws-java-sdk2.version>
-        <google-cloud-bom.version>0.161.0</google-cloud-bom.version>
+        <aws-java-sdk.version>1.12.76</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.48</aws-java-sdk2.version>
+        <google-cloud-bom.version>0.162.0</google-cloud-bom.version>
         <sendgrid.version>4.7.5</sendgrid.version>
         <kubernetes-client.version>5.8.0</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
