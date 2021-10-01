@@ -65,7 +65,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>3.0.0</togglz.version>
         <ff4j.version>1.8.11</ff4j.version>
-        <underscore.version>1.69</underscore.version>
+        <underscore.version>1.70</underscore.version>
         <java-util.version>1.65.0</java-util.version>
         <verbalregex.version>1.8</verbalregex.version>
         <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -81,7 +81,7 @@
         <rgxgen.version>1.3</rgxgen.version>
         <!--code & classes-->
         <jetbrains-annotations.version>22.0.0</jetbrains-annotations.version>
-        <swagger-oai.version>2.1.10</swagger-oai.version>
+        <swagger-oai.version>2.1.11</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
@@ -103,7 +103,7 @@
         <mockito.version>3.12.4</mockito.version>
         <htmlunit.version>2.53.0</htmlunit.version>
         <testng.version>7.4.0</testng.version>
-        <selenium.version>4.0.0-rc-1</selenium.version>
+        <selenium.version>4.0.0-rc-2</selenium.version>
         <selenium-htmlunit-driver.version>2.53.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.1</toomuchcoding-jsonassert.version>
@@ -154,12 +154,12 @@
         <!--servers-->
         <jetty.version>11.0.6</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.2.11.Final</undertow.version>
+        <undertow.version>2.2.12.Final</undertow.version>
         <jersey.version>3.0.3</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.2</jsqlparser.version>
         <javaparser.version>3.23.0</javaparser.version>
-        <jackson.version>2.13.0-rc2</jackson.version>
+        <jackson.version>2.13.0</jackson.version>
         <moshi.version>1.9.3</moshi.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>1.29</snakeyaml.version>
@@ -171,7 +171,7 @@
         <itext.version>4.2.2</itext.version>
         <json.version>20210307</json.version>
         <kryo.version>4.0.2</kryo.version>
-        <jsoup.version>1.14.2</jsoup.version>
+        <jsoup.version>1.14.3</jsoup.version>
         <thymeleaf.version>3.0.12.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>3.0.0</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
@@ -230,8 +230,8 @@
         <neo4j-ogm.version>3.2.26</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>8.0.0-alpha1</elasticsearch.version>
-        <hazelcast.version>4.2.1</hazelcast.version>
+        <elasticsearch.version>8.0.0-alpha2</elasticsearch.version>
+        <hazelcast.version>5.0</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
         <infinispan.version>12.1.7.Final</infinispan.version>
@@ -255,7 +255,7 @@
         <bouncycastle.version>1.69</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.15.2</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.17</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.18</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -297,8 +297,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.76</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.48</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.78</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.50</aws-java-sdk2.version>
         <google-cloud-bom.version>0.162.0</google-cloud-bom.version>
         <sendgrid.version>4.7.5</sendgrid.version>
         <kubernetes-client.version>5.8.0</kubernetes-client.version>
@@ -331,7 +331,7 @@
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.5.2</spring-security.version>
         <spring-security-oauth.version>2.5.1.RELEASE</spring-security-oauth.version>
-        <spring-security-oauth2-autoconfigure.version>2.5.2</spring-security-oauth2-autoconfigure.version>
+        <spring-security-oauth2-autoconfigure.version>2.5.5</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.10.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
@@ -345,7 +345,7 @@
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>3.0.4</spring-cloud-contract.version>
         <spring-cloud.version>2020.0.4</spring-cloud.version>
-        <spring-cloud-task.version>2.3.3</spring-cloud-task.version>
+        <spring-cloud-task.version>2.3.4</spring-cloud-task.version>
         <spring-cloud-stream.version>3.1.4</spring-cloud-stream.version>
         <spring-cloud-function.version>3.1.4</spring-cloud-function.version>
         <spring-ldap.version>2.3.4.RELEASE</spring-ldap.version>
