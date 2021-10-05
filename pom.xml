@@ -85,14 +85,14 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
-        <bytebuddy.version>1.11.18</bytebuddy.version>
+        <bytebuddy.version>1.11.19</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.7</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
         <lombok.version>1.18.20</lombok.version>
         <immutables.version>2.8.8</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
-        <reflections.version>0.10-RC2</reflections.version>
+        <reflections.version>0.10</reflections.version>
         <threetenbp.version>1.5.1</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
@@ -212,7 +212,7 @@
         <mybatis-spring.version>2.0.6</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>3.0.2-rc</mariadb.version>
-        <mongodb.version>4.3.2</mongodb.version>
+        <mongodb.version>4.3.3</mongodb.version>
         <mongodb-reactivestreams.version>4.3.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.0.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
@@ -238,7 +238,7 @@
         <querydsl.version>5.0.0</querydsl.version>
         <hikaricp.version>5.0.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
-        <unboundid-ldapsdk.version>6.0.1</unboundid-ldapsdk.version>
+        <unboundid-ldapsdk.version>6.0.2</unboundid-ldapsdk.version>
         <postgresql.version>42.2.32.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.22.0</jdbi.version>
@@ -297,8 +297,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.79</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.51</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.80</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.52</aws-java-sdk2.version>
         <google-cloud-bom.version>0.162.0</google-cloud-bom.version>
         <sendgrid.version>4.7.5</sendgrid.version>
         <kubernetes-client.version>5.8.0</kubernetes-client.version>
