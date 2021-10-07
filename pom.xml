@@ -89,10 +89,10 @@
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.7</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
-        <lombok.version>1.18.20</lombok.version>
+        <lombok.version>1.18.22</lombok.version>
         <immutables.version>2.8.8</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
-        <reflections.version>0.10</reflections.version>
+        <reflections.version>0.10.1</reflections.version>
         <threetenbp.version>1.5.1</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
@@ -100,7 +100,7 @@
         <junit.version>4.13.2</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
-        <mockito.version>3.12.4</mockito.version>
+        <mockito.version>4.0.0</mockito.version>
         <htmlunit.version>2.53.0</htmlunit.version>
         <testng.version>7.4.0</testng.version>
         <selenium.version>4.0.0-rc-2</selenium.version>
@@ -297,8 +297,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.81</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.53</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.82</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.54</aws-java-sdk2.version>
         <google-cloud-bom.version>0.162.0</google-cloud-bom.version>
         <sendgrid.version>4.7.5</sendgrid.version>
         <kubernetes-client.version>5.8.0</kubernetes-client.version>
