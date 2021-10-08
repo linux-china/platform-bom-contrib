@@ -242,7 +242,7 @@
         <postgresql.version>42.2.32.jre7</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.22.0</jdbi.version>
-        <couchbase-client.version>3.2.1</couchbase-client.version>
+        <couchbase-client.version>3.2.2</couchbase-client.version>
         <openjpa.version>3.2.0</openjpa.version>
         <mysql.version>8.0.26</mysql.version>
         <oracle.version>21.3.0.0</oracle.version>
@@ -297,8 +297,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.82</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.54</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.83</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.55</aws-java-sdk2.version>
         <google-cloud-bom.version>0.162.0</google-cloud-bom.version>
         <sendgrid.version>4.7.5</sendgrid.version>
         <kubernetes-client.version>5.8.0</kubernetes-client.version>
