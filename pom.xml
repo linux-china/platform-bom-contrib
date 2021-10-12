@@ -58,7 +58,7 @@
         <fugue.version>4.7.2</fugue.version>
         <joda-time.version>2.10.12</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
-        <guava.version>30.1.1-jre</guava.version>
+        <guava.version>31.0.1-jre</guava.version>
         <guice.version>5.0.1</guice.version>
         <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
@@ -150,7 +150,7 @@
         <zipkin-reporter2.version>2.16.3</zipkin-reporter2.version>
         <rsocket.versoin>1.1.1</rsocket.versoin>
         <!--servers-->
-        <jetty.version>11.0.6</jetty.version>
+        <jetty.version>11.0.7</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.2.12.Final</undertow.version>
         <jersey.version>3.0.3</jersey.version>
@@ -295,14 +295,14 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.84</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.56</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.85</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.57</aws-java-sdk2.version>
         <google-cloud-bom.version>0.162.0</google-cloud-bom.version>
         <sendgrid.version>4.7.5</sendgrid.version>
         <kubernetes-client.version>5.8.0</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <!--languages-->
-        <kotlin.version>1.6.0-M1</kotlin.version>
+        <kotlin.version>1.6.0-RC</kotlin.version>
         <kotlinx-coroutines.version>1.5.2</kotlinx-coroutines.version>
         <jruby.version>9.3.0.0</jruby.version>
         <!--netflix-->
@@ -359,7 +359,7 @@
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-cloud-connector.version>2.0.7.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
-        <reactor-bom.version>2020.0.11</reactor-bom.version>
+        <reactor-bom.version>2020.0.12</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
         <micrometer.version>1.7.4</micrometer.version>
     </properties>
@@ -1545,7 +1545,7 @@
             <dependency>
                 <groupId>io.projectreactor.kotlin</groupId>
                 <artifactId>reactor-kotlin-extensions</artifactId>
-                <version>1.1.4</version>
+                <version>1.1.5</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.plugin</groupId>
