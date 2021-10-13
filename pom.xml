@@ -103,7 +103,7 @@
         <mockito.version>4.0.0</mockito.version>
         <htmlunit.version>2.53.0</htmlunit.version>
         <testng.version>7.4.0</testng.version>
-        <selenium.version>4.0.0-rc-3</selenium.version>
+        <selenium.version>4.0.0</selenium.version>
         <selenium-htmlunit-driver.version>2.53.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.1</toomuchcoding-jsonassert.version>
@@ -198,7 +198,7 @@
         <jte.version>1.12.0</jte.version>
         <evo-inflector.version>1.3</evo-inflector.version>
         <!--persistence-->
-        <hibernate.version>5.5.7.Final</hibernate.version>
+        <hibernate.version>5.6.0.Final</hibernate.version>
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
         <hibernate-types.version>2.13.0</hibernate-types.version>
         <jooq.version>3.15.3</jooq.version>
@@ -295,8 +295,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.85</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.57</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.86</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.58</aws-java-sdk2.version>
         <google-cloud-bom.version>0.162.0</google-cloud-bom.version>
         <sendgrid.version>4.7.5</sendgrid.version>
         <kubernetes-client.version>5.8.0</kubernetes-client.version>
@@ -304,7 +304,7 @@
         <!--languages-->
         <kotlin.version>1.6.0-RC</kotlin.version>
         <kotlinx-coroutines.version>1.5.2</kotlinx-coroutines.version>
-        <jruby.version>9.3.0.0</jruby.version>
+        <jruby.version>9.3.1.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <ribbon.version>2.7.18</ribbon.version>
