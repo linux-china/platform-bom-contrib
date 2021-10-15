@@ -215,7 +215,7 @@
         <embedded-mongo.version>3.0.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>4.0.0</cassandra-driver.version>
-        <ehcache3.version>3.9.6</ehcache3.version>
+        <ehcache3.version>3.9.7</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
         <flyway.version>8.0.1</flyway.version>
@@ -295,8 +295,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.87</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.59</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.88</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.60</aws-java-sdk2.version>
         <google-cloud-bom.version>0.162.0</google-cloud-bom.version>
         <sendgrid.version>4.7.5</sendgrid.version>
         <kubernetes-client.version>5.9.0</kubernetes-client.version>
@@ -339,7 +339,7 @@
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.5.5</spring-boot.version>
-        <spring-hateoas.version>1.3.4</spring-hateoas.version>
+        <spring-hateoas.version>1.3.5</spring-hateoas.version>
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>3.0.4</spring-cloud-contract.version>
         <spring-cloud.version>2020.0.4</spring-cloud.version>
@@ -361,7 +361,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <reactor-bom.version>2020.0.12</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
-        <micrometer.version>1.7.4</micrometer.version>
+        <micrometer.version>1.7.5</micrometer.version>
     </properties>
 
     <dependencyManagement>
