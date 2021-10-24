@@ -200,7 +200,7 @@
         <!--persistence-->
         <hibernate.version>5.6.0.Final</hibernate.version>
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
-        <hibernate-types.version>2.13.0</hibernate-types.version>
+        <hibernate-types.version>2.14.0</hibernate-types.version>
         <jooq.version>3.15.3</jooq.version>
         <jedis.version>3.7.0</jedis.version>
         <lettuce.version>6.1.5.RELEASE</lettuce.version>
