@@ -56,7 +56,7 @@
         <!--productivity & tools-->
         <functionaljava.version>4.9</functionaljava.version>
         <fugue.version>4.7.2</fugue.version>
-        <joda-time.version>2.10.12</joda-time.version>
+        <joda-time.version>2.10.13</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>31.0.1-jre</guava.version>
         <guice.version>5.0.1</guice.version>
@@ -92,7 +92,7 @@
         <lombok.version>1.18.22</lombok.version>
         <immutables.version>2.8.8</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
-        <reflections.version>0.10.1</reflections.version>
+        <reflections.version>0.10.2</reflections.version>
         <threetenbp.version>1.5.1</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
@@ -122,7 +122,7 @@
         <database-rider.version>1.32.0</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
-        <awaitility.version>4.1.0</awaitility.version>
+        <awaitility.version>4.1.1</awaitility.version>
         <model-assert.version>1.0.0</model-assert.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
@@ -140,7 +140,7 @@
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
         <smack4.version>4.4.3</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
-        <openfeign.version>11.6</openfeign.version>
+        <openfeign.version>11.7</openfeign.version>
         <javax-mail.version>1.6.3</javax-mail.version>
         <javax-cache.version>1.1.1</javax-cache.version>
         <javax-validation.version>2.0.1.Final</javax-validation.version>
@@ -198,10 +198,10 @@
         <jte.version>1.12.0</jte.version>
         <evo-inflector.version>1.3</evo-inflector.version>
         <!--persistence-->
-        <hibernate.version>5.6.0.Final</hibernate.version>
+        <hibernate.version>5.6.1.Final</hibernate.version>
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
         <hibernate-types.version>2.14.0</hibernate-types.version>
-        <jooq.version>3.15.3</jooq.version>
+        <jooq.version>3.15.4</jooq.version>
         <jedis.version>3.7.0</jedis.version>
         <lettuce.version>6.1.5.RELEASE</lettuce.version>
         <caffeine.version>2.9.2</caffeine.version>
@@ -223,7 +223,7 @@
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
-        <hsqldb.version>2.6.0</hsqldb.version>
+        <hsqldb.version>2.6.1</hsqldb.version>
         <sqlite-jdbc.version>3.36.0.3</sqlite-jdbc.version>
         <neo4j-ogm.version>3.2.27</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
@@ -295,9 +295,9 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.94</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.66</aws-java-sdk2.version>
-        <google-cloud-bom.version>0.162.0</google-cloud-bom.version>
+        <aws-java-sdk.version>1.12.96</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.68</aws-java-sdk2.version>
+        <google-cloud-bom.version>0.163.0</google-cloud-bom.version>
         <sendgrid.version>4.7.6</sendgrid.version>
         <kubernetes-client.version>5.9.0</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
