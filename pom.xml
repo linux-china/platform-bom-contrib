@@ -232,7 +232,7 @@
         <hazelcast.version>5.0</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-        <infinispan.version>13.0.0.Final</infinispan.version>
+        <infinispan.version>13.0.1.Final</infinispan.version>
         <querydsl.version>5.0.0</querydsl.version>
         <hikaricp.version>5.0.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
@@ -258,7 +258,7 @@
         <httpcore.version>4.4.14</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
         <httpcore5.version>5.2-alpha1</httpcore5.version>
-        <httpclient5.version>5.1</httpclient5.version>
+        <httpclient5.version>5.1.1</httpclient5.version>
         <commons-cli.version>1.4</commons-cli.version>
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-net.version>3.8.0</commons-net.version>
@@ -295,8 +295,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.96</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.68</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.97</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.69</aws-java-sdk2.version>
         <google-cloud-bom.version>0.163.0</google-cloud-bom.version>
         <sendgrid.version>4.7.6</sendgrid.version>
         <kubernetes-client.version>5.9.0</kubernetes-client.version>
