@@ -65,7 +65,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>3.0.0</togglz.version>
         <ff4j.version>1.8.11</ff4j.version>
-        <underscore.version>1.70</underscore.version>
+        <underscore.version>1.71</underscore.version>
         <java-util.version>1.65.0</java-util.version>
         <verbalregex.version>1.8</verbalregex.version>
         <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -218,7 +218,7 @@
         <ehcache3.version>3.9.7</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>8.0.2</flyway.version>
+        <flyway.version>8.0.3</flyway.version>
         <liquibase.version>4.5.0</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
