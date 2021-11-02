@@ -138,7 +138,7 @@
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
-        <smack4.version>4.4.3</smack4.version>
+        <smack4.version>4.4.4</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>11.7</openfeign.version>
         <javax-mail.version>1.6.3</javax-mail.version>
@@ -275,7 +275,7 @@
         <commons-pool2.version>2.11.1</commons-pool2.version>
         <commons-dbcp2.version>2.9.0</commons-dbcp2.version>
         <commons-rng.version>1.4</commons-rng.version>
-        <poi.version>5.0.0</poi.version>
+        <poi.version>5.1.0</poi.version>
         <kafka.version>3.0.0</kafka.version>
         <log4j2.version>2.14.1</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
@@ -295,8 +295,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.91</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.99</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.71</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.100</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.72</aws-java-sdk2.version>
         <google-cloud-bom.version>0.163.0</google-cloud-bom.version>
         <sendgrid.version>4.7.6</sendgrid.version>
         <kubernetes-client.version>5.9.0</kubernetes-client.version>
