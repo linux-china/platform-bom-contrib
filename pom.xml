@@ -85,7 +85,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
-        <bytebuddy.version>1.11.22</bytebuddy.version>
+        <bytebuddy.version>1.12.0</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.7</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
@@ -127,7 +127,7 @@
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>5.0.0-alpha.2</okhttp3.version>
-        <okio.version>2.9.0</okio.version>
+        <okio.version>3.0.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.70.Final</netty.version>
@@ -219,7 +219,7 @@
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
         <flyway.version>8.0.3</flyway.version>
-        <liquibase.version>4.5.0</liquibase.version>
+        <liquibase.version>4.6.1</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>1.4.200</h2.version>
@@ -295,8 +295,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.92</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.104</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.75</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.105</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.76</aws-java-sdk2.version>
         <google-cloud-bom.version>0.163.0</google-cloud-bom.version>
         <sendgrid.version>4.8.0</sendgrid.version>
         <kubernetes-client.version>5.9.0</kubernetes-client.version>
@@ -1460,7 +1460,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>4.5.8</version>
+                <version>4.5.9</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
