@@ -51,7 +51,7 @@
         <logback.version>1.2.5</logback.version>
         <slf4j.version>1.7.32</slf4j.version>
         <flogger.version>0.7.1</flogger.version>
-        <jna.version>5.9.0</jna.version>
+        <jna.version>5.10.0</jna.version>
         <prometheus-client.version>0.12.0</prometheus-client.version>
         <!--productivity & tools-->
         <functionaljava.version>4.9</functionaljava.version>
@@ -93,7 +93,7 @@
         <immutables.version>2.8.8</immutables.version>
         <audit4j.version>2.5.0</audit4j.version>
         <reflections.version>0.10.2</reflections.version>
-        <threetenbp.version>1.5.1</threetenbp.version>
+        <threetenbp.version>1.5.2</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.8.1</junit5.version>
@@ -228,7 +228,7 @@
         <neo4j-ogm.version>3.2.27</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>8.0.0-alpha2</elasticsearch.version>
+        <elasticsearch.version>8.0.0-beta1</elasticsearch.version>
         <hazelcast.version>5.0</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -295,8 +295,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.92</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.105</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.76</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.106</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.77</aws-java-sdk2.version>
         <google-cloud-bom.version>0.163.0</google-cloud-bom.version>
         <sendgrid.version>4.8.0</sendgrid.version>
         <kubernetes-client.version>5.9.0</kubernetes-client.version>
@@ -359,7 +359,7 @@
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-cloud-connector.version>2.0.7.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
-        <reactor-bom.version>2020.0.12</reactor-bom.version>
+        <reactor-bom.version>2020.0.13</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
         <micrometer.version>1.7.5</micrometer.version>
     </properties>
