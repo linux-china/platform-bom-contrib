@@ -80,12 +80,12 @@
         <math-parser.version>4.4.2</math-parser.version>
         <rgxgen.version>1.3</rgxgen.version>
         <!--code & classes-->
-        <jetbrains-annotations.version>22.0.0</jetbrains-annotations.version>
+        <jetbrains-annotations.version>23.0.0</jetbrains-annotations.version>
         <swagger-oai.version>2.1.11</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
-        <bytebuddy.version>1.12.0</bytebuddy.version>
+        <bytebuddy.version>1.12.1</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.7</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
@@ -218,7 +218,7 @@
         <ehcache3.version>3.9.7</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>8.0.3</flyway.version>
+        <flyway.version>8.0.4</flyway.version>
         <liquibase.version>4.6.1</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -232,14 +232,14 @@
         <hazelcast.version>5.0</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-        <infinispan.version>13.0.1.Final</infinispan.version>
+        <infinispan.version>13.0.2.Final</infinispan.version>
         <querydsl.version>5.0.0</querydsl.version>
         <hikaricp.version>5.0.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>6.0.2</unboundid-ldapsdk.version>
         <postgresql.version>42.3.1</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.23.0</jdbi.version>
+        <jdbi.version>3.24.0</jdbi.version>
         <couchbase-client.version>3.2.3</couchbase-client.version>
         <openjpa.version>3.2.0</openjpa.version>
         <mysql.version>8.0.27</mysql.version>
@@ -295,8 +295,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.92</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.106</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.77</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.107</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.78</aws-java-sdk2.version>
         <google-cloud-bom.version>0.163.0</google-cloud-bom.version>
         <sendgrid.version>4.8.0</sendgrid.version>
         <kubernetes-client.version>5.9.0</kubernetes-client.version>
@@ -1460,7 +1460,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>4.5.9</version>
+                <version>4.5.10</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
