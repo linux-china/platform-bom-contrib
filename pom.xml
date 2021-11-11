@@ -163,7 +163,7 @@
         <snakeyaml.version>1.29</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.8.9</gson.version>
-        <protobuf.version>3.19.0</protobuf.version>
+        <protobuf.version>3.19.1</protobuf.version>
         <json-smart.version>2.4.7</json-smart.version>
         <json-path.version>2.6.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -180,7 +180,7 @@
         <unbescape.version>1.1.6.RELEASE</unbescape.version>
         <attoparser.version>2.0.5.RELEASE</attoparser.version>
         <jmustache.version>1.15</jmustache.version>
-        <wss4j2.version>2.3.3</wss4j2.version>
+        <wss4j2.version>2.4.0</wss4j2.version>
         <objenesis.version>3.2</objenesis.version>
         <jopt-simple.version>5.0.4</jopt-simple.version>
         <rometools.version>1.16.0</rometools.version>
@@ -295,11 +295,11 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.92</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.107</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.78</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.108</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.79</aws-java-sdk2.version>
         <google-cloud-bom.version>0.163.0</google-cloud-bom.version>
         <sendgrid.version>4.8.0</sendgrid.version>
-        <kubernetes-client.version>5.9.0</kubernetes-client.version>
+        <kubernetes-client.version>5.10.0</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <!--languages-->
         <kotlin.version>1.6.0-RC2</kotlin.version>
@@ -320,8 +320,8 @@
         <javax-money.version>1.1</javax-money.version>
         <moneta.version>1.4.2</moneta.version>  <!-- javax money -->
         <!--springsource-->
-        <spring.version>5.3.12</spring.version>
-        <spring-framework.version>5.3.12</spring-framework.version>
+        <spring.version>5.3.13</spring.version>
+        <spring-framework.version>5.3.13</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.3.3</spring-batch.version>
         <spring-ws.version>3.1.1</spring-ws.version>
@@ -361,7 +361,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <reactor-bom.version>2020.0.13</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
-        <micrometer.version>1.7.5</micrometer.version>
+        <micrometer.version>1.8.0</micrometer.version>
     </properties>
 
     <dependencyManagement>
