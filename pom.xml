@@ -218,7 +218,7 @@
         <ehcache3.version>3.9.7</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>8.0.4</flyway.version>
+        <flyway.version>8.0.5</flyway.version>
         <liquibase.version>4.6.1</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -295,8 +295,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.92</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.111</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.82</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.113</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.83</aws-java-sdk2.version>
         <google-cloud-bom.version>0.163.0</google-cloud-bom.version>
         <sendgrid.version>4.8.0</sendgrid.version>
         <kubernetes-client.version>5.10.1</kubernetes-client.version>
@@ -325,7 +325,7 @@
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.3.3</spring-batch.version>
         <spring-ws.version>3.1.1</spring-ws.version>
-        <spring-session-bom.version>2021.0.3</spring-session-bom.version>
+        <spring-session-bom.version>2021.1.0</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.6.0</spring-security.version>
         <spring-security-oauth.version>2.5.1.RELEASE</spring-security-oauth.version>
@@ -335,7 +335,7 @@
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-SR9</spring-data-releasetrain.version>
         <spring-data-bom.version>2021.1.0</spring-data-bom.version>
-        <spring-integration.version>5.5.5</spring-integration.version>
+        <spring-integration.version>5.5.6</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.5.6</spring-boot.version>
