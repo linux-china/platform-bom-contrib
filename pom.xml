@@ -211,7 +211,7 @@
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>3.0.2-rc</mariadb.version>
         <mongodb.version>4.4.0</mongodb.version>
-        <mongodb-reactivestreams.version>4.3.0</mongodb-reactivestreams.version>
+        <mongodb-reactivestreams.version>4.4.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>4.0.0</cassandra-driver.version>
@@ -303,7 +303,7 @@
         <istio-client.version>1.7.7.1</istio-client.version>
         <!--languages-->
         <kotlin.version>1.6.0</kotlin.version>
-        <kotlinx-coroutines.version>1.5.2</kotlinx-coroutines.version>
+        <kotlinx-coroutines.version>1.6.0-RC</kotlinx-coroutines.version>
         <jruby.version>9.3.1.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
