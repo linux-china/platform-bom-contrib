@@ -225,7 +225,7 @@
         <h2.version>1.4.200</h2.version>
         <hsqldb.version>2.6.1</hsqldb.version>
         <sqlite-jdbc.version>3.36.0.3</sqlite-jdbc.version>
-        <neo4j-ogm.version>3.2.27</neo4j-ogm.version>
+        <neo4j-ogm.version>3.2.28</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
         <elasticsearch.version>8.0.0-beta1</elasticsearch.version>
@@ -295,8 +295,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.92</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.116</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.87</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.117</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.88</aws-java-sdk2.version>
         <google-cloud-bom.version>0.163.0</google-cloud-bom.version>
         <sendgrid.version>4.8.0</sendgrid.version>
         <kubernetes-client.version>5.10.1</kubernetes-client.version>
@@ -329,7 +329,7 @@
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.6.0</spring-security.version>
         <spring-security-oauth.version>2.5.1.RELEASE</spring-security-oauth.version>
-        <spring-security-oauth2-autoconfigure.version>2.5.6</spring-security-oauth2-autoconfigure.version>
+        <spring-security-oauth2-autoconfigure.version>2.5.7</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.11.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
