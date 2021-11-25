@@ -139,6 +139,8 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * jcabi: Small Useful Java Components https://www.jcabi.com/
 * jobRunr: easy way to perform background processing in Java https://www.jobrunr.io/en/
 * shedlock: distributed lock for your scheduled tasks https://github.com/lukas-krecan/ShedLock
+* resilience4j: fault tolerance library designed for Java8 and functional programming https://github.com/resilience4j/resilience4j
+* failsafe: Fault tolerance and resilience patterns for the JVM https://github.com/failsafe-lib/failsafe 
 
 ### Developer Notice
 
