@@ -97,7 +97,7 @@
         <threetenbp.version>1.5.2</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
-        <junit5.version>5.8.1</junit5.version>
+        <junit5.version>5.8.2</junit5.version>
         <junit.version>4.13.2</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
@@ -296,8 +296,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>1.9.92</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.119</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.90</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.120</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.91</aws-java-sdk2.version>
         <google-cloud-bom.version>0.163.0</google-cloud-bom.version>
         <sendgrid.version>4.8.0</sendgrid.version>
         <kubernetes-client.version>5.10.1</kubernetes-client.version>
@@ -330,7 +330,7 @@
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.6.0</spring-security.version>
         <spring-security-oauth.version>2.5.1.RELEASE</spring-security-oauth.version>
-        <spring-security-oauth2-autoconfigure.version>2.6.0</spring-security-oauth2-autoconfigure.version>
+        <spring-security-oauth2-autoconfigure.version>2.6.1</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.11.RELEASE</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
@@ -339,7 +339,7 @@
         <spring-integration.version>5.5.6</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>2.6.0</spring-boot.version>
+        <spring-boot.version>2.6.1</spring-boot.version>
         <spring-hateoas.version>1.4.0</spring-hateoas.version>
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>3.0.4</spring-cloud-contract.version>
