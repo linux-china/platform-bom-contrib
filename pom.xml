@@ -78,6 +78,7 @@
         <resilience4j.version>1.7.0</resilience4j.version>
         <failsafe.version>3.0.2</failsafe.version>
         <eclipse-collections.version>11.0.0</eclipse-collections.version>
+        <agrona.version>1.14.0</agrona.version>
         <math-parser.version>4.4.2</math-parser.version>
         <rgxgen.version>1.3</rgxgen.version>
         <!--code & classes-->
@@ -1021,6 +1022,11 @@
                 <groupId>org.eclipse.collections</groupId>
                 <artifactId>eclipse-collections</artifactId>
                 <version>${eclipse-collections.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.agrona</groupId>
+                <artifactId>agrona</artifactId>
+                <version>${agrona.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.github.resilience4j</groupId>
