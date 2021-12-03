@@ -141,6 +141,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * shedlock: distributed lock for your scheduled tasks https://github.com/lukas-krecan/ShedLock
 * resilience4j: fault tolerance library designed for Java8 and functional programming https://github.com/resilience4j/resilience4j
 * failsafe: Fault tolerance and resilience patterns for the JVM https://github.com/failsafe-lib/failsafe 
+* agrona: High Performance data structures and utility methods for Java https://github.com/real-logic/agrona
 
 ### Developer Notice
 
