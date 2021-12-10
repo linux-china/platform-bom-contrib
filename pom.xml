@@ -279,7 +279,7 @@
         <commons-rng.version>1.4</commons-rng.version>
         <poi.version>5.1.0</poi.version>
         <kafka.version>3.0.0</kafka.version>
-        <log4j2.version>2.14.1</log4j2.version>
+        <log4j2.version>2.15.0</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.11.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
