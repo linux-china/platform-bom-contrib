@@ -46,7 +46,7 @@
         <twelvemonkeys-imageio.version>3.7.0</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
-        <dropwizard-metrics.version>4.2.4</dropwizard-metrics.version>
+        <dropwizard-metrics.version>4.2.5</dropwizard-metrics.version>
         <jolokia.version>1.7.1</jolokia.version>
         <logback.version>1.2.7</logback.version>
         <slf4j.version>1.7.32</slf4j.version>
@@ -132,7 +132,7 @@
         <okio.version>3.0.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.70.Final</netty.version>
+        <netty.version>4.1.71.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.42.1</grpc.version>
         <google-gax.version>1.60.0</google-gax.version>
@@ -204,7 +204,7 @@
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
         <hibernate-types.version>2.14.0</hibernate-types.version>
         <jooq.version>3.15.5</jooq.version>
-        <jedis.version>4.0.0-beta4</jedis.version>
+        <jedis.version>4.0.0-RC1</jedis.version>
         <lettuce.version>6.1.5.RELEASE</lettuce.version>
         <caffeine.version>2.9.3</caffeine.version>
         <jettison.version>1.4.1</jettison.version>
@@ -297,8 +297,8 @@
         <apache-geode.version>1.14.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.1</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.126</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.97</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.127</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.98</aws-java-sdk2.version>
         <google-cloud-bom.version>24.1.0</google-cloud-bom.version>
         <sendgrid.version>4.8.1</sendgrid.version>
         <kubernetes-client.version>5.10.1</kubernetes-client.version>
