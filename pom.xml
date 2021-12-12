@@ -43,14 +43,14 @@
         <webjars-locator-core.version>0.48</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.18.1</graphviz-java.version>
-        <twelvemonkeys-imageio.version>3.7.0</twelvemonkeys-imageio.version>
+        <twelvemonkeys-imageio.version>3.8.0</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.2.5</dropwizard-metrics.version>
         <jolokia.version>1.7.1</jolokia.version>
         <logback.version>1.2.7</logback.version>
         <slf4j.version>1.7.32</slf4j.version>
-        <flogger.version>0.7.1</flogger.version>
+        <flogger.version>0.7.2</flogger.version>
         <jna.version>5.10.0</jna.version>
         <prometheus-client.version>0.12.0</prometheus-client.version>
         <!--productivity & tools-->
@@ -103,7 +103,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <mockito.version>4.1.0</mockito.version>
-        <htmlunit.version>2.55.0</htmlunit.version>
+        <htmlunit.version>2.56.0</htmlunit.version>
         <testng.version>7.4.0</testng.version>
         <selenium.version>4.1.0</selenium.version>
         <selenium-htmlunit-driver.version>3.55.0</selenium-htmlunit-driver.version>
@@ -157,7 +157,7 @@
         <undertow.version>2.2.14.Final</undertow.version>
         <jersey.version>3.0.3</jersey.version>
         <!--parsers & templates & serializer-->
-        <jsqlparser.version>4.2</jsqlparser.version>
+        <jsqlparser.version>4.3</jsqlparser.version>
         <javaparser.version>3.23.1</javaparser.version>
         <jackson.version>2.13.0</jackson.version>
         <moshi.version>1.9.3</moshi.version>
@@ -204,11 +204,11 @@
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
         <hibernate-types.version>2.14.0</hibernate-types.version>
         <jooq.version>3.15.5</jooq.version>
-        <jedis.version>4.0.0-RC1</jedis.version>
+        <jedis.version>4.0.0-RC2</jedis.version>
         <lettuce.version>6.1.5.RELEASE</lettuce.version>
         <caffeine.version>2.9.3</caffeine.version>
         <jettison.version>1.4.1</jettison.version>
-        <mybatis.version>3.5.7</mybatis.version>
+        <mybatis.version>3.5.8</mybatis.version>
         <mybatis-spring.version>2.0.6</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>3.0.2-rc</mariadb.version>
