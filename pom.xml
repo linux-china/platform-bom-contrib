@@ -50,7 +50,7 @@
         <jolokia.version>1.7.1</jolokia.version>
         <logback.version>1.2.9</logback.version>
         <slf4j.version>1.7.32</slf4j.version>
-        <flogger.version>0.7.3</flogger.version>
+        <flogger.version>0.7.4</flogger.version>
         <jna.version>5.10.0</jna.version>
         <prometheus-client.version>0.14.1</prometheus-client.version>
         <!--productivity & tools-->
@@ -134,7 +134,7 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.72.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.43.0</grpc.version>
+        <grpc.version>1.43.1</grpc.version>
         <google-gax.version>1.60.0</google-gax.version>
         <asynchttpclient.version>2.12.3</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
@@ -231,17 +231,17 @@
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
         <elasticsearch.version>8.0.0-beta1</elasticsearch.version>
-        <hazelcast.version>5.0.1</hazelcast.version>
+        <hazelcast.version>5.0.2</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-        <infinispan.version>13.0.3.Final</infinispan.version>
+        <infinispan.version>13.0.5.Final</infinispan.version>
         <querydsl.version>5.0.0</querydsl.version>
         <hikaricp.version>5.0.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>6.0.3</unboundid-ldapsdk.version>
         <postgresql.version>42.3.1</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.25.0</jdbi.version>
+        <jdbi.version>3.26.0</jdbi.version>
         <couchbase-client.version>3.2.4</couchbase-client.version>
         <openjpa.version>3.2.0</openjpa.version>
         <mysql.version>8.0.27</mysql.version>
@@ -289,7 +289,7 @@
         <curator.version>5.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.16.3</activemq.version>
-        <artemis.version>2.19.0</artemis.version>
+        <artemis.version>2.20.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.5</httpasyncclient.version>
         <svnkit.version>1.10.3</svnkit.version>
@@ -297,8 +297,8 @@
         <apache-geode.version>1.14.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.1</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.129</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.100</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.130</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.101</aws-java-sdk2.version>
         <google-cloud-bom.version>24.1.0</google-cloud-bom.version>
         <sendgrid.version>4.8.1</sendgrid.version>
         <kubernetes-client.version>5.11.0</kubernetes-client.version>
@@ -327,7 +327,7 @@
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.3.4</spring-batch.version>
         <spring-ws.version>3.1.2</spring-ws.version>
-        <spring-session-bom.version>2021.1.0</spring-session-bom.version>
+        <spring-session-bom.version>2021.1.1</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.6.1</spring-security.version>
         <spring-security-oauth.version>2.5.1.RELEASE</spring-security-oauth.version>
@@ -337,7 +337,7 @@
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-SR9</spring-data-releasetrain.version>
         <spring-data-bom.version>2021.1.0</spring-data-bom.version>
-        <spring-integration.version>5.5.6</spring-integration.version>
+        <spring-integration.version>5.5.7</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.6.1</spring-boot.version>
