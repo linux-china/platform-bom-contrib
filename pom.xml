@@ -303,6 +303,7 @@
         <sendgrid.version>4.8.1</sendgrid.version>
         <kubernetes-client.version>5.11.0</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
+        <cloudevents-java.version>2.3.0</cloudevents-java.version>
         <!--languages-->
         <kotlin.version>1.6.10</kotlin.version>
         <kotlinx-coroutines.version>1.6.0-RC3</kotlinx-coroutines.version>
@@ -1438,6 +1439,13 @@
                 <groupId>com.amazonaws</groupId>
                 <artifactId>aws-java-sdk-bom</artifactId>
                 <version>${aws-java-sdk.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>io.cloudevents</groupId>
+                <artifactId>cloudevents-bom</artifactId>
+                <version>${cloudevents-java.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
