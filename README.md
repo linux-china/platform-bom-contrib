@@ -143,6 +143,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * failsafe: Fault tolerance and resilience patterns for the JVM https://github.com/failsafe-lib/failsafe 
 * agrona: High Performance data structures and utility methods for Java https://github.com/real-logic/agrona
 * cloudevents: https://github.com/cloudevents/sdk-java
+* java-properties: Java Properties is a drop-in replacement of the ubiquitous java.util.Properties https://github.com/codejive/java-properties
 
 ### Developer Notice
 
