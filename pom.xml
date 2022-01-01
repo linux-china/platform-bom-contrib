@@ -65,7 +65,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>3.0.0</togglz.version>
         <ff4j.version>1.8.12</ff4j.version>
-        <underscore.version>1.72</underscore.version>
+        <underscore.version>1.73</underscore.version>
         <java-util.version>1.66.0</java-util.version>
         <verbalregex.version>1.8</verbalregex.version>
         <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -148,7 +148,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
-        <zipkin-brave.version>5.13.6</zipkin-brave.version>
+        <zipkin-brave.version>5.13.7</zipkin-brave.version>
         <zipkin-reporter2.version>2.16.3</zipkin-reporter2.version>
         <rsocket.versoin>1.1.1</rsocket.versoin>
         <!--servers-->
