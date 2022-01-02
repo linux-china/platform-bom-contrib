@@ -160,7 +160,7 @@
         <jsqlparser.version>4.3</jsqlparser.version>
         <javaparser.version>3.23.1</javaparser.version>
         <jackson.version>2.13.1</jackson.version>
-        <moshi.version>1.9.3</moshi.version>
+        <moshi.version>1.13.0</moshi.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>1.30</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
