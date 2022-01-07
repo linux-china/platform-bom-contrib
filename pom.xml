@@ -134,8 +134,7 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.72.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.43.1</grpc.version>
-        <google-gax.version>1.60.0</google-gax.version>
+        <grpc.version>1.43.2</grpc.version>
         <asynchttpclient.version>2.12.3</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -203,7 +202,7 @@
         <hibernate.version>5.6.2.Final</hibernate.version>
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
         <hibernate-types.version>2.14.0</hibernate-types.version>
-        <jooq.version>3.16.0</jooq.version>
+        <jooq.version>3.16.1</jooq.version>
         <jedis.version>4.0.1</jedis.version>
         <lettuce.version>6.1.5.RELEASE</lettuce.version>
         <caffeine.version>2.9.3</caffeine.version>
@@ -212,7 +211,7 @@
         <mybatis-spring.version>2.0.6</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>3.0.2-rc</mariadb.version>
-        <mongodb.version>4.4.0</mongodb.version>
+        <mongodb.version>4.4.1</mongodb.version>
         <mongodb-reactivestreams.version>4.4.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
@@ -241,7 +240,7 @@
         <unboundid-ldapsdk.version>6.0.3</unboundid-ldapsdk.version>
         <postgresql.version>42.3.1</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.26.1</jdbi.version>
+        <jdbi.version>3.27.0</jdbi.version>
         <couchbase-client.version>3.2.4</couchbase-client.version>
         <openjpa.version>3.2.0</openjpa.version>
         <mysql.version>8.0.27</mysql.version>
@@ -297,8 +296,10 @@
         <apache-geode.version>1.14.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.1</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.134</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.105</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.135</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.106</aws-java-sdk2.version>
+        <google-gax.version>2.8.1</google-gax.version>
+        <google-http-client.version>1.41.0</google-http-client.version>
         <google-cloud-bom.version>24.1.2</google-cloud-bom.version>
         <sendgrid.version>4.8.1</sendgrid.version>
         <kubernetes-client.version>5.11.2</kubernetes-client.version>
@@ -1409,6 +1410,20 @@
                 <type>pom</type>
             </dependency>
             <dependency>
+                <groupId>com.google.protobuf</groupId>
+                <artifactId>protobuf-bom</artifactId>
+                <version>${protobuf.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-bom</artifactId>
+                <version>${grpc.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
                 <groupId>io.fabric8</groupId>
                 <artifactId>kubernetes-client-bom-with-deps</artifactId>
                 <version>${kubernetes-client.version}</version>
@@ -1457,23 +1472,23 @@
                 <scope>import</scope>
             </dependency>
             <dependency>
+                <groupId>com.google.api</groupId>
+                <artifactId>gax-bom</artifactId>
+                <version>${google-gax.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>com.google.http-client</groupId>
+                <artifactId>google-http-client-bom</artifactId>
+                <version>${google-http-client.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
                 <groupId>com.google.cloud</groupId>
                 <artifactId>libraries-bom</artifactId>
                 <version>${google-cloud-bom.version}</version>
-                <type>pom</type>
-                <scope>import</scope>
-            </dependency>
-            <dependency>
-                <groupId>com.google.protobuf</groupId>
-                <artifactId>protobuf-bom</artifactId>
-                <version>${protobuf.version}</version>
-                <type>pom</type>
-                <scope>import</scope>
-            </dependency>
-            <dependency>
-                <groupId>io.grpc</groupId>
-                <artifactId>grpc-bom</artifactId>
-                <version>${grpc.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
