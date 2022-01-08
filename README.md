@@ -149,3 +149,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 
 * detect updates:  Please use "mvn versions:display-dependency-updates > updates.txt" to get dependencies update information.
 * local install: mvn -DskipTests -pl . clean package install
+
+# References
+
+* JetBrains third-Party Software and Licenses: https://www.jetbrains.com/legal/third-party-software/?product=IIU&version=2021.3.1
