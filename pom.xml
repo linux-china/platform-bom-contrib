@@ -121,7 +121,7 @@
         <assertj-json.version>2.28.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.32.0</database-rider.version>
+        <database-rider.version>1.32.1</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.1.1</awaitility.version>
@@ -199,7 +199,7 @@
         <jte.version>1.12.1</jte.version>
         <evo-inflector.version>1.3</evo-inflector.version>
         <!--persistence-->
-        <hibernate.version>5.6.2.Final</hibernate.version>
+        <hibernate.version>5.6.3.Final</hibernate.version>
         <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
         <hibernate-types.version>2.14.0</hibernate-types.version>
         <jooq.version>3.16.1</jooq.version>
@@ -220,7 +220,7 @@
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
         <flyway.version>8.4.0</flyway.version>
-        <liquibase.version>4.6.2</liquibase.version>
+        <liquibase.version>4.7.0</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>2.0.206</h2.version>
@@ -235,7 +235,7 @@
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
         <infinispan.version>13.0.5.Final</infinispan.version>
         <querydsl.version>5.0.0</querydsl.version>
-        <hikaricp.version>5.0.0</hikaricp.version>
+        <hikaricp.version>5.0.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>6.0.3</unboundid-ldapsdk.version>
         <postgresql.version>42.3.1</postgresql.version>
@@ -254,7 +254,7 @@
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.15.2</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.20.1</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.21</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.15</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
