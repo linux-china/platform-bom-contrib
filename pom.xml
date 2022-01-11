@@ -157,7 +157,7 @@
         <jersey.version>3.0.3</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.3</jsqlparser.version>
-        <javaparser.version>3.23.1</javaparser.version>
+        <javaparser.version>3.24.0</javaparser.version>
         <jackson.version>2.13.1</jackson.version>
         <moshi.version>1.13.0</moshi.version>
         <classmate.version>1.5.1</classmate.version>
@@ -219,7 +219,7 @@
         <ehcache3.version>3.9.7</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>8.4.0</flyway.version>
+        <flyway.version>8.4.1</flyway.version>
         <liquibase.version>4.7.0</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -296,8 +296,8 @@
         <apache-geode.version>1.14.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.1</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.136</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.107</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.137</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.108</aws-java-sdk2.version>
         <google-gax.version>2.8.1</google-gax.version>
         <google-http-client.version>1.41.0</google-http-client.version>
         <google-cloud-bom.version>24.1.2</google-cloud-bom.version>
@@ -363,7 +363,7 @@
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
-        <reactor-bom.version>2020.0.14</reactor-bom.version>
+        <reactor-bom.version>2020.0.15</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
         <micrometer.version>1.8.1</micrometer.version>
     </properties>
