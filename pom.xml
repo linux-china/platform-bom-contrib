@@ -246,7 +246,7 @@
         <mysql.version>8.0.27</mysql.version>
         <oracle.version>21.4.0.0.1</oracle.version>
         <influxdb-java.version>2.22</influxdb-java.version>
-        <r2dbc-bom.version>Arabba-SR11</r2dbc-bom.version>
+        <r2dbc-bom.version>Arabba-SR12</r2dbc-bom.version>
         <datastax.version>4.13.0</datastax.version>
         <!--security-->
         <cas-client.version>3.6.4</cas-client.version>
@@ -296,12 +296,12 @@
         <apache-geode.version>1.14.2</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.1</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.138</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.109</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.139</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.110</aws-java-sdk2.version>
         <google-gax.version>2.8.1</google-gax.version>
         <google-http-client.version>1.41.0</google-http-client.version>
         <google-cloud-bom.version>24.2.0</google-cloud-bom.version>
-        <sendgrid.version>4.8.1</sendgrid.version>
+        <sendgrid.version>4.8.2</sendgrid.version>
         <kubernetes-client.version>5.11.2</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <cloudevents-java.version>2.3.0</cloudevents-java.version>
@@ -324,8 +324,8 @@
         <javax-money.version>1.1</javax-money.version>
         <moneta.version>1.4.2</moneta.version>  <!-- javax money -->
         <!--springsource-->
-        <spring.version>5.3.14</spring.version>
-        <spring-framework.version>5.3.14</spring-framework.version>
+        <spring.version>5.3.15</spring.version>
+        <spring-framework.version>5.3.15</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.3.4</spring-batch.version>
         <spring-ws.version>3.1.2</spring-ws.version>
@@ -353,7 +353,7 @@
         <spring-ldap.version>2.3.5.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.4.1</spring-amqp.version>
-        <rabbit-amqp-client.version>5.14.0</rabbit-amqp-client.version>
+        <rabbit-amqp-client.version>5.14.1</rabbit-amqp-client.version>
         <rabbit-http-client.version>3.12.1</rabbit-http-client.version>
         <spring-vault.version>2.3.2</spring-vault.version>
         <spring-kafka.version>2.8.1</spring-kafka.version>
@@ -365,7 +365,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <reactor-bom.version>2020.0.15</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
-        <micrometer.version>1.8.1</micrometer.version>
+        <micrometer.version>1.8.2</micrometer.version>
     </properties>
 
     <dependencyManagement>
