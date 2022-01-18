@@ -171,7 +171,7 @@
         <json.version>20211205</json.version>
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.14.3</jsoup.version>
-        <thymeleaf.version>3.0.14.RELEASE</thymeleaf.version>
+        <thymeleaf.version>3.1.0.M1</thymeleaf.version>
         <thymeleaf-layout-dialect.version>3.0.0</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
@@ -223,7 +223,7 @@
         <liquibase.version>4.7.0</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
-        <h2.version>2.0.206</h2.version>
+        <h2.version>2.0.210</h2.version>
         <hsqldb.version>2.6.1</hsqldb.version>
         <sqlite-jdbc.version>3.36.0.3</sqlite-jdbc.version>
         <neo4j-ogm.version>3.2.28</neo4j-ogm.version>
@@ -243,7 +243,7 @@
         <jdbi.version>3.27.0</jdbi.version>
         <couchbase-client.version>3.2.4</couchbase-client.version>
         <openjpa.version>3.2.0</openjpa.version>
-        <mysql.version>8.0.27</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <oracle.version>21.4.0.0.1</oracle.version>
         <influxdb-java.version>2.22</influxdb-java.version>
         <r2dbc-bom.version>Arabba-SR12</r2dbc-bom.version>
