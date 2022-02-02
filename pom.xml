@@ -46,7 +46,7 @@
         <twelvemonkeys-imageio.version>3.8.1</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
-        <dropwizard-metrics.version>4.2.7</dropwizard-metrics.version>
+        <dropwizard-metrics.version>4.2.8</dropwizard-metrics.version>
         <jolokia.version>1.7.1</jolokia.version>
         <logback.version>1.2.10</logback.version>
         <slf4j.version>1.7.35</slf4j.version>
@@ -128,7 +128,7 @@
         <model-assert.version>1.0.0</model-assert.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>5.0.0-alpha.3</okhttp3.version>
+        <okhttp3.version>5.0.0-alpha.4</okhttp3.version>
         <okio.version>3.0.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -208,7 +208,7 @@
         <caffeine.version>2.9.3</caffeine.version>
         <jettison.version>1.4.1</jettison.version>
         <mybatis.version>3.5.9</mybatis.version>
-        <mybatis-spring.version>2.0.6</mybatis-spring.version>
+        <mybatis-spring.version>2.0.7</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>3.0.3</mariadb.version>
         <mongodb.version>4.5.0-beta0</mongodb.version>
@@ -219,7 +219,7 @@
         <ehcache3.version>3.9.7</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>8.4.3</flyway.version>
+        <flyway.version>8.4.4</flyway.version>
         <liquibase.version>4.7.1</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
