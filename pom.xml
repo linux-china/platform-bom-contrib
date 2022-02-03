@@ -244,7 +244,7 @@
         <couchbase-client.version>3.2.5</couchbase-client.version>
         <openjpa.version>3.2.0</openjpa.version>
         <mysql.version>8.0.28</mysql.version>
-        <oracle.version>21.4.0.0.1</oracle.version>
+        <oracle.version>21.5.0.0</oracle.version>
         <influxdb-java.version>2.22</influxdb-java.version>
         <r2dbc-bom.version>Arabba-SR12</r2dbc-bom.version>
         <datastax.version>4.13.0</datastax.version>
@@ -296,8 +296,8 @@
         <apache-geode.version>1.14.3</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.3</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.150</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.121</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.151</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.122</aws-java-sdk2.version>
         <google-gax.version>2.12.0</google-gax.version>
         <google-http-client.version>1.41.2</google-http-client.version>
         <google-cloud-bom.version>24.2.0</google-cloud-bom.version>
