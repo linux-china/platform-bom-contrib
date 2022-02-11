@@ -49,13 +49,13 @@
         <dropwizard-metrics.version>4.2.8</dropwizard-metrics.version>
         <jolokia.version>1.7.1</jolokia.version>
         <logback.version>1.2.10</logback.version>
-        <slf4j.version>1.7.35</slf4j.version>
+        <slf4j.version>1.7.36</slf4j.version>
         <flogger.version>0.7.4</flogger.version>
         <jna.version>5.10.0</jna.version>
         <prometheus-client.version>0.15.0</prometheus-client.version>
         <!--productivity & tools-->
         <functionaljava.version>4.9</functionaljava.version>
-        <fugue.version>5.0.0-m02</fugue.version>
+        <fugue.version>5.0.0</fugue.version>
         <joda-time.version>2.10.13</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>31.0.1-jre</guava.version>
@@ -76,7 +76,7 @@
         <springdoc-openapi.version>1.6.6</springdoc-openapi.version>
         <mbassador.version>1.3.2</mbassador.version>
         <resilience4j.version>1.7.0</resilience4j.version>
-        <failsafe.version>3.2.0</failsafe.version>
+        <failsafe.version>3.2.1</failsafe.version>
         <eclipse-collections.version>11.0.0</eclipse-collections.version>
         <agrona.version>1.14.0</agrona.version>
         <math-parser.version>4.4.2</math-parser.version>
@@ -87,7 +87,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
-        <bytebuddy.version>1.12.7</bytebuddy.version>
+        <bytebuddy.version>1.12.8</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.7</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
@@ -118,7 +118,7 @@
         <dbunit.version>2.7.2</dbunit.version>
         <rest-assured.version>4.5.0</rest-assured.version>
         <assertj.version>3.22.0</assertj.version>
-        <assertj-json.version>2.30.0</assertj-json.version>
+        <assertj-json.version>2.31.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
         <database-rider.version>1.32.2</database-rider.version>
@@ -132,7 +132,7 @@
         <okio.version>3.0.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.73.Final</netty.version>
+        <netty.version>4.1.74.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.44.0</grpc.version>
         <asynchttpclient.version>2.12.3</asynchttpclient.version>
@@ -153,8 +153,8 @@
         <!--servers-->
         <jetty.version>11.0.8</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.2.15.Final</undertow.version>
-        <jersey.version>3.0.3</jersey.version>
+        <undertow.version>2.2.16.Final</undertow.version>
+        <jersey.version>3.0.4</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.3</jsqlparser.version>
         <javaparser.version>3.24.0</javaparser.version>
@@ -198,11 +198,12 @@
         <xom.version>1.3.7</xom.version>
         <jte.version>1.12.1</jte.version>
         <evo-inflector.version>1.3</evo-inflector.version>
+        <jdom2.version>2.0.6.1</jdom2.version>
         <!--persistence-->
         <hibernate.version>5.6.5.Final</hibernate.version>
         <hibernate-validator.version>7.0.2.Final</hibernate-validator.version>
         <hibernate-types.version>2.14.0</hibernate-types.version>
-        <jooq.version>3.16.3</jooq.version>
+        <jooq.version>3.16.4</jooq.version>
         <jedis.version>4.1.1</jedis.version>
         <lettuce.version>6.1.6.RELEASE</lettuce.version>
         <caffeine.version>2.9.3</caffeine.version>
@@ -254,7 +255,7 @@
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.19</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.24</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.25</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.15</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -296,17 +297,17 @@
         <apache-geode.version>1.14.3</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.3</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.153</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.124</aws-java-sdk2.version>
-        <google-gax.version>2.12.0</google-gax.version>
-        <google-http-client.version>1.41.2</google-http-client.version>
-        <google-cloud-bom.version>24.2.0</google-cloud-bom.version>
-        <sendgrid.version>4.8.2</sendgrid.version>
+        <aws-java-sdk.version>1.12.157</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.128</aws-java-sdk2.version>
+        <google-gax.version>2.12.2</google-gax.version>
+        <google-http-client.version>1.41.3</google-http-client.version>
+        <google-cloud-bom.version>24.3.0</google-cloud-bom.version>
+        <sendgrid.version>4.8.3</sendgrid.version>
         <kubernetes-client.version>5.12.1</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <cloudevents-java.version>2.3.0</cloudevents-java.version>
         <!--languages-->
-        <kotlin.version>1.6.10</kotlin.version>
+        <kotlin.version>1.6.20-M1</kotlin.version>
         <kotlinx-coroutines.version>1.6.0</kotlinx-coroutines.version>
         <jruby.version>9.3.3.0</jruby.version>
         <!--netflix-->
@@ -353,7 +354,7 @@
         <spring-ldap.version>2.3.5.RELEASE</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.4.2</spring-amqp.version>
-        <rabbit-amqp-client.version>5.14.1</rabbit-amqp-client.version>
+        <rabbit-amqp-client.version>5.14.2</rabbit-amqp-client.version>
         <rabbit-http-client.version>4.0.0</rabbit-http-client.version>
         <spring-vault.version>2.3.2</spring-vault.version>
         <spring-kafka.version>2.8.2</spring-kafka.version>
