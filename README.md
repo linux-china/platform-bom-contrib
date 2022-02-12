@@ -6,39 +6,42 @@ Contrib for [Spring IO Platform BOM](http://docs.spring.io/platform/docs/Brussel
 
 Spring IO platform BOM now focuses on Java 7 compatible, and some dependencies are not included or upgraded because of Java 8 support only.
 Now Java 8 is adopted by most developers, and platform-bom-contrib helps Java 8 developers to last version.
- 
+
 ### How to use
 
 ##### Spring Boot Application
-If your application is Spring Boot based, just use following code in your pom.xml: 
 
-```xml 
+If your application is Spring Boot based, just use following code in your pom.xml:
+
+```xml
 <dependencyManagement>
-     <dependencies>
-         <dependency>
-             <groupId>com.github.linux-china</groupId>
-             <artifactId>platform-bom-contrib</artifactId>
-             <version>Cairo-SR9</version>
-             <type>pom</type>
-             <scope>import</scope>
-         </dependency>
-     </dependencies>
- </dependencyManagement>
+    <dependencies>
+        <dependency>
+            <groupId>com.github.linux-china</groupId>
+            <artifactId>platform-bom-contrib</artifactId>
+            <version>Cairo-SR9</version>
+            <type>pom</type>
+            <scope>import</scope>
+        </dependency>
+    </dependencies>
+</dependencyManagement>
 ```
 
 ##### Other Application
+
 ```xml
- <dependencyManagement>
-     <dependencies>
-         <dependency>
-             <groupId>com.github.linux-china</groupId>
-             <artifactId>platform-bom-contrib</artifactId>
-             <version>Cairo-SR3</version>
-             <type>pom</type>
-             <scope>import</scope>
-         </dependency>
-     </dependencies>
- </dependencyManagement>
+
+<dependencyManagement>
+    <dependencies>
+        <dependency>
+            <groupId>com.github.linux-china</groupId>
+            <artifactId>platform-bom-contrib</artifactId>
+            <version>Cairo-SR3</version>
+            <type>pom</type>
+            <scope>import</scope>
+        </dependency>
+    </dependencies>
+</dependencyManagement>
 ```
 
 ### Base Dependencies
@@ -48,7 +51,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Spring Boot: 2.2.x
 * Spring Cloud: Hoxton.SR1
 * Spring Platform IO BOM: Brussels-RELEASE
-     
+
 ### New dependencies
 
 * org.jetbrains:annotations jetbrains annotations
@@ -75,8 +78,8 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * javaslang(deprecated by vavr): http://www.javaslang.io/
 * vavr: http://www.vavr.io/
 * asynchttpclient: https://github.com/AsyncHttpClient/async-http-client
-* mapdb: http://www.mapdb.org/ 
-* grpc:  http://www.grpc.io/  
+* mapdb: http://www.mapdb.org/
+* grpc:  http://www.grpc.io/
 * immutables: http://immutables.github.io/
 * jOOλ: https://github.com/jOOQ/jOOL
 * jOOR: https://github.com/jOOQ/jOOR
@@ -113,7 +116,8 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * database rider: Database testing made easy https://github.com/database-rider/database-rider/
 * cfg4j: Modern configuration library for distributed apps written in Java https://github.com/cfg4j/cfg4j
 * orika: Simpler, better and faster Java bean mapping framework
-* MapStruct: MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach  http://mapstruct.org/
+* MapStruct: MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration
+  approach  http://mapstruct.org/
 * jackson-datatype-protobuf: Jackson module that adds support for serializing and deserializing Google's Protocol Buffers to and from JSON
 * java faker: https://github.com/DiUS/java-faker
 * Passay: generate & validate password in Java: https://github.com/vt-middleware/passay  https://www.baeldung.com/java-passay
@@ -140,7 +144,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * jobRunr: easy way to perform background processing in Java https://www.jobrunr.io/en/
 * shedlock: distributed lock for your scheduled tasks https://github.com/lukas-krecan/ShedLock
 * resilience4j: fault tolerance library designed for Java8 and functional programming https://github.com/resilience4j/resilience4j
-* failsafe: Fault tolerance and resilience patterns for the JVM https://github.com/failsafe-lib/failsafe 
+* failsafe: Fault tolerance and resilience patterns for the JVM https://github.com/failsafe-lib/failsafe
 * agrona: High Performance data structures and utility methods for Java https://github.com/real-logic/agrona
 * cloudevents: https://github.com/cloudevents/sdk-java
 * java-properties: Java Properties is a drop-in replacement of the ubiquitous java.util.Properties https://github.com/codejive/java-properties
