@@ -213,7 +213,7 @@
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>3.0.3</mariadb.version>
         <mongodb.version>4.5.0</mongodb.version>
-        <mongodb-reactivestreams.version>4.5.0-beta0</mongodb-reactivestreams.version>
+        <mongodb-reactivestreams.version>4.5.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>4.0.0</cassandra-driver.version>
@@ -255,7 +255,7 @@
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.19</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.25</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.27</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.15</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
