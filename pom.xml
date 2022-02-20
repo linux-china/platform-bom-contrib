@@ -126,6 +126,7 @@
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.1.1</awaitility.version>
         <model-assert.version>1.0.0</model-assert.version>
+        <junit-pioneer.version>1.6.0</junit-pioneer.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>5.0.0-alpha.4</okhttp3.version>
@@ -1292,6 +1293,11 @@
                 <groupId>com.google.flogger</groupId>
                 <artifactId>flogger-system-backend</artifactId>
                 <version>${flogger.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.junit-pioneer</groupId>
+                <artifactId>junit-pioneer</artifactId>
+                <version>${junit-pioneer.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.spockframework</groupId>
