@@ -40,7 +40,7 @@
         <janino.version>3.1.6</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
-        <webjars-locator-core.version>0.48</webjars-locator-core.version>
+        <webjars-locator-core.version>0.50</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.18.1</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.8.1</twelvemonkeys-imageio.version>
@@ -129,7 +129,7 @@
         <junit-pioneer.version>1.6.0</junit-pioneer.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>5.0.0-alpha.4</okhttp3.version>
+        <okhttp3.version>5.0.0-alpha.5</okhttp3.version>
         <okio.version>3.0.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -255,7 +255,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.19</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>9.20</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>9.27</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.15</httpcore.version>
@@ -333,7 +333,7 @@
         <spring-ws.version>3.1.2</spring-ws.version>
         <spring-session-bom.version>2021.1.1</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.6.1</spring-security.version>
+        <spring-security.version>5.6.2</spring-security.version>
         <spring-security-oauth.version>2.5.1.RELEASE</spring-security-oauth.version>
         <spring-security-oauth2-autoconfigure.version>2.6.3</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.11.RELEASE</spring-security-rsa.version>
