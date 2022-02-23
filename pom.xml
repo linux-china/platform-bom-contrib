@@ -228,7 +228,7 @@
         <h2.version>2.1.210</h2.version>
         <hsqldb.version>2.6.1</hsqldb.version>
         <sqlite-jdbc.version>3.36.0.3</sqlite-jdbc.version>
-        <neo4j-ogm.version>3.2.29</neo4j-ogm.version>
+        <neo4j-ogm.version>3.2.30</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
         <elasticsearch.version>8.0.0</elasticsearch.version>
@@ -298,8 +298,8 @@
         <apache-geode.version>1.14.3</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.3</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.163</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.134</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.164</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.135</aws-java-sdk2.version>
         <google-gax.version>2.12.2</google-gax.version>
         <google-http-client.version>1.41.4</google-http-client.version>
         <google-cloud-bom.version>24.3.0</google-cloud-bom.version>
@@ -329,9 +329,9 @@
         <spring.version>5.3.16</spring.version>
         <spring-framework.version>5.3.16</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
-        <spring-batch.version>4.3.4</spring-batch.version>
+        <spring-batch.version>4.3.5</spring-batch.version>
         <spring-ws.version>3.1.2</spring-ws.version>
-        <spring-session-bom.version>2021.1.1</spring-session-bom.version>
+        <spring-session-bom.version>2021.1.2</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.6.2</spring-security.version>
         <spring-security-oauth.version>2.5.1.RELEASE</spring-security-oauth.version>
