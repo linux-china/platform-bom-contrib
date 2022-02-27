@@ -121,7 +121,7 @@
         <assertj-json.version>2.32.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-        <database-rider.version>1.32.2</database-rider.version>
+        <database-rider.version>1.32.3</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.1.1</awaitility.version>
@@ -280,7 +280,7 @@
         <commons-rng.version>1.4</commons-rng.version>
         <poi.version>5.2.0</poi.version>
         <kafka.version>3.1.0</kafka.version>
-        <log4j2.version>2.17.1</log4j2.version>
+        <log4j2.version>2.17.2</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.11.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
