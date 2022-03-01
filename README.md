@@ -7,7 +7,7 @@ Contrib for [Spring IO Platform BOM](http://docs.spring.io/platform/docs/Brussel
 Spring IO platform BOM now focuses on Java 7 compatible, and some dependencies are not included or upgraded because of Java 8 support only.
 Now Java 8 is adopted by most developers, and platform-bom-contrib helps Java 8 developers to last version.
 
-### How to use
+### How to use?
 
 ##### Spring Boot Application
 
@@ -120,6 +120,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
   approach  http://mapstruct.org/
 * jackson-datatype-protobuf: Jackson module that adds support for serializing and deserializing Google's Protocol Buffers to and from JSON
 * java faker: https://github.com/DiUS/java-faker
+* Datafaker: a library for Java and Kotlin to generate fake data - https://github.com/datafaker-net/datafaker
 * Passay: generate & validate password in Java: https://github.com/vt-middleware/passay  https://www.baeldung.com/java-passay
 * MBassador: MBassador is a light-weight, high-performance event bus implementing the publish subscribe pattern https://github.com/bennidi/mbassador
 * AWS Java SDK 2.0: https://docs.aws.amazon.com/zh_cn/sdk-for-java/v2/developer-guide/welcome.html

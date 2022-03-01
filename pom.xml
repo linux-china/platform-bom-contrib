@@ -102,6 +102,7 @@
         <junit.version>4.13.2</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
+        <data-faker.version>1.1.0</data-faker.version>
         <mockito.version>4.3.1</mockito.version>
         <htmlunit.version>2.58.0</htmlunit.version>
         <testng.version>7.5</testng.version>
@@ -428,6 +429,11 @@
                 <groupId>com.github.javafaker</groupId>
                 <artifactId>javafaker</artifactId>
                 <version>${java-faker.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>net.datafaker</groupId>
+                <artifactId>datafaker</artifactId>
+                <version>${data-faker.version}</version>
             </dependency>
             <dependency>
                 <groupId>xom</groupId>
