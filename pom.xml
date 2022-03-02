@@ -232,7 +232,7 @@
         <neo4j-ogm.version>3.2.30</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>8.0.0</elasticsearch.version>
+        <elasticsearch.version>8.0.1</elasticsearch.version>
         <hazelcast.version>5.1-BETA-1</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -244,7 +244,7 @@
         <postgresql.version>42.3.3</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.27.2</jdbi.version>
-        <couchbase-client.version>3.2.5</couchbase-client.version>
+        <couchbase-client.version>3.2.6</couchbase-client.version>
         <openjpa.version>3.2.1</openjpa.version>
         <mysql.version>8.0.28</mysql.version>
         <oracle.version>21.5.0.0</oracle.version>
@@ -285,7 +285,7 @@
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.11.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>10.0.16</tomcat.version>
+        <tomcat.version>10.0.17</tomcat.version>
         <groovy.version>3.0.9</groovy.version>
         <zookeeper.version>3.7.0</zookeeper.version>
         <curator.version>5.2.0</curator.version>
@@ -299,11 +299,11 @@
         <apache-geode.version>1.14.3</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.3</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.168</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.139</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.169</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.140</aws-java-sdk2.version>
         <google-gax.version>2.12.2</google-gax.version>
         <google-http-client.version>1.41.4</google-http-client.version>
-        <google-cloud-bom.version>24.3.0</google-cloud-bom.version>
+        <google-cloud-bom.version>24.4.0</google-cloud-bom.version>
         <sendgrid.version>4.8.3</sendgrid.version>
         <kubernetes-client.version>5.12.1</kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
