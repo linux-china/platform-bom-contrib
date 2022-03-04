@@ -102,7 +102,7 @@
         <junit.version>4.13.2</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
-        <data-faker.version>1.1.0</data-faker.version>
+        <data-faker.version>1.2.0</data-faker.version>
         <mockito.version>4.3.1</mockito.version>
         <htmlunit.version>2.58.0</htmlunit.version>
         <testng.version>7.5</testng.version>
@@ -125,7 +125,7 @@
         <database-rider.version>1.32.3</database-rider.version>
         <archunit.version>0.8.3</archunit.version>
         <unitils.version>3.4.6</unitils.version>
-        <awaitility.version>4.1.1</awaitility.version>
+        <awaitility.version>4.2.0</awaitility.version>
         <model-assert.version>1.0.0</model-assert.version>
         <junit-pioneer.version>1.6.1</junit-pioneer.version>
         <!--network-->
@@ -222,7 +222,7 @@
         <ehcache3.version>3.9.7</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>8.5.1</flyway.version>
+        <flyway.version>8.5.2</flyway.version>
         <liquibase.version>4.8.0</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -287,7 +287,7 @@
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>10.0.17</tomcat.version>
         <groovy.version>3.0.9</groovy.version>
-        <zookeeper.version>3.7.0</zookeeper.version>
+        <zookeeper.version>3.8.0</zookeeper.version>
         <curator.version>5.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.16.4</activemq.version>
@@ -299,8 +299,8 @@
         <apache-geode.version>1.14.3</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.3</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.170</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.141</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.171</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.142</aws-java-sdk2.version>
         <google-gax.version>2.12.2</google-gax.version>
         <google-http-client.version>1.41.4</google-http-client.version>
         <google-cloud-bom.version>24.4.0</google-cloud-bom.version>
@@ -357,7 +357,7 @@
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.4.2</spring-amqp.version>
         <rabbit-amqp-client.version>5.14.2</rabbit-amqp-client.version>
-        <rabbit-http-client.version>4.0.0</rabbit-http-client.version>
+        <rabbit-http-client.version>4.1.0</rabbit-http-client.version>
         <spring-vault.version>2.3.2</spring-vault.version>
         <spring-kafka.version>2.8.3</spring-kafka.version>
         <spring-restdocs.version>2.0.6.RELEASE</spring-restdocs.version>
