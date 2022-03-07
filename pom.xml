@@ -76,7 +76,7 @@
         <springdoc-openapi.version>1.6.6</springdoc-openapi.version>
         <mbassador.version>1.3.2</mbassador.version>
         <resilience4j.version>1.7.0</resilience4j.version>
-        <failsafe.version>3.2.2</failsafe.version>
+        <failsafe.version>3.2.3</failsafe.version>
         <eclipse-collections.version>11.0.0</eclipse-collections.version>
         <agrona.version>1.14.0</agrona.version>
         <math-parser.version>4.4.2</math-parser.version>
@@ -104,10 +104,10 @@
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.2.0</data-faker.version>
         <mockito.version>4.3.1</mockito.version>
-        <htmlunit.version>2.58.0</htmlunit.version>
+        <htmlunit.version>2.59.0</htmlunit.version>
         <testng.version>7.5</testng.version>
         <selenium.version>4.1.2</selenium.version>
-        <selenium-htmlunit-driver.version>3.58.0</selenium-htmlunit-driver.version>
+        <selenium-htmlunit-driver.version>3.59.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.1</toomuchcoding-jsonassert.version>
         <wiremock.version>2.32.0</wiremock.version>
@@ -160,7 +160,7 @@
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.3</jsqlparser.version>
         <javaparser.version>3.24.0</javaparser.version>
-        <jackson.version>2.13.1</jackson.version>
+        <jackson.version>2.13.2</jackson.version>
         <moshi.version>1.13.0</moshi.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>1.30</snakeyaml.version>
@@ -256,7 +256,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.20</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>9.21</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>9.27</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.15</httpcore.version>
@@ -279,14 +279,14 @@
         <commons-pool2.version>2.11.1</commons-pool2.version>
         <commons-dbcp2.version>2.9.0</commons-dbcp2.version>
         <commons-rng.version>1.4</commons-rng.version>
-        <poi.version>5.2.0</poi.version>
+        <poi.version>5.2.1</poi.version>
         <kafka.version>3.1.0</kafka.version>
         <log4j2.version>2.17.2</log4j2.version>
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>8.11.1</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>10.0.17</tomcat.version>
-        <groovy.version>3.0.9</groovy.version>
+        <groovy.version>3.0.10</groovy.version>
         <zookeeper.version>3.8.0</zookeeper.version>
         <curator.version>5.2.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
@@ -298,9 +298,9 @@
         <axiom.version>1.3.0</axiom.version>
         <apache-geode.version>1.14.3</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>2.0.3</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.171</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.142</aws-java-sdk2.version>
+        <appengine-sdk.version>2.0.4</appengine-sdk.version>
+        <aws-java-sdk.version>1.12.172</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.143</aws-java-sdk2.version>
         <google-gax.version>2.12.2</google-gax.version>
         <google-http-client.version>1.41.4</google-http-client.version>
         <google-cloud-bom.version>24.4.0</google-cloud-bom.version>
