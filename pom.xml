@@ -46,7 +46,7 @@
         <twelvemonkeys-imageio.version>3.8.2</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
-        <dropwizard-metrics.version>4.2.8</dropwizard-metrics.version>
+        <dropwizard-metrics.version>4.2.9</dropwizard-metrics.version>
         <jolokia.version>1.7.1</jolokia.version>
         <logback.version>1.2.10</logback.version>
         <slf4j.version>1.7.36</slf4j.version>
@@ -134,9 +134,9 @@
         <okio.version>3.0.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.74.Final</netty.version>
+        <netty.version>4.1.75.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.44.1</grpc.version>
+        <grpc.version>1.45.0</grpc.version>
         <asynchttpclient.version>2.12.3</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -205,8 +205,8 @@
         <hibernate.version>5.6.5.Final</hibernate.version>
         <hibernate-validator.version>7.0.2.Final</hibernate-validator.version>
         <hibernate-types.version>2.14.0</hibernate-types.version>
-        <jooq.version>3.16.4</jooq.version>
-        <jedis.version>4.1.1</jedis.version>
+        <jooq.version>3.16.5</jooq.version>
+        <jedis.version>4.2.0-m1</jedis.version>
         <lettuce.version>6.1.6.RELEASE</lettuce.version>
         <caffeine.version>2.9.3</caffeine.version>
         <jettison.version>1.4.1</jettison.version>
@@ -243,7 +243,7 @@
         <unboundid-ldapsdk.version>6.0.3</unboundid-ldapsdk.version>
         <postgresql.version>42.3.3</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.27.2</jdbi.version>
+        <jdbi.version>3.28.0</jdbi.version>
         <couchbase-client.version>3.2.6</couchbase-client.version>
         <openjpa.version>3.2.1</openjpa.version>
         <mysql.version>8.0.28</mysql.version>
@@ -299,8 +299,8 @@
         <apache-geode.version>1.14.3</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.4</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.173</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.144</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.175</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.146</aws-java-sdk2.version>
         <google-gax.version>2.12.2</google-gax.version>
         <google-http-client.version>1.41.4</google-http-client.version>
         <google-cloud-bom.version>24.4.0</google-cloud-bom.version>
@@ -357,7 +357,7 @@
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.4.2</spring-amqp.version>
         <rabbit-amqp-client.version>5.14.2</rabbit-amqp-client.version>
-        <rabbit-http-client.version>4.1.0</rabbit-http-client.version>
+        <rabbit-http-client.version>4.1.2</rabbit-http-client.version>
         <spring-vault.version>2.3.2</spring-vault.version>
         <spring-kafka.version>2.8.3</spring-kafka.version>
         <spring-restdocs.version>2.0.6.RELEASE</spring-restdocs.version>
