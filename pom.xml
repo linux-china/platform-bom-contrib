@@ -257,7 +257,7 @@
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.21</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.28</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.29</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.15</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -288,7 +288,7 @@
         <tomcat.version>10.0.17</tomcat.version>
         <groovy.version>3.0.10</groovy.version>
         <zookeeper.version>3.8.0</zookeeper.version>
-        <curator.version>5.2.0</curator.version>
+        <curator.version>5.2.1</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.17.0</activemq.version>
         <artemis.version>2.20.0</artemis.version>
@@ -299,8 +299,8 @@
         <apache-geode.version>1.14.3</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.4</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.179</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.150</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.180</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.151</aws-java-sdk2.version>
         <google-gax.version>2.12.2</google-gax.version>
         <google-http-client.version>1.41.4</google-http-client.version>
         <google-cloud-bom.version>25.0.0</google-cloud-bom.version>
@@ -327,8 +327,8 @@
         <javax-money.version>1.1</javax-money.version>
         <moneta.version>1.4.2</moneta.version>  <!-- javax money -->
         <!--springsource-->
-        <spring.version>5.3.16</spring.version>
-        <spring-framework.version>5.3.16</spring-framework.version>
+        <spring.version>5.3.17</spring.version>
+        <spring-framework.version>5.3.17</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.3.5</spring-batch.version>
         <spring-ws.version>3.1.2</spring-ws.version>
@@ -368,7 +368,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <reactor-bom.version>2020.0.17</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
-        <micrometer.version>1.8.3</micrometer.version>
+        <micrometer.version>1.8.4</micrometer.version>
     </properties>
 
     <dependencyManagement>
