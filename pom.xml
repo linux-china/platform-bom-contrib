@@ -51,7 +51,7 @@
         <logback.version>1.2.10</logback.version>
         <slf4j.version>1.7.36</slf4j.version>
         <flogger.version>0.7.4</flogger.version>
-        <jna.version>5.10.0</jna.version>
+        <jna.version>5.11.0</jna.version>
         <prometheus-client.version>0.15.0</prometheus-client.version>
         <!--productivity & tools-->
         <functionaljava.version>5.0</functionaljava.version>
