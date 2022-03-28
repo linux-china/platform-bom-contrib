@@ -151,7 +151,7 @@
         <jsch.version>0.1.55</jsch.version>
         <zipkin-brave.version>5.13.7</zipkin-brave.version>
         <zipkin-reporter2.version>2.16.3</zipkin-reporter2.version>
-        <rsocket.versoin>1.1.1</rsocket.versoin>
+        <rsocket.versoin>1.1.2</rsocket.versoin>
         <!--servers-->
         <jetty.version>11.0.8</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
@@ -222,7 +222,7 @@
         <ehcache3.version>3.10.0</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>8.5.4</flyway.version>
+        <flyway.version>8.5.5</flyway.version>
         <liquibase.version>4.9.0</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -291,7 +291,7 @@
         <curator.version>5.2.1</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.17.0</activemq.version>
-        <artemis.version>2.20.0</artemis.version>
+        <artemis.version>2.21.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.5</httpasyncclient.version>
         <svnkit.version>1.10.4</svnkit.version>
