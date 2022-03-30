@@ -150,6 +150,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * cloudevents: https://github.com/cloudevents/sdk-java
 * java-properties: Java Properties is a drop-in replacement of the ubiquitous java.util.Properties https://github.com/codejive/java-properties
 * JUnit Pioneer: JUnit 5 Extension Pack https://github.com/junit-pioneer/junit-pioneer
+* db-scheduler: Persistent cluster-friendly scheduler for Java https://github.com/kagkarlsson/db-scheduler
 
 ### Developer Notice
 
