@@ -149,7 +149,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
-        <zipkin-brave.version>5.13.7</zipkin-brave.version>
+        <zipkin-brave.version>5.13.8</zipkin-brave.version>
         <zipkin-reporter2.version>2.16.3</zipkin-reporter2.version>
         <rsocket.versoin>1.1.2</rsocket.versoin>
         <!--servers-->
@@ -166,7 +166,7 @@
         <snakeyaml.version>1.30</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.9.0</gson.version>
-        <protobuf.version>3.19.4</protobuf.version>
+        <protobuf.version>3.20.0</protobuf.version>
         <json-smart.version>2.4.8</json-smart.version>
         <json-path.version>2.7.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -299,8 +299,8 @@
         <apache-geode.version>1.14.4</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.4</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.191</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.162</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.192</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.163</aws-java-sdk2.version>
         <google-gax.version>2.14.0</google-gax.version>
         <google-http-client.version>1.41.5</google-http-client.version>
         <google-cloud-bom.version>25.1.0</google-cloud-bom.version>
@@ -317,7 +317,7 @@
         <ribbon.version>2.7.18</ribbon.version>
         <!--java ee-->
         <reactive-streams.version>1.0.3</reactive-streams.version>
-        <narayana.version>5.12.5.Final</narayana.version>
+        <narayana.version>5.12.6.Final</narayana.version>
         <atomikos.version>5.0.9</atomikos.version>
         <jakarta-ee.version>9.1.0</jakarta-ee.version>
         <jakarta.messaging-api.version>2.0.3</jakarta.messaging-api.version>
