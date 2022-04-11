@@ -79,7 +79,7 @@
         <failsafe.version>3.2.3</failsafe.version>
         <eclipse-collections.version>11.0.0</eclipse-collections.version>
         <agrona.version>1.15.0</agrona.version>
-        <math-parser.version>4.4.2</math-parser.version>
+        <math-parser.version>5.0.0</math-parser.version>
         <rgxgen.version>1.3</rgxgen.version>
         <!--code & classes-->
         <jetbrains-annotations.version>23.0.0</jetbrains-annotations.version>
@@ -127,7 +127,7 @@
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.2.0</awaitility.version>
         <model-assert.version>1.0.0</model-assert.version>
-        <junit-pioneer.version>1.6.2</junit-pioneer.version>
+        <junit-pioneer.version>1.7.0</junit-pioneer.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>5.0.0-alpha.6</okhttp3.version>
@@ -158,7 +158,7 @@
         <undertow.version>2.2.17.Final</undertow.version>
         <jersey.version>3.0.4</jersey.version>
         <!--parsers & templates & serializer-->
-        <jsqlparser.version>4.3</jsqlparser.version>
+        <jsqlparser.version>4.4</jsqlparser.version>
         <javaparser.version>3.24.2</javaparser.version>
         <jackson.version>2.13.2</jackson.version>
         <moshi.version>1.13.0</moshi.version>
@@ -204,7 +204,7 @@
         <!--persistence-->
         <hibernate.version>6.0.0.Final</hibernate.version>
         <hibernate-validator.version>8.0.0.Alpha3</hibernate-validator.version>
-        <hibernate-types.version>2.15.1</hibernate-types.version>
+        <hibernate-types.version>2.15.2</hibernate-types.version>
         <jooq.version>3.16.5</jooq.version>
         <jedis.version>4.2.1</jedis.version>
         <lettuce.version>6.1.8.RELEASE</lettuce.version>
