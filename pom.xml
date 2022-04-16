@@ -119,7 +119,7 @@
         <dbunit.version>2.7.3</dbunit.version>
         <rest-assured.version>5.0.1</rest-assured.version>
         <assertj.version>3.22.0</assertj.version>
-        <assertj-json.version>2.33.0</assertj-json.version>
+        <assertj-json.version>2.34.0</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
         <database-rider.version>1.32.3</database-rider.version>
@@ -190,7 +190,7 @@
         <xmlprojector.version>1.4.22</xmlprojector.version>
         <freemarker.version>2.3.31</freemarker.version>
         <dom4j-java8.version>2.1.3</dom4j-java8.version>
-        <hessian.version>4.0.65</hessian.version>
+        <hessian.version>4.0.66</hessian.version>
         <xmlunit.version>2.9.0</xmlunit.version>
         <xstream.version>1.4.19</xstream.version>
         <aalto-xml.version>1.3.1</aalto-xml.version>
@@ -204,7 +204,7 @@
         <!--persistence-->
         <hibernate.version>6.0.0.Final</hibernate.version>
         <hibernate-validator.version>8.0.0.Alpha3</hibernate-validator.version>
-        <hibernate-types.version>2.16.0</hibernate-types.version>
+        <hibernate-types.version>2.16.1</hibernate-types.version>
         <jooq.version>3.16.5</jooq.version>
         <jedis.version>4.2.2</jedis.version>
         <lettuce.version>6.1.8.RELEASE</lettuce.version>
@@ -241,7 +241,7 @@
         <hikaricp.version>5.0.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>6.0.4</unboundid-ldapsdk.version>
-        <postgresql.version>42.3.3</postgresql.version>
+        <postgresql.version>42.3.4</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.28.0</jdbi.version>
         <couchbase-client.version>3.2.6</couchbase-client.version>
@@ -299,8 +299,8 @@
         <apache-geode.version>1.14.4</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.4</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.200</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.171</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.201</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.172</aws-java-sdk2.version>
         <google-gax.version>2.16.0</google-gax.version>
         <google-http-client.version>1.41.7</google-http-client.version>
         <google-cloud-bom.version>25.1.0</google-cloud-bom.version>
