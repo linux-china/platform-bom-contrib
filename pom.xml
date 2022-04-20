@@ -103,7 +103,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.3.0</data-faker.version>
-        <mockito.version>4.4.0</mockito.version>
+        <mockito.version>4.5.0</mockito.version>
         <htmlunit.version>2.60.0</htmlunit.version>
         <testng.version>7.5</testng.version>
         <selenium.version>4.1.3</selenium.version>
@@ -131,7 +131,7 @@
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>5.0.0-alpha.6</okhttp3.version>
-        <okio.version>3.0.0</okio.version>
+        <okio.version>3.1.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.76.Final</netty.version>
@@ -156,7 +156,7 @@
         <jetty.version>11.0.9</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.2.17.Final</undertow.version>
-        <jersey.version>3.0.4</jersey.version>
+        <jersey.version>3.1.0-M2</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.4</jsqlparser.version>
         <javaparser.version>3.24.2</javaparser.version>
@@ -299,8 +299,8 @@
         <apache-geode.version>1.14.4</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.4</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.201</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.172</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.202</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.173</aws-java-sdk2.version>
         <google-gax.version>2.16.0</google-gax.version>
         <google-http-client.version>1.41.7</google-http-client.version>
         <google-cloud-bom.version>25.1.0</google-cloud-bom.version>
@@ -333,7 +333,7 @@
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
         <spring-batch.version>4.3.5</spring-batch.version>
         <spring-ws.version>3.1.3</spring-ws.version>
-        <spring-session-bom.version>2021.1.2</spring-session-bom.version>
+        <spring-session-bom.version>2021.1.3</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>5.6.3</spring-security.version>
         <spring-security-oauth.version>2.5.1.RELEASE</spring-security-oauth.version>
@@ -342,12 +342,12 @@
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-SR9</spring-data-releasetrain.version>
-        <spring-data-bom.version>2021.1.3</spring-data-bom.version>
+        <spring-data-bom.version>2021.1.4</spring-data-bom.version>
         <spring-integration.version>5.5.11</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.6.6</spring-boot.version>
-        <spring-hateoas.version>1.4.1</spring-hateoas.version>
+        <spring-hateoas.version>1.4.2</spring-hateoas.version>
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>3.1.1</spring-cloud-contract.version>
         <spring-cloud.version>2021.0.1</spring-cloud.version>
