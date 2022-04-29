@@ -110,7 +110,7 @@
         <selenium-htmlunit-driver.version>3.61.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.1</toomuchcoding-jsonassert.version>
-        <wiremock.version>2.33.1</wiremock.version>
+        <wiremock.version>2.33.2</wiremock.version>
         <spockframework.version>2.2-M1-groovy-4.0</spockframework.version>
         <easymock.version>4.3</easymock.version>
         <fluentlenium.version>5.0.3</fluentlenium.version>
@@ -250,7 +250,7 @@
         <oracle.version>21.5.0.0</oracle.version>
         <influxdb-java.version>2.22</influxdb-java.version>
         <r2dbc-bom.version>Borca-SR1</r2dbc-bom.version>
-        <datastax.version>4.14.0</datastax.version>
+        <datastax.version>4.14.1</datastax.version>
         <!--security-->
         <cas-client.version>3.6.4</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
@@ -290,7 +290,7 @@
         <zookeeper.version>3.8.0</zookeeper.version>
         <curator.version>5.2.1</curator.version>
         <zkclient.version>0.11</zkclient.version>
-        <activemq.version>5.17.0</activemq.version>
+        <activemq.version>5.17.1</activemq.version>
         <artemis.version>2.21.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.5</httpasyncclient.version>
@@ -299,8 +299,8 @@
         <apache-geode.version>1.14.4</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.4</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.208</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.179</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.210</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.181</aws-java-sdk2.version>
         <google-gax.version>2.16.0</google-gax.version>
         <google-http-client.version>1.41.7</google-http-client.version>
         <google-cloud-bom.version>25.2.0</google-cloud-bom.version>
