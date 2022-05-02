@@ -63,7 +63,7 @@
         <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
-        <togglz.version>3.1.1</togglz.version>
+        <togglz.version>3.1.2</togglz.version>
         <ff4j.version>1.8.12</ff4j.version>
         <underscore.version>1.77</underscore.version>
         <java-util.version>2.0.0</java-util.version>
