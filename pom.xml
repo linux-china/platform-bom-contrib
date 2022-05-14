@@ -160,7 +160,7 @@
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.4</jsqlparser.version>
         <javaparser.version>3.24.2</javaparser.version>
-        <jackson.version>2.13.2.1</jackson.version>
+        <jackson.version>2.13.3</jackson.version>
         <moshi.version>1.13.0</moshi.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>1.30</snakeyaml.version>
