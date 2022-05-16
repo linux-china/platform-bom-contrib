@@ -64,7 +64,7 @@
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>3.2.0</togglz.version>
-        <ff4j.version>1.8.12</ff4j.version>
+        <ff4j.version>1.8.13</ff4j.version>
         <underscore.version>1.77</underscore.version>
         <java-util.version>2.0.0</java-util.version>
         <verbalregex.version>1.8</verbalregex.version>
@@ -78,7 +78,7 @@
         <resilience4j.version>1.7.0</resilience4j.version>
         <failsafe.version>3.2.4</failsafe.version>
         <eclipse-collections.version>11.0.0</eclipse-collections.version>
-        <agrona.version>1.15.1</agrona.version>
+        <agrona.version>1.15.2</agrona.version>
         <math-parser.version>5.0.2</math-parser.version>
         <rgxgen.version>1.3</rgxgen.version>
         <!--code & classes-->
@@ -98,7 +98,7 @@
         <threetenbp.version>1.6.0</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
-        <junit5.version>5.8.2</junit5.version>
+        <junit5.version>5.9.0-M1</junit5.version>
         <junit.version>4.13.2</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
@@ -172,7 +172,7 @@
         <itext.version>4.2.2</itext.version>
         <json.version>20220320</json.version>
         <kryo.version>4.0.2</kryo.version>
-        <jsoup.version>1.14.3</jsoup.version>
+        <jsoup.version>1.15.1</jsoup.version>
         <thymeleaf.version>3.1.0.M1</thymeleaf.version>
         <thymeleaf-layout-dialect.version>3.1.0</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
@@ -222,7 +222,7 @@
         <ehcache3.version>3.10.0</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>8.5.10</flyway.version>
+        <flyway.version>8.5.11</flyway.version>
         <liquibase.version>4.10.0</liquibase.version>
         <derby.version>10.15.2.0</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -335,7 +335,7 @@
         <spring-ws.version>3.1.3</spring-ws.version>
         <spring-session-bom.version>2021.1.3</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.6.3</spring-security.version>
+        <spring-security.version>5.7.0</spring-security.version>
         <spring-security-oauth.version>2.5.2.RELEASE</spring-security-oauth.version>
         <spring-security-oauth2-autoconfigure.version>2.6.7</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.11.RELEASE</spring-security-rsa.version>
@@ -356,7 +356,7 @@
         <spring-cloud-function.version>3.2.4</spring-cloud-function.version>
         <spring-ldap.version>2.4.0</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
-        <spring-amqp.version>2.4.4</spring-amqp.version>
+        <spring-amqp.version>2.4.5</spring-amqp.version>
         <rabbit-amqp-client.version>5.14.2</rabbit-amqp-client.version>
         <rabbit-http-client.version>4.1.2</rabbit-http-client.version>
         <spring-vault.version>2.3.2</spring-vault.version>
