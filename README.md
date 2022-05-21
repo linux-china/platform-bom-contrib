@@ -151,6 +151,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * java-properties: Java Properties is a drop-in replacement of the ubiquitous java.util.Properties https://github.com/codejive/java-properties
 * JUnit Pioneer: JUnit 5 Extension Pack https://github.com/junit-pioneer/junit-pioneer
 * db-scheduler: Persistent cluster-friendly scheduler for Java https://github.com/kagkarlsson/db-scheduler
+* send-notification: a toolbox in Java to send notifications - https://github.com/jcgay/send-notification
 
 ### Developer Notice
 
