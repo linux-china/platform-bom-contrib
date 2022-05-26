@@ -166,7 +166,7 @@
         <snakeyaml.version>1.30</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.9.0</gson.version>
-        <protobuf.version>3.20.1</protobuf.version>
+        <protobuf.version>3.21.0</protobuf.version>
         <json-smart.version>2.4.8</json-smart.version>
         <json-path.version>2.7.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -213,7 +213,7 @@
         <mybatis.version>3.5.10</mybatis.version>
         <mybatis-spring.version>2.0.7</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
-        <mariadb.version>3.0.4</mariadb.version>
+        <mariadb.version>3.0.5</mariadb.version>
         <mongodb.version>4.6.0</mongodb.version>
         <mongodb-reactivestreams.version>4.5.1</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.2.0</embedded-mongo.version>
@@ -232,7 +232,7 @@
         <neo4j-ogm.version>3.2.34</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>8.2.0</elasticsearch.version>
+        <elasticsearch.version>8.2.2</elasticsearch.version>
         <hazelcast.version>5.1.1</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -257,7 +257,7 @@
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.22</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.35</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.36</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.15</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -299,7 +299,7 @@
         <apache-geode.version>1.14.4</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.5</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.227</aws-java-sdk.version>
+        <aws-java-sdk.version>1.12.228</aws-java-sdk.version>
         <aws-java-sdk2.version>2.17.198</aws-java-sdk2.version>
         <google-gax.version>2.18.1</google-gax.version>
         <google-http-client.version>1.41.8</google-http-client.version>
