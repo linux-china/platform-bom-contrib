@@ -103,7 +103,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.4.0</data-faker.version>
-        <mockito.version>4.6.0</mockito.version>
+        <mockito.version>4.6.1</mockito.version>
         <htmlunit.version>2.62.0</htmlunit.version>
         <testng.version>7.6</testng.version>
         <selenium.version>4.2.1</selenium.version>
@@ -299,11 +299,11 @@
         <apache-geode.version>1.14.4</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.5</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.232</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.203</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.233</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.204</aws-java-sdk2.version>
         <google-gax.version>2.18.1</google-gax.version>
         <google-http-client.version>1.41.8</google-http-client.version>
-        <google-cloud-bom.version>25.3.0</google-cloud-bom.version>
+        <google-cloud-bom.version>25.4.0</google-cloud-bom.version>
         <sendgrid.version>4.9.2</sendgrid.version>
         <kubernetes-client.version>15.0.1</kubernetes-client.version>
         <fabric8-kubernetes-client.version>5.12.2</fabric8-kubernetes-client.version>
