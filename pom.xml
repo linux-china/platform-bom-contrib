@@ -63,7 +63,7 @@
         <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
-        <togglz.version>3.2.0</togglz.version>
+        <togglz.version>3.2.1</togglz.version>
         <ff4j.version>1.8.13</ff4j.version>
         <underscore.version>1.78</underscore.version>
         <java-util.version>2.0.0</java-util.version>
@@ -299,8 +299,8 @@
         <apache-geode.version>1.14.4</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.5</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.234</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.205</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.235</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.206</aws-java-sdk2.version>
         <google-gax.version>2.18.1</google-gax.version>
         <google-http-client.version>1.41.8</google-http-client.version>
         <google-cloud-bom.version>25.4.0</google-cloud-bom.version>
@@ -310,7 +310,7 @@
         <istio-client.version>1.7.7.1</istio-client.version>
         <cloudevents-java.version>2.3.0</cloudevents-java.version>
         <!--languages-->
-        <kotlin.version>1.7.0-RC2</kotlin.version>
+        <kotlin.version>1.7.0</kotlin.version>
         <kotlinx-coroutines.version>1.6.2</kotlinx-coroutines.version>
         <jruby.version>9.3.4.0</jruby.version>
         <!--netflix-->
