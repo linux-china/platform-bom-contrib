@@ -209,7 +209,7 @@
         <jedis.version>4.2.3</jedis.version>
         <lettuce.version>6.1.8.RELEASE</lettuce.version>
         <caffeine.version>3.1.1</caffeine.version>
-        <jettison.version>1.4.1</jettison.version>
+        <jettison.version>1.5.0</jettison.version>
         <mybatis.version>3.5.10</mybatis.version>
         <mybatis-spring.version>2.0.7</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
@@ -285,7 +285,7 @@
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>9.0.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>10.0.21</tomcat.version>
+        <tomcat.version>10.0.22</tomcat.version>
         <groovy.version>3.0.11</groovy.version>
         <zookeeper.version>3.8.0</zookeeper.version>
         <curator.version>5.2.1</curator.version>
@@ -299,10 +299,10 @@
         <apache-geode.version>1.14.4</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.5</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.237</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.208</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.238</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.209</aws-java-sdk2.version>
         <google-gax.version>2.18.1</google-gax.version>
-        <google-http-client.version>1.41.8</google-http-client.version>
+        <google-http-client.version>1.42.0</google-http-client.version>
         <google-cloud-bom.version>25.4.0</google-cloud-bom.version>
         <sendgrid.version>4.9.2</sendgrid.version>
         <kubernetes-client.version>15.0.1</kubernetes-client.version>
