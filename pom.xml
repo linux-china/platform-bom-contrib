@@ -52,7 +52,7 @@
         <slf4j.version>1.7.36</slf4j.version>
         <flogger.version>0.7.4</flogger.version>
         <jna.version>5.11.0</jna.version>
-        <prometheus-client.version>0.15.0</prometheus-client.version>
+        <prometheus-client.version>0.16.0</prometheus-client.version>
         <!--productivity & tools-->
         <functionaljava.version>5.0</functionaljava.version>
         <fugue.version>5.0.0</fugue.version>
@@ -83,7 +83,7 @@
         <rgxgen.version>1.3</rgxgen.version>
         <!--code & classes-->
         <jetbrains-annotations.version>23.0.0</jetbrains-annotations.version>
-        <swagger-oai.version>2.2.0</swagger-oai.version>
+        <swagger-oai.version>2.2.1</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
@@ -222,7 +222,7 @@
         <ehcache3.version>3.10.0</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>8.5.12</flyway.version>
+        <flyway.version>8.5.13</flyway.version>
         <liquibase.version>4.11.0</liquibase.version>
         <derby.version>10.16.1.1</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -299,8 +299,8 @@
         <apache-geode.version>1.14.4</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.5</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.240</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.211</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.241</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.212</aws-java-sdk2.version>
         <google-gax.version>2.18.1</google-gax.version>
         <google-http-client.version>1.42.0</google-http-client.version>
         <google-cloud-bom.version>25.4.0</google-cloud-bom.version>
@@ -353,7 +353,7 @@
         <spring-cloud.version>2021.0.3</spring-cloud.version>
         <spring-cloud-task.version>2.4.3</spring-cloud-task.version>
         <spring-cloud-stream.version>3.2.4</spring-cloud-stream.version>
-        <spring-cloud-function.version>3.2.5</spring-cloud-function.version>
+        <spring-cloud-function.version>3.2.6</spring-cloud-function.version>
         <spring-ldap.version>2.4.0</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.4.5</spring-amqp.version>
@@ -369,7 +369,7 @@
         <spring-shell.version>2.0.1.RELEASE</spring-shell.version>
         <reactor-bom.version>2020.0.20</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
-        <micrometer.version>1.9.0</micrometer.version>
+        <micrometer.version>1.9.1</micrometer.version>
     </properties>
 
     <dependencyManagement>
