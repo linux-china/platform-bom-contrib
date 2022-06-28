@@ -51,7 +51,7 @@
         <logback.version>1.2.11</logback.version>
         <slf4j.version>1.7.36</slf4j.version>
         <flogger.version>0.7.4</flogger.version>
-        <jna.version>5.11.0</jna.version>
+        <jna.version>5.12.0</jna.version>
         <prometheus-client.version>0.16.0</prometheus-client.version>
         <!--productivity & tools-->
         <functionaljava.version>5.0</functionaljava.version>
@@ -78,7 +78,7 @@
         <resilience4j.version>1.7.0</resilience4j.version>
         <failsafe.version>3.2.4</failsafe.version>
         <eclipse-collections.version>11.0.0</eclipse-collections.version>
-        <agrona.version>1.15.2</agrona.version>
+        <agrona.version>1.16.0</agrona.version>
         <math-parser.version>5.0.6</math-parser.version>
         <rgxgen.version>1.3</rgxgen.version>
         <!--code & classes-->
@@ -131,7 +131,7 @@
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>5.0.0-alpha.10</okhttp3.version>
-        <okio.version>3.1.0</okio.version>
+        <okio.version>3.2.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.78.Final</netty.version>
@@ -149,7 +149,7 @@
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
-        <zipkin-brave.version>5.13.9</zipkin-brave.version>
+        <zipkin-brave.version>5.13.10</zipkin-brave.version>
         <zipkin-reporter2.version>2.16.3</zipkin-reporter2.version>
         <rsocket.versoin>1.1.2</rsocket.versoin>
         <!--servers-->
@@ -232,7 +232,7 @@
         <neo4j-ogm.version>3.2.35</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>8.2.3</elasticsearch.version>
+        <elasticsearch.version>8.3.0</elasticsearch.version>
         <hazelcast.version>5.1.2</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -299,8 +299,8 @@
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.5</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.248</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.219</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.249</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.220</aws-java-sdk2.version>
         <google-gax.version>2.18.2</google-gax.version>
         <google-http-client.version>1.42.0</google-http-client.version>
         <google-cloud-bom.version>25.4.0</google-cloud-bom.version>
