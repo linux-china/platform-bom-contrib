@@ -51,7 +51,7 @@
         <logback.version>1.2.11</logback.version>
         <slf4j.version>1.7.36</slf4j.version>
         <flogger.version>0.7.4</flogger.version>
-        <jna.version>5.12.0</jna.version>
+        <jna.version>5.12.1</jna.version>
         <prometheus-client.version>0.16.0</prometheus-client.version>
         <!--productivity & tools-->
         <functionaljava.version>5.0</functionaljava.version>
@@ -105,7 +105,7 @@
         <data-faker.version>1.4.0</data-faker.version>
         <mockito.version>4.6.1</mockito.version>
         <htmlunit.version>2.62.0</htmlunit.version>
-        <testng.version>7.6</testng.version>
+        <testng.version>7.6.1</testng.version>
         <selenium.version>4.3.0</selenium.version>
         <selenium-htmlunit-driver.version>3.62.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.0</jsonassert.version>
@@ -166,7 +166,7 @@
         <snakeyaml.version>1.30</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.9.0</gson.version>
-        <protobuf.version>3.21.1</protobuf.version>
+        <protobuf.version>3.21.2</protobuf.version>
         <json-smart.version>2.4.8</json-smart.version>
         <json-path.version>2.7.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -194,7 +194,7 @@
         <xmlunit.version>2.9.0</xmlunit.version>
         <xstream.version>1.4.19</xstream.version>
         <aalto-xml.version>1.3.2</aalto-xml.version>
-        <woodstox5.version>6.2.8</woodstox5.version>
+        <woodstox5.version>6.3.0</woodstox5.version>
         <openpdf.version>1.3.28</openpdf.version>
         <jaxen.version>1.2.0</jaxen.version>
         <xom.version>1.3.7</xom.version>
@@ -232,7 +232,7 @@
         <neo4j-ogm.version>3.2.35</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>8.3.0</elasticsearch.version>
+        <elasticsearch.version>8.3.1</elasticsearch.version>
         <hazelcast.version>5.1.2</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -299,12 +299,12 @@
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.5</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.250</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.221</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.251</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.222</aws-java-sdk2.version>
         <google-gax.version>2.18.2</google-gax.version>
         <google-http-client.version>1.42.0</google-http-client.version>
         <google-cloud-bom.version>25.4.0</google-cloud-bom.version>
-        <sendgrid.version>4.9.2</sendgrid.version>
+        <sendgrid.version>4.9.3</sendgrid.version>
         <kubernetes-client.version>16.0.0</kubernetes-client.version>
         <fabric8-kubernetes-client.version>6.0.0-RC1</fabric8-kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
