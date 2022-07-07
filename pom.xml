@@ -98,7 +98,7 @@
         <threetenbp.version>1.6.0</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
-        <junit5.version>5.9.0-M1</junit5.version>
+        <junit5.version>5.9.0-RC1</junit5.version>
         <junit.version>4.13.2</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
@@ -108,7 +108,7 @@
         <testng.version>7.6.1</testng.version>
         <selenium.version>4.3.0</selenium.version>
         <selenium-htmlunit-driver.version>3.62.0</selenium-htmlunit-driver.version>
-        <jsonassert.version>1.5.0</jsonassert.version>
+        <jsonassert.version>1.5.1</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
         <wiremock.version>2.33.2</wiremock.version>
         <spockframework.version>2.2-M1-groovy-4.0</spockframework.version>
@@ -246,7 +246,7 @@
         <postgresql.version>42.4.0</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.30.0</jdbi.version>
-        <couchbase-client.version>3.3.1</couchbase-client.version>
+        <couchbase-client.version>3.3.2</couchbase-client.version>
         <openjpa.version>3.2.2</openjpa.version>
         <mysql.version>8.0.29</mysql.version>
         <oracle.version>21.6.0.0.1</oracle.version>
@@ -259,7 +259,7 @@
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.23</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.37.3</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>9.38</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.15</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -301,8 +301,8 @@
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.5</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.253</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.224</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.255</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.226</aws-java-sdk2.version>
         <google-gax.version>2.18.3</google-gax.version>
         <google-http-client.version>1.42.1</google-http-client.version>
         <google-cloud-bom.version>25.4.0</google-cloud-bom.version>
@@ -312,7 +312,7 @@
         <istio-client.version>1.7.7.1</istio-client.version>
         <cloudevents-java.version>2.3.0</cloudevents-java.version>
         <!--languages-->
-        <kotlin.version>1.7.0</kotlin.version>
+        <kotlin.version>1.7.10</kotlin.version>
         <kotlinx-coroutines.version>1.6.3</kotlinx-coroutines.version>
         <jruby.version>9.3.6.0</jruby.version>
         <!--netflix-->
@@ -1414,7 +1414,7 @@
             <dependency>
                 <groupId>com.oracle.database.r2dbc</groupId>
                 <artifactId>oracle-r2dbc</artifactId>
-                <version>0.4.0</version>
+                <version>1.0.0</version>
             </dependency>
             <dependency>
                 <groupId>org.jodd</groupId>
