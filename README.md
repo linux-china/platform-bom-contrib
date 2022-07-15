@@ -153,6 +153,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * db-scheduler: Persistent cluster-friendly scheduler for Java https://github.com/kagkarlsson/db-scheduler
 * send-notification: a toolbox in Java to send notifications - https://github.com/jcgay/send-notification
 * prettytime: Convert Java/Android Date() objects in just “a few minutes!” https://www.ocpsoft.org/prettytime/
+* ExpiringMap: A high performance thread-safe map that expires entries  https://github.com/jhalterman/expiringmap
 
 ### Developer Notice
 
