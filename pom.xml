@@ -83,7 +83,7 @@
         <rgxgen.version>1.3</rgxgen.version>
         <!--code & classes-->
         <jetbrains-annotations.version>23.0.0</jetbrains-annotations.version>
-        <swagger-oai.version>2.2.1</swagger-oai.version>
+        <swagger-oai.version>2.2.2</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
@@ -136,7 +136,7 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.79.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.47.0</grpc.version>
+        <grpc.version>1.48.0</grpc.version>
         <asynchttpclient.version>2.12.3</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -301,8 +301,8 @@
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.5</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.263</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.234</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.264</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.235</aws-java-sdk2.version>
         <google-gax.version>2.18.4</google-gax.version>
         <google-http-client.version>1.42.2</google-http-client.version>
         <google-cloud-bom.version>26.0.0</google-cloud-bom.version>
@@ -345,7 +345,7 @@
         <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
         <spring-data-releasetrain.version>Neumann-SR9</spring-data-releasetrain.version>
         <spring-data-bom.version>2021.2.2</spring-data-bom.version>
-        <spring-integration.version>5.5.13</spring-integration.version>
+        <spring-integration.version>5.5.14</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>2.7.1</spring-boot.version>
