@@ -143,7 +143,7 @@
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
         <smack4.version>4.4.4</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
-        <openfeign.version>11.9</openfeign.version>
+        <openfeign.version>11.9.1</openfeign.version>
         <javax-mail.version>1.6.3</javax-mail.version>
         <javax-cache.version>1.1.1</javax-cache.version>
         <javax-validation.version>2.0.1.Final</javax-validation.version>
@@ -301,8 +301,8 @@
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.5</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.265</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.236</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.266</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.237</aws-java-sdk2.version>
         <google-gax.version>2.18.4</google-gax.version>
         <google-http-client.version>1.42.2</google-http-client.version>
         <google-cloud-bom.version>26.0.0</google-cloud-bom.version>
