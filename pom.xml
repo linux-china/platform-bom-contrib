@@ -98,7 +98,7 @@
         <threetenbp.version>1.6.0</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
-        <junit5.version>5.9.0-RC1</junit5.version>
+        <junit5.version>5.9.0</junit5.version>
         <junit.version>4.13.2</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
