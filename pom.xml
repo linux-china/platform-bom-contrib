@@ -1146,6 +1146,11 @@
                 <version>${token-bucket.version}</version>
             </dependency>
             <dependency>
+                <groupId>org.passay</groupId>
+                <artifactId>passay</artifactId>
+                <version>1.6.2</version>
+            </dependency>
+            <dependency>
                 <groupId>com.toomuchcoding.jsonassert</groupId>
                 <artifactId>jsonassert</artifactId>
                 <version>${toomuchcoding-jsonassert.version}</version>
