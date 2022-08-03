@@ -154,6 +154,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * send-notification: a toolbox in Java to send notifications - https://github.com/jcgay/send-notification
 * prettytime: Convert Java/Android Date() objects in just “a few minutes!” https://www.ocpsoft.org/prettytime/
 * ExpiringMap: A high performance thread-safe map that expires entries  https://github.com/jhalterman/expiringmap
+* Passay: password policy enforcement for Java - http://www.passay.org/
 
 ### Developer Notice
 
