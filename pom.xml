@@ -46,7 +46,7 @@
         <twelvemonkeys-imageio.version>3.8.2</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
-        <dropwizard-metrics.version>4.2.10</dropwizard-metrics.version>
+        <dropwizard-metrics.version>4.2.11</dropwizard-metrics.version>
         <jolokia.version>1.7.1</jolokia.version>
         <logback.version>1.2.11</logback.version>
         <slf4j.version>1.7.36</slf4j.version>
@@ -215,7 +215,7 @@
         <mybatis.version>3.5.10</mybatis.version>
         <mybatis-spring.version>2.0.7</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
-        <mariadb.version>3.0.6</mariadb.version>
+        <mariadb.version>3.0.7</mariadb.version>
         <mongodb.version>4.7.1</mongodb.version>
         <mongodb-reactivestreams.version>4.5.1</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.2.0</embedded-mongo.version>
@@ -225,7 +225,7 @@
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
         <flyway.version>9.1.2</flyway.version>
-        <liquibase.version>4.14.0</liquibase.version>
+        <liquibase.version>4.15.0</liquibase.version>
         <derby.version>10.16.1.1</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>2.1.214</h2.version>
@@ -301,8 +301,8 @@
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.5</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.275</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.246</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.276</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.247</aws-java-sdk2.version>
         <google-gax.version>2.18.7</google-gax.version>
         <google-http-client.version>1.42.2</google-http-client.version>
         <google-cloud-bom.version>26.0.0</google-cloud-bom.version>
@@ -371,7 +371,7 @@
         <spring-shell.version>2.1.0</spring-shell.version>
         <reactor-bom.version>2020.0.21</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
-        <micrometer.version>1.9.2</micrometer.version>
+        <micrometer.version>1.9.3</micrometer.version>
     </properties>
 
     <dependencyManagement>
