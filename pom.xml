@@ -73,7 +73,7 @@
         <concurrentlinkedhashmap.version>1.4.2</concurrentlinkedhashmap.version>
         <quartz.version>2.3.2</quartz.version>
         <snappy.version>1.1.7.1</snappy.version>
-        <springdoc-openapi.version>1.6.9</springdoc-openapi.version>
+        <springdoc-openapi.version>1.6.10</springdoc-openapi.version>
         <mbassador.version>1.3.2</mbassador.version>
         <resilience4j.version>1.7.0</resilience4j.version>
         <failsafe.version>3.2.4</failsafe.version>
@@ -224,7 +224,7 @@
         <ehcache3.version>3.10.0</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>9.1.3</flyway.version>
+        <flyway.version>9.1.4</flyway.version>
         <liquibase.version>4.15.0</liquibase.version>
         <derby.version>10.16.1.1</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -337,7 +337,7 @@
         <spring-ws.version>3.1.3</spring-ws.version>
         <spring-session-bom.version>2021.2.0</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>5.7.2</spring-security.version>
+        <spring-security.version>5.7.3</spring-security.version>
         <spring-security-oauth.version>2.5.2.RELEASE</spring-security-oauth.version>
         <spring-security-oauth2-autoconfigure.version>2.6.8</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.0.11.RELEASE</spring-security-rsa.version>
