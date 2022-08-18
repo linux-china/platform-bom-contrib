@@ -104,7 +104,7 @@
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.5.0</data-faker.version>
         <mockito.version>4.7.0</mockito.version>
-        <htmlunit.version>2.63.0</htmlunit.version>
+        <htmlunit.version>2.64.0</htmlunit.version>
         <testng.version>7.6.1</testng.version>
         <selenium.version>4.4.0</selenium.version>
         <selenium-htmlunit-driver.version>3.63.0</selenium-htmlunit-driver.version>
@@ -224,7 +224,7 @@
         <ehcache3.version>3.10.0</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>9.1.5</flyway.version>
+        <flyway.version>9.1.6</flyway.version>
         <liquibase.version>4.15.0</liquibase.version>
         <derby.version>10.16.1.1</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -243,7 +243,7 @@
         <hikaricp.version>5.0.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>6.0.5</unboundid-ldapsdk.version>
-        <postgresql.version>42.4.1</postgresql.version>
+        <postgresql.version>42.4.2</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.32.0</jdbi.version>
         <couchbase-client.version>3.3.3</couchbase-client.version>
@@ -348,7 +348,7 @@
         <spring-integration.version>5.5.14</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>2.7.2</spring-boot.version>
+        <spring-boot.version>2.7.3</spring-boot.version>
         <spring-hateoas.version>1.5.1</spring-hateoas.version>
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>3.1.3</spring-cloud-contract.version>
