@@ -134,7 +134,7 @@
         <okio.version>3.2.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.79.Final</netty.version>
+        <netty.version>4.1.80.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.49.0</grpc.version>
         <asynchttpclient.version>2.12.3</asynchttpclient.version>
@@ -249,7 +249,7 @@
         <couchbase-client.version>3.3.3</couchbase-client.version>
         <openjpa.version>3.2.2</openjpa.version>
         <mysql.version>8.0.30</mysql.version>
-        <oracle.version>21.6.0.0.1</oracle.version>
+        <oracle.version>21.7.0.0</oracle.version>
         <influxdb-java.version>2.23</influxdb-java.version>
         <r2dbc-bom.version>Borca-SR1</r2dbc-bom.version>
         <datastax.version>4.14.1</datastax.version>
@@ -258,8 +258,8 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.24.2</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>9.41</oauth2-oidc-sdk.version>
+        <nimbus-jose-jwt.version>9.24.3</nimbus-jose-jwt.version>
+        <oauth2-oidc-sdk.version>9.41.1</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.15</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -301,8 +301,8 @@
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.7</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.289</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.260</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.290</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.261</aws-java-sdk2.version>
         <google-gax.version>2.19.0</google-gax.version>
         <google-http-client.version>1.42.2</google-http-client.version>
         <google-cloud-bom.version>26.1.0</google-cloud-bom.version>
