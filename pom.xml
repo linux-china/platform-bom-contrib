@@ -37,7 +37,7 @@
 
     <properties>
         <jline.version>3.20.0</jline.version>
-        <janino.version>3.1.7</janino.version>
+        <janino.version>3.1.8</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
         <webjars-locator-core.version>0.52</webjars-locator-core.version>
@@ -65,7 +65,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>3.2.1</togglz.version>
         <ff4j.version>1.8.13</ff4j.version>
-        <underscore.version>1.80</underscore.version>
+        <underscore.version>1.81</underscore.version>
         <java-util.version>2.0.0</java-util.version>
         <verbalregex.version>1.8</verbalregex.version>
         <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -156,7 +156,7 @@
         <jetty.version>11.0.11</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.3.0.Alpha2</undertow.version>
-        <jersey.version>3.1.0-M3</jersey.version>
+        <jersey.version>3.1.0-M7</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.5</jsqlparser.version>
         <javaparser.version>3.24.4</javaparser.version>
@@ -224,14 +224,14 @@
         <ehcache3.version>3.10.1</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.8</mapdb.version>
-        <flyway.version>9.2.1</flyway.version>
+        <flyway.version>9.2.2</flyway.version>
         <liquibase.version>4.15.0</liquibase.version>
         <derby.version>10.16.1.1</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>2.1.214</h2.version>
         <hsqldb.version>2.7.0</hsqldb.version>
         <sqlite-jdbc.version>3.39.2.1</sqlite-jdbc.version>
-        <neo4j-ogm.version>3.2.36</neo4j-ogm.version>
+        <neo4j-ogm.version>3.2.37</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
         <elasticsearch.version>8.4.1</elasticsearch.version>
@@ -292,7 +292,7 @@
         <zookeeper.version>3.8.0</zookeeper.version>
         <curator.version>5.3.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
-        <activemq.version>5.17.1</activemq.version>
+        <activemq.version>5.17.2</activemq.version>
         <artemis.version>2.24.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.5</httpasyncclient.version>
@@ -301,14 +301,14 @@
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.7</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.293</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.264</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.296</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.267</aws-java-sdk2.version>
         <google-gax.version>2.19.0</google-gax.version>
         <google-http-client.version>1.42.2</google-http-client.version>
-        <google-cloud-bom.version>26.1.0</google-cloud-bom.version>
+        <google-cloud-bom.version>26.1.1</google-cloud-bom.version>
         <sendgrid.version>4.9.3</sendgrid.version>
         <kubernetes-client.version>16.0.0</kubernetes-client.version>
-        <fabric8-kubernetes-client.version>6.1.0</fabric8-kubernetes-client.version>
+        <fabric8-kubernetes-client.version>6.1.1</fabric8-kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <cloudevents-java.version>2.3.0</cloudevents-java.version>
         <!--languages-->
