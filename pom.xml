@@ -156,7 +156,7 @@
         <!--servers-->
         <jetty.version>11.0.12</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.3.0.Alpha2</undertow.version>
+        <undertow.version>2.3.0.Beta1</undertow.version>
         <jersey.version>3.1.0-M8</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.5</jsqlparser.version>
@@ -213,7 +213,7 @@
         <lettuce.version>6.2.0.RELEASE</lettuce.version>
         <caffeine.version>3.1.1</caffeine.version>
         <jettison.version>1.5.0</jettison.version>
-        <mybatis.version>3.5.10</mybatis.version>
+        <mybatis.version>3.5.11</mybatis.version>
         <mybatis-spring.version>2.0.7</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>3.0.7</mariadb.version>
@@ -289,7 +289,7 @@
         <solr.version>9.0.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>10.0.23</tomcat.version>
-        <groovy.version>3.0.12</groovy.version>
+        <groovy.version>3.0.13</groovy.version>
         <zookeeper.version>3.8.0</zookeeper.version>
         <curator.version>5.3.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
@@ -301,7 +301,7 @@
         <axiom.version>1.4.0</axiom.version>
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>2.0.7</appengine-sdk.version>
+        <appengine-sdk.version>2.0.8</appengine-sdk.version>
         <aws-java-sdk.version>1.12.305</aws-java-sdk.version>
         <aws-java-sdk2.version>2.17.276</aws-java-sdk2.version>
         <google-gax.version>2.19.1</google-gax.version>
