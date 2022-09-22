@@ -323,7 +323,7 @@
         <reactive-streams.version>1.0.4</reactive-streams.version>
         <narayana.version>5.13.0.Final</narayana.version>
         <atomikos.version>5.0.9</atomikos.version>
-        <jakarta-ee.version>9.1.0</jakarta-ee.version>
+        <jakarta-ee.version>10.0.0</jakarta-ee.version>
         <jakarta.messaging-api.version>2.0.3</jakarta.messaging-api.version>
         <jakarta-persistence-api.version>2.2.3</jakarta-persistence-api.version>
         <servlet-api.version>4.0.1</servlet-api.version>
