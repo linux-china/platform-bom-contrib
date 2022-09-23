@@ -93,7 +93,7 @@
         <cglib.version>3.3.0</cglib.version>
         <lombok.version>1.18.24</lombok.version>
         <immutables.version>2.9.2</immutables.version>
-        <audit4j.version>2.5.0</audit4j.version>
+        <audit4j.version>2.6.0</audit4j.version>
         <reflections.version>0.10.2</reflections.version>
         <threetenbp.version>1.6.1</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
@@ -212,7 +212,7 @@
         <jedis.version>4.2.3</jedis.version>
         <lettuce.version>6.2.0.RELEASE</lettuce.version>
         <caffeine.version>3.1.1</caffeine.version>
-        <jettison.version>1.5.0</jettison.version>
+        <jettison.version>1.5.1</jettison.version>
         <mybatis.version>3.5.11</mybatis.version>
         <mybatis-spring.version>2.0.7</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
@@ -259,7 +259,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.25.1</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>9.25.2</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>9.43.1</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.15</httpcore.version>
@@ -302,8 +302,8 @@
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.8</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.308</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.279</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.309</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.280</aws-java-sdk2.version>
         <google-gax.version>2.19.1</google-gax.version>
         <google-http-client.version>1.42.2</google-http-client.version>
         <google-cloud-bom.version>26.1.2</google-cloud-bom.version>
@@ -334,7 +334,7 @@
         <spring.version>5.3.23</spring.version>
         <spring-framework.version>5.3.23</spring-framework.version>
         <spring-plugin.version>2.0.0.RELEASE</spring-plugin.version>
-        <spring-batch.version>4.3.6</spring-batch.version>
+        <spring-batch.version>4.3.7</spring-batch.version>
         <spring-ws.version>3.1.3</spring-ws.version>
         <spring-session-bom.version>2021.2.0</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
