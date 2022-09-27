@@ -95,7 +95,7 @@
         <immutables.version>2.9.2</immutables.version>
         <audit4j.version>2.6.0</audit4j.version>
         <reflections.version>0.10.2</reflections.version>
-        <threetenbp.version>1.6.1</threetenbp.version>
+        <threetenbp.version>1.6.2</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.9.1</junit5.version>
@@ -161,10 +161,10 @@
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.5</jsqlparser.version>
         <javaparser.version>3.24.4</javaparser.version>
-        <jackson.version>2.13.4</jackson.version>
+        <jackson.version>2.14.0-rc1</jackson.version>
         <moshi.version>1.14.0</moshi.version>
         <classmate.version>1.5.1</classmate.version>
-        <snakeyaml.version>1.32</snakeyaml.version>
+        <snakeyaml.version>1.33</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.9.1</gson.version>
         <protobuf.version>3.21.6</protobuf.version>
@@ -235,7 +235,7 @@
         <neo4j-ogm.version>3.2.37</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>8.4.1</elasticsearch.version>
+        <elasticsearch.version>8.4.2</elasticsearch.version>
         <hazelcast.version>5.2-BETA-1</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -259,7 +259,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.25.2</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>9.25.3</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>9.43.1</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.15</httpcore.version>
@@ -288,13 +288,13 @@
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>9.0.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>10.0.23</tomcat.version>
+        <tomcat.version>10.1.0</tomcat.version>
         <groovy.version>3.0.13</groovy.version>
         <zookeeper.version>3.8.0</zookeeper.version>
         <curator.version>5.3.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.17.2</activemq.version>
-        <artemis.version>2.25.0</artemis.version>
+        <artemis.version>2.26.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.5</httpasyncclient.version>
         <svnkit.version>1.10.8</svnkit.version>
@@ -302,8 +302,8 @@
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.8</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.309</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.280</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.311</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.282</aws-java-sdk2.version>
         <google-gax.version>2.19.1</google-gax.version>
         <google-http-client.version>1.42.2</google-http-client.version>
         <google-cloud-bom.version>26.1.2</google-cloud-bom.version>
@@ -349,7 +349,7 @@
         <spring-integration.version>5.5.15</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>2.7.3</spring-boot.version>
+        <spring-boot.version>2.7.4</spring-boot.version>
         <spring-hateoas.version>1.5.2</spring-hateoas.version>
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>3.1.4</spring-cloud-contract.version>
