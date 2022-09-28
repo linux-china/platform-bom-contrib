@@ -56,7 +56,7 @@
         <!--productivity & tools-->
         <functionaljava.version>5.0</functionaljava.version>
         <fugue.version>5.0.0</fugue.version>
-        <joda-time.version>2.11.1</joda-time.version>
+        <joda-time.version>2.11.2</joda-time.version>
         <gs-collections.version>7.0.3</gs-collections.version>
         <guava.version>31.1-jre</guava.version>
         <guice.version>5.1.0</guice.version>
@@ -83,7 +83,7 @@
         <rgxgen.version>1.4</rgxgen.version>
         <!--code & classes-->
         <jetbrains-annotations.version>23.0.0</jetbrains-annotations.version>
-        <swagger-oai.version>2.2.2</swagger-oai.version>
+        <swagger-oai.version>2.2.3</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
@@ -171,7 +171,7 @@
         <json-smart.version>2.4.8</json-smart.version>
         <json-path.version>2.7.0</json-path.version>
         <itext.version>4.2.2</itext.version>
-        <json.version>20220320</json.version>
+        <json.version>20220924</json.version>
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.15.3</jsoup.version>
         <thymeleaf.version>3.1.0.M2</thymeleaf.version>
@@ -259,7 +259,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.25.3</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>9.25.4</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>9.43.1</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.15</httpcore.version>
@@ -302,8 +302,8 @@
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.8</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.311</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.282</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.312</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.283</aws-java-sdk2.version>
         <google-gax.version>2.19.1</google-gax.version>
         <google-http-client.version>1.42.2</google-http-client.version>
         <google-cloud-bom.version>26.1.2</google-cloud-bom.version>
