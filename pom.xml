@@ -48,7 +48,7 @@
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.2.12</dropwizard-metrics.version>
         <jolokia.version>1.7.1</jolokia.version>
-        <logback.version>1.3.1</logback.version>
+        <logback.version>1.3.3</logback.version>
         <slf4j.version>2.0.3</slf4j.version>
         <flogger.version>0.7.4</flogger.version>
         <jna.version>5.12.1</jna.version>
@@ -104,7 +104,7 @@
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.6.0</data-faker.version>
         <mockito.version>4.8.0</mockito.version>
-        <htmlunit.version>2.64.0</htmlunit.version>
+        <htmlunit.version>2.65.1</htmlunit.version>
         <testng.version>7.6.1</testng.version>
         <selenium.version>4.5.0</selenium.version>
         <selenium-htmlunit-driver.version>3.64.0</selenium-htmlunit-driver.version>
@@ -174,7 +174,7 @@
         <json.version>20220924</json.version>
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.15.3</jsoup.version>
-        <thymeleaf.version>3.1.0.M2</thymeleaf.version>
+        <thymeleaf.version>3.1.0.M3</thymeleaf.version>
         <thymeleaf-layout-dialect.version>3.1.0</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
@@ -200,7 +200,7 @@
         <openpdf.version>1.3.30</openpdf.version>
         <jaxen.version>1.2.0</jaxen.version>
         <xom.version>1.3.8</xom.version>
-        <jte.version>2.2.0</jte.version>
+        <jte.version>2.2.1</jte.version>
         <evo-inflector.version>1.3</evo-inflector.version>
         <jdom2.version>2.0.6.1</jdom2.version>
         <graphql-java.version>19.2</graphql-java.version>
@@ -302,8 +302,8 @@
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.9</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.314</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.285</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.315</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.286</aws-java-sdk2.version>
         <google-gax.version>2.19.2</google-gax.version>
         <google-http-client.version>1.42.2</google-http-client.version>
         <google-cloud-bom.version>26.1.2</google-cloud-bom.version>
