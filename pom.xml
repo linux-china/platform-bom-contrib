@@ -107,7 +107,7 @@
         <htmlunit.version>2.65.1</htmlunit.version>
         <testng.version>7.6.1</testng.version>
         <selenium.version>4.5.0</selenium.version>
-        <selenium-htmlunit-driver.version>3.64.0</selenium-htmlunit-driver.version>
+        <selenium-htmlunit-driver.version>4.5.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.1</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
         <wiremock.version>2.34.0</wiremock.version>
@@ -115,7 +115,7 @@
         <easymock.version>4.3</easymock.version>
         <fluentlenium.version>5.0.4</fluentlenium.version>
         <powermock.version>2.0.9</powermock.version>
-        <testcontainers.version>1.17.4</testcontainers.version>
+        <testcontainers.version>1.17.5</testcontainers.version>
         <dbunit.version>2.7.3</dbunit.version>
         <rest-assured.version>5.2.0</rest-assured.version>
         <assertj.version>3.23.1</assertj.version>
@@ -217,7 +217,7 @@
         <mybatis-spring.version>2.0.7</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>3.0.8</mariadb.version>
-        <mongodb.version>4.7.1</mongodb.version>
+        <mongodb.version>4.8.0-beta0</mongodb.version>
         <mongodb-reactivestreams.version>4.5.1</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
@@ -302,8 +302,8 @@
         <apache-geode.version>1.15.0</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.9</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.315</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.17.286</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.316</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.17.287</aws-java-sdk2.version>
         <google-gax.version>2.19.2</google-gax.version>
         <google-http-client.version>1.42.2</google-http-client.version>
         <google-cloud-bom.version>26.1.2</google-cloud-bom.version>
@@ -370,7 +370,7 @@
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
-        <spring-shell.version>2.1.1</spring-shell.version>
+        <spring-shell.version>2.1.2</spring-shell.version>
         <reactor-bom.version>2020.0.23</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
         <micrometer.version>1.9.4</micrometer.version>
