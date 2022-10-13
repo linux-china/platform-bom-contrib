@@ -134,7 +134,7 @@
         <okio.version>3.2.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.1.83.Final</netty.version>
+        <netty.version>4.1.84.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.50.0</grpc.version>
         <asynchttpclient.version>2.12.3</asynchttpclient.version>
@@ -157,7 +157,7 @@
         <!--servers-->
         <jetty.version>11.0.12</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.3.0.Beta1</undertow.version>
+        <undertow.version>2.3.0.Final</undertow.version>
         <jersey.version>3.1.0-M8</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.5</jsqlparser.version>
@@ -175,12 +175,12 @@
         <json.version>20220924</json.version>
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.15.3</jsoup.version>
-        <thymeleaf.version>3.1.0.M3</thymeleaf.version>
+        <thymeleaf.version>3.1.0.RC1</thymeleaf.version>
         <thymeleaf-layout-dialect.version>3.1.0</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
-        <thymeleaf-extras-springsecurity4.version>3.1.0.M1</thymeleaf-extras-springsecurity4.version>
-        <thymeleaf-extras-springsecurity.version>3.1.0.M1</thymeleaf-extras-springsecurity.version>
+        <thymeleaf-extras-springsecurity4.version>3.1.0.RC1</thymeleaf-extras-springsecurity4.version>
+        <thymeleaf-extras-springsecurity.version>3.1.0.RC1</thymeleaf-extras-springsecurity.version>
         <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
         <unbescape.version>1.1.6.RELEASE</unbescape.version>
         <attoparser.version>2.0.5.RELEASE</attoparser.version>
