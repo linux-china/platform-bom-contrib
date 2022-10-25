@@ -157,7 +157,7 @@
         <vavr.version>0.9.3</vavr.version>
         <webjars-json-editor.version>0.7.21</webjars-json-editor.version>
         <websphere-uow.version>6.0.2.17</websphere-uow.version>
-        <woodstox5.version>6.2.6</woodstox5.version>
+        <woodstox5.version>6.4.0</woodstox5.version>
         <wss4j2.version>2.2.4</wss4j2.version>
         <xmlprojector.version>1.4.20</xmlprojector.version>
         <xmlschema.version>2.2.5</xmlschema.version>
