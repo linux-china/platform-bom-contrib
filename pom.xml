@@ -103,6 +103,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.6.0</data-faker.version>
+        <instancio.version>1.5.2</instancio.version>
         <mockito.version>4.8.1</mockito.version>
         <htmlunit.version>2.66.0</htmlunit.version>
         <testng.version>7.6.1</testng.version>
@@ -442,6 +443,11 @@
                 <groupId>net.datafaker</groupId>
                 <artifactId>datafaker</artifactId>
                 <version>${data-faker.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.instancio</groupId>
+                <artifactId>instancio-junit</artifactId>
+                <version>${instancio.version}</version>
             </dependency>
             <dependency>
                 <groupId>xom</groupId>
