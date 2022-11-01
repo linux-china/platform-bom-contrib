@@ -156,6 +156,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * ExpiringMap: A high performance thread-safe map that expires entries  https://github.com/jhalterman/expiringmap
 * Passay: password policy enforcement for Java - http://www.passay.org/
 * jsch: fork of the popular jsch library https://github.com/mwiede/jsch 
+* Instancio: a Java library for automating data setup in unit tests https://www.instancio.org/
 
 ### Developer Notice
 
