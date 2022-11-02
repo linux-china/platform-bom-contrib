@@ -14,6 +14,7 @@ Now Java 8 is adopted by most developers, and platform-bom-contrib helps Java 8 
 If your application is Spring Boot based, just use following code in your pom.xml:
 
 ```xml
+
 <dependencyManagement>
     <dependencies>
         <dependency>
@@ -155,7 +156,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * prettytime: Convert Java/Android Date() objects in just “a few minutes!” https://www.ocpsoft.org/prettytime/
 * ExpiringMap: A high performance thread-safe map that expires entries  https://github.com/jhalterman/expiringmap
 * Passay: password policy enforcement for Java - http://www.passay.org/
-* jsch: fork of the popular jsch library https://github.com/mwiede/jsch 
+* jsch: fork of the popular jsch library https://github.com/mwiede/jsch
 * Instancio: a Java library for automating data setup in unit tests https://www.instancio.org/
 
 ### Developer Notice
