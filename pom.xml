@@ -107,8 +107,8 @@
         <mockito.version>4.8.1</mockito.version>
         <htmlunit.version>2.66.0</htmlunit.version>
         <testng.version>7.6.1</testng.version>
-        <selenium.version>4.5.3</selenium.version>
-        <selenium-htmlunit-driver.version>4.5.2</selenium-htmlunit-driver.version>
+        <selenium.version>4.6.0</selenium.version>
+        <selenium-htmlunit-driver.version>4.6.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.1</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
         <wiremock.version>2.35.0</wiremock.version>
@@ -159,11 +159,11 @@
         <jetty.version>11.0.12</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.3.0.Final</undertow.version>
-        <jersey.version>3.1.0-M8</jersey.version>
+        <jersey.version>3.1.0</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.5</jsqlparser.version>
         <javaparser.version>3.24.7</javaparser.version>
-        <jackson.version>2.14.0-rc3</jackson.version>
+        <jackson.version>2.14.0</jackson.version>
         <moshi.version>1.14.0</moshi.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>1.33</snakeyaml.version>
@@ -210,7 +210,7 @@
         <hibernate.version>6.1.5.Final</hibernate.version>
         <hibernate-validator.version>8.0.0.Final</hibernate-validator.version>
         <hibernate-types.version>2.20.0</hibernate-types.version>
-        <jooq.version>3.17.4</jooq.version>
+        <jooq.version>3.17.5</jooq.version>
         <jedis.version>4.3.1</jedis.version>
         <lettuce.version>6.2.1.RELEASE</lettuce.version>
         <caffeine.version>3.1.1</caffeine.version>
@@ -304,8 +304,8 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.9</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.335</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.18.10</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.336</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.18.11</aws-java-sdk2.version>
         <google-gax.version>2.19.4</google-gax.version>
         <google-http-client.version>1.42.3</google-http-client.version>
         <google-cloud-bom.version>26.1.4</google-cloud-bom.version>
@@ -354,11 +354,11 @@
         <spring-boot.version>2.7.4</spring-boot.version>
         <spring-hateoas.version>1.5.2</spring-hateoas.version>
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
-        <spring-cloud-contract.version>3.1.4</spring-cloud-contract.version>
-        <spring-cloud.version>2021.0.4</spring-cloud.version>
-        <spring-cloud-task.version>2.4.4</spring-cloud-task.version>
-        <spring-cloud-stream.version>3.2.5</spring-cloud-stream.version>
-        <spring-cloud-function.version>3.2.7</spring-cloud-function.version>
+        <spring-cloud-contract.version>3.1.5</spring-cloud-contract.version>
+        <spring-cloud.version>2021.0.5</spring-cloud.version>
+        <spring-cloud-task.version>2.4.5</spring-cloud-task.version>
+        <spring-cloud-stream.version>3.2.6</spring-cloud-stream.version>
+        <spring-cloud-function.version>3.2.8</spring-cloud-function.version>
         <spring-ldap.version>2.4.1</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>2.4.7</spring-amqp.version>
