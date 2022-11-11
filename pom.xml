@@ -267,7 +267,7 @@
         <httpcore.version>4.4.15</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
         <httpcore5.version>5.2</httpcore5.version>
-        <httpclient5.version>5.2-beta1</httpclient5.version>
+        <httpclient5.version>5.2</httpclient5.version>
         <commons-cli.version>1.5.0</commons-cli.version>
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-net.version>3.8.0</commons-net.version>
@@ -303,9 +303,9 @@
         <axiom.version>1.4.0</axiom.version>
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
-        <appengine-sdk.version>2.0.9</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.339</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.18.14</aws-java-sdk2.version>
+        <appengine-sdk.version>2.0.10</appengine-sdk.version>
+        <aws-java-sdk.version>1.12.340</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.18.15</aws-java-sdk2.version>
         <google-gax.version>2.19.5</google-gax.version>
         <google-http-client.version>1.42.3</google-http-client.version>
         <google-cloud-bom.version>26.1.4</google-cloud-bom.version>
