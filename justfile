@@ -1,4 +1,4 @@
-updates:
+updates: platform-bom-updates
    mvn versions:display-dependency-updates > updates.txt
 
 platform-bom-updates:
