@@ -367,7 +367,7 @@
         <rabbit-amqp-client.version>5.16.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>4.2.0</rabbit-http-client.version>
         <rabbit-stream-client.version>0.8.0</rabbit-stream-client.version>
-        <spring-vault.version>2.3.2</spring-vault.version>
+        <spring-vault.version>3.0.0</spring-vault.version>
         <spring-kafka.version>3.0.0</spring-kafka.version>
         <spring-restdocs.version>3.0.0</spring-restdocs.version>
         <spring-retry.version>2.0.0</spring-retry.version>
