@@ -114,7 +114,7 @@
         <jsonassert.version>1.5.1</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
         <wiremock.version>2.35.0</wiremock.version>
-        <spockframework.version>2.3-groovy-4.0</spockframework.version>
+        <spockframework.version>2.4-M1-groovy-4.0</spockframework.version>
         <easymock.version>5.0.1</easymock.version>
         <fluentlenium.version>5.0.4</fluentlenium.version>
         <powermock.version>2.0.9</powermock.version>
@@ -130,7 +130,7 @@
         <unitils.version>3.4.6</unitils.version>
         <awaitility.version>4.2.0</awaitility.version>
         <model-assert.version>1.0.0</model-assert.version>
-        <junit-pioneer.version>1.9.0</junit-pioneer.version>
+        <junit-pioneer.version>1.9.1</junit-pioneer.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
         <okhttp3.version>5.0.0-alpha.10</okhttp3.version>
@@ -171,7 +171,7 @@
         <snakeyaml.version>1.33</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.10</gson.version>
-        <protobuf.version>3.21.9</protobuf.version>
+        <protobuf.version>3.21.10</protobuf.version>
         <json-smart.version>2.4.8</json-smart.version>
         <json-path.version>2.7.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -243,7 +243,7 @@
         <hazelcast.version>5.2.1</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-        <infinispan.version>14.0.2.Final</infinispan.version>
+        <infinispan.version>14.0.3.Final</infinispan.version>
         <querydsl.version>5.0.0</querydsl.version>
         <hikaricp.version>5.0.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
@@ -306,9 +306,9 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.352</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.18.27</aws-java-sdk2.version>
-        <google-gax.version>2.19.5</google-gax.version>
+        <aws-java-sdk.version>1.12.353</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.18.28</aws-java-sdk2.version>
+        <google-gax.version>2.20.0</google-gax.version>
         <google-http-client.version>1.42.3</google-http-client.version>
         <google-cloud-bom.version>26.1.5</google-cloud-bom.version>
         <sendgrid.version>4.9.3</sendgrid.version>
