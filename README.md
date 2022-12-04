@@ -158,6 +158,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Passay: password policy enforcement for Java - http://www.passay.org/
 * jsch: fork of the popular jsch library https://github.com/mwiede/jsch
 * Instancio: a Java library for automating data setup in unit tests https://www.instancio.org/
+* Logbook: an extensible Java library to enable complete request and response logging for different client- and server-side technologies https://github.com/zalando/logbook
 
 ### Developer Notice
 
