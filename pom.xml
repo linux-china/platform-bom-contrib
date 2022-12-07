@@ -77,7 +77,7 @@
         <snappy.version>1.1.7.1</snappy.version>
         <springdoc-openapi.version>1.6.13</springdoc-openapi.version>
         <mbassador.version>1.3.2</mbassador.version>
-        <resilience4j.version>2.0.0</resilience4j.version>
+        <resilience4j.version>2.0.1</resilience4j.version>
         <failsafe.version>3.3.0</failsafe.version>
         <eclipse-collections.version>11.1.0</eclipse-collections.version>
         <agrona.version>1.17.1</agrona.version>
@@ -97,7 +97,7 @@
         <immutables.version>2.9.2</immutables.version>
         <audit4j.version>2.6.0</audit4j.version>
         <reflections.version>0.10.2</reflections.version>
-        <threetenbp.version>1.6.4</threetenbp.version>
+        <threetenbp.version>1.6.5</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.9.1</junit5.version>
@@ -110,7 +110,7 @@
         <htmlunit.version>2.67.0</htmlunit.version>
         <testng.version>7.6.1</testng.version>
         <selenium.version>4.7.0</selenium.version>
-        <selenium-htmlunit-driver.version>4.6.0</selenium-htmlunit-driver.version>
+        <selenium-htmlunit-driver.version>4.7.0</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.1</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
         <wiremock.version>2.35.0</wiremock.version>
@@ -178,12 +178,12 @@
         <json.version>20220924</json.version>
         <kryo.version>4.0.2</kryo.version>
         <jsoup.version>1.15.3</jsoup.version>
-        <thymeleaf.version>3.1.0.RELEASE</thymeleaf.version>
-        <thymeleaf-layout-dialect.version>3.1.0</thymeleaf-layout-dialect.version>
+        <thymeleaf.version>3.1.1.RELEASE</thymeleaf.version>
+        <thymeleaf-layout-dialect.version>3.1.1</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
-        <thymeleaf-extras-springsecurity4.version>3.1.0.RELEASE</thymeleaf-extras-springsecurity4.version>
-        <thymeleaf-extras-springsecurity.version>3.1.0.RELEASE</thymeleaf-extras-springsecurity.version>
+        <thymeleaf-extras-springsecurity4.version>3.1.1.RELEASE</thymeleaf-extras-springsecurity4.version>
+        <thymeleaf-extras-springsecurity.version>3.1.1.RELEASE</thymeleaf-extras-springsecurity.version>
         <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
         <unbescape.version>1.1.6.RELEASE</unbescape.version>
         <attoparser.version>2.0.6.RELEASE</attoparser.version>
@@ -214,9 +214,9 @@
         <hibernate-types.version>2.20.0</hibernate-types.version>
         <jooq.version>3.17.5</jooq.version>
         <jedis.version>4.3.1</jedis.version>
-        <lettuce.version>6.2.1.RELEASE</lettuce.version>
+        <lettuce.version>6.2.2.RELEASE</lettuce.version>
         <caffeine.version>3.1.2</caffeine.version>
-        <jettison.version>1.5.2</jettison.version>
+        <jettison.version>1.5.3</jettison.version>
         <mybatis.version>3.5.11</mybatis.version>
         <mybatis-spring.version>3.0.0</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
@@ -230,7 +230,7 @@
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.9</mapdb.version>
         <flyway.version>9.8.3</flyway.version>
-        <liquibase.version>4.17.2</liquibase.version>
+        <liquibase.version>4.18.0</liquibase.version>
         <derby.version>10.16.1.1</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>2.1.214</h2.version>
@@ -247,10 +247,10 @@
         <querydsl.version>5.0.0</querydsl.version>
         <hikaricp.version>5.0.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
-        <unboundid-ldapsdk.version>6.0.6</unboundid-ldapsdk.version>
+        <unboundid-ldapsdk.version>6.0.7</unboundid-ldapsdk.version>
         <postgresql.version>42.5.1</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.34.0</jdbi.version>
+        <jdbi.version>3.35.0</jdbi.version>
         <couchbase-client.version>3.4.0</couchbase-client.version>
         <openjpa.version>3.2.2</openjpa.version>
         <mysql.version>8.0.31</mysql.version>
@@ -264,7 +264,7 @@
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.25.6</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>10.1</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>10.3</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.16</httpcore.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -298,7 +298,7 @@
         <curator.version>5.4.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.17.2</activemq.version>
-        <artemis.version>2.27.0</artemis.version>
+        <artemis.version>2.27.1</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.5</httpasyncclient.version>
         <svnkit.version>1.10.9</svnkit.version>
@@ -306,8 +306,8 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.355</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.18.29</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.359</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.18.32</aws-java-sdk2.version>
         <google-gax.version>2.20.0</google-gax.version>
         <google-http-client.version>1.42.3</google-http-client.version>
         <google-cloud-bom.version>26.1.5</google-cloud-bom.version>
@@ -1558,7 +1558,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>4.9.0</version>
+                <version>4.9.1</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
