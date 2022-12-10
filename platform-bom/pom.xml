@@ -149,7 +149,7 @@
         <sun-jsf.version>2.2.18</sun-jsf.version>
         <sun-saaj.version>1.4.0</sun-saaj.version>
         <taglibs-standard.version>1.2.5</taglibs-standard.version>
-        <testng.version>7.6.1</testng.version>
+        <testng.version>7.7.0</testng.version>
         <threetenbp.version>1.6.5</threetenbp.version>
         <tiles.version>3.0.8</tiles.version>
         <tyrus.version>1.13.1</tyrus.version>
