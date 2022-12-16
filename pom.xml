@@ -89,12 +89,12 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
-        <bytebuddy.version>1.12.19</bytebuddy.version>
+        <bytebuddy.version>1.12.20</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.9.1</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
         <lombok.version>1.18.24</lombok.version>
-        <immutables.version>2.9.2</immutables.version>
+        <immutables.version>2.9.3</immutables.version>
         <audit4j.version>2.6.0</audit4j.version>
         <reflections.version>0.10.2</reflections.version>
         <threetenbp.version>1.6.5</threetenbp.version>
@@ -106,7 +106,7 @@
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.7.0</data-faker.version>
         <instancio.version>1.6.0</instancio.version>
-        <mockito.version>4.9.0</mockito.version>
+        <mockito.version>4.10.0</mockito.version>
         <htmlunit.version>2.67.0</htmlunit.version>
         <testng.version>7.7.0</testng.version>
         <selenium.version>4.7.2</selenium.version>
@@ -160,18 +160,18 @@
         <!--servers-->
         <jetty.version>11.0.13</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
-        <undertow.version>2.3.1.Final</undertow.version>
+        <undertow.version>2.3.2.Final</undertow.version>
         <jersey.version>3.1.0</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.5</jsqlparser.version>
-        <javaparser.version>3.24.8</javaparser.version>
+        <javaparser.version>3.24.9</javaparser.version>
         <jackson.version>2.14.1</jackson.version>
         <moshi.version>1.14.0</moshi.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>1.33</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.10</gson.version>
-        <protobuf.version>3.21.10</protobuf.version>
+        <protobuf.version>3.21.12</protobuf.version>
         <json-smart.version>2.4.8</json-smart.version>
         <json-path.version>2.7.0</json-path.version>
         <itext.version>4.2.2</itext.version>
@@ -239,7 +239,7 @@
         <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>8.5.2</elasticsearch.version>
+        <elasticsearch.version>8.5.3</elasticsearch.version>
         <hazelcast.version>5.2.1</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -264,7 +264,7 @@
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>9.25.6</nimbus-jose-jwt.version>
-        <oauth2-oidc-sdk.version>10.3</oauth2-oidc-sdk.version>
+        <oauth2-oidc-sdk.version>10.4</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.16</httpcore.version>
         <httpclient.version>4.5.14</httpclient.version>
@@ -306,14 +306,14 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.364</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.18.38</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.366</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.18.40</aws-java-sdk2.version>
         <google-gax.version>2.20.0</google-gax.version>
         <google-http-client.version>1.42.3</google-http-client.version>
-        <google-cloud-bom.version>26.1.5</google-cloud-bom.version>
+        <google-cloud-bom.version>26.2.0</google-cloud-bom.version>
         <sendgrid.version>4.9.3</sendgrid.version>
         <kubernetes-client.version>17.0.0</kubernetes-client.version>
-        <fabric8-kubernetes-client.version>6.3.0</fabric8-kubernetes-client.version>
+        <fabric8-kubernetes-client.version>6.3.1</fabric8-kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <cloudevents-java.version>2.4.0</cloudevents-java.version>
         <!--languages-->
@@ -335,8 +335,8 @@
         <javax-money.version>1.1</javax-money.version>
         <moneta.version>1.4.2</moneta.version>  <!-- javax money -->
         <!--springsource-->
-        <spring.version>6.0.2</spring.version>
-        <spring-framework.version>6.0.2</spring-framework.version>
+        <spring.version>6.0.3</spring.version>
+        <spring-framework.version>6.0.3</spring-framework.version>
         <spring-plugin.version>3.0.0</spring-plugin.version>
         <spring-batch.version>5.0.0</spring-batch.version>
         <spring-ws.version>4.0.0</spring-ws.version>
