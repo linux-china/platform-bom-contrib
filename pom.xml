@@ -148,12 +148,13 @@
         <unirest-java.version>1.4.9</unirest-java.version>
         <openfeign.version>12.1</openfeign.version>
         <javax-mail.version>1.6.3</javax-mail.version>
+        <sun-mail.version>2.0.1</sun-mail.version>
         <javax-cache.version>1.1.1</javax-cache.version>
         <javax-validation.version>2.0.1.Final</javax-validation.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
         <jsch2.version>0.2.5</jsch2.version>
-        <zipkin.version>2.23.19</zipkin.version>
+        <zipkin.version>2.24.0</zipkin.version>
         <zipkin-brave.version>5.14.1</zipkin-brave.version>
         <zipkin-reporter2.version>2.16.3</zipkin-reporter2.version>
         <rsocket.versoin>1.1.3</rsocket.versoin>
@@ -229,7 +230,7 @@
         <ehcache3.version>3.10.8</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.9</mapdb.version>
-        <flyway.version>9.10.1</flyway.version>
+        <flyway.version>9.10.2</flyway.version>
         <liquibase.version>4.18.0</liquibase.version>
         <derby.version>10.16.1.1</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -306,8 +307,8 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.370</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.19.2</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.371</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.19.3</aws-java-sdk2.version>
         <google-gax.version>2.20.0</google-gax.version>
         <google-http-client.version>1.42.3</google-http-client.version>
         <google-cloud-bom.version>26.2.0</google-cloud-bom.version>
