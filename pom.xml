@@ -83,6 +83,7 @@
         <agrona.version>1.17.1</agrona.version>
         <math-parser.version>5.1.0</math-parser.version>
         <rgxgen.version>1.4</rgxgen.version>
+        <nuprocess.version>2.0.6</nuprocess.version>
         <!--code & classes-->
         <jetbrains-annotations.version>23.1.0</jetbrains-annotations.version>
         <swagger-oai.version>2.2.7</swagger-oai.version>
@@ -1077,6 +1078,11 @@
                 <groupId>net.engio</groupId>
                 <artifactId>mbassador</artifactId>
                 <version>${mbassador.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.zaxxer</groupId>
+                <artifactId>nuprocess</artifactId>
+                <version>${nuprocess.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse.collections</groupId>
