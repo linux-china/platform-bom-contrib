@@ -134,7 +134,7 @@
         <junit-pioneer.version>2.0.0-RC1</junit-pioneer.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>5.0.0-alpha.10</okhttp3.version>
+        <okhttp3.version>5.0.0-alpha.11</okhttp3.version>
         <okio.version>3.2.0</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -213,7 +213,7 @@
         <!--persistence-->
         <hibernate.version>6.1.6.Final</hibernate.version>
         <hibernate-validator.version>8.0.0.Final</hibernate-validator.version>
-        <hibernate-types.version>2.21.0</hibernate-types.version>
+        <hibernate-types.version>2.21.1</hibernate-types.version>
         <jooq.version>3.17.6</jooq.version>
         <jedis.version>4.3.1</jedis.version>
         <lettuce.version>6.2.2.RELEASE</lettuce.version>
@@ -296,7 +296,7 @@
         <solr.version>9.1.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>10.1.2</tomcat.version>
-        <groovy.version>4.0.6</groovy.version>
+        <groovy.version>4.0.7</groovy.version>
         <zookeeper.version>3.8.0</zookeeper.version>
         <curator.version>5.4.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
