@@ -107,8 +107,8 @@
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.7.0</data-faker.version>
         <instancio.version>2.0.0</instancio.version>
-        <mockito.version>4.10.0</mockito.version>
-        <htmlunit.version>2.67.0</htmlunit.version>
+        <mockito.version>4.11.0</mockito.version>
+        <htmlunit.version>2.68.0</htmlunit.version>
         <testng.version>7.7.0</testng.version>
         <selenium.version>4.7.2</selenium.version>
         <selenium-htmlunit-driver.version>4.7.2</selenium-htmlunit-driver.version>
@@ -309,9 +309,9 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.373</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.19.5</aws-java-sdk2.version>
-        <google-gax.version>2.20.0</google-gax.version>
+        <aws-java-sdk.version>1.12.374</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.19.6</aws-java-sdk2.version>
+        <google-gax.version>2.20.1</google-gax.version>
         <google-http-client.version>1.42.3</google-http-client.version>
         <google-cloud-bom.version>26.2.0</google-cloud-bom.version>
         <sendgrid.version>4.9.3</sendgrid.version>
@@ -320,7 +320,7 @@
         <istio-client.version>1.7.7.1</istio-client.version>
         <cloudevents-java.version>2.4.0</cloudevents-java.version>
         <!--languages-->
-        <kotlin.version>1.8.0-RC2</kotlin.version>
+        <kotlin.version>1.8.0</kotlin.version>
         <kotlinx-coroutines.version>1.6.4</kotlinx-coroutines.version>
         <jruby.version>9.3.7.0</jruby.version>
         <!--netflix-->
