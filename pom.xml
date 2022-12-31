@@ -114,9 +114,9 @@
         <selenium-htmlunit-driver.version>4.7.2</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.1</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
-        <wiremock.version>2.35.0</wiremock.version>
+        <wiremock.version>3.0.0-beta-2</wiremock.version>
         <spockframework.version>2.4-M1-groovy-4.0</spockframework.version>
-        <easymock.version>5.0.1</easymock.version>
+        <easymock.version>5.1.0</easymock.version>
         <fluentlenium.version>5.0.4</fluentlenium.version>
         <powermock.version>2.0.9</powermock.version>
         <testcontainers.version>1.17.6</testcontainers.version>
@@ -295,7 +295,7 @@
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>9.1.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>10.1.2</tomcat.version>
+        <tomcat.version>10.1.4</tomcat.version>
         <groovy.version>4.0.7</groovy.version>
         <zookeeper.version>3.8.0</zookeeper.version>
         <curator.version>5.4.0</curator.version>
@@ -309,8 +309,8 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.375</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.19.7</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.376</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.19.8</aws-java-sdk2.version>
         <google-gax.version>2.20.1</google-gax.version>
         <google-http-client.version>1.42.3</google-http-client.version>
         <google-cloud-bom.version>26.2.0</google-cloud-bom.version>
@@ -1362,6 +1362,13 @@
                 <groupId>org.junit-pioneer</groupId>
                 <artifactId>junit-pioneer</artifactId>
                 <version>${junit-pioneer.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.groovy</groupId>
+                <artifactId>groovy-bom</artifactId>
+                <version>${groovy.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
             </dependency>
             <dependency>
                 <groupId>org.spockframework</groupId>
