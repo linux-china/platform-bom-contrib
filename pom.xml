@@ -67,7 +67,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>3.3.2</togglz.version>
         <ff4j.version>1.9</ff4j.version>
-        <underscore.version>1.84</underscore.version>
+        <underscore.version>1.85</underscore.version>
         <java-util.version>2.0.0</java-util.version>
         <verbalregex.version>1.8</verbalregex.version>
         <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -166,7 +166,7 @@
         <jersey.version>3.1.0</jersey.version>
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.5</jsqlparser.version>
-        <javaparser.version>3.24.9</javaparser.version>
+        <javaparser.version>3.24.10</javaparser.version>
         <jackson.version>2.14.1</jackson.version>
         <moshi.version>1.14.0</moshi.version>
         <classmate.version>1.5.1</classmate.version>
@@ -1588,7 +1588,7 @@
             <dependency>
                 <groupId>io.github.lognet</groupId>
                 <artifactId>grpc-spring-boot-starter</artifactId>
-                <version>4.9.1</version>
+                <version>5.0.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
