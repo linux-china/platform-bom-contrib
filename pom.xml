@@ -106,7 +106,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.7.0</data-faker.version>
-        <instancio.version>2.5.0</instancio.version>
+        <instancio.version>2.6.0</instancio.version>
         <mockito.version>5.0.0</mockito.version>
         <htmlunit.version>2.70.0</htmlunit.version>
         <testng.version>7.7.1</testng.version>
@@ -295,7 +295,7 @@
         <jboss-logging.version>3.4.0.Final</jboss-logging.version>
         <solr.version>9.1.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>10.1.4</tomcat.version>
+        <tomcat.version>10.1.5</tomcat.version>
         <groovy.version>4.0.8</groovy.version>
         <zookeeper.version>3.8.0</zookeeper.version>
         <curator.version>5.4.0</curator.version>
@@ -309,8 +309,8 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.392</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.19.23</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.393</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.19.24</aws-java-sdk2.version>
         <google-gax.version>2.22.0</google-gax.version>
         <google-http-client.version>1.42.3</google-http-client.version>
         <google-cloud-bom.version>26.4.0</google-cloud-bom.version>
@@ -359,11 +359,11 @@
         <spring-boot.version>3.0.0</spring-boot.version>
         <spring-hateoas.version>2.0.1</spring-hateoas.version>
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
-        <spring-cloud-contract.version>4.0.0</spring-cloud-contract.version>
-        <spring-cloud.version>2022.0.0</spring-cloud.version>
-        <spring-cloud-task.version>3.0.0</spring-cloud-task.version>
-        <spring-cloud-stream.version>4.0.0</spring-cloud-stream.version>
-        <spring-cloud-function.version>4.0.0</spring-cloud-function.version>
+        <spring-cloud-contract.version>4.0.1</spring-cloud-contract.version>
+        <spring-cloud.version>2022.0.1</spring-cloud.version>
+        <spring-cloud-task.version>3.0.1</spring-cloud-task.version>
+        <spring-cloud-stream.version>4.0.1</spring-cloud-stream.version>
+        <spring-cloud-function.version>4.0.1</spring-cloud-function.version>
         <spring-ldap.version>3.0.0</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>3.0.1</spring-amqp.version>
@@ -1829,6 +1829,13 @@
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-function-dependencies</artifactId>
                 <version>${spring-cloud-function.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.ws</groupId>
+                <artifactId>spring-ws-bom</artifactId>
+                <version>${spring-ws.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
