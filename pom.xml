@@ -107,7 +107,7 @@
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.7.0</data-faker.version>
         <instancio.version>2.6.0</instancio.version>
-        <mockito.version>5.0.0</mockito.version>
+        <mockito.version>5.1.0</mockito.version>
         <htmlunit.version>2.70.0</htmlunit.version>
         <testng.version>7.7.1</testng.version>
         <selenium.version>4.8.0</selenium.version>
@@ -123,7 +123,7 @@
         <dbunit.version>2.7.3</dbunit.version>
         <rest-assured.version>5.3.0</rest-assured.version>
         <assertj.version>3.24.2</assertj.version>
-        <assertj-json.version>2.36.0</assertj-json.version>
+        <assertj-json.version>2.36.1</assertj-json.version>
         <jfairy.version>0.5.9</jfairy.version>
         <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
         <database-rider.version>1.35.1</database-rider.version>
@@ -167,7 +167,7 @@
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.5</jsqlparser.version>
         <javaparser.version>3.24.10</javaparser.version>
-        <jackson.version>2.14.1</jackson.version>
+        <jackson.version>2.14.2</jackson.version>
         <moshi.version>1.14.0</moshi.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>1.33</snakeyaml.version>
@@ -266,7 +266,7 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.70</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>9.29</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>9.30</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>10.5.1</oauth2-oidc-sdk.version>
         <!--apache-->
         <httpcore.version>4.4.16</httpcore.version>
