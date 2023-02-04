@@ -65,7 +65,7 @@
         <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
-        <togglz.version>3.3.3</togglz.version>
+        <togglz.version>4.0.0-M1</togglz.version>
         <ff4j.version>1.9</ff4j.version>
         <underscore.version>1.86</underscore.version>
         <java-util.version>2.0.0</java-util.version>
@@ -94,7 +94,7 @@
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.19</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
-        <lombok.version>1.18.24</lombok.version>
+        <lombok.version>1.18.26</lombok.version>
         <immutables.version>2.9.3</immutables.version>
         <audit4j.version>2.6.0</audit4j.version>
         <reflections.version>0.10.2</reflections.version>
@@ -251,9 +251,9 @@
         <hikaricp.version>5.0.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>6.0.7</unboundid-ldapsdk.version>
-        <postgresql.version>42.5.2</postgresql.version>
+        <postgresql.version>42.5.3</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.36.0</jdbi.version>
+        <jdbi.version>3.37.0</jdbi.version>
         <couchbase-client.version>3.4.2</couchbase-client.version>
         <openjpa.version>3.2.2</openjpa.version>
         <mysql.version>8.0.32</mysql.version>
@@ -301,7 +301,7 @@
         <curator.version>5.4.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
         <activemq.version>5.17.2</activemq.version>
-        <artemis.version>2.27.1</artemis.version>
+        <artemis.version>2.28.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.5</httpasyncclient.version>
         <svnkit.version>1.10.9</svnkit.version>
@@ -309,11 +309,11 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.399</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.19.30</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.400</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.19.31</aws-java-sdk2.version>
         <google-gax.version>2.22.0</google-gax.version>
         <google-http-client.version>1.42.3</google-http-client.version>
-        <google-cloud-bom.version>26.5.0</google-cloud-bom.version>
+        <google-cloud-bom.version>26.6.0</google-cloud-bom.version>
         <sendgrid.version>4.9.3</sendgrid.version>
         <kubernetes-client.version>17.0.1</kubernetes-client.version>
         <fabric8-kubernetes-client.version>6.4.1</fabric8-kubernetes-client.version>
