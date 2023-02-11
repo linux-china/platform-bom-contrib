@@ -48,7 +48,7 @@
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.2.15</dropwizard-metrics.version>
-        <opentelemetry.version>1.22.0</opentelemetry.version>
+        <opentelemetry.version>1.23.0</opentelemetry.version>
         <jolokia.version>1.7.1</jolokia.version>
         <logback.version>1.4.5</logback.version>
         <slf4j.version>2.0.6</slf4j.version>
@@ -90,7 +90,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.1.3</google-truth.version>
-        <bytebuddy.version>1.12.23</bytebuddy.version>
+        <bytebuddy.version>1.13.0</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.19</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
@@ -217,15 +217,15 @@
         <jooq.version>3.17.8</jooq.version>
         <jedis.version>4.3.1</jedis.version>
         <lettuce.version>6.2.2.RELEASE</lettuce.version>
-        <caffeine.version>3.1.2</caffeine.version>
+        <caffeine.version>3.1.3</caffeine.version>
         <jettison.version>1.5.3</jettison.version>
         <mybatis.version>3.5.11</mybatis.version>
         <mybatis-spring.version>3.0.1</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>3.1.2</mariadb.version>
         <mariadb-r2dbc.version>1.1.3</mariadb-r2dbc.version>
-        <mongodb.version>4.8.2</mongodb.version>
-        <mongodb-reactivestreams.version>4.8.2</mongodb-reactivestreams.version>
+        <mongodb.version>4.9.0</mongodb.version>
+        <mongodb-reactivestreams.version>4.9.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>4.0.0</cassandra-driver.version>
@@ -253,7 +253,7 @@
         <unboundid-ldapsdk.version>6.0.7</unboundid-ldapsdk.version>
         <postgresql.version>42.5.3</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.37.0</jdbi.version>
+        <jdbi.version>3.37.1</jdbi.version>
         <couchbase-client.version>3.4.2</couchbase-client.version>
         <openjpa.version>3.2.2</openjpa.version>
         <mysql.version>8.0.32</mysql.version>
@@ -309,8 +309,8 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.404</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.20.1</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.405</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.20.2</aws-java-sdk2.version>
         <google-gax.version>2.23.0</google-gax.version>
         <google-http-client.version>1.42.3</google-http-client.version>
         <google-cloud-bom.version>26.7.0</google-cloud-bom.version>
