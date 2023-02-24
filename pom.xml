@@ -47,7 +47,7 @@
         <twelvemonkeys-imageio.version>3.9.4</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
-        <dropwizard-metrics.version>4.2.16</dropwizard-metrics.version>
+        <dropwizard-metrics.version>4.2.17</dropwizard-metrics.version>
         <opentelemetry.version>1.23.1</opentelemetry.version>
         <jolokia.version>1.7.1</jolokia.version>
         <logback.version>1.4.5</logback.version>
@@ -165,7 +165,7 @@
         <undertow.version>2.3.4.Final</undertow.version>
         <jersey.version>3.1.1</jersey.version>
         <!--parsers & templates & serializer-->
-        <jsqlparser.version>4.5</jsqlparser.version>
+        <jsqlparser.version>4.6</jsqlparser.version>
         <javaparser.version>3.25.0</javaparser.version>
         <jackson.version>2.14.2</jackson.version>
         <moshi.version>1.14.0</moshi.version>
@@ -193,7 +193,7 @@
         <wss4j2.version>3.0.0</wss4j2.version>
         <objenesis.version>3.3</objenesis.version>
         <jopt-simple.version>5.0.4</jopt-simple.version>
-        <rometools.version>1.19.0</rometools.version>
+        <rometools.version>2.0.0</rometools.version>
         <xmlprojector.version>1.4.24</xmlprojector.version>
         <freemarker.version>2.3.32</freemarker.version>
         <dom4j-java8.version>2.1.4</dom4j-java8.version>
@@ -238,7 +238,7 @@
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>2.1.214</h2.version>
         <hsqldb.version>2.7.1</hsqldb.version>
-        <sqlite-jdbc.version>3.40.1.0</sqlite-jdbc.version>
+        <sqlite-jdbc.version>3.41.0.0</sqlite-jdbc.version>
         <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
@@ -309,11 +309,11 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.413</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.20.10</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.414</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.20.11</aws-java-sdk2.version>
         <google-gax.version>2.23.1</google-gax.version>
         <google-http-client.version>1.42.3</google-http-client.version>
-        <google-cloud-bom.version>26.8.0</google-cloud-bom.version>
+        <google-cloud-bom.version>26.9.0</google-cloud-bom.version>
         <sendgrid.version>4.9.3</sendgrid.version>
         <kubernetes-client.version>17.0.1</kubernetes-client.version>
         <fabric8-kubernetes-client.version>6.4.1</fabric8-kubernetes-client.version>
@@ -342,7 +342,7 @@
         <spring-framework.version>6.0.5</spring-framework.version>
         <spring-plugin.version>3.0.0</spring-plugin.version>
         <spring-batch.version>5.0.1</spring-batch.version>
-        <spring-ws.version>4.0.1</spring-ws.version>
+        <spring-ws.version>4.0.2</spring-ws.version>
         <spring-session-bom.version>3.0.0</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
         <spring-security.version>6.0.2</spring-security.version>
@@ -356,7 +356,7 @@
         <spring-integration.version>6.0.3</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>3.0.0</spring-boot.version>
+        <spring-boot.version>3.0.3</spring-boot.version>
         <spring-hateoas.version>2.0.2</spring-hateoas.version>
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>4.0.1</spring-cloud-contract.version>
@@ -370,7 +370,7 @@
         <rabbit-amqp-client.version>5.16.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>5.0.0</rabbit-http-client.version>
         <rabbit-stream-client.version>0.9.0</rabbit-stream-client.version>
-        <spring-vault.version>3.0.0</spring-vault.version>
+        <spring-vault.version>3.0.1</spring-vault.version>
         <spring-kafka.version>3.0.3</spring-kafka.version>
         <spring-restdocs.version>3.0.0</spring-restdocs.version>
         <spring-retry.version>2.0.0</spring-retry.version>
