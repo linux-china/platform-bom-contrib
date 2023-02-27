@@ -147,7 +147,7 @@
         <searchbox-jest.version>6.3.1</searchbox-jest.version>
         <smack4.version>4.4.4</smack4.version>
         <unirest-java.version>1.4.9</unirest-java.version>
-        <openfeign.version>12.1</openfeign.version>
+        <openfeign.version>12.2</openfeign.version>
         <javax-mail.version>1.6.3</javax-mail.version>
         <sun-mail.version>2.0.1</sun-mail.version>
         <javax-cache.version>1.1.1</javax-cache.version>
@@ -170,7 +170,7 @@
         <jackson.version>2.14.2</jackson.version>
         <moshi.version>1.14.0</moshi.version>
         <classmate.version>1.5.1</classmate.version>
-        <snakeyaml.version>1.33</snakeyaml.version>
+        <snakeyaml.version>2.0</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.10.1</gson.version>
         <protobuf.version>3.22.0</protobuf.version>
