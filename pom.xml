@@ -85,7 +85,7 @@
         <rgxgen.version>1.4</rgxgen.version>
         <nuprocess.version>2.0.6</nuprocess.version>
         <!--code & classes-->
-        <jetbrains-annotations.version>24.0.0</jetbrains-annotations.version>
+        <jetbrains-annotations.version>24.0.1</jetbrains-annotations.version>
         <swagger-oai.version>2.2.8</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
@@ -309,8 +309,8 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.418</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.20.15</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.419</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.20.16</aws-java-sdk2.version>
         <google-gax.version>2.23.2</google-gax.version>
         <google-http-client.version>1.43.0</google-http-client.version>
         <google-cloud-bom.version>26.9.0</google-cloud-bom.version>
@@ -338,8 +338,8 @@
         <javax-money.version>1.1</javax-money.version>
         <moneta.version>1.4.2</moneta.version>  <!-- javax money -->
         <!--springsource-->
-        <spring.version>6.0.5</spring.version>
-        <spring-framework.version>6.0.5</spring-framework.version>
+        <spring.version>6.0.6</spring.version>
+        <spring-framework.version>6.0.6</spring-framework.version>
         <spring-plugin.version>3.0.0</spring-plugin.version>
         <spring-batch.version>5.0.1</spring-batch.version>
         <spring-ws.version>4.0.2</spring-ws.version>
@@ -371,14 +371,14 @@
         <rabbit-http-client.version>5.0.0</rabbit-http-client.version>
         <rabbit-stream-client.version>0.9.0</rabbit-stream-client.version>
         <spring-vault.version>3.0.1</spring-vault.version>
-        <spring-kafka.version>3.0.3</spring-kafka.version>
+        <spring-kafka.version>3.0.4</spring-kafka.version>
         <spring-restdocs.version>3.0.0</spring-restdocs.version>
         <spring-retry.version>2.0.0</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
         <spring-shell.version>3.0.1</spring-shell.version>
-        <reactor-bom.version>2022.0.3</reactor-bom.version>
+        <reactor-bom.version>2022.0.4</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
         <micrometer.version>1.10.4</micrometer.version>
     </properties>
