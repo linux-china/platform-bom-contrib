@@ -309,8 +309,8 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.419</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.20.16</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.420</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.20.17</aws-java-sdk2.version>
         <google-gax.version>2.23.2</google-gax.version>
         <google-http-client.version>1.43.0</google-http-client.version>
         <google-cloud-bom.version>26.9.0</google-cloud-bom.version>
@@ -318,7 +318,7 @@
         <kubernetes-client.version>17.0.1</kubernetes-client.version>
         <fabric8-kubernetes-client.version>6.4.1</fabric8-kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
-        <cloudevents-java.version>2.4.1</cloudevents-java.version>
+        <cloudevents-java.version>2.4.2</cloudevents-java.version>
         <!--languages-->
         <kotlin.version>1.8.20-Beta</kotlin.version>
         <kotlinx-coroutines.version>1.6.4</kotlinx-coroutines.version>
@@ -356,7 +356,7 @@
         <spring-integration.version>6.0.3</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-        <spring-boot.version>3.0.3</spring-boot.version>
+        <spring-boot.version>3.0.4</spring-boot.version>
         <spring-hateoas.version>2.0.2</spring-hateoas.version>
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>4.0.1</spring-cloud-contract.version>
