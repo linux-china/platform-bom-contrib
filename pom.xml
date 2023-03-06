@@ -106,7 +106,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.8.0</data-faker.version>
-        <instancio.version>2.10.0</instancio.version>
+        <instancio.version>2.11.0</instancio.version>
         <mockito.version>5.1.1</mockito.version>
         <htmlunit.version>2.70.0</htmlunit.version>
         <testng.version>7.7.1</testng.version>
