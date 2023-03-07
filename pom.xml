@@ -217,7 +217,7 @@
         <jooq.version>3.17.8</jooq.version>
         <jedis.version>4.3.1</jedis.version>
         <lettuce.version>6.2.3.RELEASE</lettuce.version>
-        <caffeine.version>3.1.4</caffeine.version>
+        <caffeine.version>3.1.5</caffeine.version>
         <jettison.version>1.5.3</jettison.version>
         <mybatis.version>3.5.12</mybatis.version>
         <mybatis-spring.version>3.0.1</mybatis-spring.version>
@@ -309,13 +309,13 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.420</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.20.17</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.421</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.20.18</aws-java-sdk2.version>
         <google-gax.version>2.23.2</google-gax.version>
         <google-http-client.version>1.43.0</google-http-client.version>
         <google-cloud-bom.version>26.9.0</google-cloud-bom.version>
         <sendgrid.version>4.9.3</sendgrid.version>
-        <kubernetes-client.version>17.0.1</kubernetes-client.version>
+        <kubernetes-client.version>18.0.0</kubernetes-client.version>
         <fabric8-kubernetes-client.version>6.4.1</fabric8-kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <cloudevents-java.version>2.4.2</cloudevents-java.version>
