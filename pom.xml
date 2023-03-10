@@ -75,7 +75,7 @@
         <concurrentlinkedhashmap.version>1.4.2</concurrentlinkedhashmap.version>
         <quartz.version>2.3.2</quartz.version>
         <snappy.version>1.1.7.1</snappy.version>
-        <springdoc-openapi.version>1.6.14</springdoc-openapi.version>
+        <springdoc-openapi.version>1.6.15</springdoc-openapi.version>
         <mbassador.version>1.3.2</mbassador.version>
         <resilience4j.version>2.0.2</resilience4j.version>
         <failsafe.version>3.3.0</failsafe.version>
@@ -107,14 +107,14 @@
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.8.0</data-faker.version>
         <instancio.version>2.11.0</instancio.version>
-        <mockito.version>5.1.1</mockito.version>
+        <mockito.version>5.2.0</mockito.version>
         <htmlunit.version>2.70.0</htmlunit.version>
         <testng.version>7.7.1</testng.version>
         <selenium.version>4.8.1</selenium.version>
         <selenium-htmlunit-driver.version>4.8.1</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.1</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
-        <wiremock.version>3.0.0-beta-3</wiremock.version>
+        <wiremock.version>3.0.0-beta-4</wiremock.version>
         <spockframework.version>2.4-M1-groovy-4.0</spockframework.version>
         <easymock.version>5.1.0</easymock.version>
         <fluentlenium.version>5.0.4</fluentlenium.version>
@@ -214,7 +214,7 @@
         <hibernate.version>6.1.6.Final</hibernate.version>
         <hibernate-validator.version>8.0.0.Final</hibernate-validator.version>
         <hibernate-types.version>2.21.1</hibernate-types.version>
-        <jooq.version>3.17.8</jooq.version>
+        <jooq.version>3.18.0</jooq.version>
         <jedis.version>4.3.1</jedis.version>
         <lettuce.version>6.2.3.RELEASE</lettuce.version>
         <caffeine.version>3.1.5</caffeine.version>
@@ -254,7 +254,7 @@
         <postgresql.version>42.5.4</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.37.1</jdbi.version>
-        <couchbase-client.version>3.4.3</couchbase-client.version>
+        <couchbase-client.version>3.4.4</couchbase-client.version>
         <openjpa.version>3.2.2</openjpa.version>
         <mysql.version>8.0.32</mysql.version>
         <oracle.version>21.9.0.0</oracle.version>
@@ -309,8 +309,8 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.423</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.20.20</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.424</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.20.21</aws-java-sdk2.version>
         <google-gax.version>2.23.2</google-gax.version>
         <google-http-client.version>1.43.0</google-http-client.version>
         <google-cloud-bom.version>26.10.0</google-cloud-bom.version>
@@ -322,7 +322,7 @@
         <!--languages-->
         <kotlin.version>1.8.20-RC</kotlin.version>
         <kotlinx-coroutines.version>1.6.4</kotlinx-coroutines.version>
-        <jruby.version>9.4.0.0</jruby.version>
+        <jruby.version>9.4.2.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <ribbon.version>2.7.18</ribbon.version>
