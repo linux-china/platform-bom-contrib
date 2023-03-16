@@ -50,7 +50,7 @@
         <dropwizard-metrics.version>4.2.17</dropwizard-metrics.version>
         <opentelemetry.version>1.24.0</opentelemetry.version>
         <jolokia.version>1.7.1</jolokia.version>
-        <logback.version>1.4.5</logback.version>
+        <logback.version>1.4.6</logback.version>
         <slf4j.version>2.0.6</slf4j.version>
         <flogger.version>0.7.4</flogger.version>
         <jna.version>5.13.0</jna.version>
@@ -105,7 +105,7 @@
         <junit.version>4.13.2</junit.version>
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
-        <data-faker.version>1.8.0</data-faker.version>
+        <data-faker.version>1.8.1</data-faker.version>
         <instancio.version>2.11.0</instancio.version>
         <mockito.version>5.2.0</mockito.version>
         <htmlunit.version>2.70.0</htmlunit.version>
@@ -218,7 +218,7 @@
         <jedis.version>4.3.1</jedis.version>
         <lettuce.version>6.2.3.RELEASE</lettuce.version>
         <caffeine.version>3.1.5</caffeine.version>
-        <jettison.version>1.5.3</jettison.version>
+        <jettison.version>1.5.4</jettison.version>
         <mybatis.version>3.5.13</mybatis.version>
         <mybatis-spring.version>3.0.1</mybatis-spring.version>
         <javax-jdo.version>3.1</javax-jdo.version>
@@ -232,7 +232,7 @@
         <ehcache3.version>3.10.8</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.9</mapdb.version>
-        <flyway.version>9.15.2</flyway.version>
+        <flyway.version>9.16.0</flyway.version>
         <liquibase.version>4.20.0</liquibase.version>
         <derby.version>10.16.1.1</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -309,8 +309,8 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.427</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.20.24</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.428</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.20.25</aws-java-sdk2.version>
         <google-gax.version>2.23.3</google-gax.version>
         <google-http-client.version>1.43.0</google-http-client.version>
         <google-cloud-bom.version>26.10.0</google-cloud-bom.version>
