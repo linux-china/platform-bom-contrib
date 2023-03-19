@@ -47,7 +47,7 @@
         <twelvemonkeys-imageio.version>3.9.4</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <!--system management & monitor-->
-        <dropwizard-metrics.version>4.2.17</dropwizard-metrics.version>
+        <dropwizard-metrics.version>4.2.18</dropwizard-metrics.version>
         <opentelemetry.version>1.24.0</opentelemetry.version>
         <jolokia.version>1.7.1</jolokia.version>
         <logback.version>1.4.6</logback.version>
@@ -167,14 +167,14 @@
         <!--parsers & templates & serializer-->
         <jsqlparser.version>4.6</jsqlparser.version>
         <javaparser.version>3.25.1</javaparser.version>
-        <jackson.version>2.14.2</jackson.version>
+        <jackson.version>2.15.0-rc1</jackson.version>
         <moshi.version>1.14.0</moshi.version>
         <classmate.version>1.5.1</classmate.version>
         <snakeyaml.version>2.0</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.10.1</gson.version>
         <protobuf.version>3.22.2</protobuf.version>
-        <json-smart.version>2.4.9</json-smart.version>
+        <json-smart.version>2.4.10</json-smart.version>
         <json-path.version>2.7.0</json-path.version>
         <itext.version>4.2.2</itext.version>
         <json.version>20230227</json.version>
@@ -251,7 +251,7 @@
         <hikaricp.version>5.0.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>6.0.8</unboundid-ldapsdk.version>
-        <postgresql.version>42.5.4</postgresql.version>
+        <postgresql.version>42.6.0</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
         <jdbi.version>3.37.1</jdbi.version>
         <couchbase-client.version>3.4.4</couchbase-client.version>
@@ -309,10 +309,10 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.428</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.20.25</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.430</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.20.27</aws-java-sdk2.version>
         <google-gax.version>2.23.3</google-gax.version>
-        <google-http-client.version>1.43.0</google-http-client.version>
+        <google-http-client.version>1.43.1</google-http-client.version>
         <google-cloud-bom.version>26.10.0</google-cloud-bom.version>
         <sendgrid.version>4.9.3</sendgrid.version>
         <kubernetes-client.version>18.0.0</kubernetes-client.version>
