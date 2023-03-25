@@ -98,7 +98,7 @@
         <immutables.version>2.9.3</immutables.version>
         <audit4j.version>2.6.0</audit4j.version>
         <reflections.version>0.10.2</reflections.version>
-        <threetenbp.version>1.6.6</threetenbp.version>
+        <threetenbp.version>1.6.7</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <!--testing-->
         <junit5.version>5.9.2</junit5.version>
@@ -106,11 +106,11 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.8.1</data-faker.version>
-        <instancio.version>2.11.0</instancio.version>
+        <instancio.version>2.12.0</instancio.version>
         <mockito.version>5.2.0</mockito.version>
         <htmlunit.version>2.70.0</htmlunit.version>
         <testng.version>7.7.1</testng.version>
-        <selenium.version>4.8.1</selenium.version>
+        <selenium.version>4.8.2</selenium.version>
         <selenium-htmlunit-driver.version>4.8.1.1</selenium-htmlunit-driver.version>
         <jsonassert.version>1.5.1</jsonassert.version>
         <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
@@ -140,7 +140,7 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.1.90.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.53.0</grpc.version>
+        <grpc.version>1.54.0</grpc.version>
         <asynchttpclient.version>2.12.3</asynchttpclient.version>
         <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -238,7 +238,7 @@
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>2.1.214</h2.version>
         <hsqldb.version>2.7.1</hsqldb.version>
-        <sqlite-jdbc.version>3.41.2.0</sqlite-jdbc.version>
+        <sqlite-jdbc.version>3.41.2.1</sqlite-jdbc.version>
         <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
@@ -309,8 +309,8 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.434</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.20.31</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.435</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.20.32</aws-java-sdk2.version>
         <google-gax.version>2.23.3</google-gax.version>
         <google-http-client.version>1.43.1</google-http-client.version>
         <google-cloud-bom.version>26.11.0</google-cloud-bom.version>
