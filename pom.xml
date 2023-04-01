@@ -209,9 +209,9 @@
         <jte.version>2.3.0</jte.version>
         <evo-inflector.version>1.3</evo-inflector.version>
         <jdom2.version>2.0.6.1</jdom2.version>
-        <graphql-java.version>20.1</graphql-java.version>
+        <graphql-java.version>20.2</graphql-java.version>
         <!--persistence-->
-        <hibernate.version>6.1.6.Final</hibernate.version>
+        <hibernate.version>6.2.0.Final</hibernate.version>
         <hibernate-validator.version>8.0.0.Final</hibernate-validator.version>
         <hibernate-types.version>2.21.1</hibernate-types.version>
         <jooq.version>3.18.2</jooq.version>
