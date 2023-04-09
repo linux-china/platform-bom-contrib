@@ -106,7 +106,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>1.8.1</data-faker.version>
-        <instancio.version>2.12.1</instancio.version>
+        <instancio.version>2.13.0</instancio.version>
         <mockito.version>5.2.0</mockito.version>
         <htmlunit.version>2.70.0</htmlunit.version>
         <testng.version>7.7.1</testng.version>
@@ -217,7 +217,7 @@
         <jooq.version>3.18.2</jooq.version>
         <jedis.version>4.3.2</jedis.version>
         <lettuce.version>6.2.3.RELEASE</lettuce.version>
-        <caffeine.version>3.1.5</caffeine.version>
+        <caffeine.version>3.1.6</caffeine.version>
         <jettison.version>1.5.4</jettison.version>
         <mybatis.version>3.5.13</mybatis.version>
         <mybatis-spring.version>3.0.1</mybatis-spring.version>
