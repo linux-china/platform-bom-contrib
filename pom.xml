@@ -160,7 +160,7 @@
         <zipkin-reporter2.version>2.16.3</zipkin-reporter2.version>
         <rsocket.versoin>1.1.3</rsocket.versoin>
         <!--servers-->
-        <jetty.version>11.0.14</jetty.version>
+        <jetty.version>11.0.15</jetty.version>
         <jetty-el.version>8.5.35</jetty-el.version>
         <undertow.version>2.3.5.Final</undertow.version>
         <jersey.version>3.1.1</jersey.version>
@@ -214,7 +214,7 @@
         <hibernate.version>6.2.0.Final</hibernate.version>
         <hibernate-validator.version>8.0.0.Final</hibernate-validator.version>
         <hibernate-types.version>2.21.1</hibernate-types.version>
-        <jooq.version>3.18.2</jooq.version>
+        <jooq.version>3.18.3</jooq.version>
         <jedis.version>4.3.2</jedis.version>
         <lettuce.version>6.2.3.RELEASE</lettuce.version>
         <caffeine.version>3.1.6</caffeine.version>
@@ -233,7 +233,7 @@
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.0.9</mapdb.version>
         <flyway.version>9.16.3</flyway.version>
-        <liquibase.version>4.20.0</liquibase.version>
+        <liquibase.version>4.21.0</liquibase.version>
         <derby.version>10.16.1.1</derby.version>
         <flexy-pool.version>2.2.3</flexy-pool.version>
         <h2.version>2.1.214</h2.version>
@@ -243,7 +243,7 @@
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
         <elasticsearch.version>8.7.0</elasticsearch.version>
-        <hazelcast.version>5.3.0-BETA-1</hazelcast.version>
+        <hazelcast.version>5.3.0-BETA-2</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
         <infinispan.version>14.0.8.Final</infinispan.version>
@@ -309,9 +309,9 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.447</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.20.44</aws-java-sdk2.version>
-        <google-gax.version>2.24.0</google-gax.version>
+        <aws-java-sdk.version>1.12.449</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.20.46</aws-java-sdk2.version>
+        <google-gax.version>2.25.0</google-gax.version>
         <google-http-client.version>1.43.1</google-http-client.version>
         <google-cloud-bom.version>26.12.0</google-cloud-bom.version>
         <sendgrid.version>4.9.3</sendgrid.version>
@@ -338,8 +338,8 @@
         <javax-money.version>1.1</javax-money.version>
         <moneta.version>1.4.2</moneta.version>  <!-- javax money -->
         <!--springsource-->
-        <spring.version>6.0.7</spring.version>
-        <spring-framework.version>6.0.7</spring-framework.version>
+        <spring.version>6.0.8</spring.version>
+        <spring-framework.version>6.0.8</spring-framework.version>
         <spring-plugin.version>3.0.0</spring-plugin.version>
         <spring-batch.version>5.0.1</spring-batch.version>
         <spring-ws.version>4.0.2</spring-ws.version>
@@ -364,7 +364,7 @@
         <spring-cloud-task.version>3.0.2</spring-cloud-task.version>
         <spring-cloud-stream.version>4.0.2</spring-cloud-stream.version>
         <spring-cloud-function.version>4.0.2</spring-cloud-function.version>
-        <spring-ldap.version>3.0.1</spring-ldap.version>
+        <spring-ldap.version>3.0.2</spring-ldap.version>
         <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
         <spring-amqp.version>3.0.3</spring-amqp.version>
         <rabbit-amqp-client.version>5.17.0</rabbit-amqp-client.version>
