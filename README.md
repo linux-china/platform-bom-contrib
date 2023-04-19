@@ -160,6 +160,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Instancio: a Java library for automating data setup in unit tests https://www.instancio.org/
 * Logbook: an extensible Java library to enable complete request and response logging for different client- and server-side technologies https://github.com/zalando/logbook
 * NuProcess: Low-overhead, non-blocking I/O, external Process implementation for Java https://github.com/brettwooldridge/NuProcess
+* uuid-creator: https://github.com/f4b6a3/uuid-creator
 
 ### Developer Notice
 
