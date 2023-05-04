@@ -128,7 +128,7 @@
     <assertj-json.version>2.37.0</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-    <database-rider.version>1.36.0</database-rider.version>
+    <database-rider.version>1.37.0</database-rider.version>
     <archunit.version>0.8.3</archunit.version>
     <unitils.version>3.4.6</unitils.version>
     <awaitility.version>4.2.0</awaitility.version>
@@ -244,7 +244,7 @@
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
-    <elasticsearch.version>8.7.0</elasticsearch.version>
+    <elasticsearch.version>8.7.1</elasticsearch.version>
     <hazelcast.version>5.3.0-BETA-2</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -311,14 +311,14 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.461</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.58</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.462</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.59</aws-java-sdk2.version>
     <google-gax.version>2.26.0</google-gax.version>
     <google-http-client.version>1.43.1</google-http-client.version>
-    <google-cloud-bom.version>26.13.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.14.0</google-cloud-bom.version>
     <sendgrid.version>4.9.3</sendgrid.version>
     <kubernetes-client.version>18.0.0</kubernetes-client.version>
-    <fabric8-kubernetes-client.version>6.5.1</fabric8-kubernetes-client.version>
+    <fabric8-kubernetes-client.version>6.6.0</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>2.4.2</cloudevents-java.version>
     <!--languages-->
