@@ -112,7 +112,7 @@
     <mockito.version>5.3.1</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.7.1</testng.version>
-    <selenium.version>4.9.0</selenium.version>
+    <selenium.version>4.9.1</selenium.version>
     <selenium-htmlunit-driver.version>4.9.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
@@ -128,7 +128,7 @@
     <assertj-json.version>2.37.0</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-    <database-rider.version>1.37.0</database-rider.version>
+    <database-rider.version>1.37.1</database-rider.version>
     <archunit.version>0.8.3</archunit.version>
     <unitils.version>3.4.6</unitils.version>
     <awaitility.version>4.2.0</awaitility.version>
@@ -142,7 +142,7 @@
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.1.92.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
-    <grpc.version>1.54.1</grpc.version>
+    <grpc.version>1.55.1</grpc.version>
     <asynchttpclient.version>3.0.0.Beta2</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
@@ -175,7 +175,7 @@
     <snakeyaml.version>2.0</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.10.1</gson.version>
-    <protobuf.version>3.22.4</protobuf.version>
+    <protobuf.version>3.23.0</protobuf.version>
     <json-smart.version>2.4.10</json-smart.version>
     <json-path.version>2.8.0</json-path.version>
     <itext.version>4.2.2</itext.version>
@@ -217,7 +217,7 @@
     <hibernate-validator.version>8.0.0.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.18.3</jooq.version>
-    <jedis.version>4.3.2</jedis.version>
+    <jedis.version>4.4.0</jedis.version>
     <lettuce.version>6.2.4.RELEASE</lettuce.version>
     <caffeine.version>3.1.6</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
@@ -298,7 +298,7 @@
     <solr.version>9.2.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>10.1.8</tomcat.version>
-    <groovy.version>4.0.11</groovy.version>
+    <groovy.version>4.0.12</groovy.version>
     <zookeeper.version>3.8.1</zookeeper.version>
     <curator.version>5.5.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
@@ -311,8 +311,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.464</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.61</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.465</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.62</aws-java-sdk2.version>
     <google-gax.version>2.26.0</google-gax.version>
     <google-http-client.version>1.43.1</google-http-client.version>
     <google-cloud-bom.version>26.14.0</google-cloud-bom.version>
@@ -379,7 +379,7 @@
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
-    <spring-shell.version>3.0.2</spring-shell.version>
+    <spring-shell.version>3.0.3</spring-shell.version>
     <reactor-bom.version>2022.0.6</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <micrometer.version>1.10.6</micrometer.version>
