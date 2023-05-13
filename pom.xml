@@ -170,7 +170,7 @@
     <jsqlparser.version>4.6</jsqlparser.version>
     <javaparser.version>3.25.3</javaparser.version>
     <jackson.version>2.15.0</jackson.version>
-    <moshi.version>1.14.0</moshi.version>
+    <moshi.version>1.15.0</moshi.version>
     <classmate.version>1.5.1</classmate.version>
     <snakeyaml.version>2.0</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
@@ -314,7 +314,7 @@
     <aws-java-sdk.version>1.12.468</aws-java-sdk.version>
     <aws-java-sdk2.version>2.20.65</aws-java-sdk2.version>
     <google-gax.version>2.27.0</google-gax.version>
-    <google-http-client.version>1.43.1</google-http-client.version>
+    <google-http-client.version>1.43.2</google-http-client.version>
     <google-cloud-bom.version>26.14.0</google-cloud-bom.version>
     <sendgrid.version>4.9.3</sendgrid.version>
     <kubernetes-client.version>18.0.0</kubernetes-client.version>
@@ -323,7 +323,7 @@
     <cloudevents-java.version>2.4.2</cloudevents-java.version>
     <!--languages-->
     <kotlin.version>1.8.21</kotlin.version>
-    <kotlinx-coroutines.version>1.7.0</kotlinx-coroutines.version>
+    <kotlinx-coroutines.version>1.7.1</kotlinx-coroutines.version>
     <jruby.version>9.4.2.0</jruby.version>
     <!--netflix-->
     <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
@@ -354,7 +354,7 @@
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-    <spring-data-bom.version>2022.0.5</spring-data-bom.version>
+    <spring-data-bom.version>2023.0.0</spring-data-bom.version>
     <spring-integration.version>6.0.5</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
