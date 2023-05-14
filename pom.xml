@@ -103,7 +103,7 @@
     <threetenbp.version>1.6.8</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
     <!--testing-->
-    <junit5.version>5.9.3</junit5.version>
+    <junit5.version>5.10.0-M1</junit5.version>
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
@@ -383,6 +383,7 @@
     <reactor-bom.version>2022.0.7</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <micrometer.version>1.11.0</micrometer.version>
+    <micrometer-tracing.version>1.1.1</micrometer-tracing.version>
   </properties>
 
   <dependencyManagement>
@@ -1092,9 +1093,9 @@
         <version>${nuprocess.version}</version>
       </dependency>
       <dependency>
-          <groupId>com.github.f4b6a3</groupId>
-          <artifactId>uuid-creator</artifactId>
-          <version>${uuid-creator.version}</version>
+        <groupId>com.github.f4b6a3</groupId>
+        <artifactId>uuid-creator</artifactId>
+        <version>${uuid-creator.version}</version>
       </dependency>
       <dependency>
         <groupId>org.eclipse.collections</groupId>
@@ -1670,6 +1671,13 @@
         <groupId>io.micrometer</groupId>
         <artifactId>micrometer-bom</artifactId>
         <version>${micrometer.version}</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+      <dependency>
+        <groupId>io.micrometer</groupId>
+        <artifactId>micrometer-tracing-bom</artifactId>
+        <version>${micrometer-tracing.version}</version>
         <type>pom</type>
         <scope>import</scope>
       </dependency>
