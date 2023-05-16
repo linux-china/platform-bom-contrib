@@ -161,6 +161,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Logbook: an extensible Java library to enable complete request and response logging for different client- and server-side technologies https://github.com/zalando/logbook
 * NuProcess: Low-overhead, non-blocking I/O, external Process implementation for Java https://github.com/brettwooldridge/NuProcess
 * uuid-creator: https://github.com/f4b6a3/uuid-creator
+* bucket4j: Java rate limiting library based on token-bucket algorithm - https://github.com/bucket4j/bucket4j
 
 ### Developer Notice
 

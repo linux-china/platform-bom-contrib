@@ -85,7 +85,7 @@
     <rgxgen.version>1.4</rgxgen.version>
     <nuprocess.version>2.0.6</nuprocess.version>
     <uuid-creator.version>5.3.2</uuid-creator.version>
-
+    <bucket4j.version>8.3.0</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>24.0.1</jetbrains-annotations.version>
     <swagger-oai.version>2.2.10</swagger-oai.version>
@@ -1096,6 +1096,11 @@
         <groupId>com.github.f4b6a3</groupId>
         <artifactId>uuid-creator</artifactId>
         <version>${uuid-creator.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>com.bucket4j</groupId>
+        <artifactId>bucket4j-core</artifactId>
+        <version>${bucket4j.version}</version>
       </dependency>
       <dependency>
         <groupId>org.eclipse.collections</groupId>
