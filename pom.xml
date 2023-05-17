@@ -61,7 +61,7 @@
     <joda-time.version>2.12.1</joda-time.version>
     <gs-collections.version>7.0.3</gs-collections.version>
     <guava.version>31.1-jre</guava.version>
-    <guice.version>5.1.0</guice.version>
+    <guice.version>7.0.0</guice.version>
     <jodd.version>5.1.6</jodd.version>
     <boon.version>0.34</boon.version>
     <javatuples.version>1.2</javatuples.version>
@@ -113,7 +113,7 @@
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.7.1</testng.version>
     <selenium.version>4.9.1</selenium.version>
-    <selenium-htmlunit-driver.version>4.9.0</selenium-htmlunit-driver.version>
+    <selenium-htmlunit-driver.version>4.9.1</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
     <wiremock.version>3.0.0-beta-8</wiremock.version>
@@ -164,12 +164,12 @@
     <!--servers-->
     <jetty.version>11.0.15</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
-    <undertow.version>2.3.5.Final</undertow.version>
+    <undertow.version>2.3.6.Final</undertow.version>
     <jersey.version>3.1.1</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>4.6</jsqlparser.version>
     <javaparser.version>3.25.3</javaparser.version>
-    <jackson.version>2.15.0</jackson.version>
+    <jackson.version>2.15.1</jackson.version>
     <moshi.version>1.15.0</moshi.version>
     <classmate.version>1.5.1</classmate.version>
     <snakeyaml.version>2.0</snakeyaml.version>
@@ -278,7 +278,7 @@
     <commons-cli.version>1.5.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.9.0</commons-net.version>
-    <commons-io.version>2.11.0</commons-io.version>
+    <commons-io.version>2.12.0</commons-io.version>
     <commons-codec.version>1.15</commons-codec.version>
     <commons-fileupload.version>1.5</commons-fileupload.version>
     <commons-beanutils.version>1.9.4</commons-beanutils.version>
@@ -311,11 +311,11 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.469</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.66</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.470</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.67</aws-java-sdk2.version>
     <google-gax.version>2.27.0</google-gax.version>
     <google-http-client.version>1.43.2</google-http-client.version>
-    <google-cloud-bom.version>26.14.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.15.0</google-cloud-bom.version>
     <sendgrid.version>4.9.3</sendgrid.version>
     <kubernetes-client.version>18.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>6.6.2</fabric8-kubernetes-client.version>
@@ -345,7 +345,7 @@
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.0.1</spring-batch.version>
     <spring-ws.version>4.0.4</spring-ws.version>
-    <spring-session-bom.version>3.0.1</spring-session-bom.version>
+    <spring-session-bom.version>3.1.0</spring-session-bom.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
     <spring-security.version>6.1.0</spring-security.version>
     <spring-security-oauth.version>2.5.2.RELEASE</spring-security-oauth.version>
@@ -355,7 +355,7 @@
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
     <spring-data-bom.version>2023.0.0</spring-data-bom.version>
-    <spring-integration.version>6.0.5</spring-integration.version>
+    <spring-integration.version>6.1.0</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
     <spring-boot.version>3.0.6</spring-boot.version>
