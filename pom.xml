@@ -180,7 +180,7 @@
     <json-path.version>2.8.0</json-path.version>
     <itext.version>4.2.2</itext.version>
     <json.version>20230227</json.version>
-    <kryo.version>4.0.2</kryo.version>
+    <kryo.version>4.0.3</kryo.version>
     <jsoup.version>1.16.1</jsoup.version>
     <thymeleaf.version>3.1.1.RELEASE</thymeleaf.version>
     <thymeleaf-layout-dialect.version>3.2.1</thymeleaf-layout-dialect.version>
