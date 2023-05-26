@@ -156,7 +156,7 @@
     <javax-validation.version>2.0.1.Final</javax-validation.version>
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
-    <jsch2.version>0.2.8</jsch2.version>
+    <jsch2.version>0.2.9</jsch2.version>
     <zipkin.version>2.24.1</zipkin.version>
     <zipkin-brave.version>5.16.0</zipkin-brave.version>
     <zipkin-reporter2.version>2.16.4</zipkin-reporter2.version>
@@ -217,7 +217,7 @@
     <hibernate-validator.version>8.0.0.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.18.4</jooq.version>
-    <jedis.version>4.4.0</jedis.version>
+    <jedis.version>4.4.1</jedis.version>
     <lettuce.version>6.2.4.RELEASE</lettuce.version>
     <caffeine.version>3.1.6</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
@@ -311,9 +311,9 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.475</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.72</aws-java-sdk2.version>
-    <google-gax.version>2.28.0</google-gax.version>
+    <aws-java-sdk.version>1.12.476</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.73</aws-java-sdk2.version>
+    <google-gax.version>2.28.1</google-gax.version>
     <google-http-client.version>1.43.2</google-http-client.version>
     <google-cloud-bom.version>26.15.0</google-cloud-bom.version>
     <sendgrid.version>4.9.3</sendgrid.version>
@@ -361,11 +361,11 @@
     <spring-boot.version>3.1.0</spring-boot.version>
     <spring-hateoas.version>2.1.0</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
-    <spring-cloud-contract.version>4.0.2</spring-cloud-contract.version>
-    <spring-cloud.version>2022.0.2</spring-cloud.version>
-    <spring-cloud-task.version>3.0.2</spring-cloud-task.version>
-    <spring-cloud-stream.version>4.0.2</spring-cloud-stream.version>
-    <spring-cloud-function.version>4.0.2</spring-cloud-function.version>
+    <spring-cloud-contract.version>4.0.3</spring-cloud-contract.version>
+    <spring-cloud.version>2022.0.3</spring-cloud.version>
+    <spring-cloud-task.version>3.0.3</spring-cloud-task.version>
+    <spring-cloud-stream.version>4.0.3</spring-cloud-stream.version>
+    <spring-cloud-function.version>4.0.3</spring-cloud-function.version>
     <spring-ldap.version>3.1.0</spring-ldap.version>
     <spring-web-flow.version>2.5.1.RELEASE</spring-web-flow.version>
     <spring-amqp.version>3.0.4</spring-amqp.version>
@@ -379,7 +379,7 @@
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
-    <spring-shell.version>3.0.3</spring-shell.version>
+    <spring-shell.version>3.1.0</spring-shell.version>
     <reactor-bom.version>2022.0.7</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <micrometer.version>1.11.0</micrometer.version>
