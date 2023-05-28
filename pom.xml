@@ -60,7 +60,7 @@
     <fugue.version>5.0.0</fugue.version>
     <joda-time.version>2.12.1</joda-time.version>
     <gs-collections.version>7.0.3</gs-collections.version>
-    <guava.version>31.1-jre</guava.version>
+    <guava.version>32.0.0-jre</guava.version>
     <guice.version>7.0.0</guice.version>
     <jodd.version>5.1.6</jodd.version>
     <boon.version>0.34</boon.version>
@@ -311,8 +311,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.476</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.73</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.477</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.74</aws-java-sdk2.version>
     <google-gax.version>2.28.1</google-gax.version>
     <google-http-client.version>1.43.2</google-http-client.version>
     <google-cloud-bom.version>26.15.0</google-cloud-bom.version>
@@ -371,7 +371,7 @@
     <spring-amqp.version>3.0.4</spring-amqp.version>
     <rabbit-amqp-client.version>5.17.0</rabbit-amqp-client.version>
     <rabbit-http-client.version>5.0.0</rabbit-http-client.version>
-    <rabbit-stream-client.version>0.9.0</rabbit-stream-client.version>
+    <rabbit-stream-client.version>0.10.0</rabbit-stream-client.version>
     <spring-vault.version>3.0.2</spring-vault.version>
     <spring-kafka.version>3.0.7</spring-kafka.version>
     <spring-restdocs.version>3.0.0</spring-restdocs.version>
