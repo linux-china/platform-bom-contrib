@@ -121,7 +121,7 @@
         <easymock.version>5.1.0</easymock.version>
         <fluentlenium.version>5.0.4</fluentlenium.version>
         <powermock.version>2.0.9</powermock.version>
-        <testcontainers.version>1.18.2</testcontainers.version>
+        <testcontainers.version>1.18.3</testcontainers.version>
         <dbunit.version>2.7.3</dbunit.version>
         <rest-assured.version>5.3.0</rest-assured.version>
         <assertj.version>3.24.2</assertj.version>
@@ -244,7 +244,7 @@
         <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>8.7.1</elasticsearch.version>
+        <elasticsearch.version>8.8.0</elasticsearch.version>
         <hazelcast.version>5.3.0</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -311,8 +311,8 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.478</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.20.75</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.479</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.20.76</aws-java-sdk2.version>
         <google-gax.version>2.28.1</google-gax.version>
         <google-http-client.version>1.43.2</google-http-client.version>
         <google-cloud-bom.version>26.15.0</google-cloud-bom.version>
