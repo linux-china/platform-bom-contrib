@@ -65,7 +65,7 @@
         <jodd.version>5.1.6</jodd.version>
         <boon.version>0.34</boon.version>
         <javatuples.version>1.2</javatuples.version>
-        <togglz.version>4.0.0-M1</togglz.version>
+        <togglz.version>4.0.1</togglz.version>
         <ff4j.version>2.0.0</ff4j.version>
         <underscore.version>1.90</underscore.version>
         <java-util.version>2.0.0</java-util.version>
@@ -248,21 +248,21 @@
         <hazelcast.version>5.3.0</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-        <infinispan.version>14.0.9.Final</infinispan.version>
+        <infinispan.version>14.0.10.Final</infinispan.version>
         <querydsl.version>5.0.0</querydsl.version>
         <hikaricp.version>5.0.1</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
         <unboundid-ldapsdk.version>6.0.8</unboundid-ldapsdk.version>
         <postgresql.version>42.6.0</postgresql.version>
         <jaybird.version>3.0.1</jaybird.version>
-        <jdbi.version>3.38.2</jdbi.version>
+        <jdbi.version>3.38.3</jdbi.version>
         <couchbase-client.version>3.4.6</couchbase-client.version>
         <openjpa.version>3.2.2</openjpa.version>
         <mysql.version>8.0.33</mysql.version>
         <oracle.version>23.2.0.0</oracle.version>
         <influxdb-java.version>2.23</influxdb-java.version>
         <r2dbc-bom.version>Borca-SR2</r2dbc-bom.version>
-        <datastax.version>4.15.0</datastax.version>
+        <datastax.version>4.16.0</datastax.version>
         <!--security-->
         <cas-client.version>3.6.4</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
@@ -311,8 +311,8 @@
         <apache-geode.version>1.15.1</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
-        <aws-java-sdk.version>1.12.481</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.20.78</aws-java-sdk2.version>
+        <aws-java-sdk.version>1.12.482</aws-java-sdk.version>
+        <aws-java-sdk2.version>2.20.79</aws-java-sdk2.version>
         <google-gax.version>2.28.1</google-gax.version>
         <google-http-client.version>1.43.2</google-http-client.version>
         <google-cloud-bom.version>26.15.0</google-cloud-bom.version>
