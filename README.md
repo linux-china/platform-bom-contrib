@@ -162,6 +162,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * NuProcess: Low-overhead, non-blocking I/O, external Process implementation for Java https://github.com/brettwooldridge/NuProcess
 * uuid-creator: https://github.com/f4b6a3/uuid-creator
 * bucket4j: Java rate limiting library based on token-bucket algorithm - https://github.com/bucket4j/bucket4j
+* Manifold: Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more https://github.com/manifold-systems/manifold
 
 ### Developer Notice
 
