@@ -246,7 +246,7 @@
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
     <elasticsearch.version>8.8.1</elasticsearch.version>
-    <hazelcast.version>5.3.0</hazelcast.version>
+    <hazelcast.version>5.3.1</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
     <infinispan.version>14.0.10.Final</infinispan.version>
@@ -312,8 +312,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.486</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.83</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.487</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.84</aws-java-sdk2.version>
     <google-gax.version>2.29.0</google-gax.version>
     <google-http-client.version>1.43.2</google-http-client.version>
     <google-cloud-bom.version>26.16.0</google-cloud-bom.version>
@@ -383,7 +383,7 @@
     <spring-shell.version>3.1.0</spring-shell.version>
     <reactor-bom.version>2022.0.7</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
-    <micrometer.version>1.11.0</micrometer.version>
+    <micrometer.version>1.11.1</micrometer.version>
     <micrometer-tracing.version>1.1.1</micrometer-tracing.version>
   </properties>
 
