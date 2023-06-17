@@ -109,7 +109,7 @@
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.0.0</data-faker.version>
-    <instancio.version>2.16.0</instancio.version>
+    <instancio.version>2.16.1</instancio.version>
     <mockito.version>5.3.1</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.8.0</testng.version>
@@ -117,14 +117,14 @@
     <selenium-htmlunit-driver.version>4.10.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.0.0-beta-9</wiremock.version>
+    <wiremock.version>3.0.0-beta-10</wiremock.version>
     <spockframework.version>2.4-M1-groovy-4.0</spockframework.version>
     <easymock.version>5.1.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
     <powermock.version>2.0.9</powermock.version>
     <testcontainers.version>1.18.3</testcontainers.version>
     <dbunit.version>2.7.3</dbunit.version>
-    <rest-assured.version>5.3.0</rest-assured.version>
+    <rest-assured.version>5.3.1</rest-assured.version>
     <assertj.version>3.24.2</assertj.version>
     <assertj-json.version>2.38.0</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
@@ -218,7 +218,7 @@
     <hibernate-validator.version>8.0.0.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.18.4</jooq.version>
-    <jedis.version>4.4.1</jedis.version>
+    <jedis.version>4.4.3</jedis.version>
     <lettuce.version>6.2.4.RELEASE</lettuce.version>
     <caffeine.version>3.1.6</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
@@ -257,7 +257,7 @@
     <postgresql.version>42.6.0</postgresql.version>
     <jaybird.version>3.0.1</jaybird.version>
     <jdbi.version>3.38.3</jdbi.version>
-    <couchbase-client.version>3.4.6</couchbase-client.version>
+    <couchbase-client.version>3.4.7</couchbase-client.version>
     <openjpa.version>3.2.2</openjpa.version>
     <mysql.version>8.0.33</mysql.version>
     <oracle.version>23.2.0.0</oracle.version>
@@ -312,8 +312,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.489</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.86</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.490</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.87</aws-java-sdk2.version>
     <google-gax.version>2.29.0</google-gax.version>
     <google-http-client.version>1.43.2</google-http-client.version>
     <google-cloud-bom.version>26.17.0</google-cloud-bom.version>
@@ -355,7 +355,7 @@
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-    <spring-data-bom.version>2023.0.0</spring-data-bom.version>
+    <spring-data-bom.version>2023.0.1</spring-data-bom.version>
     <spring-integration.version>6.1.0</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
