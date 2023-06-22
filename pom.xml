@@ -215,7 +215,7 @@
     <graphql-java.version>20.4</graphql-java.version>
     <!--persistence-->
     <hibernate.version>6.2.5.Final</hibernate.version>
-    <hibernate-validator.version>8.0.0.Final</hibernate-validator.version>
+    <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.18.4</jooq.version>
     <jedis.version>4.4.3</jedis.version>
@@ -280,7 +280,7 @@
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.9.0</commons-net.version>
     <commons-io.version>2.13.0</commons-io.version>
-    <commons-codec.version>1.15</commons-codec.version>
+    <commons-codec.version>1.16</commons-codec.version>
     <commons-fileupload.version>1.5</commons-fileupload.version>
     <commons-beanutils.version>1.9.4</commons-beanutils.version>
     <commons-lang3.version>3.12.0</commons-lang3.version>
@@ -294,7 +294,7 @@
     <commons-rng.version>1.5</commons-rng.version>
     <poi.version>5.2.3</poi.version>
     <kafka.version>3.5.0</kafka.version>
-    <log4j2.version>2.20.0</log4j2.version>
+    <log4j2.version>3.0.0-alpha1</log4j2.version>
     <jboss-logging.version>3.4.0.Final</jboss-logging.version>
     <solr.version>9.2.1</solr.version>
     <bsh.version>2.0b5</bsh.version>
@@ -312,8 +312,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.492</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.89</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.493</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.90</aws-java-sdk2.version>
     <google-gax.version>2.29.0</google-gax.version>
     <google-http-client.version>1.43.2</google-http-client.version>
     <google-cloud-bom.version>26.17.0</google-cloud-bom.version>
@@ -359,7 +359,7 @@
     <spring-integration.version>6.1.1</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-    <spring-boot.version>3.1.0</spring-boot.version>
+    <spring-boot.version>3.1.1</spring-boot.version>
     <spring-hateoas.version>2.1.0</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
     <spring-cloud-contract.version>4.0.3</spring-cloud-contract.version>
