@@ -1687,6 +1687,11 @@
         <type>pom</type>
       </dependency>
       <dependency>
+        <groupId>org.eclipse.angus</groupId>
+        <artifactId>angus-mail</artifactId>
+        <version>${angus.version}</version>
+      </dependency>
+      <dependency>
         <groupId>io.micrometer</groupId>
         <artifactId>micrometer-bom</artifactId>
         <version>${micrometer.version}</version>
