@@ -340,7 +340,7 @@
     <javax-transaction.version>1.3</javax-transaction.version>
     <javax-money.version>1.1</javax-money.version>
     <moneta.version>1.4.2</moneta.version>  <!-- javax money -->
-    <angus.version>2.0.2</angus.version>
+    <angus-mail.version>2.0.2</angus-mail.version>
     <!--springsource-->
     <spring.version>6.0.10</spring.version>
     <spring-framework.version>6.0.10</spring-framework.version>
@@ -1685,11 +1685,6 @@
         <version>${jakarta-ee.version}</version>
         <scope>import</scope>
         <type>pom</type>
-      </dependency>
-      <dependency>
-        <groupId>org.eclipse.angus</groupId>
-        <artifactId>angus-mail</artifactId>
-        <version>${angus.version}</version>
       </dependency>
       <dependency>
         <groupId>io.micrometer</groupId>
