@@ -312,8 +312,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.496</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.93</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.497</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.94</aws-java-sdk2.version>
     <google-gax.version>2.30.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.17.0</google-cloud-bom.version>
@@ -352,7 +352,7 @@
     <spring-security.version>6.1.1</spring-security.version>
     <spring-security-oauth.version>2.5.2.RELEASE</spring-security-oauth.version>
     <spring-security-oauth2-autoconfigure.version>2.6.8</spring-security-oauth2-autoconfigure.version>
-    <spring-security-rsa.version>1.0.11.RELEASE</spring-security-rsa.version>
+    <spring-security-rsa.version>1.0.12.RELEASE</spring-security-rsa.version>
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
@@ -381,7 +381,7 @@
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
-    <spring-shell.version>3.1.1</spring-shell.version>
+    <spring-shell.version>3.1.2</spring-shell.version>
     <reactor-bom.version>2022.0.8</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <micrometer.version>1.11.1</micrometer.version>
