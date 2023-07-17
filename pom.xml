@@ -248,7 +248,7 @@
     <hazelcast.version>5.3.1</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>14.0.11.Final</infinispan.version>
+    <infinispan.version>14.0.12.Final</infinispan.version>
     <querydsl.version>5.0.0</querydsl.version>
     <hikaricp.version>5.0.1</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
