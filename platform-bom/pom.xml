@@ -122,7 +122,7 @@
         <kite.version>0.13.0</kite.version>
         <kryo.version>4.0.2</kryo.version>
         <ldapbp.version>1.0</ldapbp.version>
-        <ldapsdk.version>6.0.7</ldapsdk.version>
+        <ldapsdk.version>6.0.9</ldapsdk.version>
         <log4j.version>1.2.17</log4j.version>
         <myfaces.version>2.3.3</myfaces.version>
         <nimbus-jose-jwt.version>9.25.6</nimbus-jose-jwt.version>
@@ -142,7 +142,7 @@
         <protobuf-java-format.version>1.4</protobuf-java-format.version>
         <rabbit-http-client.version>4.2.0</rabbit-http-client.version>
         <rometools.version>1.18.0</rometools.version>
-        <selenium.version>4.9.1</selenium.version>
+        <selenium.version>4.10.0</selenium.version>
         <selenium-htmlunit-driver.version>${selenium.version}</selenium-htmlunit-driver.version>
         <smack4.version>4.4.2</smack4.version>
         <sun-facelets.version>1.1.14</sun-facelets.version>
