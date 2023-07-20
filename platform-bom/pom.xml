@@ -7,7 +7,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.1.1</version>
+        <version>3.1.2</version>
         <relativePath/>
     </parent>
 
@@ -142,7 +142,7 @@
         <protobuf-java-format.version>1.4</protobuf-java-format.version>
         <rabbit-http-client.version>4.2.0</rabbit-http-client.version>
         <rometools.version>1.18.0</rometools.version>
-        <selenium.version>4.7.2</selenium.version>
+        <selenium.version>4.9.1</selenium.version>
         <selenium-htmlunit-driver.version>${selenium.version}</selenium-htmlunit-driver.version>
         <smack4.version>4.4.2</smack4.version>
         <sun-facelets.version>1.1.14</sun-facelets.version>
