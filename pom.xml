@@ -104,7 +104,7 @@
     <javassist.version>3.22.0-GA</javassist.version>
     <manifold.version>2023.1.10</manifold.version>
     <!--testing-->
-    <junit5.version>5.10.0-RC2</junit5.version>
+    <junit5.version>5.10.0</junit5.version>
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
