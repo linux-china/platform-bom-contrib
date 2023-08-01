@@ -60,14 +60,14 @@
     <fugue.version>5.0.0</fugue.version>
     <joda-time.version>2.12.1</joda-time.version>
     <gs-collections.version>7.0.3</gs-collections.version>
-    <guava.version>32.1.1-jre</guava.version>
+    <guava.version>32.1.2-jre</guava.version>
     <guice.version>7.0.0</guice.version>
     <jodd.version>5.1.6</jodd.version>
     <boon.version>0.34</boon.version>
     <javatuples.version>1.2</javatuples.version>
     <togglz.version>4.0.1</togglz.version>
     <ff4j.version>2.0.0</ff4j.version>
-    <underscore.version>1.91</underscore.version>
+    <underscore.version>1.92</underscore.version>
     <java-util.version>2.0.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -113,7 +113,7 @@
     <mockito.version>5.4.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.8.0</testng.version>
-    <selenium.version>4.10.0</selenium.version>
+    <selenium.version>4.11.0</selenium.version>
     <selenium-htmlunit-driver.version>4.10.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
@@ -157,7 +157,7 @@
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
     <jsch2.version>0.2.10</jsch2.version>
-    <zipkin.version>2.24.2</zipkin.version>
+    <zipkin.version>2.24.3</zipkin.version>
     <zipkin-brave.version>5.16.0</zipkin-brave.version>
     <zipkin-reporter2.version>2.16.4</zipkin-reporter2.version>
     <rsocket.versoin>1.1.4</rsocket.versoin>
@@ -187,7 +187,7 @@
     <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
     <thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
     <thymeleaf-extras-springsecurity4.version>3.1.1.RELEASE</thymeleaf-extras-springsecurity4.version>
-    <thymeleaf-extras-springsecurity.version>3.1.1.RELEASE</thymeleaf-extras-springsecurity.version>
+    <thymeleaf-extras-springsecurity.version>3.1.2.RELEASE</thymeleaf-extras-springsecurity.version>
     <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
     <unbescape.version>1.1.6.RELEASE</unbescape.version>
     <attoparser.version>2.0.7.RELEASE</attoparser.version>
@@ -269,7 +269,7 @@
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>9.31</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>10.11</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>10.12</oauth2-oidc-sdk.version>
     <!--apache-->
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
@@ -311,8 +311,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.518</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.115</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.519</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.116</aws-java-sdk2.version>
     <google-gax.version>2.31.1</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.20.0</google-cloud-bom.version>
@@ -371,7 +371,7 @@
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.0.7</spring-amqp.version>
     <rabbit-amqp-client.version>5.18.0</rabbit-amqp-client.version>
-    <rabbit-http-client.version>5.0.0</rabbit-http-client.version>
+    <rabbit-http-client.version>5.1.0</rabbit-http-client.version>
     <rabbit-stream-client.version>0.11.0</rabbit-stream-client.version>
     <spring-vault.version>3.0.4</spring-vault.version>
     <spring-kafka.version>3.0.9</spring-kafka.version>
