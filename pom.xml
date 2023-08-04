@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.8</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2023.1.12</manifold.version>
+    <manifold.version>2023.1.13</manifold.version>
     <!--testing-->
     <junit5.version>5.10.0</junit5.version>
     <junit.version>4.13.2</junit.version>
@@ -114,7 +114,7 @@
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.8.0</testng.version>
     <selenium.version>4.11.0</selenium.version>
-    <selenium-htmlunit-driver.version>4.10.0</selenium-htmlunit-driver.version>
+    <selenium-htmlunit-driver.version>4.11.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
     <wiremock.version>3.0.0-beta-10</wiremock.version>
@@ -142,7 +142,7 @@
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.1.96.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
-    <grpc.version>1.57.0</grpc.version>
+    <grpc.version>1.57.1</grpc.version>
     <asynchttpclient.version>3.0.0.Beta2</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
@@ -172,7 +172,7 @@
     <jackson.version>2.15.2</jackson.version>
     <moshi.version>1.15.0</moshi.version>
     <classmate.version>1.5.1</classmate.version>
-    <snakeyaml.version>2.0</snakeyaml.version>
+    <snakeyaml.version>2.1</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.10.1</gson.version>
     <protobuf.version>3.23.4</protobuf.version>
@@ -255,7 +255,7 @@
     <unboundid-ldapsdk.version>6.0.9</unboundid-ldapsdk.version>
     <postgresql.version>42.6.0</postgresql.version>
     <jaybird.version>3.0.1</jaybird.version>
-    <jdbi.version>3.39.1</jdbi.version>
+    <jdbi.version>3.40.0</jdbi.version>
     <couchbase-client.version>3.4.8</couchbase-client.version>
     <openjpa.version>3.2.2</openjpa.version>
     <mysql.version>8.1.0</mysql.version>
@@ -299,7 +299,7 @@
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>10.1.11</tomcat.version>
     <groovy.version>4.0.13</groovy.version>
-    <zookeeper.version>3.8.2</zookeeper.version>
+    <zookeeper.version>3.9.0</zookeeper.version>
     <curator.version>5.5.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
     <activemq.version>5.18.2</activemq.version>
@@ -311,8 +311,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.519</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.116</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.522</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.119</aws-java-sdk2.version>
     <google-gax.version>2.31.1</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.20.0</google-cloud-bom.version>
@@ -372,7 +372,7 @@
     <spring-amqp.version>3.0.7</spring-amqp.version>
     <rabbit-amqp-client.version>5.18.0</rabbit-amqp-client.version>
     <rabbit-http-client.version>5.1.0</rabbit-http-client.version>
-    <rabbit-stream-client.version>0.11.0</rabbit-stream-client.version>
+    <rabbit-stream-client.version>0.12.0</rabbit-stream-client.version>
     <spring-vault.version>3.0.4</spring-vault.version>
     <spring-kafka.version>3.0.9</spring-kafka.version>
     <spring-restdocs.version>3.0.0</spring-restdocs.version>
