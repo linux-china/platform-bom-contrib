@@ -50,7 +50,7 @@
     <dropwizard-metrics.version>4.2.19</dropwizard-metrics.version>
     <opentelemetry.version>1.28.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.4.8</logback.version>
+    <logback.version>1.4.9</logback.version>
     <slf4j.version>2.0.7</slf4j.version>
     <flogger.version>0.7.4</flogger.version>
     <jna.version>5.13.0</jna.version>
@@ -137,7 +137,7 @@
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
     <okhttp3.version>5.0.0-alpha.11</okhttp3.version>
-    <okio.version>3.4.0</okio.version>
+    <okio.version>3.5.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.1.96.Final</netty.version>
@@ -156,7 +156,7 @@
     <javax-validation.version>2.0.1.Final</javax-validation.version>
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
-    <jsch2.version>0.2.10</jsch2.version>
+    <jsch2.version>0.2.11</jsch2.version>
     <zipkin.version>2.24.3</zipkin.version>
     <zipkin-brave.version>5.16.0</zipkin-brave.version>
     <zipkin-reporter2.version>2.16.4</zipkin-reporter2.version>
@@ -269,7 +269,7 @@
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>9.31</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>10.12</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>10.13.2</oauth2-oidc-sdk.version>
     <!--apache-->
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
@@ -311,9 +311,9 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.522</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.119</aws-java-sdk2.version>
-    <google-gax.version>2.31.1</google-gax.version>
+    <aws-java-sdk.version>1.12.523</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.120</aws-java-sdk2.version>
+    <google-gax.version>2.32.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.20.0</google-cloud-bom.version>
     <sendgrid.version>4.9.3</sendgrid.version>
