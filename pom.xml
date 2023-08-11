@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.8</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2023.1.14</manifold.version>
+    <manifold.version>2023.1.15</manifold.version>
     <!--testing-->
     <junit5.version>5.10.0</junit5.version>
     <junit.version>4.13.2</junit.version>
@@ -216,7 +216,7 @@
     <hibernate.version>6.2.6.Final</hibernate.version>
     <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
-    <jooq.version>3.18.5</jooq.version>
+    <jooq.version>3.18.6</jooq.version>
     <jedis.version>4.4.3</jedis.version>
     <lettuce.version>6.2.5.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
@@ -235,7 +235,7 @@
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.0.9</mapdb.version>
     <flyway.version>9.21.1</flyway.version>
-    <liquibase.version>4.23.0</liquibase.version>
+    <liquibase.version>4.23.1</liquibase.version>
     <derby.version>10.16.1.1</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
     <h2.version>2.2.220</h2.version>
@@ -311,8 +311,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.526</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.123</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.527</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.124</aws-java-sdk2.version>
     <google-gax.version>2.32.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.22.0</google-cloud-bom.version>
