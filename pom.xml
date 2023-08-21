@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.8</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2023.1.16</manifold.version>
+    <manifold.version>2023.1.17</manifold.version>
     <!--testing-->
     <junit5.version>5.10.0</junit5.version>
     <junit.version>4.13.2</junit.version>
@@ -244,7 +244,7 @@
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
-    <elasticsearch.version>8.9.0</elasticsearch.version>
+    <elasticsearch.version>8.9.1</elasticsearch.version>
     <hazelcast.version>5.3.1</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
