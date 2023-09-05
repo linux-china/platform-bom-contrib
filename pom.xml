@@ -113,11 +113,11 @@
     <mockito.version>5.5.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.8.0</testng.version>
-    <selenium.version>4.12.0</selenium.version>
+    <selenium.version>4.12.1</selenium.version>
     <selenium-htmlunit-driver.version>4.12.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.0.1</wiremock.version>
+    <wiremock.version>3.0.2</wiremock.version>
     <spockframework.version>2.4-M1-groovy-4.0</spockframework.version>
     <easymock.version>5.2.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
