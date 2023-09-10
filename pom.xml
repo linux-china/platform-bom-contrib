@@ -129,7 +129,7 @@
     <assertj-json.version>3.0.0</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-    <database-rider.version>1.40.0</database-rider.version>
+    <database-rider.version>1.41.0</database-rider.version>
     <archunit.version>0.8.3</archunit.version>
     <awaitility.version>4.2.0</awaitility.version>
     <model-assert.version>1.0.0</model-assert.version>
