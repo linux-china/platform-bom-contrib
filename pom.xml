@@ -85,10 +85,10 @@
     <rgxgen.version>1.4</rgxgen.version>
     <nuprocess.version>2.0.6</nuprocess.version>
     <uuid-creator.version>5.3.3</uuid-creator.version>
-    <bucket4j.version>8.3.0</bucket4j.version>
+    <bucket4j.version>8.4.0</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>24.0.1</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.15</swagger-oai.version>
+    <swagger-oai.version>2.2.16</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.1.5</google-truth.version>
@@ -102,14 +102,14 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.8</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2023.1.25</manifold.version>
+    <manifold.version>2023.1.26</manifold.version>
     <!--testing-->
     <junit5.version>5.10.0</junit5.version>
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.0.1</data-faker.version>
-    <instancio.version>3.2.0</instancio.version>
+    <instancio.version>3.3.0</instancio.version>
     <mockito.version>5.5.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.8.0</testng.version>
@@ -117,7 +117,7 @@
     <selenium-htmlunit-driver.version>4.12.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.0.4</wiremock.version>
+    <wiremock.version>3.1.0</wiremock.version>
     <spockframework.version>2.4-M1-groovy-4.0</spockframework.version>
     <easymock.version>5.2.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
@@ -126,7 +126,7 @@
     <dbunit.version>2.7.3</dbunit.version>
     <rest-assured.version>5.3.2</rest-assured.version>
     <assertj.version>3.24.2</assertj.version>
-    <assertj-json.version>3.1.0</assertj-json.version>
+    <assertj-json.version>3.2.2</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
     <database-rider.version>1.41.0</database-rider.version>
@@ -183,7 +183,7 @@
     <kryo.version>4.0.3</kryo.version>
     <jsoup.version>1.16.1</jsoup.version>
     <thymeleaf.version>3.1.2.RELEASE</thymeleaf.version>
-    <thymeleaf-layout-dialect.version>3.2.1</thymeleaf-layout-dialect.version>
+    <thymeleaf-layout-dialect.version>3.3.0</thymeleaf-layout-dialect.version>
     <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
     <thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
     <thymeleaf-extras-springsecurity4.version>3.1.1.RELEASE</thymeleaf-extras-springsecurity4.version>
@@ -238,7 +238,7 @@
     <liquibase.version>4.23.2</liquibase.version>
     <derby.version>10.16.1.1</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
-    <h2.version>2.2.222</h2.version>
+    <h2.version>2.2.224</h2.version>
     <hsqldb.version>2.7.2</hsqldb.version>
     <sqlite-jdbc.version>3.43.0.0</sqlite-jdbc.version>
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
@@ -248,7 +248,7 @@
     <hazelcast.version>5.3.2</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>14.0.16.Final</infinispan.version>
+    <infinispan.version>14.0.17.Final</infinispan.version>
     <querydsl.version>5.0.0</querydsl.version>
     <hikaricp.version>5.0.1</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
@@ -268,7 +268,7 @@
     <jasypt.version>1.9.3</jasypt.version>
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
-    <nimbus-jose-jwt.version>9.33</nimbus-jose-jwt.version>
+    <nimbus-jose-jwt.version>9.34</nimbus-jose-jwt.version>
     <oauth2-oidc-sdk.version>10.15</oauth2-oidc-sdk.version>
     <!--apache-->
     <httpcore.version>4.4.16</httpcore.version>
@@ -298,7 +298,7 @@
     <solr.version>9.3.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>10.1.13</tomcat.version>
-    <groovy.version>4.0.14</groovy.version>
+    <groovy.version>4.0.15</groovy.version>
     <zookeeper.version>3.9.0</zookeeper.version>
     <curator.version>5.5.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
@@ -311,11 +311,11 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.550</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.147</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.552</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.149</aws-java-sdk2.version>
     <google-gax.version>2.33.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
-    <google-cloud-bom.version>26.22.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.23.0</google-cloud-bom.version>
     <sendgrid.version>4.9.3</sendgrid.version>
     <kubernetes-client.version>18.0.1</kubernetes-client.version>
     <fabric8-kubernetes-client.version>6.8.1</fabric8-kubernetes-client.version>
@@ -355,7 +355,7 @@
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-    <spring-data-bom.version>2023.0.3</spring-data-bom.version>
+    <spring-data-bom.version>2023.0.4</spring-data-bom.version>
     <spring-integration.version>6.1.2</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
