@@ -140,7 +140,7 @@
     <okio.version>3.5.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.1.97.Final</netty.version>
+    <netty.version>4.1.98.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.58.0</grpc.version>
     <asynchttpclient.version>3.0.0.Beta2</asynchttpclient.version>
@@ -252,10 +252,10 @@
     <querydsl.version>5.0.0</querydsl.version>
     <hikaricp.version>5.0.1</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
-    <unboundid-ldapsdk.version>6.0.9</unboundid-ldapsdk.version>
+    <unboundid-ldapsdk.version>6.0.10</unboundid-ldapsdk.version>
     <postgresql.version>42.6.0</postgresql.version>
     <jaybird.version>3.0.1</jaybird.version>
-    <jdbi.version>3.41.1</jdbi.version>
+    <jdbi.version>3.41.2</jdbi.version>
     <couchbase-client.version>3.4.10</couchbase-client.version>
     <openjpa.version>3.2.2</openjpa.version>
     <mysql.version>8.1.0</mysql.version>
@@ -311,8 +311,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.555</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.152</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.556</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.153</aws-java-sdk2.version>
     <google-gax.version>2.33.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.23.0</google-cloud-bom.version>
