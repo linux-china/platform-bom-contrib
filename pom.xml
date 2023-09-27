@@ -47,7 +47,7 @@
     <twelvemonkeys-imageio.version>3.9.4</twelvemonkeys-imageio.version>
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
-    <dropwizard-metrics.version>4.2.19</dropwizard-metrics.version>
+    <dropwizard-metrics.version>4.2.20</dropwizard-metrics.version>
     <opentelemetry.version>1.30.1</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.4.11</logback.version>
@@ -65,7 +65,7 @@
     <jodd.version>5.1.6</jodd.version>
     <boon.version>0.34</boon.version>
     <javatuples.version>1.2</javatuples.version>
-    <togglz.version>4.3.0</togglz.version>
+    <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.0.0</ff4j.version>
     <underscore.version>1.93</underscore.version>
     <java-util.version>2.0.0</java-util.version>
@@ -84,7 +84,7 @@
     <math-parser.version>5.2.1</math-parser.version>
     <rgxgen.version>1.4</rgxgen.version>
     <nuprocess.version>2.0.6</nuprocess.version>
-    <uuid-creator.version>5.3.3</uuid-creator.version>
+    <uuid-creator.version>5.3.5</uuid-creator.version>
     <bucket4j.version>8.4.0</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>24.0.1</jetbrains-annotations.version>
@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.8</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2023.1.26</manifold.version>
+    <manifold.version>2023.1.27</manifold.version>
     <!--testing-->
     <junit5.version>5.10.0</junit5.version>
     <junit.version>4.13.2</junit.version>
@@ -113,11 +113,11 @@
     <mockito.version>5.5.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.8.0</testng.version>
-    <selenium.version>4.12.1</selenium.version>
-    <selenium-htmlunit-driver.version>4.12.0</selenium-htmlunit-driver.version>
+    <selenium.version>4.13.0</selenium.version>
+    <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.1.0</wiremock.version>
+    <wiremock.version>3.2.0</wiremock.version>
     <spockframework.version>2.4-M1-groovy-4.0</spockframework.version>
     <easymock.version>5.2.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
@@ -217,7 +217,7 @@
     <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.18.6</jooq.version>
-    <jedis.version>5.0.0</jedis.version>
+    <jedis.version>5.0.1</jedis.version>
     <lettuce.version>6.2.6.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
@@ -311,9 +311,9 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.556</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.153</aws-java-sdk2.version>
-    <google-gax.version>2.33.0</google-gax.version>
+    <aws-java-sdk.version>1.12.558</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.20.155</aws-java-sdk2.version>
+    <google-gax.version>2.34.1</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.23.0</google-cloud-bom.version>
     <sendgrid.version>4.9.3</sendgrid.version>
@@ -1223,7 +1223,7 @@
       <dependency>
         <groupId>org.passay</groupId>
         <artifactId>passay</artifactId>
-        <version>1.6.3</version>
+        <version>1.6.4</version>
       </dependency>
       <dependency>
         <groupId>com.toomuchcoding.jsonassert</groupId>
@@ -1626,7 +1626,7 @@
       <dependency>
         <groupId>io.github.lognet</groupId>
         <artifactId>grpc-spring-boot-starter</artifactId>
-        <version>5.1.4</version>
+        <version>5.1.5</version>
       </dependency>
       <dependency>
         <groupId>org.apache.logging.log4j</groupId>
