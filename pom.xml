@@ -47,7 +47,7 @@
     <twelvemonkeys-imageio.version>3.9.4</twelvemonkeys-imageio.version>
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
-    <dropwizard-metrics.version>4.2.20</dropwizard-metrics.version>
+    <dropwizard-metrics.version>4.2.21</dropwizard-metrics.version>
     <opentelemetry.version>1.31.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.4.11</logback.version>
@@ -88,7 +88,7 @@
     <bucket4j.version>8.5.0</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>24.0.1</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.16</swagger-oai.version>
+    <swagger-oai.version>2.2.17</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.1.5</google-truth.version>
@@ -113,7 +113,7 @@
     <mockito.version>5.6.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.8.0</testng.version>
-    <selenium.version>4.14.0</selenium.version>
+    <selenium.version>4.14.1</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
@@ -169,7 +169,7 @@
     <!--parsers & templates & serializer-->
     <jsqlparser.version>4.7</jsqlparser.version>
     <javaparser.version>3.25.5</javaparser.version>
-    <jackson.version>2.15.2</jackson.version>
+    <jackson.version>2.15.3</jackson.version>
     <moshi.version>1.15.0</moshi.version>
     <classmate.version>1.6.0</classmate.version>
     <snakeyaml.version>2.2</snakeyaml.version>
@@ -240,7 +240,7 @@
     <flexy-pool.version>2.2.3</flexy-pool.version>
     <h2.version>2.2.224</h2.version>
     <hsqldb.version>2.7.2</hsqldb.version>
-    <sqlite-jdbc.version>3.43.0.0</sqlite-jdbc.version>
+    <sqlite-jdbc.version>3.43.2.0</sqlite-jdbc.version>
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
@@ -248,7 +248,7 @@
     <hazelcast.version>5.3.2</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>14.0.17.Final</infinispan.version>
+    <infinispan.version>14.0.19.Final</infinispan.version>
     <querydsl.version>5.0.0</querydsl.version>
     <hikaricp.version>5.0.1</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
@@ -311,8 +311,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.565</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.20.162</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.566</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.21.0</aws-java-sdk2.version>
     <google-gax.version>2.35.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.24.0</google-cloud-bom.version>
@@ -367,9 +367,9 @@
     <spring-cloud-task.version>3.0.3</spring-cloud-task.version>
     <spring-cloud-stream.version>4.0.4</spring-cloud-stream.version>
     <spring-cloud-function.version>4.0.5</spring-cloud-function.version>
-    <spring-ldap.version>3.1.1</spring-ldap.version>
+    <spring-ldap.version>3.1.2</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
-    <spring-amqp.version>3.0.8</spring-amqp.version>
+    <spring-amqp.version>3.0.9</spring-amqp.version>
     <rabbit-amqp-client.version>5.19.0</rabbit-amqp-client.version>
     <rabbit-http-client.version>5.1.0</rabbit-http-client.version>
     <rabbit-stream-client.version>0.13.0</rabbit-stream-client.version>
@@ -1512,7 +1512,7 @@
       <dependency>
         <groupId>io.asyncer</groupId>
         <artifactId>r2dbc-mysql</artifactId>
-        <version>1.0.4</version>
+        <version>1.0.5</version>
       </dependency>
       <dependency>
         <groupId>io.r2dbc</groupId>
