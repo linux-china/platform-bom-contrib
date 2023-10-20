@@ -109,7 +109,7 @@
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.0.2</data-faker.version>
-    <instancio.version>3.3.1</instancio.version>
+    <instancio.version>3.3.2</instancio.version>
     <mockito.version>5.6.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.8.0</testng.version>
@@ -142,14 +142,14 @@
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.1.100.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
-    <grpc.version>1.58.0</grpc.version>
+    <grpc.version>1.59.0</grpc.version>
     <asynchttpclient.version>3.0.0.Beta2</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
     <searchbox-jest.version>6.3.1</searchbox-jest.version>
     <smack4.version>4.4.4</smack4.version>
     <unirest-java.version>1.4.9</unirest-java.version>
-    <openfeign.version>12.5</openfeign.version>
+    <openfeign.version>13.0</openfeign.version>
     <javax-mail.version>1.6.3</javax-mail.version>
     <sun-mail.version>2.0.1</sun-mail.version>
     <javax-cache.version>1.1.1</javax-cache.version>
@@ -217,7 +217,7 @@
     <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.18.7</jooq.version>
-    <jedis.version>5.0.1</jedis.version>
+    <jedis.version>5.0.2</jedis.version>
     <lettuce.version>6.2.6.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
@@ -311,8 +311,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.569</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.21.2</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.570</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.21.4</aws-java-sdk2.version>
     <google-gax.version>2.35.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.25.0</google-cloud-bom.version>
