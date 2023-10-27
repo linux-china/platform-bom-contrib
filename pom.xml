@@ -88,7 +88,7 @@
     <bucket4j.version>8.5.0</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>24.0.1</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.17</swagger-oai.version>
+    <swagger-oai.version>2.2.18</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.1.5</google-truth.version>
@@ -278,7 +278,7 @@
     <commons-cli.version>1.5.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.10.0</commons-net.version>
-    <commons-io.version>2.14.0</commons-io.version>
+    <commons-io.version>2.15.0</commons-io.version>
     <commons-codec.version>1.16</commons-codec.version>
     <commons-fileupload.version>1.5</commons-fileupload.version>
     <commons-beanutils.version>1.9.4</commons-beanutils.version>
@@ -302,8 +302,8 @@
     <zookeeper.version>3.9.1</zookeeper.version>
     <curator.version>5.5.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
-    <activemq.version>5.18.2</activemq.version>
-    <artemis.version>2.31.0</artemis.version>
+    <activemq.version>5.18.3</activemq.version>
+    <artemis.version>2.31.1</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
     <svnkit.version>1.10.11</svnkit.version>
@@ -311,14 +311,14 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.573</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.21.7</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.574</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.21.8</aws-java-sdk2.version>
     <google-gax.version>2.36.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
-    <google-cloud-bom.version>26.25.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.26.0</google-cloud-bom.version>
     <sendgrid.version>4.9.3</sendgrid.version>
     <kubernetes-client.version>19.0.0</kubernetes-client.version>
-    <fabric8-kubernetes-client.version>6.9.0</fabric8-kubernetes-client.version>
+    <fabric8-kubernetes-client.version>6.9.1</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>2.5.0</cloudevents-java.version>
     <!--languages-->
@@ -370,9 +370,9 @@
     <spring-ldap.version>3.1.2</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.0.10</spring-amqp.version>
-    <rabbit-amqp-client.version>5.19.0</rabbit-amqp-client.version>
-    <rabbit-http-client.version>5.1.0</rabbit-http-client.version>
-    <rabbit-stream-client.version>0.13.0</rabbit-stream-client.version>
+    <rabbit-amqp-client.version>5.20.0</rabbit-amqp-client.version>
+    <rabbit-http-client.version>5.2.0</rabbit-http-client.version>
+    <rabbit-stream-client.version>0.14.0</rabbit-stream-client.version>
     <spring-vault.version>3.0.4</spring-vault.version>
     <spring-kafka.version>3.0.12</spring-kafka.version>
     <spring-restdocs.version>3.0.0</spring-restdocs.version>
