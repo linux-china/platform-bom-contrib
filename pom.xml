@@ -162,7 +162,7 @@
     <zipkin-reporter2.version>2.16.4</zipkin-reporter2.version>
     <rsocket.versoin>1.1.4</rsocket.versoin>
     <!--servers-->
-    <jetty.version>12.0.2</jetty.version>
+    <jetty.version>12.0.3</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.10.Final</undertow.version>
     <jersey.version>3.1.3</jersey.version>
@@ -192,7 +192,7 @@
     <unbescape.version>1.1.6.RELEASE</unbescape.version>
     <attoparser.version>2.0.7.RELEASE</attoparser.version>
     <jmustache.version>1.15</jmustache.version>
-    <wss4j2.version>3.0.1</wss4j2.version>
+    <wss4j2.version>3.0.2</wss4j2.version>
     <objenesis.version>3.3</objenesis.version>
     <jopt-simple.version>5.0.4</jopt-simple.version>
     <rometools.version>2.1.0</rometools.version>
@@ -234,13 +234,13 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.0.10</mapdb.version>
-    <flyway.version>9.22.3</flyway.version>
+    <flyway.version>10.0.0</flyway.version>
     <liquibase.version>4.24.0</liquibase.version>
     <derby.version>10.16.1.1</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
     <h2.version>2.2.224</h2.version>
     <hsqldb.version>2.7.2</hsqldb.version>
-    <sqlite-jdbc.version>3.43.2.1</sqlite-jdbc.version>
+    <sqlite-jdbc.version>3.43.2.2</sqlite-jdbc.version>
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
@@ -275,7 +275,7 @@
     <httpclient.version>4.5.14</httpclient.version>
     <httpcore5.version>5.2.3</httpcore5.version>
     <httpclient5.version>5.3-alpha1</httpclient5.version>
-    <commons-cli.version>1.5.0</commons-cli.version>
+    <commons-cli.version>1.6.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.10.0</commons-net.version>
     <commons-io.version>2.15.0</commons-io.version>
@@ -286,10 +286,10 @@
     <commons-csv.version>1.10.0</commons-csv.version>
     <commons-crypto.version>1.2.0</commons-crypto.version>
     <commons-configuration2.version>2.9.0</commons-configuration2.version>
-    <commons-text.version>1.10</commons-text.version>
+    <commons-text.version>1.11</commons-text.version>
     <commons-vfs2.version>2.9.0</commons-vfs2.version>
     <commons-pool2.version>2.12.0</commons-pool2.version>
-    <commons-dbcp2.version>2.10.0</commons-dbcp2.version>
+    <commons-dbcp2.version>2.11.0</commons-dbcp2.version>
     <commons-rng.version>1.5</commons-rng.version>
     <poi.version>5.2.4</poi.version>
     <kafka.version>3.6.0</kafka.version>
@@ -311,8 +311,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.576</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.21.10</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.578</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.21.12</aws-java-sdk2.version>
     <google-gax.version>2.36.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.26.0</google-cloud-bom.version>
@@ -322,7 +322,7 @@
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>2.5.0</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>1.9.20-RC2</kotlin.version>
+    <kotlin.version>1.9.20</kotlin.version>
     <kotlinx-coroutines.version>1.7.3</kotlinx-coroutines.version>
     <jruby.version>9.4.2.0</jruby.version>
     <!--netflix-->
