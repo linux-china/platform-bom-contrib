@@ -67,8 +67,8 @@
     <javatuples.version>1.2</javatuples.version>
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.0.0</ff4j.version>
-    <underscore.version>1.94</underscore.version>
-    <java-util.version>2.1.1</java-util.version>
+    <underscore.version>1.95</underscore.version>
+    <java-util.version>2.2.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.0-alpha-4</vavr.version>
@@ -80,12 +80,12 @@
     <resilience4j.version>2.1.0</resilience4j.version>
     <failsafe.version>3.3.2</failsafe.version>
     <eclipse-collections.version>12.0.0.M3</eclipse-collections.version>
-    <agrona.version>1.19.2</agrona.version>
+    <agrona.version>1.20.0</agrona.version>
     <math-parser.version>5.2.1</math-parser.version>
     <rgxgen.version>1.4</rgxgen.version>
     <nuprocess.version>2.0.6</nuprocess.version>
     <uuid-creator.version>5.3.5</uuid-creator.version>
-    <bucket4j.version>8.5.0</bucket4j.version>
+    <bucket4j.version>8.6.0</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>24.0.1</jetbrains-annotations.version>
     <swagger-oai.version>2.2.18</swagger-oai.version>
@@ -113,7 +113,7 @@
     <mockito.version>5.6.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.8.0</testng.version>
-    <selenium.version>4.14.1</selenium.version>
+    <selenium.version>4.15.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
@@ -168,14 +168,14 @@
     <jersey.version>3.1.3</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>4.7</jsqlparser.version>
-    <javaparser.version>3.25.5</javaparser.version>
+    <javaparser.version>3.25.6</javaparser.version>
     <jackson.version>2.16.0-rc1</jackson.version>
     <moshi.version>1.15.0</moshi.version>
     <classmate.version>1.6.0</classmate.version>
     <snakeyaml.version>2.2</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.10.1</gson.version>
-    <protobuf.version>3.24.4</protobuf.version>
+    <protobuf.version>3.25.0</protobuf.version>
     <json-smart.versfion>2.5.0</json-smart.versfion>
     <json-path.version>2.8.0</json-path.version>
     <itext.version>4.2.2</itext.version>
@@ -205,10 +205,10 @@
     <aalto-xml.version>1.3.2</aalto-xml.version>
     <glassfish-jaxb.version>4.0.4</glassfish-jaxb.version>
     <woodstox5.version>6.5.1</woodstox5.version>
-    <openpdf.version>1.3.30</openpdf.version>
+    <openpdf.version>1.3.32</openpdf.version>
     <jaxen.version>2.0.0</jaxen.version>
     <xom.version>1.3.9</xom.version>
-    <jte.version>3.1.3</jte.version>
+    <jte.version>3.1.4</jte.version>
     <evo-inflector.version>1.3</evo-inflector.version>
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>21.3</graphql-java.version>
@@ -221,7 +221,7 @@
     <lettuce.version>6.2.6.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
-    <mybatis.version>3.5.13</mybatis.version>
+    <mybatis.version>3.5.14</mybatis.version>
     <mybatis-spring.version>3.0.2</mybatis-spring.version>
     <javax-jdo.version>3.1</javax-jdo.version>
     <mariadb.version>3.2.0</mariadb.version>
@@ -295,7 +295,7 @@
     <kafka.version>3.6.0</kafka.version>
     <log4j2.version>3.0.0-alpha1</log4j2.version>
     <jboss-logging.version>3.5.3.Final</jboss-logging.version>
-    <solr.version>9.3.0</solr.version>
+    <solr.version>9.4.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>10.1.13</tomcat.version>
     <groovy.version>4.0.15</groovy.version>
@@ -311,14 +311,14 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.578</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.21.12</aws-java-sdk2.version>
-    <google-gax.version>2.36.0</google-gax.version>
+    <aws-java-sdk.version>1.12.579</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.21.13</aws-java-sdk2.version>
+    <google-gax.version>2.37.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.26.0</google-cloud-bom.version>
     <sendgrid.version>4.9.3</sendgrid.version>
     <kubernetes-client.version>19.0.0</kubernetes-client.version>
-    <fabric8-kubernetes-client.version>6.9.1</fabric8-kubernetes-client.version>
+    <fabric8-kubernetes-client.version>6.9.2</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>2.5.0</cloudevents-java.version>
     <!--languages-->
