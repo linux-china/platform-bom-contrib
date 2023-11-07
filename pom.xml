@@ -47,7 +47,7 @@
     <twelvemonkeys-imageio.version>3.10.0</twelvemonkeys-imageio.version>
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
-    <dropwizard-metrics.version>4.2.21</dropwizard-metrics.version>
+    <dropwizard-metrics.version>4.2.22</dropwizard-metrics.version>
     <opentelemetry.version>1.31.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.4.11</logback.version>
@@ -104,20 +104,20 @@
     <javassist.version>3.22.0-GA</javassist.version>
     <manifold.version>2023.1.29</manifold.version>
     <!--testing-->
-    <junit5.version>5.10.0</junit5.version>
+    <junit5.version>5.10.1</junit5.version>
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.0.2</data-faker.version>
-    <instancio.version>3.4.1</instancio.version>
-    <mockito.version>5.6.0</mockito.version>
+    <instancio.version>3.4.2</instancio.version>
+    <mockito.version>5.7.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.8.0</testng.version>
     <selenium.version>4.15.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.2.0</wiremock.version>
+    <wiremock.version>3.3.1</wiremock.version>
     <spockframework.version>2.4-M1-groovy-4.0</spockframework.version>
     <easymock.version>5.2.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
@@ -250,7 +250,7 @@
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
     <infinispan.version>14.0.19.Final</infinispan.version>
     <querydsl.version>5.0.0</querydsl.version>
-    <hikaricp.version>5.0.1</hikaricp.version>
+    <hikaricp.version>5.1.0</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
     <unboundid-ldapsdk.version>6.0.10</unboundid-ldapsdk.version>
     <postgresql.version>42.6.0</postgresql.version>
@@ -269,7 +269,7 @@
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>9.37</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.5</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.6</oauth2-oidc-sdk.version>
     <!--apache-->
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
@@ -311,8 +311,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.579</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.21.13</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.582</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.21.16</aws-java-sdk2.version>
     <google-gax.version>2.37.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.26.0</google-cloud-bom.version>
