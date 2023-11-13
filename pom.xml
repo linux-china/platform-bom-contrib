@@ -85,7 +85,7 @@
     <rgxgen.version>1.4</rgxgen.version>
     <nuprocess.version>2.0.6</nuprocess.version>
     <uuid-creator.version>5.3.5</uuid-creator.version>
-    <bucket4j.version>8.6.0</bucket4j.version>
+    <bucket4j.version>8.7.0</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>24.0.1</jetbrains-annotations.version>
     <swagger-oai.version>2.2.19</swagger-oai.version>
@@ -109,7 +109,7 @@
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.0.2</data-faker.version>
-    <instancio.version>3.5.0</instancio.version>
+    <instancio.version>3.6.0</instancio.version>
     <mockito.version>5.7.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.8.0</testng.version>
@@ -236,11 +236,11 @@
     <mapdb.version>3.0.10</mapdb.version>
     <flyway.version>10.0.0</flyway.version>
     <liquibase.version>4.24.0</liquibase.version>
-    <derby.version>10.16.1.1</derby.version>
+    <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
     <h2.version>2.2.224</h2.version>
     <hsqldb.version>2.7.2</hsqldb.version>
-    <sqlite-jdbc.version>3.43.2.2</sqlite-jdbc.version>
+    <sqlite-jdbc.version>3.44.0.0</sqlite-jdbc.version>
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
@@ -248,7 +248,7 @@
     <hazelcast.version>5.3.6</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>14.0.19.Final</infinispan.version>
+    <infinispan.version>14.0.20.Final</infinispan.version>
     <querydsl.version>5.0.0</querydsl.version>
     <hikaricp.version>5.1.0</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
@@ -383,8 +383,8 @@
     <spring-shell.version>3.1.5</spring-shell.version>
     <reactor-bom.version>2022.0.12</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
-    <micrometer.version>1.11.5</micrometer.version>
-    <micrometer-tracing.version>1.1.6</micrometer-tracing.version>
+    <micrometer.version>1.12.0</micrometer.version>
+    <micrometer-tracing.version>1.2.0</micrometer-tracing.version>
   </properties>
 
   <dependencyManagement>
@@ -1492,7 +1492,7 @@
       <dependency>
         <groupId>com.oracle.database.r2dbc</groupId>
         <artifactId>oracle-r2dbc</artifactId>
-        <version>1.1.1</version>
+        <version>1.2.0</version>
       </dependency>
       <dependency>
         <groupId>org.mariadb</groupId>
@@ -1502,7 +1502,7 @@
       <dependency>
         <groupId>io.r2dbc</groupId>
         <artifactId>r2dbc-mssql</artifactId>
-        <version>1.0.1.RELEASE</version>
+        <version>1.0.2.RELEASE</version>
       </dependency>
       <dependency>
         <groupId>io.r2dbc</groupId>
@@ -1517,7 +1517,7 @@
       <dependency>
         <groupId>io.r2dbc</groupId>
         <artifactId>r2dbc-proxy</artifactId>
-        <version>1.1.1.RELEASE</version>
+        <version>1.1.2.RELEASE</version>
       </dependency>
       <dependency>
         <groupId>org.jodd</groupId>
