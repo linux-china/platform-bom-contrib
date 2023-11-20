@@ -92,7 +92,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.1.5</google-truth.version>
-    <bytebuddy.version>1.14.9</bytebuddy.version>
+    <bytebuddy.version>1.14.10</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.20.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -133,7 +133,7 @@
     <archunit.version>0.8.3</archunit.version>
     <awaitility.version>4.2.0</awaitility.version>
     <model-assert.version>1.0.0</model-assert.version>
-    <junit-pioneer.version>2.1.0</junit-pioneer.version>
+    <junit-pioneer.version>2.2.0</junit-pioneer.version>
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
     <okhttp3.version>5.0.0-alpha.11</okhttp3.version>
@@ -248,7 +248,7 @@
     <hazelcast.version>5.3.6</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>14.0.20.Final</infinispan.version>
+    <infinispan.version>14.0.21.Final</infinispan.version>
     <querydsl.version>5.0.0</querydsl.version>
     <hikaricp.version>5.1.0</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
@@ -302,7 +302,7 @@
     <zookeeper.version>3.9.1</zookeeper.version>
     <curator.version>5.5.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
-    <activemq.version>5.18.3</activemq.version>
+    <activemq.version>6.0.0</activemq.version>
     <artemis.version>2.31.2</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
@@ -311,12 +311,12 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.590</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.21.24</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.592</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.21.26</aws-java-sdk2.version>
     <google-gax.version>2.37.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.27.0</google-cloud-bom.version>
-    <sendgrid.version>4.10.0</sendgrid.version>
+    <sendgrid.version>4.10.1</sendgrid.version>
     <kubernetes-client.version>19.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>6.9.2</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
@@ -341,8 +341,8 @@
     <moneta.version>1.4.2</moneta.version>  <!-- javax money -->
     <angus-mail.version>2.0.2</angus-mail.version>
     <!--springsource-->
-    <spring.version>6.0.13</spring.version>
-    <spring-framework.version>6.0.13</spring-framework.version>
+    <spring.version>6.1.0</spring.version>
+    <spring-framework.version>6.1.0</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.0.3</spring-batch.version>
     <spring-ws.version>4.0.7</spring-ws.version>
@@ -355,19 +355,19 @@
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-    <spring-data-bom.version>2023.0.5</spring-data-bom.version>
+    <spring-data-bom.version>2023.1.0</spring-data-bom.version>
     <spring-integration.version>6.1.4</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
     <spring-boot.version>3.1.2</spring-boot.version>
-    <spring-hateoas.version>2.1.2</spring-hateoas.version>
+    <spring-hateoas.version>2.2.0</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
     <spring-cloud-contract.version>4.0.4</spring-cloud-contract.version>
     <spring-cloud.version>2022.0.4</spring-cloud.version>
     <spring-cloud-task.version>3.0.3</spring-cloud-task.version>
     <spring-cloud-stream.version>4.0.4</spring-cloud-stream.version>
     <spring-cloud-function.version>4.0.5</spring-cloud-function.version>
-    <spring-ldap.version>3.1.2</spring-ldap.version>
+    <spring-ldap.version>3.2.0</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.0.10</spring-amqp.version>
     <rabbit-amqp-client.version>5.20.0</rabbit-amqp-client.version>
