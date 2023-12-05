@@ -67,7 +67,7 @@
     <javatuples.version>1.2</javatuples.version>
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.0.0</ff4j.version>
-    <underscore.version>1.95</underscore.version>
+    <underscore.version>1.96</underscore.version>
     <java-util.version>2.4.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -116,7 +116,7 @@
     <selenium.version>4.15.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
-    <toomuchcoding-jsonassert.version>0.6.2</toomuchcoding-jsonassert.version>
+    <toomuchcoding-jsonassert.version>0.7.0</toomuchcoding-jsonassert.version>
     <wiremock.version>3.3.1</wiremock.version>
     <spockframework.version>2.4-M1-groovy-4.0</spockframework.version>
     <easymock.version>5.2.0</easymock.version>
@@ -162,13 +162,13 @@
     <zipkin-reporter2.version>2.16.4</zipkin-reporter2.version>
     <rsocket.versoin>1.1.4</rsocket.versoin>
     <!--servers-->
-    <jetty.version>12.0.3</jetty.version>
+    <jetty.version>12.0.4</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.10.Final</undertow.version>
     <jersey.version>3.1.4</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>4.7</jsqlparser.version>
-    <javaparser.version>3.25.6</javaparser.version>
+    <javaparser.version>3.25.7</javaparser.version>
     <jackson.version>2.16.0</jackson.version>
     <moshi.version>1.15.0</moshi.version>
     <classmate.version>1.6.0</classmate.version>
@@ -191,7 +191,7 @@
     <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
     <unbescape.version>1.1.6.RELEASE</unbescape.version>
     <attoparser.version>2.0.7.RELEASE</attoparser.version>
-    <jmustache.version>1.15</jmustache.version>
+    <jmustache.version>1.16</jmustache.version>
     <wss4j2.version>3.0.2</wss4j2.version>
     <objenesis.version>3.3</objenesis.version>
     <jopt-simple.version>5.0.4</jopt-simple.version>
@@ -268,7 +268,7 @@
     <jasypt.version>1.9.3</jasypt.version>
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
-    <nimbus-jose-jwt.version>9.37.1</nimbus-jose-jwt.version>
+    <nimbus-jose-jwt.version>9.37.2</nimbus-jose-jwt.version>
     <oauth2-oidc-sdk.version>11.7</oauth2-oidc-sdk.version>
     <!--apache-->
     <httpcore.version>4.4.16</httpcore.version>
@@ -278,7 +278,7 @@
     <commons-cli.version>1.6.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.10.0</commons-net.version>
-    <commons-io.version>2.15.0</commons-io.version>
+    <commons-io.version>2.15.1</commons-io.version>
     <commons-codec.version>1.16</commons-codec.version>
     <commons-fileupload.version>1.5</commons-fileupload.version>
     <commons-beanutils.version>1.9.4</commons-beanutils.version>
@@ -298,11 +298,11 @@
     <solr.version>9.4.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>10.1.13</tomcat.version>
-    <groovy.version>4.0.15</groovy.version>
+    <groovy.version>4.0.16</groovy.version>
     <zookeeper.version>3.9.1</zookeeper.version>
     <curator.version>5.5.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
-    <activemq.version>6.0.0</activemq.version>
+    <activemq.version>6.0.1</activemq.version>
     <artemis.version>2.31.2</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
@@ -311,9 +311,9 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.604</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.21.37</aws-java-sdk2.version>
-    <google-gax.version>2.37.0</google-gax.version>
+    <aws-java-sdk.version>1.12.605</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.21.38</aws-java-sdk2.version>
+    <google-gax.version>2.38.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.27.0</google-cloud-bom.version>
     <sendgrid.version>4.10.1</sendgrid.version>
