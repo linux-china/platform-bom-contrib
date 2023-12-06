@@ -47,7 +47,7 @@
     <twelvemonkeys-imageio.version>3.10.1</twelvemonkeys-imageio.version>
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
-    <dropwizard-metrics.version>4.2.22</dropwizard-metrics.version>
+    <dropwizard-metrics.version>4.2.23</dropwizard-metrics.version>
     <opentelemetry.version>1.32.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.4.12</logback.version>
@@ -113,7 +113,7 @@
     <mockito.version>5.8.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.8.0</testng.version>
-    <selenium.version>4.15.0</selenium.version>
+    <selenium.version>4.16.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.7.0</toomuchcoding-jsonassert.version>
@@ -142,7 +142,7 @@
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.1.101.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
-    <grpc.version>1.59.1</grpc.version>
+    <grpc.version>1.60.0</grpc.version>
     <asynchttpclient.version>3.0.0.Beta3</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
@@ -274,7 +274,7 @@
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
     <httpcore5.version>5.2.4</httpcore5.version>
-    <httpclient5.version>5.3-alpha1</httpclient5.version>
+    <httpclient5.version>5.3</httpclient5.version>
     <commons-cli.version>1.6.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.10.0</commons-net.version>
@@ -292,7 +292,7 @@
     <commons-dbcp2.version>2.11.0</commons-dbcp2.version>
     <commons-rng.version>1.5</commons-rng.version>
     <poi.version>5.2.5</poi.version>
-    <kafka.version>3.6.0</kafka.version>
+    <kafka.version>3.6.1</kafka.version>
     <log4j2.version>3.0.0-alpha1</log4j2.version>
     <jboss-logging.version>3.5.3.Final</jboss-logging.version>
     <solr.version>9.4.0</solr.version>
@@ -311,8 +311,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.605</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.21.38</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.606</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.21.39</aws-java-sdk2.version>
     <google-gax.version>2.38.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.27.0</google-cloud-bom.version>
