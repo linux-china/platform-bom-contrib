@@ -355,7 +355,7 @@
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-    <spring-data-bom.version>2023.1.0</spring-data-bom.version>
+    <spring-data-bom.version>2023.1.1</spring-data-bom.version>
     <spring-integration.version>6.2.0</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
@@ -381,7 +381,7 @@
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
     <spring-shell.version>3.1.6</spring-shell.version>
-    <reactor-bom.version>2023.0.0</reactor-bom.version>
+    <reactor-bom.version>2023.0.1</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <micrometer.version>1.12.1</micrometer.version>
     <micrometer-tracing.version>1.2.1</micrometer-tracing.version>
