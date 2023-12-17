@@ -324,6 +324,7 @@
     <!--languages-->
     <kotlin.version>1.9.21</kotlin.version>
     <kotlinx-coroutines.version>1.7.3</kotlinx-coroutines.version>
+    <kotlinx-serialization.version>1.6.2</kotlinx-serialization.version>
     <jruby.version>9.4.2.0</jruby.version>
     <!--netflix-->
     <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
@@ -1537,6 +1538,13 @@
         <groupId>org.jetbrains.kotlinx</groupId>
         <artifactId>kotlinx-coroutines-bom</artifactId>
         <version>${kotlinx-coroutines.version}</version>
+        <scope>import</scope>
+        <type>pom</type>
+      </dependency>
+      <dependency>
+        <groupId>org.jetbrains.kotlinx</groupId>
+        <artifactId>kotlinx-serialization-bom</artifactId>
+        <version>${kotlinx-serialization.version}</version>
         <scope>import</scope>
         <type>pom</type>
       </dependency>
