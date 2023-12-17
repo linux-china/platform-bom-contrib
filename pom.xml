@@ -137,7 +137,7 @@
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
     <okhttp3.version>5.0.0-alpha.11</okhttp3.version>
-    <okio.version>3.6.0</okio.version>
+    <okio.version>3.7.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.1.104.Final</netty.version>
@@ -213,10 +213,10 @@
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>21.3</graphql-java.version>
     <!--persistence-->
-    <hibernate.version>6.4.0.Final</hibernate.version>
+    <hibernate.version>6.4.1.Final</hibernate.version>
     <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
-    <jooq.version>3.18.7</jooq.version>
+    <jooq.version>3.19.0</jooq.version>
     <jedis.version>5.1.0</jedis.version>
     <lettuce.version>6.3.0.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
@@ -311,8 +311,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.619</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.21.46</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.620</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.22.0</aws-java-sdk2.version>
     <google-gax.version>2.38.0</google-gax.version>
     <google-http-client.version>1.43.3</google-http-client.version>
     <google-cloud-bom.version>26.28.0</google-cloud-bom.version>
@@ -1709,6 +1709,13 @@
       <dependency>
         <groupId>org.eclipse.jetty</groupId>
         <artifactId>jetty-bom</artifactId>
+        <version>${jetty.version}</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+      <dependency>
+        <groupId>org.eclipse.jetty.ee10</groupId>
+        <artifactId>jetty-ee10-bom</artifactId>
         <version>${jetty.version}</version>
         <type>pom</type>
         <scope>import</scope>
