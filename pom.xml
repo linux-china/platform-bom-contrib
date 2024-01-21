@@ -323,7 +323,7 @@
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>2.5.0</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>1.9.21</kotlin.version>
+    <kotlin.version>1.9.22</kotlin.version>
     <kotlinx-coroutines.version>1.7.3</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.6.2</kotlinx-serialization.version>
     <jruby.version>9.4.2.0</jruby.version>
