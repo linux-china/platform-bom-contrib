@@ -162,7 +162,7 @@
     <zipkin-reporter2.version>2.17.2</zipkin-reporter2.version>
     <rsocket.versoin>1.1.4</rsocket.versoin>
     <!--servers-->
-    <jetty.version>12.0.5</jetty.version>
+    <jetty.version>12.0.6</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.10.Final</undertow.version>
     <jersey.version>3.1.5</jersey.version>
@@ -255,7 +255,7 @@
     <unboundid-ldapsdk.version>6.0.11</unboundid-ldapsdk.version>
     <postgresql.version>42.7.1</postgresql.version>
     <jaybird.version>3.0.1</jaybird.version>
-    <jdbi.version>3.43.0</jdbi.version>
+    <jdbi.version>3.44.0</jdbi.version>
     <couchbase-client.version>3.5.2</couchbase-client.version>
     <openjpa.version>3.2.2</openjpa.version>
     <mysql.version>8.3.0</mysql.version>
@@ -312,8 +312,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.648</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.23.14</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.649</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.23.15</aws-java-sdk2.version>
     <google-gax.version>2.41.0</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.30.0</google-cloud-bom.version>
