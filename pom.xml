@@ -126,7 +126,7 @@
     <testcontainers.version>1.19.4</testcontainers.version>
     <dbunit.version>2.7.3</dbunit.version>
     <rest-assured.version>5.4.0</rest-assured.version>
-    <assertj.version>3.25.2</assertj.version>
+    <assertj.version>3.25.3</assertj.version>
     <assertj-json.version>3.2.2</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
@@ -295,7 +295,7 @@
     <commons-rng.version>1.5</commons-rng.version>
     <poi.version>5.2.5</poi.version>
     <kafka.version>3.6.1</kafka.version>
-    <pulsar.version>3.1.2</pulsar.version>
+    <pulsar.version>3.2.0</pulsar.version>
     <log4j2.version>3.0.0-beta1</log4j2.version>
     <jboss-logging.version>3.5.3.Final</jboss-logging.version>
     <solr.version>9.4.1</solr.version>
