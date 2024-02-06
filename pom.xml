@@ -249,7 +249,7 @@
     <hazelcast.version>5.3.6</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>14.0.22.Final</infinispan.version>
+    <infinispan.version>14.0.24.Final</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
     <hikaricp.version>5.1.0</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
@@ -314,8 +314,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.651</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.23.17</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.652</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.23.18</aws-java-sdk2.version>
     <google-gax.version>2.42.0</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.31.0</google-cloud-bom.version>
