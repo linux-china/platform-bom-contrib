@@ -48,7 +48,7 @@
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.25</dropwizard-metrics.version>
-    <opentelemetry.version>1.34.1</opentelemetry.version>
+    <opentelemetry.version>1.35.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.4.14</logback.version>
     <slf4j.version>2.0.9</slf4j.version>
@@ -67,7 +67,7 @@
     <javatuples.version>1.2</javatuples.version>
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.0.0</ff4j.version>
-    <underscore.version>1.97</underscore.version>
+    <underscore.version>1.98</underscore.version>
     <java-util.version>2.4.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -85,7 +85,7 @@
     <rgxgen.version>1.4</rgxgen.version>
     <nuprocess.version>2.0.6</nuprocess.version>
     <uuid-creator.version>5.3.7</uuid-creator.version>
-    <bucket4j.version>8.7.1</bucket4j.version>
+    <bucket4j.version>8.8.0</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>24.1.0</jetbrains-annotations.version>
     <swagger-oai.version>2.2.20</swagger-oai.version>
@@ -110,7 +110,7 @@
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.1.0</data-faker.version>
-    <instancio.version>4.1.0</instancio.version>
+    <instancio.version>4.2.0</instancio.version>
     <mockito.version>5.10.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.9.0</testng.version>
@@ -127,10 +127,10 @@
     <dbunit.version>2.7.3</dbunit.version>
     <rest-assured.version>5.4.0</rest-assured.version>
     <assertj.version>3.25.3</assertj.version>
-    <assertj-json.version>3.2.2</assertj-json.version>
+    <assertj-json.version>3.2.4</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-    <database-rider.version>1.41.0</database-rider.version>
+    <database-rider.version>1.41.1</database-rider.version>
     <archunit.version>0.8.3</archunit.version>
     <awaitility.version>4.2.0</awaitility.version>
     <model-assert.version>1.0.2</model-assert.version>
@@ -138,10 +138,10 @@
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
     <okhttp3.version>5.0.0-alpha.12</okhttp3.version>
-    <okio.version>3.7.0</okio.version>
+    <okio.version>3.8.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.1.106.Final</netty.version>
+    <netty.version>4.1.107.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.61.1</grpc.version>
     <asynchttpclient.version>3.0.0.Beta3</asynchttpclient.version>
@@ -150,7 +150,7 @@
     <searchbox-jest.version>6.3.1</searchbox-jest.version>
     <smack4.version>4.4.4</smack4.version>
     <unirest-java.version>1.4.9</unirest-java.version>
-    <openfeign.version>13.2</openfeign.version>
+    <openfeign.version>13.2.1</openfeign.version>
     <javax-mail.version>1.6.3</javax-mail.version>
     <sun-mail.version>2.0.1</sun-mail.version>
     <javax-cache.version>1.1.1</javax-cache.version>
@@ -158,7 +158,7 @@
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
     <jsch2.version>0.2.16</jsch2.version>
-    <zipkin.version>3.0.5</zipkin.version>
+    <zipkin.version>3.0.6</zipkin.version>
     <zipkin-brave.version>6.0.0</zipkin-brave.version>
     <zipkin-reporter2.version>2.17.2</zipkin-reporter2.version>
     <rsocket.versoin>1.1.4</rsocket.versoin>
@@ -180,7 +180,7 @@
     <json-smart.versfion>2.5.0</json-smart.versfion>
     <json-path.version>2.9.0</json-path.version>
     <itext.version>4.2.2</itext.version>
-    <json.version>20231013</json.version>
+    <json.version>20240205</json.version>
     <kryo.version>4.0.3</kryo.version>
     <jsoup.version>1.17.2</jsoup.version>
     <thymeleaf.version>3.1.2.RELEASE</thymeleaf.version>
@@ -206,7 +206,7 @@
     <aalto-xml.version>1.3.2</aalto-xml.version>
     <glassfish-jaxb.version>4.0.4</glassfish-jaxb.version>
     <woodstox5.version>6.6.0</woodstox5.version>
-    <openpdf.version>1.3.39</openpdf.version>
+    <openpdf.version>1.3.40</openpdf.version>
     <jaxen.version>2.0.0</jaxen.version>
     <xom.version>1.3.9</xom.version>
     <jte.version>3.1.9</jte.version>
@@ -236,7 +236,7 @@
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
     <flyway.version>10.7.1</flyway.version>
-    <liquibase.version>4.25.1</liquibase.version>
+    <liquibase.version>4.26.0</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
     <h2.version>2.2.224</h2.version>
@@ -256,8 +256,8 @@
     <unboundid-ldapsdk.version>6.0.11</unboundid-ldapsdk.version>
     <postgresql.version>42.7.1</postgresql.version>
     <jaybird.version>3.0.1</jaybird.version>
-    <jdbi.version>3.44.0</jdbi.version>
-    <couchbase-client.version>3.5.2</couchbase-client.version>
+    <jdbi.version>3.44.1</jdbi.version>
+    <couchbase-client.version>3.5.3</couchbase-client.version>
     <openjpa.version>3.2.2</openjpa.version>
     <mysql.version>8.3.0</mysql.version>
     <oracle.version>23.3.0.23.09</oracle.version>
@@ -298,7 +298,7 @@
     <pulsar.version>3.2.0</pulsar.version>
     <log4j2.version>3.0.0-beta1</log4j2.version>
     <jboss-logging.version>3.5.3.Final</jboss-logging.version>
-    <solr.version>9.4.1</solr.version>
+    <solr.version>9.5.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>10.1.13</tomcat.version>
     <groovy.version>4.0.18</groovy.version>
@@ -314,11 +314,11 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.652</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.23.18</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.658</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.24.2</aws-java-sdk2.version>
     <google-gax.version>2.42.0</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
-    <google-cloud-bom.version>26.31.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.32.0</google-cloud-bom.version>
     <sendgrid.version>4.10.1</sendgrid.version>
     <kubernetes-client.version>19.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>6.10.0</fabric8-kubernetes-client.version>
@@ -389,8 +389,8 @@
     <spring-shell.version>3.2.1</spring-shell.version>
     <reactor-bom.version>2023.0.2</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
-    <micrometer.version>1.12.2</micrometer.version>
-    <micrometer-tracing.version>1.2.2</micrometer-tracing.version>
+    <micrometer.version>1.12.3</micrometer.version>
+    <micrometer-tracing.version>1.2.3</micrometer-tracing.version>
   </properties>
 
   <dependencyManagement>
@@ -1523,7 +1523,7 @@
       <dependency>
         <groupId>io.asyncer</groupId>
         <artifactId>r2dbc-mysql</artifactId>
-        <version>1.0.6</version>
+        <version>1.1.1</version>
       </dependency>
       <dependency>
         <groupId>io.r2dbc</groupId>
