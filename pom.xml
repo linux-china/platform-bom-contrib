@@ -296,7 +296,7 @@
     <poi.version>5.2.5</poi.version>
     <kafka.version>3.6.1</kafka.version>
     <pulsar.version>3.2.0</pulsar.version>
-    <log4j2.version>3.0.0-beta1</log4j2.version>
+    <log4j2.version>3.0.0-beta2</log4j2.version>
     <jboss-logging.version>3.5.3.Final</jboss-logging.version>
     <solr.version>9.5.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
@@ -314,8 +314,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.662</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.24.6</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.663</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.24.7</aws-java-sdk2.version>
     <google-gax.version>2.43.0</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.32.0</google-cloud-bom.version>
@@ -360,7 +360,7 @@
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
     <spring-data-bom.version>2023.1.3</spring-data-bom.version>
-    <spring-integration.version>6.2.1</spring-integration.version>
+    <spring-integration.version>6.2.2</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
     <spring-boot.version>3.2.0</spring-boot.version>
@@ -379,7 +379,7 @@
     <rabbit-http-client.version>5.2.0</rabbit-http-client.version>
     <rabbit-stream-client.version>0.15.0</rabbit-stream-client.version>
     <spring-vault.version>3.1.1</spring-vault.version>
-    <spring-kafka.version>3.1.1</spring-kafka.version>
+    <spring-kafka.version>3.1.2</spring-kafka.version>
     <spring-pulsar.version>1.0.3</spring-pulsar.version>
     <spring-restdocs.version>3.0.1</spring-restdocs.version>
     <spring-retry.version>2.0.5</spring-retry.version>
