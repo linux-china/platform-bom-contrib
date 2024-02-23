@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.8</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.1</manifold.version>
+    <manifold.version>2024.1.2</manifold.version>
     <jilt.version>1.4</jilt.version>
     <!--testing-->
     <junit5.version>5.10.2</junit5.version>
@@ -123,11 +123,11 @@
     <easymock.version>5.2.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
     <powermock.version>2.0.9</powermock.version>
-    <testcontainers.version>1.19.5</testcontainers.version>
+    <testcontainers.version>1.19.6</testcontainers.version>
     <dbunit.version>2.7.3</dbunit.version>
     <rest-assured.version>5.4.0</rest-assured.version>
     <assertj.version>3.25.3</assertj.version>
-    <assertj-json.version>3.2.4</assertj-json.version>
+    <assertj-json.version>3.2.7</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
     <database-rider.version>1.41.1</database-rider.version>
@@ -165,7 +165,7 @@
     <!--servers-->
     <jetty.version>12.0.6</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
-    <undertow.version>2.3.11.Final</undertow.version>
+    <undertow.version>2.3.12.Final</undertow.version>
     <jersey.version>3.1.5</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>4.8</jsqlparser.version>
@@ -225,7 +225,7 @@
     <mybatis.version>3.5.15</mybatis.version>
     <mybatis-spring.version>3.0.3</mybatis-spring.version>
     <javax-jdo.version>3.1</javax-jdo.version>
-    <mariadb.version>3.3.2</mariadb.version>
+    <mariadb.version>3.3.3</mariadb.version>
     <mariadb-r2dbc.version>1.1.4</mariadb-r2dbc.version>
     <mongodb.version>4.11.1</mongodb.version>
     <mongodb-reactivestreams.version>4.11.1</mongodb-reactivestreams.version>
@@ -314,11 +314,11 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.663</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.24.7</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.665</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.24.9</aws-java-sdk2.version>
     <google-gax.version>2.43.0</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
-    <google-cloud-bom.version>26.32.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.33.0</google-cloud-bom.version>
     <sendgrid.version>4.10.2</sendgrid.version>
     <kubernetes-client.version>20.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>6.10.0</fabric8-kubernetes-client.version>
