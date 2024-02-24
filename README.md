@@ -165,6 +165,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Manifold: Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more https://github.com/manifold-systems/manifold
 * jilt: Java annotation processor for auto-generating Builder - https://github.com/skinny85/jilt
 * jjwt: Java JWT: JSON Web Token for Java and Android - https://github.com/jwtk/jjwt
+* json-masker: High-performance JSON masker library in Java with no runtime dependencies https://github.com/Breus/json-masker
 
 ### Developer Notice
 
