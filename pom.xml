@@ -50,7 +50,7 @@
     <dropwizard-metrics.version>4.2.25</dropwizard-metrics.version>
     <opentelemetry.version>1.35.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.0</logback.version>
+    <logback.version>1.5.1</logback.version>
     <slf4j.version>2.0.12</slf4j.version>
     <flogger.version>0.8</flogger.version>
     <jna.version>5.14.0</jna.version>
@@ -195,7 +195,7 @@
     <unbescape.version>1.1.6.RELEASE</unbescape.version>
     <attoparser.version>2.0.7.RELEASE</attoparser.version>
     <jmustache.version>1.16</jmustache.version>
-    <wss4j2.version>3.0.2</wss4j2.version>
+    <wss4j2.version>3.0.3</wss4j2.version>
     <objenesis.version>3.3</objenesis.version>
     <jopt-simple.version>5.0.4</jopt-simple.version>
     <rometools.version>2.1.0</rometools.version>
@@ -251,7 +251,7 @@
     <hazelcast.version>5.3.6</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>14.0.24.Final</infinispan.version>
+    <infinispan.version>14.0.25.Final</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
     <hikaricp.version>5.1.0</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
@@ -318,8 +318,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.667</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.24.11</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.669</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.24.13</aws-java-sdk2.version>
     <google-gax.version>2.43.0</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.33.0</google-cloud-bom.version>
