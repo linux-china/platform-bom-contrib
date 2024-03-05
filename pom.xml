@@ -170,7 +170,7 @@
     <jersey.version>3.1.5</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>4.8</jsqlparser.version>
-    <javaparser.version>3.25.8</javaparser.version>
+    <javaparser.version>3.25.9</javaparser.version>
     <jackson.version>2.17.0-rc1</jackson.version>
     <moshi.version>1.15.1</moshi.version>
     <classmate.version>1.7.0</classmate.version>
@@ -237,7 +237,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>10.8.1</flyway.version>
+    <flyway.version>10.9.0</flyway.version>
     <liquibase.version>4.26.0</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -318,8 +318,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.671</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.1</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.672</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.2</aws-java-sdk2.version>
     <google-gax.version>2.45.0</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.33.0</google-cloud-bom.version>
