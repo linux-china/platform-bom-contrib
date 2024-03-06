@@ -124,7 +124,7 @@
     <easymock.version>5.2.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
     <powermock.version>2.0.9</powermock.version>
-    <testcontainers.version>1.19.6</testcontainers.version>
+    <testcontainers.version>1.19.7</testcontainers.version>
     <dbunit.version>2.7.3</dbunit.version>
     <rest-assured.version>5.4.0</rest-assured.version>
     <assertj.version>3.25.3</assertj.version>
@@ -182,7 +182,7 @@
     <json-path.version>2.9.0</json-path.version>
     <json-masker.version>1.0.0-rc1</json-masker.version>
     <itext.version>4.2.2</itext.version>
-    <json.version>20240205</json.version>
+    <json.version>20240303</json.version>
     <kryo.version>4.0.3</kryo.version>
     <jsoup.version>1.17.2</jsoup.version>
     <thymeleaf.version>3.1.2.RELEASE</thymeleaf.version>
@@ -220,7 +220,7 @@
     <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.19.5</jooq.version>
-    <jedis.version>5.1.0</jedis.version>
+    <jedis.version>5.1.2</jedis.version>
     <lettuce.version>6.3.1.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
@@ -318,8 +318,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.672</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.2</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.673</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.3</aws-java-sdk2.version>
     <google-gax.version>2.45.0</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.33.0</google-cloud-bom.version>
