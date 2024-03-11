@@ -41,7 +41,7 @@
     <janino.version>3.1.12</janino.version>
     <!--web development & GUI-->
     <webjars-locator.version>0.33</webjars-locator.version>
-    <webjars-locator-core.version>0.57</webjars-locator-core.version>
+    <webjars-locator-core.version>0.58</webjars-locator-core.version>
     <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
     <graphviz-java.version>0.18.1</graphviz-java.version>
     <twelvemonkeys-imageio.version>3.10.1</twelvemonkeys-imageio.version>
@@ -68,7 +68,7 @@
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.0.0</ff4j.version>
     <underscore.version>1.99</underscore.version>
-    <java-util.version>2.4.4</java-util.version>
+    <java-util.version>2.4.5</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.0-alpha-4</vavr.version>
@@ -111,7 +111,7 @@
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.1.0</data-faker.version>
-    <instancio.version>4.3.2</instancio.version>
+    <instancio.version>4.4.0</instancio.version>
     <mockito.version>5.11.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.9.0</testng.version>
@@ -279,7 +279,7 @@
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
     <httpcore5.version>5.3-alpha2</httpcore5.version>
-    <httpclient5.version>5.4-alpha1</httpclient5.version>
+    <httpclient5.version>5.4-alpha2</httpclient5.version>
     <commons-cli.version>1.6.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.10.0</commons-net.version>
@@ -306,7 +306,7 @@
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>10.1.13</tomcat.version>
     <groovy.version>4.0.19</groovy.version>
-    <zookeeper.version>3.9.1</zookeeper.version>
+    <zookeeper.version>3.9.2</zookeeper.version>
     <curator.version>5.6.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
     <activemq.version>6.0.1</activemq.version>
