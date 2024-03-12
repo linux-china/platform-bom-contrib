@@ -160,6 +160,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * Instancio: a Java library for automating data setup in unit tests https://www.instancio.org/
 * Logbook: an extensible Java library to enable complete request and response logging for different client- and server-side technologies https://github.com/zalando/logbook
 * NuProcess: Low-overhead, non-blocking I/O, external Process implementation for Java https://github.com/brettwooldridge/NuProcess
+* zt-exec: https://github.com/zeroturnaround/zt-exec
 * uuid-creator: https://github.com/f4b6a3/uuid-creator
 * bucket4j: Java rate limiting library based on token-bucket algorithm - https://github.com/bucket4j/bucket4j
 * Manifold: Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more https://github.com/manifold-systems/manifold
