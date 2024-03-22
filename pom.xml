@@ -68,7 +68,7 @@
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.0.0</ff4j.version>
     <underscore.version>1.99</underscore.version>
-    <java-util.version>2.4.5</java-util.version>
+    <java-util.version>2.4.6</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.0-alpha-4</vavr.version>
@@ -85,7 +85,7 @@
     <rgxgen.version>2.0</rgxgen.version>
     <nuprocess.version>2.0.6</nuprocess.version>
     <uuid-creator.version>5.3.7</uuid-creator.version>
-    <bucket4j.version>8.9.0</bucket4j.version>
+    <bucket4j.version>8.10.1</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>24.1.0</jetbrains-annotations.version>
     <swagger-oai.version>2.2.21</swagger-oai.version>
@@ -120,7 +120,7 @@
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
     <wiremock.version>3.4.2</wiremock.version>
-    <spockframework.version>2.4-M3-groovy-4.0</spockframework.version>
+    <spockframework.version>2.4-M4-groovy-4.0</spockframework.version>
     <easymock.version>5.2.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
     <powermock.version>2.0.9</powermock.version>
@@ -142,7 +142,7 @@
     <okio.version>3.9.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.1.107.Final</netty.version>
+    <netty.version>4.1.108.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.62.2</grpc.version>
     <asynchttpclient.version>3.0.0.Beta3</asynchttpclient.version>
@@ -178,7 +178,7 @@
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.10.1</gson.version>
     <protobuf.version>4.26.0</protobuf.version>
-    <json-smart.versfion>2.5.0</json-smart.versfion>
+    <json-smart.versfion>2.5.1</json-smart.versfion>
     <json-path.version>2.9.0</json-path.version>
     <json-masker.version>1.0.0-rc2</json-masker.version>
     <itext.version>4.2.2</itext.version>
@@ -318,8 +318,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.683</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.13</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.685</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.15</aws-java-sdk2.version>
     <google-gax.version>2.46.1</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.34.0</google-cloud-bom.version>
