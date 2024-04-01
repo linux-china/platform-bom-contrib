@@ -80,7 +80,7 @@
     <resilience4j.version>2.2.0</resilience4j.version>
     <failsafe.version>3.3.2</failsafe.version>
     <eclipse-collections.version>12.0.0.M3</eclipse-collections.version>
-    <agrona.version>1.21.0</agrona.version>
+    <agrona.version>1.21.1</agrona.version>
     <math-parser.version>5.2.1</math-parser.version>
     <rgxgen.version>2.0</rgxgen.version>
     <nuprocess.version>2.0.6</nuprocess.version>
@@ -92,7 +92,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.2</google-truth.version>
-    <bytebuddy.version>1.14.12</bytebuddy.version>
+    <bytebuddy.version>1.14.13</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.22</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.9</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.10</manifold.version>
+    <manifold.version>2024.1.11</manifold.version>
     <jilt.version>1.5</jilt.version>
     <graal-sdk.version>24.0.0</graal-sdk.version>
     <!--testing-->
@@ -115,11 +115,11 @@
     <mockito.version>5.11.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.9.0</testng.version>
-    <selenium.version>4.19.0</selenium.version>
+    <selenium.version>4.19.1</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.5.0</wiremock.version>
+    <wiremock.version>3.5.2</wiremock.version>
     <spockframework.version>2.4-M4-groovy-4.0</spockframework.version>
     <easymock.version>5.2.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
@@ -177,10 +177,10 @@
     <snakeyaml.version>2.2</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.10.1</gson.version>
-    <protobuf.version>4.26.0</protobuf.version>
+    <protobuf.version>4.26.1</protobuf.version>
     <json-smart.versfion>2.5.1</json-smart.versfion>
     <json-path.version>2.9.0</json-path.version>
-    <json-masker.version>1.0.0-rc2</json-masker.version>
+    <json-masker.version>1.0.0-rc3</json-masker.version>
     <itext.version>4.2.2</itext.version>
     <json.version>20240303</json.version>
     <kryo.version>4.0.3</kryo.version>
@@ -283,7 +283,7 @@
     <commons-cli.version>1.6.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.10.0</commons-net.version>
-    <commons-io.version>2.15.1</commons-io.version>
+    <commons-io.version>2.16.0</commons-io.version>
     <commons-codec.version>1.16.1</commons-codec.version>
     <commons-fileupload.version>1.5</commons-fileupload.version>
     <commons-beanutils.version>1.9.4</commons-beanutils.version>
@@ -318,11 +318,11 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.689</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.19</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.691</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.21</aws-java-sdk2.version>
     <google-gax.version>2.46.1</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
-    <google-cloud-bom.version>26.34.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.35.0</google-cloud-bom.version>
     <sendgrid.version>4.10.2</sendgrid.version>
     <kubernetes-client.version>20.0.1</kubernetes-client.version>
     <fabric8-kubernetes-client.version>6.11.0</fabric8-kubernetes-client.version>
