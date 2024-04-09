@@ -48,9 +48,9 @@
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.25</dropwizard-metrics.version>
-    <opentelemetry.version>1.36.0</opentelemetry.version>
+    <opentelemetry.version>1.37.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.3</logback.version>
+    <logback.version>1.5.4</logback.version>
     <slf4j.version>2.0.12</slf4j.version>
     <flogger.version>0.8</flogger.version>
     <jna.version>5.14.0</jna.version>
@@ -114,10 +114,11 @@
     <instancio.version>4.5.0</instancio.version>
     <mockito.version>5.11.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
-    <testng.version>7.10.0</testng.version>
+    <testng.version>7.10.1</testng.version>
     <selenium.version>4.19.1</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
+    <json-smart.version>2.5.1</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
     <wiremock.version>3.5.2</wiremock.version>
     <spockframework.version>2.4-M4-groovy-4.0</spockframework.version>
@@ -180,7 +181,7 @@
     <protobuf.version>4.26.1</protobuf.version>
     <json-smart.versfion>2.5.1</json-smart.versfion>
     <json-path.version>2.9.0</json-path.version>
-    <json-masker.version>1.0.0-rc3</json-masker.version>
+    <json-masker.version>1.0.0</json-masker.version>
     <itext.version>4.2.2</itext.version>
     <json.version>20240303</json.version>
     <kryo.version>4.0.3</kryo.version>
@@ -247,7 +248,7 @@
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
-    <elasticsearch.version>8.13.0</elasticsearch.version>
+    <elasticsearch.version>8.13.2</elasticsearch.version>
     <hazelcast.version>5.3.6</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -283,7 +284,7 @@
     <commons-cli.version>1.6.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.10.0</commons-net.version>
-    <commons-io.version>2.16.0</commons-io.version>
+    <commons-io.version>2.16.1</commons-io.version>
     <commons-codec.version>1.16.1</commons-codec.version>
     <commons-fileupload.version>1.5</commons-fileupload.version>
     <commons-beanutils.version>1.9.4</commons-beanutils.version>
@@ -305,7 +306,7 @@
     <solr.version>9.5.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>10.1.20</tomcat.version>
-    <groovy.version>4.0.20</groovy.version>
+    <groovy.version>4.0.21</groovy.version>
     <zookeeper.version>3.9.2</zookeeper.version>
     <curator.version>5.6.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
@@ -318,8 +319,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.696</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.26</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.697</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.27</aws-java-sdk2.version>
     <google-gax.version>2.46.1</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.37.0</google-cloud-bom.version>
@@ -329,8 +330,8 @@
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>3.0.0</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>1.9.23</kotlin.version>
-    <kotlinx-coroutines.version>1.8.0</kotlinx-coroutines.version>
+    <kotlin.version>2.0.0-RC1</kotlin.version>
+    <kotlinx-coroutines.version>1.8.1-Beta</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.6.3</kotlinx-serialization.version>
     <jruby.version>9.4.6.0</jruby.version>
     <!--netflix-->
@@ -391,10 +392,10 @@
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
     <spring-shell.version>3.2.3</spring-shell.version>
-    <reactor-bom.version>2023.0.4</reactor-bom.version>
+    <reactor-bom.version>2023.0.5</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <micrometer.version>1.12.5</micrometer.version>
-    <micrometer-tracing.version>1.2.4</micrometer-tracing.version>
+    <micrometer-tracing.version>1.2.5</micrometer-tracing.version>
   </properties>
 
   <dependencyManagement>
