@@ -161,7 +161,7 @@
     <jsch.version>0.1.55</jsch.version>
     <jsch2.version>0.2.17</jsch2.version>
     <zipkin.version>3.1.1</zipkin.version>
-    <zipkin-brave.version>6.0.2</zipkin-brave.version>
+    <zipkin-brave.version>6.0.3</zipkin-brave.version>
     <zipkin-reporter2.version>3.3.0</zipkin-reporter2.version>
     <rsocket.versoin>1.1.4</rsocket.versoin>
     <!--servers-->
@@ -319,8 +319,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.697</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.27</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.699</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.29</aws-java-sdk2.version>
     <google-gax.version>2.46.1</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.37.0</google-cloud-bom.version>
@@ -350,8 +350,8 @@
     <moneta.version>1.4.4</moneta.version>  <!-- javax money -->
     <angus-mail.version>2.0.3</angus-mail.version>
     <!--springsource-->
-    <spring.version>6.1.5</spring.version>
-    <spring-framework.version>6.1.5</spring-framework.version>
+    <spring.version>6.1.6</spring.version>
+    <spring-framework.version>6.1.6</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.1.1</spring-batch.version>
     <spring-ws.version>4.0.10</spring-ws.version>
