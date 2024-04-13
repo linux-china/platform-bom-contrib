@@ -212,7 +212,7 @@
     <openpdf.version>2.0.2</openpdf.version>
     <jaxen.version>2.0.0</jaxen.version>
     <xom.version>1.3.9</xom.version>
-    <jte.version>3.1.9</jte.version>
+    <jte.version>3.1.10</jte.version>
     <evo-inflector.version>1.3</evo-inflector.version>
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>21.5</graphql-java.version>
@@ -319,14 +319,14 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.699</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.29</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.700</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.30</aws-java-sdk2.version>
     <google-gax.version>2.46.1</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.37.0</google-cloud-bom.version>
     <sendgrid.version>4.10.2</sendgrid.version>
     <kubernetes-client.version>20.0.1</kubernetes-client.version>
-    <fabric8-kubernetes-client.version>6.11.0</fabric8-kubernetes-client.version>
+    <fabric8-kubernetes-client.version>6.12.0</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>3.0.0</cloudevents-java.version>
     <!--languages-->
@@ -364,7 +364,7 @@
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-    <spring-data-bom.version>2023.1.4</spring-data-bom.version>
+    <spring-data-bom.version>2023.1.5</spring-data-bom.version>
     <spring-integration.version>6.2.3</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
@@ -377,7 +377,7 @@
     <spring-cloud-stream.version>4.1.1</spring-cloud-stream.version>
     <spring-cloud-function.version>4.1.1</spring-cloud-function.version>
     <spring-cloud-gateway.version>4.1.2</spring-cloud-gateway.version>
-    <spring-ldap.version>3.2.2</spring-ldap.version>
+    <spring-ldap.version>3.2.3</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.1.3</spring-amqp.version>
     <rabbit-amqp-client.version>5.21.0</rabbit-amqp-client.version>
@@ -1543,7 +1543,7 @@
       <dependency>
         <groupId>io.r2dbc</groupId>
         <artifactId>r2dbc-postgresql</artifactId>
-        <version>1.0.4.RELEASE</version>
+        <version>1.0.5.RELEASE</version>
       </dependency>
       <dependency>
         <groupId>io.asyncer</groupId>
