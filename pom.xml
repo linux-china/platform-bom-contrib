@@ -50,7 +50,7 @@
     <dropwizard-metrics.version>4.2.25</dropwizard-metrics.version>
     <opentelemetry.version>1.37.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.4</logback.version>
+    <logback.version>1.5.5</logback.version>
     <slf4j.version>2.0.12</slf4j.version>
     <flogger.version>0.8</flogger.version>
     <jna.version>5.14.0</jna.version>
@@ -143,7 +143,7 @@
     <okio.version>3.9.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.1.108.Final</netty.version>
+    <netty.version>4.1.109.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.63.0</grpc.version>
     <asynchttpclient.version>3.0.0.Beta3</asynchttpclient.version>
@@ -160,7 +160,7 @@
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
     <jsch2.version>0.2.17</jsch2.version>
-    <zipkin.version>3.1.1</zipkin.version>
+    <zipkin.version>3.2.1</zipkin.version>
     <zipkin-brave.version>6.0.3</zipkin-brave.version>
     <zipkin-reporter2.version>3.3.0</zipkin-reporter2.version>
     <rsocket.versoin>1.1.4</rsocket.versoin>
@@ -249,10 +249,10 @@
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
     <elasticsearch.version>8.13.2</elasticsearch.version>
-    <hazelcast.version>5.3.6</hazelcast.version>
+    <hazelcast.version>5.4.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>14.0.26.Final</infinispan.version>
+    <infinispan.version>15.0.1.Final</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
     <hikaricp.version>5.1.0</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
@@ -310,7 +310,7 @@
     <zookeeper.version>3.9.2</zookeeper.version>
     <curator.version>5.6.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
-    <activemq.version>6.1.1</activemq.version>
+    <activemq.version>6.1.2</activemq.version>
     <artemis.version>2.33.0</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
@@ -319,8 +319,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.700</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.30</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.701</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.31</aws-java-sdk2.version>
     <google-gax.version>2.46.1</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.37.0</google-cloud-bom.version>
