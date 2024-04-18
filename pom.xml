@@ -139,7 +139,7 @@
     <junit-pioneer.version>2.2.0</junit-pioneer.version>
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
-    <okhttp3.version>5.0.0-alpha.12</okhttp3.version>
+    <okhttp3.version>5.0.0-alpha.14</okhttp3.version>
     <okio.version>3.9.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -168,7 +168,7 @@
     <jetty.version>12.0.8</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.12.Final</undertow.version>
-    <jersey.version>3.1.5</jersey.version>
+    <jersey.version>3.1.6</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>4.9</jsqlparser.version>
     <javaparser.version>3.25.10</javaparser.version>
@@ -238,7 +238,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>10.11.0</flyway.version>
+    <flyway.version>10.11.1</flyway.version>
     <liquibase.version>4.27.0</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -252,7 +252,7 @@
     <hazelcast.version>5.4.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>15.0.1.Final</infinispan.version>
+    <infinispan.version>15.0.2.Final</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
     <hikaricp.version>5.1.0</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
@@ -281,7 +281,7 @@
     <httpclient.version>4.5.14</httpclient.version>
     <httpcore5.version>5.3-alpha2</httpcore5.version>
     <httpclient5.version>5.4-alpha2</httpclient5.version>
-    <commons-cli.version>1.6.0</commons-cli.version>
+    <commons-cli.version>1.7.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.10.0</commons-net.version>
     <commons-io.version>2.16.1</commons-io.version>
@@ -319,14 +319,14 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.702</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.32</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.703</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.33</aws-java-sdk2.version>
     <google-gax.version>2.46.1</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.37.0</google-cloud-bom.version>
     <sendgrid.version>4.10.2</sendgrid.version>
     <kubernetes-client.version>20.0.1</kubernetes-client.version>
-    <fabric8-kubernetes-client.version>6.12.0</fabric8-kubernetes-client.version>
+    <fabric8-kubernetes-client.version>6.12.1</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>3.0.0</cloudevents-java.version>
     <!--languages-->
@@ -376,7 +376,7 @@
     <spring-cloud-task.version>3.1.1</spring-cloud-task.version>
     <spring-cloud-stream.version>4.1.1</spring-cloud-stream.version>
     <spring-cloud-function.version>4.1.1</spring-cloud-function.version>
-    <spring-cloud-gateway.version>4.1.2</spring-cloud-gateway.version>
+    <spring-cloud-gateway.version>4.1.3</spring-cloud-gateway.version>
     <spring-ldap.version>3.2.3</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.1.4</spring-amqp.version>
