@@ -50,7 +50,7 @@
     <dropwizard-metrics.version>4.2.25</dropwizard-metrics.version>
     <opentelemetry.version>1.37.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.5</logback.version>
+    <logback.version>1.5.6</logback.version>
     <slf4j.version>2.0.12</slf4j.version>
     <flogger.version>0.8</flogger.version>
     <jna.version>5.14.0</jna.version>
@@ -68,7 +68,7 @@
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.0.0</ff4j.version>
     <underscore.version>1.100</underscore.version>
-    <java-util.version>2.5.0</java-util.version>
+    <java-util.version>2.6.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.0-alpha-4</vavr.version>
@@ -111,7 +111,7 @@
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.1.0</data-faker.version>
-    <instancio.version>4.5.0</instancio.version>
+    <instancio.version>4.5.1</instancio.version>
     <mockito.version>5.11.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.10.1</testng.version>
@@ -120,7 +120,7 @@
     <jsonassert.version>1.5.1</jsonassert.version>
     <json-smart.version>2.5.1</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.5.2</wiremock.version>
+    <wiremock.version>3.5.3</wiremock.version>
     <spockframework.version>2.4-M4-groovy-4.0</spockframework.version>
     <easymock.version>5.2.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
