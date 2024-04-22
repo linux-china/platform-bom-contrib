@@ -168,6 +168,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * jjwt: Java JWT: JSON Web Token for Java and Android - https://github.com/jwtk/jjwt
 * json-masker: High-performance JSON masker library in Java with no runtime dependencies https://github.com/Breus/json-masker
 * gestalt: a Java configuration library - https://github.com/gestalt-config/gestalt
+* simplejavamail: https://www.simplejavamail.org/
 
 ### Developer Notice
 

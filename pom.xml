@@ -349,6 +349,7 @@
     <javax-money.version>1.1</javax-money.version>
     <moneta.version>1.4.4</moneta.version>  <!-- javax money -->
     <angus-mail.version>2.0.3</angus-mail.version>
+    <simplejavamail.version>8.8.3</simplejavamail.version>
     <!--springsource-->
     <spring.version>6.1.6</spring.version>
     <spring-framework.version>6.1.6</spring-framework.version>
@@ -1185,6 +1186,11 @@
         <groupId>org.javamoney</groupId>
         <artifactId>moneta</artifactId>
         <version>${moneta.version}</version>
+      </dependency>
+      <dependency>
+          <groupId>org.simplejavamail</groupId>
+          <artifactId>simple-java-mail</artifactId>
+          <version>${simplejavamail.version}</version>
       </dependency>
       <dependency>
         <groupId>org.asynchttpclient</groupId>
