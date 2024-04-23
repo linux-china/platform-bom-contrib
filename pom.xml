@@ -106,11 +106,11 @@
     <jilt.version>1.5</jilt.version>
     <graal-sdk.version>24.0.1</graal-sdk.version>
     <!--testing-->
-    <junit5.version>5.10.2</junit5.version>
+    <junit5.version>5.11.0-M1</junit5.version>
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
-    <data-faker.version>2.1.0</data-faker.version>
+    <data-faker.version>2.2.0</data-faker.version>
     <instancio.version>4.5.1</instancio.version>
     <mockito.version>5.11.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
@@ -120,7 +120,7 @@
     <jsonassert.version>1.5.1</jsonassert.version>
     <json-smart.version>2.5.1</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.5.3</wiremock.version>
+    <wiremock.version>3.5.4</wiremock.version>
     <spockframework.version>2.4-M4-groovy-4.0</spockframework.version>
     <easymock.version>5.2.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
@@ -319,8 +319,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.705</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.35</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.706</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.36</aws-java-sdk2.version>
     <google-gax.version>2.47.0</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.37.0</google-cloud-bom.version>
