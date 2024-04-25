@@ -92,7 +92,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.2</google-truth.version>
-    <bytebuddy.version>1.14.13</bytebuddy.version>
+    <bytebuddy.version>1.14.14</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.22</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -110,12 +110,12 @@
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
-    <data-faker.version>2.2.0</data-faker.version>
+    <data-faker.version>2.2.2</data-faker.version>
     <instancio.version>4.5.1</instancio.version>
     <mockito.version>5.11.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.10.1</testng.version>
-    <selenium.version>4.19.1</selenium.version>
+    <selenium.version>4.20.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <json-smart.version>2.5.1</json-smart.version>
@@ -319,8 +319,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.706</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.36</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.708</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.38</aws-java-sdk2.version>
     <google-gax.version>2.47.0</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.37.0</google-cloud-bom.version>
@@ -349,7 +349,7 @@
     <javax-money.version>1.1</javax-money.version>
     <moneta.version>1.4.4</moneta.version>  <!-- javax money -->
     <angus-mail.version>2.0.3</angus-mail.version>
-    <simplejavamail.version>8.8.3</simplejavamail.version>
+    <simplejavamail.version>8.8.4</simplejavamail.version>
     <!--springsource-->
     <spring.version>6.1.6</spring.version>
     <spring-framework.version>6.1.6</spring-framework.version>
@@ -392,7 +392,7 @@
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
-    <spring-shell.version>3.2.3</spring-shell.version>
+    <spring-shell.version>3.2.4</spring-shell.version>
     <reactor-bom.version>2023.0.5</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <micrometer.version>1.12.5</micrometer.version>
