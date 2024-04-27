@@ -217,7 +217,7 @@
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>22.0</graphql-java.version>
     <!--persistence-->
-    <hibernate.version>6.4.4.Final</hibernate.version>
+    <hibernate.version>6.5.0.Final</hibernate.version>
     <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.19.7</jooq.version>
@@ -319,8 +319,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.708</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.38</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.710</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.40</aws-java-sdk2.version>
     <google-gax.version>2.47.0</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.37.0</google-cloud-bom.version>
@@ -349,7 +349,7 @@
     <javax-money.version>1.1</javax-money.version>
     <moneta.version>1.4.4</moneta.version>  <!-- javax money -->
     <angus-mail.version>2.0.3</angus-mail.version>
-    <simplejavamail.version>8.8.4</simplejavamail.version>
+    <simplejavamail.version>8.9.0</simplejavamail.version>
     <!--springsource-->
     <spring.version>6.1.6</spring.version>
     <spring-framework.version>6.1.6</spring-framework.version>
