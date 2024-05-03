@@ -67,7 +67,7 @@
     <javatuples.version>1.2</javatuples.version>
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
-    <underscore.version>1.100</underscore.version>
+    <underscore.version>1.101</underscore.version>
     <java-util.version>2.9.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.9</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.12</manifold.version>
+    <manifold.version>2024.1.13</manifold.version>
     <jilt.version>1.5</jilt.version>
     <graal-sdk.version>24.0.1</graal-sdk.version>
     <!--testing-->
@@ -181,7 +181,7 @@
     <protobuf.version>4.26.1</protobuf.version>
     <json-smart.versfion>2.5.1</json-smart.versfion>
     <json-path.version>2.9.0</json-path.version>
-    <json-masker.version>1.0.0</json-masker.version>
+    <json-masker.version>1.0.1</json-masker.version>
     <itext.version>4.2.2</itext.version>
     <json.version>20240303</json.version>
     <kryo.version>4.0.3</kryo.version>
@@ -220,7 +220,7 @@
     <hibernate.version>6.5.0.Final</hibernate.version>
     <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
-    <jooq.version>3.19.7</jooq.version>
+    <jooq.version>3.19.8</jooq.version>
     <jedis.version>5.1.2</jedis.version>
     <lettuce.version>6.3.2.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
@@ -230,8 +230,8 @@
     <javax-jdo.version>3.1</javax-jdo.version>
     <mariadb.version>3.3.3</mariadb.version>
     <mariadb-r2dbc.version>1.2.0</mariadb-r2dbc.version>
-    <mongodb.version>5.0.1</mongodb.version>
-    <mongodb-reactivestreams.version>5.0.1</mongodb-reactivestreams.version>
+    <mongodb.version>5.1.0</mongodb.version>
+    <mongodb-reactivestreams.version>5.1.0</mongodb-reactivestreams.version>
     <embedded-mongo.version>3.2.0</embedded-mongo.version>
     <fongo.version>2.1.1</fongo.version>
     <cassandra-driver.version>4.0.0</cassandra-driver.version>
@@ -289,7 +289,7 @@
     <commons-fileupload.version>1.5</commons-fileupload.version>
     <commons-beanutils.version>1.9.4</commons-beanutils.version>
     <commons-lang3.version>3.14.0</commons-lang3.version>
-    <commons-csv.version>1.10.0</commons-csv.version>
+    <commons-csv.version>1.11.0</commons-csv.version>
     <commons-crypto.version>1.2.0</commons-crypto.version>
     <commons-configuration2.version>2.10.1</commons-configuration2.version>
     <commons-text.version>1.12.0</commons-text.version>
@@ -319,9 +319,9 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.711</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.41</aws-java-sdk2.version>
-    <google-gax.version>2.47.0</google-gax.version>
+    <aws-java-sdk.version>1.12.713</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.44</aws-java-sdk2.version>
+    <google-gax.version>2.48.0</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.38.0</google-cloud-bom.version>
     <sendgrid.version>4.10.2</sendgrid.version>
