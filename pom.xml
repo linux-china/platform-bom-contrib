@@ -264,7 +264,7 @@
     <openjpa.version>4.0.0</openjpa.version>
     <mysql.version>8.4.0</mysql.version>
     <sqlserver.version>12.6.1.jre11</sqlserver.version>
-    <oracle.version>23.3.0.23.09</oracle.version>
+    <oracle.version>23.4.0.24.05</oracle.version>
     <influxdb-java.version>2.24</influxdb-java.version>
     <r2dbc-bom.version>Borca-SR2</r2dbc-bom.version>
     <datastax.version>4.17.0</datastax.version>
@@ -319,8 +319,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.713</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.44</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.715</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.45</aws-java-sdk2.version>
     <google-gax.version>2.48.0</google-gax.version>
     <google-http-client.version>1.44.1</google-http-client.version>
     <google-cloud-bom.version>26.38.0</google-cloud-bom.version>
