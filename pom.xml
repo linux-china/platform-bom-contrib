@@ -60,7 +60,7 @@
     <fugue.version>5.0.0</fugue.version>
     <joda-time.version>2.12.1</joda-time.version>
     <gs-collections.version>7.0.3</gs-collections.version>
-    <guava.version>33.1.0-jre</guava.version>
+    <guava.version>33.2.0-jre</guava.version>
     <guice.version>7.0.0</guice.version>
     <jodd.version>5.1.6</jodd.version>
     <boon.version>0.34</boon.version>
@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.9</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.13</manifold.version>
+    <manifold.version>2024.1.14</manifold.version>
     <jilt.version>1.5</jilt.version>
     <graal-sdk.version>24.0.1</graal-sdk.version>
     <!--testing-->
@@ -197,7 +197,7 @@
     <attoparser.version>2.0.7.RELEASE</attoparser.version>
     <jmustache.version>1.16</jmustache.version>
     <wss4j2.version>3.0.3</wss4j2.version>
-    <objenesis.version>3.3</objenesis.version>
+    <objenesis.version>3.4</objenesis.version>
     <jopt-simple.version>5.0.4</jopt-simple.version>
     <rometools.version>2.1.0</rometools.version>
     <xmlprojector.version>1.4.24</xmlprojector.version>
@@ -303,7 +303,7 @@
     <pulsar.version>3.2.2</pulsar.version>
     <log4j2.version>3.0.0-beta2</log4j2.version>
     <jboss-logging.version>3.5.3.Final</jboss-logging.version>
-    <solr.version>9.5.0</solr.version>
+    <solr.version>9.6.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>10.1.20</tomcat.version>
     <groovy.version>4.0.21</groovy.version>
