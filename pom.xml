@@ -94,7 +94,7 @@
     <google-truth.version>1.4.2</google-truth.version>
     <bytebuddy.version>1.14.15</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
-    <aspectj.version>1.9.22</aspectj.version>
+    <aspectj.version>1.9.22.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
     <lombok.version>1.18.32</lombok.version>
     <immutables.version>2.10.1</immutables.version>
@@ -111,7 +111,7 @@
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.2.2</data-faker.version>
-    <instancio.version>4.5.1</instancio.version>
+    <instancio.version>4.6.0</instancio.version>
     <mockito.version>5.12.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.10.2</testng.version>
@@ -273,7 +273,7 @@
     <jasypt.version>1.9.3</jasypt.version>
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
-    <nimbus-jose-jwt.version>9.38</nimbus-jose-jwt.version>
+    <nimbus-jose-jwt.version>9.39</nimbus-jose-jwt.version>
     <oauth2-oidc-sdk.version>11.10.1</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.5</jjwt.version>
     <totp.version>1.7.1</totp.version>
@@ -396,7 +396,7 @@
     <spring-shell.version>3.2.4</spring-shell.version>
     <reactor-bom.version>2023.0.5</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
-    <micrometer.version>1.12.5</micrometer.version>
+    <micrometer.version>1.12.6</micrometer.version>
     <micrometer-tracing.version>1.2.5</micrometer-tracing.version>
   </properties>
 
