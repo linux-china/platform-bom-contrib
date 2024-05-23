@@ -54,7 +54,7 @@
     <slf4j.version>2.0.13</slf4j.version>
     <flogger.version>0.8</flogger.version>
     <jna.version>5.14.0</jna.version>
-    <prometheus-client.version>0.16.0</prometheus-client.version>
+    <prometheus-client.version>1.3.1</prometheus-client.version>
     <!--productivity & tools-->
     <functionaljava.version>5.0</functionaljava.version>
     <fugue.version>5.0.0</fugue.version>
@@ -234,7 +234,7 @@
     <mongodb-reactivestreams.version>5.1.0</mongodb-reactivestreams.version>
     <embedded-mongo.version>3.2.0</embedded-mongo.version>
     <fongo.version>2.1.1</fongo.version>
-    <cassandra-driver.version>4.0.0</cassandra-driver.version>
+    <cassandra-driver.version>4.18.1</cassandra-driver.version>
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
@@ -1092,6 +1092,13 @@
         <version>${flexy-pool.version}</version>
       </dependency>
       <dependency>
+        <groupId>com.querydsl</groupId>
+        <artifactId>querydsl-bom</artifactId>
+        <version>${querydsl.version}</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+      <dependency>
         <groupId>com.vdurmont</groupId>
         <artifactId>emoji-java</artifactId>
         <version>${emoji-java.version}</version>
@@ -1513,7 +1520,7 @@
       </dependency>
       <dependency>
         <groupId>io.prometheus</groupId>
-        <artifactId>simpleclient_bom</artifactId>
+        <artifactId>prometheus-metrics-bom</artifactId>
         <version>${prometheus-client.version}</version>
         <type>pom</type>
         <scope>import</scope>
@@ -1606,13 +1613,6 @@
         <groupId>io.grpc</groupId>
         <artifactId>grpc-bom</artifactId>
         <version>${grpc.version}</version>
-        <type>pom</type>
-        <scope>import</scope>
-      </dependency>
-      <dependency>
-        <groupId>io.sundr</groupId>
-        <artifactId>sundr-pom</artifactId>
-        <version>0.200.0</version>
         <type>pom</type>
         <scope>import</scope>
       </dependency>
@@ -2009,6 +2009,20 @@
         <groupId>org.springframework.kafka</groupId>
         <artifactId>spring-kafka</artifactId>
         <version>${spring-kafka.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.apache.activemq</groupId>
+        <artifactId>artemis-bom</artifactId>
+        <version>${artemis.version}</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+      <dependency>
+        <groupId>org.apache.pulsar</groupId>
+        <artifactId>pulsar-bom</artifactId>
+        <version>${pulsar.version}</version>
+        <type>pom</type>
+        <scope>import</scope>
       </dependency>
       <dependency>
         <groupId>org.springframework.pulsar</groupId>
