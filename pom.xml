@@ -57,7 +57,7 @@
     <prometheus-client.version>1.3.1</prometheus-client.version>
     <!--productivity & tools-->
     <functionaljava.version>5.0</functionaljava.version>
-    <fugue.version>5.0.0</fugue.version>
+    <fugue.version>5.0.1</fugue.version>
     <joda-time.version>2.12.1</joda-time.version>
     <gs-collections.version>7.0.3</gs-collections.version>
     <guava.version>33.2.0-jre</guava.version>
@@ -128,7 +128,7 @@
     <testcontainers.version>1.19.8</testcontainers.version>
     <dbunit.version>2.7.3</dbunit.version>
     <rest-assured.version>5.4.0</rest-assured.version>
-    <assertj.version>3.25.3</assertj.version>
+    <assertj.version>3.26.0</assertj.version>
     <assertj-json.version>3.2.7</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
@@ -160,7 +160,7 @@
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
     <jsch2.version>0.2.17</jsch2.version>
-    <zipkin.version>3.3.0</zipkin.version>
+    <zipkin.version>3.4.0</zipkin.version>
     <zipkin-brave.version>6.0.3</zipkin-brave.version>
     <zipkin-reporter2.version>3.4.0</zipkin-reporter2.version>
     <rsocket.versoin>1.1.4</rsocket.versoin>
@@ -212,7 +212,7 @@
     <openpdf.version>2.0.2</openpdf.version>
     <jaxen.version>2.0.0</jaxen.version>
     <xom.version>1.3.9</xom.version>
-    <jte.version>3.1.11</jte.version>
+    <jte.version>3.1.12</jte.version>
     <evo-inflector.version>1.3</evo-inflector.version>
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>22.1</graphql-java.version>
@@ -244,7 +244,7 @@
     <flexy-pool.version>2.2.3</flexy-pool.version>
     <h2.version>2.2.224</h2.version>
     <hsqldb.version>2.7.2</hsqldb.version>
-    <sqlite-jdbc.version>3.45.3.0</sqlite-jdbc.version>
+    <sqlite-jdbc.version>3.46.0.0</sqlite-jdbc.version>
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
@@ -320,8 +320,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.727</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.57</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.730</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.25.60</aws-java-sdk2.version>
     <google-gax.version>2.48.1</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
     <google-cloud-bom.version>26.39.0</google-cloud-bom.version>
@@ -352,8 +352,8 @@
     <angus-mail.version>2.0.3</angus-mail.version>
     <simplejavamail.version>8.10.1</simplejavamail.version>
     <!--springsource-->
-    <spring.version>6.1.7</spring.version>
-    <spring-framework.version>6.1.7</spring-framework.version>
+    <spring.version>6.1.8</spring.version>
+    <spring-framework.version>6.1.8</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.1.2</spring-batch.version>
     <spring-ws.version>4.0.11</spring-ws.version>
