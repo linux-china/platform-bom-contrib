@@ -111,7 +111,7 @@
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.2.2</data-faker.version>
-    <instancio.version>4.6.0</instancio.version>
+    <instancio.version>4.7.0</instancio.version>
     <mockito.version>5.12.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.10.2</testng.version>
@@ -350,7 +350,7 @@
     <javax-money.version>1.1</javax-money.version>
     <moneta.version>1.4.4</moneta.version>  <!-- javax money -->
     <angus-mail.version>2.0.3</angus-mail.version>
-    <simplejavamail.version>8.10.1</simplejavamail.version>
+    <simplejavamail.version>8.11.0</simplejavamail.version>
     <!--springsource-->
     <spring.version>6.1.8</spring.version>
     <spring-framework.version>6.1.8</spring-framework.version>
@@ -384,7 +384,7 @@
     <spring-amqp.version>3.1.5</spring-amqp.version>
     <rabbit-amqp-client.version>5.21.0</rabbit-amqp-client.version>
     <rabbit-http-client.version>5.2.0</rabbit-http-client.version>
-    <rabbit-stream-client.version>0.15.0</rabbit-stream-client.version>
+    <rabbit-stream-client.version>0.16.0</rabbit-stream-client.version>
     <spring-vault.version>3.1.1</spring-vault.version>
     <spring-kafka.version>3.2.0</spring-kafka.version>
     <spring-pulsar.version>1.1.0</spring-pulsar.version>
@@ -393,7 +393,7 @@
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
-    <spring-shell.version>3.2.4</spring-shell.version>
+    <spring-shell.version>3.2.5</spring-shell.version>
     <reactor-bom.version>2023.0.6</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <micrometer.version>1.13.0</micrometer.version>
