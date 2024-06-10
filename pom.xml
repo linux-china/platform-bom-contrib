@@ -47,7 +47,7 @@
     <twelvemonkeys-imageio.version>3.11.0</twelvemonkeys-imageio.version>
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
-    <dropwizard-metrics.version>4.2.25</dropwizard-metrics.version>
+    <dropwizard-metrics.version>4.2.26</dropwizard-metrics.version>
     <opentelemetry.version>1.39.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.5.6</logback.version>
@@ -122,7 +122,7 @@
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
     <wiremock.version>3.6.0</wiremock.version>
     <spockframework.version>2.4-M4-groovy-4.0</spockframework.version>
-    <easymock.version>5.2.0</easymock.version>
+    <easymock.version>5.3.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
     <powermock.version>2.0.9</powermock.version>
     <testcontainers.version>1.19.8</testcontainers.version>
@@ -206,7 +206,7 @@
     <hessian.version>4.0.66</hessian.version>
     <xmlunit.version>2.10.0</xmlunit.version>
     <xstream.version>1.4.20</xstream.version>
-    <aalto-xml.version>1.3.2</aalto-xml.version>
+    <aalto-xml.version>1.3.3</aalto-xml.version>
     <glassfish-jaxb.version>4.0.5</glassfish-jaxb.version>
     <woodstox5.version>6.6.2</woodstox5.version>
     <openpdf.version>2.0.2</openpdf.version>
