@@ -143,7 +143,7 @@
     <okio.version>3.9.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.1.110.Final</netty.version>
+    <netty.version>4.1.111.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.64.0</grpc.version>
     <asynchttpclient.version>3.0.0.Beta3</asynchttpclient.version>
@@ -168,7 +168,7 @@
     <jetty.version>12.0.10</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.13.Final</undertow.version>
-    <jersey.version>3.1.6</jersey.version>
+    <jersey.version>3.1.7</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>4.9</jsqlparser.version>
     <javaparser.version>3.26.0</javaparser.version>
@@ -230,7 +230,7 @@
     <javax-jdo.version>3.1</javax-jdo.version>
     <mariadb.version>3.4.0</mariadb.version>
     <mariadb-r2dbc.version>1.2.0</mariadb-r2dbc.version>
-    <mongodb.version>5.1.0</mongodb.version>
+    <mongodb.version>5.1.1</mongodb.version>
     <mongodb-reactivestreams.version>5.1.0</mongodb-reactivestreams.version>
     <embedded-mongo.version>3.2.0</embedded-mongo.version>
     <fongo.version>2.1.1</fongo.version>
@@ -238,7 +238,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>10.14.0</flyway.version>
+    <flyway.version>10.15.0</flyway.version>
     <liquibase.version>4.28.0</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -284,7 +284,7 @@
     <httpclient5.version>5.4-alpha2</httpclient5.version>
     <commons-cli.version>1.8.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
-    <commons-net.version>3.11.0</commons-net.version>
+    <commons-net.version>3.11.1</commons-net.version>
     <commons-io.version>2.16.1</commons-io.version>
     <commons-codec.version>1.17.0</commons-codec.version>
     <commons-fileupload.version>1.5</commons-fileupload.version>
@@ -292,7 +292,7 @@
     <commons-lang3.version>3.14.0</commons-lang3.version>
     <commons-csv.version>1.11.0</commons-csv.version>
     <commons-crypto.version>1.2.0</commons-crypto.version>
-    <commons-configuration2.version>2.10.1</commons-configuration2.version>
+    <commons-configuration2.version>2.11.0</commons-configuration2.version>
     <commons-text.version>1.12.0</commons-text.version>
     <commons-vfs2.version>2.9.0</commons-vfs2.version>
     <commons-pool2.version>2.12.0</commons-pool2.version>
@@ -320,8 +320,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.739</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.25.69</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.741</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.26.0</aws-java-sdk2.version>
     <google-gax.version>2.49.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
     <google-cloud-bom.version>26.40.0</google-cloud-bom.version>
@@ -394,10 +394,10 @@
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
     <spring-shell.version>3.3.0</spring-shell.version>
-    <reactor-bom.version>2023.0.6</reactor-bom.version>
+    <reactor-bom.version>2023.0.7</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
-    <micrometer.version>1.13.0</micrometer.version>
-    <micrometer-tracing.version>1.3.0</micrometer-tracing.version>
+    <micrometer.version>1.13.1</micrometer.version>
+    <micrometer-tracing.version>1.3.1</micrometer-tracing.version>
   </properties>
 
   <dependencyManagement>
