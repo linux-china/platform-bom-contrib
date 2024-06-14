@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.9</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.17</manifold.version>
+    <manifold.version>2024.1.18</manifold.version>
     <jilt.version>1.6.rc1</jilt.version>
     <graal-sdk.version>24.0.1</graal-sdk.version>
     <!--testing-->
@@ -111,7 +111,7 @@
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.2.2</data-faker.version>
-    <instancio.version>4.7.0</instancio.version>
+    <instancio.version>4.8.0</instancio.version>
     <mockito.version>5.12.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.10.2</testng.version>
@@ -178,7 +178,7 @@
     <snakeyaml.version>2.2</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.11.0</gson.version>
-    <protobuf.version>4.26.1</protobuf.version>
+    <protobuf.version>4.27.1</protobuf.version>
     <json-smart.versfion>2.5.1</json-smart.versfion>
     <json-path.version>2.9.0</json-path.version>
     <json-masker.version>1.0.1</json-masker.version>
@@ -220,7 +220,7 @@
     <hibernate.version>6.5.2.Final</hibernate.version>
     <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
-    <jooq.version>3.19.9</jooq.version>
+    <jooq.version>3.19.10</jooq.version>
     <jedis.version>5.1.2</jedis.version>
     <lettuce.version>6.3.2.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
@@ -258,7 +258,7 @@
     <jasperreports.version>6.5.1</jasperreports.version>
     <unboundid-ldapsdk.version>7.0.0</unboundid-ldapsdk.version>
     <postgresql.version>42.7.3</postgresql.version>
-    <jaybird.version>3.0.1</jaybird.version>
+    <jaybird.version>5.0.5.java11</jaybird.version>
     <jdbi.version>3.45.1</jdbi.version>
     <couchbase-client.version>3.6.2</couchbase-client.version>
     <openjpa.version>4.0.0</openjpa.version>
@@ -320,8 +320,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.741</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.26.0</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.742</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.26.1</aws-java-sdk2.version>
     <google-gax.version>2.49.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
     <google-cloud-bom.version>26.41.0</google-cloud-bom.version>
@@ -352,8 +352,8 @@
     <angus-mail.version>2.0.3</angus-mail.version>
     <simplejavamail.version>8.11.2</simplejavamail.version>
     <!--springsource-->
-    <spring.version>6.1.8</spring.version>
-    <spring-framework.version>6.1.8</spring-framework.version>
+    <spring.version>6.1.9</spring.version>
+    <spring-framework.version>6.1.9</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.1.2</spring-batch.version>
     <spring-ws.version>4.0.11</spring-ws.version>
@@ -366,7 +366,7 @@
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-    <spring-data-bom.version>2024.0.0</spring-data-bom.version>
+    <spring-data-bom.version>2024.0.1</spring-data-bom.version>
     <spring-integration.version>6.3.0</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
@@ -379,7 +379,7 @@
     <spring-cloud-stream.version>4.1.2</spring-cloud-stream.version>
     <spring-cloud-function.version>4.1.2</spring-cloud-function.version>
     <spring-cloud-gateway.version>4.1.4</spring-cloud-gateway.version>
-    <spring-ldap.version>3.2.3</spring-ldap.version>
+    <spring-ldap.version>3.2.4</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.1.5</spring-amqp.version>
     <rabbit-amqp-client.version>5.21.0</rabbit-amqp-client.version>
