@@ -309,7 +309,7 @@
     <tomcat.version>10.1.24</tomcat.version>
     <groovy.version>4.0.21</groovy.version>
     <zookeeper.version>3.9.2</zookeeper.version>
-    <curator.version>5.6.0</curator.version>
+    <curator.version>5.7.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
     <activemq.version>6.1.2</activemq.version>
     <artemis.version>2.34.0</artemis.version>
@@ -320,8 +320,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.742</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.26.1</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.744</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.26.3</aws-java-sdk2.version>
     <google-gax.version>2.49.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
     <google-cloud-bom.version>26.41.0</google-cloud-bom.version>
