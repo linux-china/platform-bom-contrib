@@ -103,7 +103,7 @@
     <threetenbp.version>1.6.9</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
     <manifold.version>2024.1.18</manifold.version>
-    <jilt.version>1.6.rc1</jilt.version>
+    <jilt.version>1.6</jilt.version>
     <graal-sdk.version>24.0.1</graal-sdk.version>
     <!--testing-->
     <junit5.version>5.11.0-M2</junit5.version>
@@ -231,7 +231,7 @@
     <mariadb.version>3.4.0</mariadb.version>
     <mariadb-r2dbc.version>1.2.0</mariadb-r2dbc.version>
     <mongodb.version>5.1.1</mongodb.version>
-    <mongodb-reactivestreams.version>5.1.0</mongodb-reactivestreams.version>
+    <mongodb-reactivestreams.version>5.1.1</mongodb-reactivestreams.version>
     <embedded-mongo.version>3.2.0</embedded-mongo.version>
     <fongo.version>2.1.1</fongo.version>
     <cassandra-driver.version>4.18.1</cassandra-driver.version>
@@ -260,7 +260,7 @@
     <postgresql.version>42.7.3</postgresql.version>
     <jaybird.version>5.0.5.java11</jaybird.version>
     <jdbi.version>3.45.1</jdbi.version>
-    <couchbase-client.version>3.6.2</couchbase-client.version>
+    <couchbase-client.version>3.7.0</couchbase-client.version>
     <openjpa.version>4.0.0</openjpa.version>
     <mysql.version>8.4.0</mysql.version>
     <sqlserver.version>12.6.1.jre11</sqlserver.version>
@@ -312,7 +312,7 @@
     <curator.version>5.7.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
     <activemq.version>6.1.2</activemq.version>
-    <artemis.version>2.34.0</artemis.version>
+    <artemis.version>2.35.0</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
     <svnkit.version>1.10.11</svnkit.version>
