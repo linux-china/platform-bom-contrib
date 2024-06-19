@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.9</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.18</manifold.version>
+    <manifold.version>2024.1.19</manifold.version>
     <jilt.version>1.6</jilt.version>
     <graal-sdk.version>24.0.1</graal-sdk.version>
     <!--testing-->
@@ -252,7 +252,7 @@
     <hazelcast.version>5.4.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>15.0.4.Final</infinispan.version>
+    <infinispan.version>15.0.5.Final</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
     <hikaricp.version>5.1.0</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
@@ -320,8 +320,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.745</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.26.4</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.746</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.26.5</aws-java-sdk2.version>
     <google-gax.version>2.49.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
     <google-cloud-bom.version>26.41.0</google-cloud-bom.version>
@@ -352,12 +352,12 @@
     <angus-mail.version>2.0.3</angus-mail.version>
     <simplejavamail.version>8.11.2</simplejavamail.version>
     <!--springsource-->
-    <spring.version>6.1.9</spring.version>
-    <spring-framework.version>6.1.9</spring-framework.version>
+    <spring.version>6.1.10</spring.version>
+    <spring-framework.version>6.1.10</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.1.2</spring-batch.version>
     <spring-ws.version>4.0.11</spring-ws.version>
-    <spring-session-bom.version>3.3.0</spring-session-bom.version>
+    <spring-session-bom.version>3.3.1</spring-session-bom.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
     <spring-security.version>6.3.1</spring-security.version>
     <spring-security-oauth.version>2.5.2.RELEASE</spring-security-oauth.version>
@@ -367,7 +367,7 @@
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
     <spring-data-bom.version>2024.0.1</spring-data-bom.version>
-    <spring-integration.version>6.3.0</spring-integration.version>
+    <spring-integration.version>6.3.1</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
     <spring-boot.version>3.2.4</spring-boot.version>
@@ -381,7 +381,7 @@
     <spring-cloud-gateway.version>4.1.4</spring-cloud-gateway.version>
     <spring-ldap.version>3.2.4</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
-    <spring-amqp.version>3.1.5</spring-amqp.version>
+    <spring-amqp.version>3.1.6</spring-amqp.version>
     <rabbit-amqp-client.version>5.21.0</rabbit-amqp-client.version>
     <rabbit-http-client.version>5.2.0</rabbit-http-client.version>
     <rabbit-stream-client.version>0.16.0</rabbit-stream-client.version>
