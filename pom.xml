@@ -103,7 +103,7 @@
     <threetenbp.version>1.6.9</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
     <manifold.version>2024.1.19</manifold.version>
-    <jilt.version>1.6</jilt.version>
+    <jilt.version>1.6.1</jilt.version>
     <graal-sdk.version>24.0.1</graal-sdk.version>
     <!--testing-->
     <junit5.version>5.11.0-M2</junit5.version>
@@ -115,12 +115,12 @@
     <mockito.version>5.12.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.10.2</testng.version>
-    <selenium.version>4.21.0</selenium.version>
+    <selenium.version>4.22.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>1.5.1</jsonassert.version>
     <json-smart.version>2.5.1</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.6.0</wiremock.version>
+    <wiremock.version>3.7.0</wiremock.version>
     <spockframework.version>2.4-M4-groovy-4.0</spockframework.version>
     <easymock.version>5.3.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
@@ -152,7 +152,7 @@
     <searchbox-jest.version>6.3.1</searchbox-jest.version>
     <smack4.version>4.4.4</smack4.version>
     <unirest-java.version>1.4.9</unirest-java.version>
-    <openfeign.version>13.2.1</openfeign.version>
+    <openfeign.version>13.3</openfeign.version>
     <javax-mail.version>1.6.3</javax-mail.version>
     <sun-mail.version>2.0.1</sun-mail.version>
     <javax-cache.version>1.1.1</javax-cache.version>
@@ -167,7 +167,7 @@
     <!--servers-->
     <jetty.version>12.0.10</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
-    <undertow.version>2.3.13.Final</undertow.version>
+    <undertow.version>2.3.14.Final</undertow.version>
     <jersey.version>3.1.7</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>4.9</jsqlparser.version>
@@ -320,8 +320,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.746</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.26.5</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.748</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.26.7</aws-java-sdk2.version>
     <google-gax.version>2.49.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
     <google-cloud-bom.version>26.41.0</google-cloud-bom.version>
