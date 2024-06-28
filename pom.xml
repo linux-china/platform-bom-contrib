@@ -91,12 +91,12 @@
     <swagger-oai.version>2.2.22</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
-    <google-truth.version>1.4.2</google-truth.version>
+    <google-truth.version>1.4.3</google-truth.version>
     <bytebuddy.version>1.14.17</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.22.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
-    <lombok.version>1.18.32</lombok.version>
+    <lombok.version>1.18.34</lombok.version>
     <immutables.version>2.10.1</immutables.version>
     <audit4j.version>2.6.0</audit4j.version>
     <reflections.version>0.10.2</reflections.version>
@@ -117,7 +117,7 @@
     <testng.version>7.10.2</testng.version>
     <selenium.version>4.22.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
-    <jsonassert.version>1.5.2</jsonassert.version>
+    <jsonassert.version>1.5.3</jsonassert.version>
     <json-smart.version>2.5.1</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
     <wiremock.version>3.7.0</wiremock.version>
@@ -145,7 +145,7 @@
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.1.111.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
-    <grpc.version>1.64.0</grpc.version>
+    <grpc.version>1.65.0</grpc.version>
     <asynchttpclient.version>3.0.0.Beta3</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
@@ -320,12 +320,12 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.751</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.26.10</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.752</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.26.11</aws-java-sdk2.version>
     <google-gax.version>2.50.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
-    <google-cloud-bom.version>26.41.0</google-cloud-bom.version>
-    <sendgrid.version>4.10.2</sendgrid.version>
+    <google-cloud-bom.version>26.42.0</google-cloud-bom.version>
+    <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>20.0.1</kubernetes-client.version>
     <fabric8-kubernetes-client.version>6.13.0</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
