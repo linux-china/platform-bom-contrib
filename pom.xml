@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.9</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.19</manifold.version>
+    <manifold.version>2024.1.20</manifold.version>
     <jilt.version>1.6.1</jilt.version>
     <graal-sdk.version>24.0.1</graal-sdk.version>
     <!--testing-->
@@ -120,7 +120,7 @@
     <jsonassert.version>1.5.3</jsonassert.version>
     <json-smart.version>2.5.1</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.7.0</wiremock.version>
+    <wiremock.version>3.8.0</wiremock.version>
     <spockframework.version>2.4-M4-groovy-4.0</spockframework.version>
     <easymock.version>5.3.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
@@ -129,7 +129,7 @@
     <dbunit.version>2.8.0</dbunit.version>
     <rest-assured.version>5.4.0</rest-assured.version>
     <assertj.version>3.26.0</assertj.version>
-    <assertj-json.version>3.2.7</assertj-json.version>
+    <assertj-json.version>3.3.0</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
     <database-rider.version>1.42.0</database-rider.version>
@@ -238,7 +238,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>10.15.0</flyway.version>
+    <flyway.version>10.15.2</flyway.version>
     <liquibase.version>4.28.0</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -259,7 +259,7 @@
     <unboundid-ldapsdk.version>7.0.0</unboundid-ldapsdk.version>
     <postgresql.version>42.7.3</postgresql.version>
     <jaybird.version>5.0.5.java11</jaybird.version>
-    <jdbi.version>3.45.1</jdbi.version>
+    <jdbi.version>3.45.2</jdbi.version>
     <couchbase-client.version>3.7.0</couchbase-client.version>
     <openjpa.version>4.0.0</openjpa.version>
     <mysql.version>8.4.0</mysql.version>
@@ -300,7 +300,7 @@
     <commons-rng.version>1.5</commons-rng.version>
     <commons-logging.version>1.3.2</commons-logging.version>
     <poi.version>5.2.5</poi.version>
-    <kafka.version>3.7.0</kafka.version>
+    <kafka.version>3.7.1</kafka.version>
     <pulsar.version>3.3.0</pulsar.version>
     <log4j2.version>3.0.0-beta2</log4j2.version>
     <jboss-logging.version>3.6.0.Final</jboss-logging.version>
@@ -320,16 +320,16 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.752</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.26.11</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.753</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.26.12</aws-java-sdk2.version>
     <google-gax.version>2.50.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
     <google-cloud-bom.version>26.42.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
-    <kubernetes-client.version>20.0.1</kubernetes-client.version>
+    <kubernetes-client.version>21.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>6.13.0</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
-    <cloudevents-java.version>3.0.0</cloudevents-java.version>
+    <cloudevents-java.version>4.0.0</cloudevents-java.version>
     <!--languages-->
     <kotlin.version>2.0.20-Beta1</kotlin.version>
     <kotlinx-coroutines.version>1.9.0-RC</kotlinx-coroutines.version>
