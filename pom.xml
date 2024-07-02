@@ -67,7 +67,7 @@
     <javatuples.version>1.2</javatuples.version>
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
-    <underscore.version>1.102</underscore.version>
+    <underscore.version>1.103</underscore.version>
     <java-util.version>2.13.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.9</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.20</manifold.version>
+    <manifold.version>2024.1.21</manifold.version>
     <jilt.version>1.6.1</jilt.version>
     <graal-sdk.version>24.0.1</graal-sdk.version>
     <!--testing-->
@@ -170,7 +170,7 @@
     <undertow.version>2.3.14.Final</undertow.version>
     <jersey.version>3.1.7</jersey.version>
     <!--parsers & templates & serializer-->
-    <jsqlparser.version>4.9</jsqlparser.version>
+    <jsqlparser.version>5.0</jsqlparser.version>
     <javaparser.version>3.26.1</javaparser.version>
     <jackson.version>2.17.1</jackson.version>
     <moshi.version>1.15.1</moshi.version>
@@ -262,7 +262,7 @@
     <jdbi.version>3.45.2</jdbi.version>
     <couchbase-client.version>3.7.0</couchbase-client.version>
     <openjpa.version>4.0.0</openjpa.version>
-    <mysql.version>8.4.0</mysql.version>
+    <mysql.version>9.0.0</mysql.version>
     <sqlserver.version>12.6.1.jre11</sqlserver.version>
     <oracle.version>23.4.0.24.05</oracle.version>
     <influxdb-java.version>2.24</influxdb-java.version>
@@ -299,7 +299,7 @@
     <commons-dbcp2.version>2.12.0</commons-dbcp2.version>
     <commons-rng.version>1.5</commons-rng.version>
     <commons-logging.version>1.3.2</commons-logging.version>
-    <poi.version>5.2.5</poi.version>
+    <poi.version>5.3.0</poi.version>
     <kafka.version>3.7.1</kafka.version>
     <pulsar.version>3.3.0</pulsar.version>
     <log4j2.version>3.0.0-beta2</log4j2.version>
@@ -320,14 +320,14 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.753</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.26.12</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.754</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.26.13</aws-java-sdk2.version>
     <google-gax.version>2.50.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
     <google-cloud-bom.version>26.42.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>21.0.0</kubernetes-client.version>
-    <fabric8-kubernetes-client.version>6.13.0</fabric8-kubernetes-client.version>
+    <fabric8-kubernetes-client.version>6.13.1</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>4.0.0</cloudevents-java.version>
     <!--languages-->
