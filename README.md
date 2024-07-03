@@ -169,6 +169,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * json-masker: High-performance JSON masker library in Java with no runtime dependencies https://github.com/Breus/json-masker
 * gestalt: a Java configuration library - https://github.com/gestalt-config/gestalt
 * simplejavamail: https://www.simplejavamail.org/
+* JavaCV: Java interface to OpenCV, FFmpeg and more - https://github.com/bytedeco/javacv
 
 ### Developer Notice
 
