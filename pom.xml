@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.9</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.21</manifold.version>
+    <manifold.version>2024.1.22</manifold.version>
     <jilt.version>1.6.1</jilt.version>
     <graal-sdk.version>24.0.1</graal-sdk.version>
     <!--testing-->
@@ -110,7 +110,7 @@
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
-    <data-faker.version>2.2.2</data-faker.version>
+    <data-faker.version>2.3.0</data-faker.version>
     <instancio.version>4.8.1</instancio.version>
     <mockito.version>5.12.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
@@ -129,7 +129,7 @@
     <dbunit.version>2.8.0</dbunit.version>
     <rest-assured.version>5.4.0</rest-assured.version>
     <assertj.version>3.26.0</assertj.version>
-    <assertj-json.version>3.3.0</assertj-json.version>
+    <assertj-json.version>3.4.0</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
     <database-rider.version>1.42.0</database-rider.version>
@@ -165,7 +165,7 @@
     <zipkin-reporter2.version>3.4.0</zipkin-reporter2.version>
     <rsocket.versoin>1.1.4</rsocket.versoin>
     <!--servers-->
-    <jetty.version>12.0.10</jetty.version>
+    <jetty.version>12.0.11</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.14.Final</undertow.version>
     <jersey.version>3.1.7</jersey.version>
@@ -320,8 +320,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.754</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.26.13</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.756</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.26.15</aws-java-sdk2.version>
     <google-gax.version>2.50.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
     <google-cloud-bom.version>26.42.0</google-cloud-bom.version>
@@ -329,12 +329,12 @@
     <kubernetes-client.version>21.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>6.13.1</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
-    <cloudevents-java.version>4.0.0</cloudevents-java.version>
+    <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
     <kotlin.version>2.0.20-Beta1</kotlin.version>
     <kotlinx-coroutines.version>1.9.0-RC</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.7.1</kotlinx-serialization.version>
-    <jruby.version>9.4.7.0</jruby.version>
+    <jruby.version>9.4.8.0</jruby.version>
     <!--netflix-->
     <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
     <ribbon.version>2.7.18</ribbon.version>
