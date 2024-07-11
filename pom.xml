@@ -110,7 +110,7 @@
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
-    <data-faker.version>2.3.0</data-faker.version>
+    <data-faker.version>2.3.1</data-faker.version>
     <instancio.version>4.8.1</instancio.version>
     <mockito.version>5.12.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
@@ -128,14 +128,14 @@
     <testcontainers.version>1.19.8</testcontainers.version>
     <dbunit.version>2.8.0</dbunit.version>
     <rest-assured.version>5.5.0</rest-assured.version>
-    <assertj.version>3.26.0</assertj.version>
+    <assertj.version>3.26.3</assertj.version>
     <assertj-json.version>3.4.0</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
     <database-rider.version>1.42.0</database-rider.version>
     <archunit.version>0.8.3</archunit.version>
     <awaitility.version>4.2.1</awaitility.version>
-    <model-assert.version>1.0.2</model-assert.version>
+    <model-assert.version>1.0.3</model-assert.version>
     <junit-pioneer.version>2.2.0</junit-pioneer.version>
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
@@ -320,8 +320,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.759</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.26.18</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.760</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.26.19</aws-java-sdk2.version>
     <google-gax.version>2.50.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
     <google-cloud-bom.version>26.43.0</google-cloud-bom.version>
@@ -352,8 +352,8 @@
     <angus-mail.version>2.0.3</angus-mail.version>
     <simplejavamail.version>8.11.2</simplejavamail.version>
     <!--springsource-->
-    <spring.version>6.1.10</spring.version>
-    <spring-framework.version>6.1.10</spring-framework.version>
+    <spring.version>6.1.11</spring.version>
+    <spring-framework.version>6.1.11</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.1.2</spring-batch.version>
     <spring-ws.version>4.0.11</spring-ws.version>
@@ -373,12 +373,12 @@
     <spring-boot.version>3.2.4</spring-boot.version>
     <spring-hateoas.version>2.3.0</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
-    <spring-cloud-contract.version>4.1.3</spring-cloud-contract.version>
-    <spring-cloud.version>2023.0.2</spring-cloud.version>
-    <spring-cloud-task.version>3.1.1</spring-cloud-task.version>
-    <spring-cloud-stream.version>4.1.2</spring-cloud-stream.version>
-    <spring-cloud-function.version>4.1.2</spring-cloud-function.version>
-    <spring-cloud-gateway.version>4.1.4</spring-cloud-gateway.version>
+    <spring-cloud-contract.version>4.1.4</spring-cloud-contract.version>
+    <spring-cloud.version>2023.0.3</spring-cloud.version>
+    <spring-cloud-task.version>3.1.2</spring-cloud-task.version>
+    <spring-cloud-stream.version>4.1.3</spring-cloud-stream.version>
+    <spring-cloud-function.version>4.1.3</spring-cloud-function.version>
+    <spring-cloud-gateway.version>4.1.5</spring-cloud-gateway.version>
     <spring-ldap.version>3.2.4</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.1.6</spring-amqp.version>
