@@ -57,7 +57,7 @@
     <prometheus-client.version>1.3.1</prometheus-client.version>
     <!--productivity & tools-->
     <functionaljava.version>5.0</functionaljava.version>
-    <fugue.version>5.0.1</fugue.version>
+    <fugue.version>6.0.1</fugue.version>
     <joda-time.version>2.12.1</joda-time.version>
     <gs-collections.version>7.0.3</gs-collections.version>
     <guava.version>33.2.1-jre</guava.version>
@@ -91,7 +91,7 @@
     <swagger-oai.version>2.2.22</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
-    <google-truth.version>1.4.3</google-truth.version>
+    <google-truth.version>1.4.4</google-truth.version>
     <bytebuddy.version>1.14.18</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.22.1</aspectj.version>
@@ -145,7 +145,7 @@
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.1.111.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
-    <grpc.version>1.65.0</grpc.version>
+    <grpc.version>1.65.1</grpc.version>
     <asynchttpclient.version>3.0.0.Beta3</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
@@ -320,8 +320,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.760</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.26.19</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.761</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.26.20</aws-java-sdk2.version>
     <google-gax.version>2.50.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
     <google-cloud-bom.version>26.43.0</google-cloud-bom.version>
@@ -366,12 +366,12 @@
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-    <spring-data-bom.version>2024.0.1</spring-data-bom.version>
+    <spring-data-bom.version>2024.0.2</spring-data-bom.version>
     <spring-integration.version>6.3.1</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
     <spring-boot.version>3.2.4</spring-boot.version>
-    <spring-hateoas.version>2.3.0</spring-hateoas.version>
+    <spring-hateoas.version>2.3.1</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
     <spring-cloud-contract.version>4.1.4</spring-cloud-contract.version>
     <spring-cloud.version>2023.0.3</spring-cloud.version>
