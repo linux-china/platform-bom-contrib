@@ -129,7 +129,7 @@
     <dbunit.version>2.8.0</dbunit.version>
     <rest-assured.version>5.5.0</rest-assured.version>
     <assertj.version>3.26.3</assertj.version>
-    <assertj-json.version>3.4.0</assertj-json.version>
+    <assertj-json.version>3.4.1</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
     <database-rider.version>1.42.0</database-rider.version>
@@ -181,7 +181,7 @@
     <protobuf.version>4.27.2</protobuf.version>
     <json-smart.versfion>2.5.1</json-smart.versfion>
     <json-path.version>2.9.0</json-path.version>
-    <json-masker.version>1.0.1</json-masker.version>
+    <json-masker.version>1.0.2</json-masker.version>
     <itext.version>4.2.2</itext.version>
     <json.version>20240303</json.version>
     <kryo.version>4.0.3</kryo.version>
@@ -242,7 +242,7 @@
     <liquibase.version>4.28.0</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
-    <h2.version>2.2.230</h2.version>
+    <h2.version>2.3.230</h2.version>
     <hsqldb.version>2.7.3</hsqldb.version>
     <sqlite-jdbc.version>3.46.0.0</sqlite-jdbc.version>
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
@@ -367,7 +367,7 @@
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
     <spring-data-bom.version>2024.0.2</spring-data-bom.version>
-    <spring-integration.version>6.3.1</spring-integration.version>
+    <spring-integration.version>6.3.2</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
     <spring-boot.version>3.2.4</spring-boot.version>
@@ -387,7 +387,7 @@
     <rabbit-stream-client.version>0.16.0</rabbit-stream-client.version>
     <spring-vault.version>3.1.1</spring-vault.version>
     <spring-kafka.version>3.2.2</spring-kafka.version>
-    <spring-pulsar.version>1.1.1</spring-pulsar.version>
+    <spring-pulsar.version>1.1.2</spring-pulsar.version>
     <spring-restdocs.version>3.0.1</spring-restdocs.version>
     <spring-retry.version>2.0.7</spring-retry.version>
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
