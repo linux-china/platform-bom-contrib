@@ -170,6 +170,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * gestalt: a Java configuration library - https://github.com/gestalt-config/gestalt
 * simplejavamail: https://www.simplejavamail.org/
 * JavaCV: Java interface to OpenCV, FFmpeg and more - https://github.com/bytedeco/javacv
+* JSpecify: Standard Annotations for Java Static Analysis https://jspecify.dev/
 
 ### Developer Notice
 
