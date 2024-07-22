@@ -132,7 +132,7 @@
     <assertj-json.version>3.4.1</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
-    <database-rider.version>1.42.0</database-rider.version>
+    <database-rider.version>1.43.0</database-rider.version>
     <archunit.version>0.8.3</archunit.version>
     <awaitility.version>4.2.1</awaitility.version>
     <model-assert.version>1.0.3</model-assert.version>
@@ -252,7 +252,7 @@
     <hazelcast.version>5.4.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>15.0.5.Final</infinispan.version>
+    <infinispan.version>15.1.0.Final</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
     <hikaricp.version>5.1.0</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
