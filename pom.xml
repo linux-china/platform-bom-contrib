@@ -111,7 +111,7 @@
     <hamcrest.version>2.2</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.3.1</data-faker.version>
-    <instancio.version>4.8.1</instancio.version>
+    <instancio.version>5.0.0</instancio.version>
     <mockito.version>5.12.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.10.2</testng.version>
@@ -260,7 +260,7 @@
     <postgresql.version>42.7.3</postgresql.version>
     <jaybird.version>5.0.5.java11</jaybird.version>
     <jdbi.version>3.45.2</jdbi.version>
-    <couchbase-client.version>3.7.0</couchbase-client.version>
+    <couchbase-client.version>3.7.1</couchbase-client.version>
     <openjpa.version>4.0.0</openjpa.version>
     <mysql.version>9.0.0</mysql.version>
     <sqlserver.version>12.6.1.jre11</sqlserver.version>
