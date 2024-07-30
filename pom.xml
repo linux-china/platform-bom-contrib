@@ -146,7 +146,7 @@
     <netty.version>4.1.112.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.65.1</grpc.version>
-    <asynchttpclient.version>3.0.0.Beta3</asynchttpclient.version>
+    <asynchttpclient.version>3.0.0</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
     <searchbox-jest.version>6.3.1</searchbox-jest.version>
@@ -165,7 +165,7 @@
     <zipkin-reporter2.version>3.4.0</zipkin-reporter2.version>
     <rsocket.versoin>1.1.4</rsocket.versoin>
     <!--servers-->
-    <jetty.version>12.0.11</jetty.version>
+    <jetty.version>12.0.12</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.15.Final</undertow.version>
     <jersey.version>3.1.7</jersey.version>
@@ -244,7 +244,7 @@
     <flexy-pool.version>2.2.3</flexy-pool.version>
     <h2.version>2.3.230</h2.version>
     <hsqldb.version>2.7.3</hsqldb.version>
-    <sqlite-jdbc.version>3.46.0.0</sqlite-jdbc.version>
+    <sqlite-jdbc.version>3.46.0.1</sqlite-jdbc.version>
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
@@ -312,7 +312,7 @@
     <curator.version>5.7.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
     <activemq.version>6.1.2</activemq.version>
-    <artemis.version>2.35.0</artemis.version>
+    <artemis.version>2.36.0</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
     <svnkit.version>1.10.11</svnkit.version>
@@ -320,8 +320,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.765</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.26.25</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.766</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.26.26</aws-java-sdk2.version>
     <google-gax.version>2.51.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
     <google-cloud-bom.version>26.43.0</google-cloud-bom.version>
@@ -331,7 +331,7 @@
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.0.20-Beta2</kotlin.version>
+    <kotlin.version>2.0.20-RC</kotlin.version>
     <kotlinx-coroutines.version>1.9.0-RC</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.7.1</kotlinx-serialization.version>
     <jruby.version>9.4.8.0</jruby.version>
@@ -2078,7 +2078,7 @@
       <dependency>
         <groupId>org.springframework.credhub</groupId>
         <artifactId>spring-credhub-core</artifactId>
-        <version>3.1.0</version>
+        <version>3.3.0</version>
       </dependency>
       <dependency>
         <groupId>org.springframework.session</groupId>
