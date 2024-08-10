@@ -48,7 +48,7 @@
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.26</dropwizard-metrics.version>
-    <opentelemetry.version>1.40.0</opentelemetry.version>
+    <opentelemetry.version>1.41.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.5.6</logback.version>
     <slf4j.version>2.0.13</slf4j.version>
@@ -115,7 +115,7 @@
     <mockito.version>5.12.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.10.2</testng.version>
-    <selenium.version>4.23.0</selenium.version>
+    <selenium.version>4.23.1</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>2.0-rc1</jsonassert.version>
     <json-smart.version>2.5.1</json-smart.version>
@@ -248,7 +248,7 @@
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
-    <elasticsearch.version>8.14.3</elasticsearch.version>
+    <elasticsearch.version>8.15.0</elasticsearch.version>
     <hazelcast.version>5.5.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -321,13 +321,13 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.767</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.27.1</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.27.2</aws-java-sdk2.version>
     <google-gax.version>2.51.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
-    <google-cloud-bom.version>26.43.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.44.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>21.0.1</kubernetes-client.version>
-    <fabric8-kubernetes-client.version>6.13.1</fabric8-kubernetes-client.version>
+    <fabric8-kubernetes-client.version>6.13.2</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
