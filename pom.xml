@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.9</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.29</manifold.version>
+    <manifold.version>2024.1.30</manifold.version>
     <jilt.version>1.6.1</jilt.version>
     <graal-sdk.version>24.0.2</graal-sdk.version>
     <!--testing-->
@@ -178,7 +178,7 @@
     <snakeyaml.version>2.2</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.11.0</gson.version>
-    <protobuf.version>4.27.3</protobuf.version>
+    <protobuf.version>3.25.4</protobuf.version>
     <json-smart.versfion>2.5.1</json-smart.versfion>
     <json-path.version>2.9.0</json-path.version>
     <json-masker.version>1.0.2</json-masker.version>
@@ -217,7 +217,7 @@
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>22.1</graphql-java.version>
     <!--persistence-->
-    <hibernate.version>6.5.2.Final</hibernate.version>
+    <hibernate.version>6.6.0.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.Beta2</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.19.10</jooq.version>
