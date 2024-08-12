@@ -215,7 +215,7 @@
     <jte.version>3.1.12</jte.version>
     <evo-inflector.version>1.3</evo-inflector.version>
     <jdom2.version>2.0.6.1</jdom2.version>
-    <graphql-java.version>22.1</graphql-java.version>
+    <graphql-java.version>22.2</graphql-java.version>
     <!--persistence-->
     <hibernate.version>6.6.0.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.Beta2</hibernate-validator.version>
