@@ -263,7 +263,7 @@
     <couchbase-client.version>3.7.1</couchbase-client.version>
     <openjpa.version>4.0.0</openjpa.version>
     <mysql.version>9.0.0</mysql.version>
-    <sqlserver.version>12.6.1.jre11</sqlserver.version>
+    <sqlserver.version>12.8.0.jre11</sqlserver.version>
     <oracle.version>23.4.0.24.05</oracle.version>
     <influxdb-java.version>2.24</influxdb-java.version>
     <r2dbc-bom.version>Borca-SR2</r2dbc-bom.version>
