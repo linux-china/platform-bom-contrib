@@ -106,7 +106,7 @@
     <jilt.version>1.6.1</jilt.version>
     <graal-sdk.version>24.0.2</graal-sdk.version>
     <!--testing-->
-    <junit5.version>5.11.0-RC1</junit5.version>
+    <junit5.version>5.11.0</junit5.version>
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
@@ -220,13 +220,13 @@
     <hibernate.version>6.6.0.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.Beta2</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
-    <jooq.version>3.19.10</jooq.version>
+    <jooq.version>3.19.11</jooq.version>
     <jedis.version>5.1.3</jedis.version>
     <lettuce.version>6.4.0.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
     <mybatis.version>3.5.16</mybatis.version>
-    <mybatis-spring.version>3.0.3</mybatis-spring.version>
+    <mybatis-spring.version>3.0.4</mybatis-spring.version>
     <javax-jdo.version>3.1</javax-jdo.version>
     <mariadb.version>3.4.1</mariadb.version>
     <mariadb-r2dbc.version>1.2.1</mariadb-r2dbc.version>
@@ -238,11 +238,11 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>10.17.0</flyway.version>
+    <flyway.version>10.17.1</flyway.version>
     <liquibase.version>4.29.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
-    <h2.version>2.3.230</h2.version>
+    <h2.version>2.3.232</h2.version>
     <hsqldb.version>2.7.3</hsqldb.version>
     <sqlite-jdbc.version>3.46.0.1</sqlite-jdbc.version>
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
@@ -260,7 +260,7 @@
     <postgresql.version>42.7.3</postgresql.version>
     <jaybird.version>5.0.5.java11</jaybird.version>
     <jdbi.version>3.45.3</jdbi.version>
-    <couchbase-client.version>3.7.1</couchbase-client.version>
+    <couchbase-client.version>3.7.2</couchbase-client.version>
     <openjpa.version>4.0.0</openjpa.version>
     <mysql.version>9.0.0</mysql.version>
     <sqlserver.version>12.8.0.jre11</sqlserver.version>
@@ -274,7 +274,7 @@
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>9.40.0</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.14</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.15</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.6</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <!--apache-->
@@ -320,19 +320,19 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.767</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.27.2</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.768</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.27.4</aws-java-sdk2.version>
     <google-gax.version>2.51.0</google-gax.version>
     <google-http-client.version>1.44.2</google-http-client.version>
     <google-cloud-bom.version>26.44.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>21.0.1</kubernetes-client.version>
-    <fabric8-kubernetes-client.version>6.13.2</fabric8-kubernetes-client.version>
+    <fabric8-kubernetes-client.version>6.13.3</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.0.10</kotlin.version>
-    <kotlinx-coroutines.version>1.9.0-RC</kotlinx-coroutines.version>
+    <kotlin.version>2.0.20-RC2</kotlin.version>
+    <kotlinx-coroutines.version>1.9.0-RC.2</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.7.1</kotlinx-serialization.version>
     <jruby.version>9.4.8.0</jruby.version>
     <!--netflix-->
@@ -352,8 +352,8 @@
     <angus-mail.version>2.0.3</angus-mail.version>
     <simplejavamail.version>8.11.2</simplejavamail.version>
     <!--springsource-->
-    <spring.version>6.1.11</spring.version>
-    <spring-framework.version>6.1.11</spring-framework.version>
+    <spring.version>6.1.12</spring.version>
+    <spring-framework.version>6.1.12</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.1.2</spring-batch.version>
     <spring-ws.version>4.0.11</spring-ws.version>
@@ -371,7 +371,7 @@
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
     <spring-boot.version>3.2.4</spring-boot.version>
-    <spring-hateoas.version>2.3.1</spring-hateoas.version>
+    <spring-hateoas.version>2.3.2</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
     <spring-cloud-contract.version>4.1.4</spring-cloud-contract.version>
     <spring-cloud.version>2023.0.3</spring-cloud.version>
@@ -384,7 +384,7 @@
     <spring-amqp.version>3.1.6</spring-amqp.version>
     <rabbit-amqp-client.version>5.21.0</rabbit-amqp-client.version>
     <rabbit-http-client.version>5.2.0</rabbit-http-client.version>
-    <rabbit-stream-client.version>0.16.0</rabbit-stream-client.version>
+    <rabbit-stream-client.version>0.17.0</rabbit-stream-client.version>
     <spring-vault.version>3.1.1</spring-vault.version>
     <spring-kafka.version>3.2.2</spring-kafka.version>
     <spring-pulsar.version>1.1.2</spring-pulsar.version>
@@ -394,10 +394,10 @@
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
     <spring-shell.version>3.3.1</spring-shell.version>
-    <reactor-bom.version>2023.0.8</reactor-bom.version>
+    <reactor-bom.version>2023.0.9</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
-    <micrometer.version>1.13.2</micrometer.version>
-    <micrometer-tracing.version>1.3.2</micrometer-tracing.version>
+    <micrometer.version>1.13.3</micrometer.version>
+    <micrometer-tracing.version>1.3.3</micrometer-tracing.version>
   </properties>
 
   <dependencyManagement>
