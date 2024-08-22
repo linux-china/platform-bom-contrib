@@ -238,7 +238,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>10.17.1</flyway.version>
+    <flyway.version>10.17.2</flyway.version>
     <liquibase.version>4.29.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -312,7 +312,7 @@
     <curator.version>5.7.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
     <activemq.version>6.1.3</activemq.version>
-    <artemis.version>2.36.0</artemis.version>
+    <artemis.version>2.37.0</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
     <svnkit.version>1.10.11</svnkit.version>
@@ -321,9 +321,9 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.770</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.27.9</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.27.10</aws-java-sdk2.version>
     <google-gax.version>2.52.0</google-gax.version>
-    <google-http-client.version>1.44.2</google-http-client.version>
+    <google-http-client.version>1.45.0</google-http-client.version>
     <google-cloud-bom.version>26.44.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>21.0.1</kubernetes-client.version>
@@ -331,7 +331,7 @@
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.0.20-RC2</kotlin.version>
+    <kotlin.version>2.0.20</kotlin.version>
     <kotlinx-coroutines.version>1.9.0-RC.2</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.7.1</kotlinx-serialization.version>
     <jruby.version>9.4.8.0</jruby.version>
@@ -359,7 +359,7 @@
     <spring-ws.version>4.0.11</spring-ws.version>
     <spring-session-bom.version>3.3.2</spring-session-bom.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
-    <spring-security.version>6.3.2</spring-security.version>
+    <spring-security.version>6.3.3</spring-security.version>
     <spring-security-oauth.version>2.5.2.RELEASE</spring-security-oauth.version>
     <spring-security-oauth2-autoconfigure.version>2.6.8</spring-security-oauth2-autoconfigure.version>
     <spring-security-rsa.version>1.1.5</spring-security-rsa.version>
@@ -386,8 +386,8 @@
     <rabbit-http-client.version>5.2.0</rabbit-http-client.version>
     <rabbit-stream-client.version>0.17.0</rabbit-stream-client.version>
     <spring-vault.version>3.1.2</spring-vault.version>
-    <spring-kafka.version>3.2.2</spring-kafka.version>
-    <spring-pulsar.version>1.1.2</spring-pulsar.version>
+    <spring-kafka.version>3.2.3</spring-kafka.version>
+    <spring-pulsar.version>1.1.3</spring-pulsar.version>
     <spring-restdocs.version>3.0.1</spring-restdocs.version>
     <spring-retry.version>2.0.8</spring-retry.version>
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
