@@ -92,7 +92,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.4</google-truth.version>
-    <bytebuddy.version>1.14.19</bytebuddy.version>
+    <bytebuddy.version>1.15.0</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.22.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -167,7 +167,7 @@
     <!--servers-->
     <jetty.version>12.0.12</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
-    <undertow.version>2.3.15.Final</undertow.version>
+    <undertow.version>2.3.16.Final</undertow.version>
     <jersey.version>3.1.7</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.0</jsqlparser.version>
@@ -257,7 +257,7 @@
     <hikaricp.version>5.1.0</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
     <unboundid-ldapsdk.version>7.0.0</unboundid-ldapsdk.version>
-    <postgresql.version>42.7.3</postgresql.version>
+    <postgresql.version>42.7.4</postgresql.version>
     <jaybird.version>5.0.5.java11</jaybird.version>
     <jdbi.version>3.45.4</jdbi.version>
     <couchbase-client.version>3.7.2</couchbase-client.version>
@@ -321,7 +321,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.770</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.27.10</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.27.11</aws-java-sdk2.version>
     <google-gax.version>2.52.0</google-gax.version>
     <google-http-client.version>1.45.0</google-http-client.version>
     <google-cloud-bom.version>26.44.0</google-cloud-bom.version>
@@ -370,7 +370,7 @@
     <spring-integration.version>6.3.3</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-    <spring-boot.version>3.2.4</spring-boot.version>
+    <spring-boot.version>3.3.3</spring-boot.version>
     <spring-hateoas.version>2.3.2</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
     <spring-cloud-contract.version>4.1.4</spring-cloud-contract.version>
@@ -1797,7 +1797,7 @@
       <dependency>
         <groupId>io.projectreactor.kotlin</groupId>
         <artifactId>reactor-kotlin-extensions</artifactId>
-        <version>1.2.2</version>
+        <version>1.2.3</version>
       </dependency>
       <dependency>
         <groupId>org.springframework.plugin</groupId>
