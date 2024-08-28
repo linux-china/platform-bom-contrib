@@ -393,7 +393,7 @@
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
-    <spring-shell.version>3.3.1</spring-shell.version>
+    <spring-shell.version>3.3.2</spring-shell.version>
     <reactor-bom.version>2023.0.9</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <micrometer.version>1.13.3</micrometer.version>
