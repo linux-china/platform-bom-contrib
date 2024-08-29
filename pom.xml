@@ -88,7 +88,7 @@
     <bucket4j.version>8.10.1</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>24.1.0</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.22</swagger-oai.version>
+    <swagger-oai.version>2.2.23</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.4</google-truth.version>
@@ -112,10 +112,10 @@
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.3.1</data-faker.version>
     <instancio.version>5.0.1</instancio.version>
-    <mockito.version>5.12.0</mockito.version>
+    <mockito.version>5.13.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.10.2</testng.version>
-    <selenium.version>4.23.1</selenium.version>
+    <selenium.version>4.24.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>2.0-rc1</jsonassert.version>
     <json-smart.version>2.5.1</json-smart.version>
@@ -178,7 +178,7 @@
     <snakeyaml.version>2.2</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.11.0</gson.version>
-    <protobuf.version>3.25.4</protobuf.version>
+    <protobuf.version>4.28.0</protobuf.version>
     <json-smart.versfion>2.5.1</json-smart.versfion>
     <json-path.version>2.9.0</json-path.version>
     <json-masker.version>1.0.2</json-masker.version>
@@ -274,7 +274,7 @@
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>9.40.0</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.18</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.19</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.6</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <!--apache-->
@@ -321,10 +321,10 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.770</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.27.13</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.27.15</aws-java-sdk2.version>
     <google-gax.version>2.52.0</google-gax.version>
     <google-http-client.version>1.45.0</google-http-client.version>
-    <google-cloud-bom.version>26.44.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.45.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>21.0.1</kubernetes-client.version>
     <fabric8-kubernetes-client.version>6.13.3</fabric8-kubernetes-client.version>
@@ -333,7 +333,7 @@
     <!--languages-->
     <kotlin.version>2.0.20</kotlin.version>
     <kotlinx-coroutines.version>1.9.0-RC.2</kotlinx-coroutines.version>
-    <kotlinx-serialization.version>1.7.1</kotlinx-serialization.version>
+    <kotlinx-serialization.version>1.7.2</kotlinx-serialization.version>
     <jruby.version>9.4.8.0</jruby.version>
     <!--netflix-->
     <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
