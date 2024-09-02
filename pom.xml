@@ -67,7 +67,7 @@
     <javatuples.version>1.2</javatuples.version>
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
-    <underscore.version>1.104</underscore.version>
+    <underscore.version>1.105</underscore.version>
     <java-util.version>2.13.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -171,7 +171,7 @@
     <jersey.version>3.1.7</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.0</jsqlparser.version>
-    <javaparser.version>3.26.1</javaparser.version>
+    <javaparser.version>3.26.2</javaparser.version>
     <jackson.version>2.18.0-rc1</jackson.version>
     <moshi.version>1.15.1</moshi.version>
     <classmate.version>1.7.0</classmate.version>
@@ -238,7 +238,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>10.17.2</flyway.version>
+    <flyway.version>10.17.3</flyway.version>
     <liquibase.version>4.29.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
