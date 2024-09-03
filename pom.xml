@@ -167,7 +167,7 @@
     <!--servers-->
     <jetty.version>12.0.12</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
-    <undertow.version>2.3.16.Final</undertow.version>
+    <undertow.version>2.3.17.Final</undertow.version>
     <jersey.version>3.1.7</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.0</jsqlparser.version>
@@ -264,7 +264,7 @@
     <openjpa.version>4.0.0</openjpa.version>
     <mysql.version>9.0.0</mysql.version>
     <sqlserver.version>12.8.0.jre11</sqlserver.version>
-    <oracle.version>23.4.0.24.05</oracle.version>
+    <oracle.version>23.5.0.24.07</oracle.version>
     <influxdb-java.version>2.24</influxdb-java.version>
     <r2dbc-bom.version>Borca-SR2</r2dbc-bom.version>
     <datastax.version>4.17.0</datastax.version>
