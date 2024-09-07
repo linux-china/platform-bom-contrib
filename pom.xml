@@ -48,9 +48,9 @@
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.27</dropwizard-metrics.version>
-    <opentelemetry.version>1.41.0</opentelemetry.version>
+    <opentelemetry.version>1.42.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.7</logback.version>
+    <logback.version>1.5.8</logback.version>
     <slf4j.version>2.0.13</slf4j.version>
     <flogger.version>0.8</flogger.version>
     <jna.version>5.14.0</jna.version>
@@ -321,7 +321,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.771</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.27.20</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.27.21</aws-java-sdk2.version>
     <google-gax.version>2.52.0</google-gax.version>
     <google-http-client.version>1.45.0</google-http-client.version>
     <google-cloud-bom.version>26.45.0</google-cloud-bom.version>
