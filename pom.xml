@@ -273,7 +273,7 @@
     <jasypt.version>1.9.3</jasypt.version>
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
-    <nimbus-jose-jwt.version>9.40.0</nimbus-jose-jwt.version>
+    <nimbus-jose-jwt.version>9.41</nimbus-jose-jwt.version>
     <oauth2-oidc-sdk.version>11.19.1</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.6</jjwt.version>
     <totp.version>1.7.1</totp.version>
