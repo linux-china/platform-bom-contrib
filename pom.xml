@@ -111,7 +111,7 @@
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.3.1</data-faker.version>
-    <instancio.version>5.0.1</instancio.version>
+    <instancio.version>5.0.2</instancio.version>
     <mockito.version>5.13.0</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.10.2</testng.version>
@@ -140,7 +140,7 @@
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
     <okhttp3.version>5.0.0-alpha.14</okhttp3.version>
-    <okio.version>3.9.0</okio.version>
+    <okio.version>3.9.1</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.1.112.Final</netty.version>
@@ -273,7 +273,7 @@
     <jasypt.version>1.9.3</jasypt.version>
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
-    <nimbus-jose-jwt.version>9.41</nimbus-jose-jwt.version>
+    <nimbus-jose-jwt.version>9.41.1</nimbus-jose-jwt.version>
     <oauth2-oidc-sdk.version>11.19.1</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.6</jjwt.version>
     <totp.version>1.7.1</totp.version>
@@ -303,11 +303,11 @@
     <kafka.version>3.8.0</kafka.version>
     <pulsar.version>3.3.1</pulsar.version>
     <log4j2.version>3.0.0-beta2</log4j2.version>
-    <jboss-logging.version>3.6.0.Final</jboss-logging.version>
-    <solr.version>9.6.1</solr.version>
+    <jboss-logging.version>3.6.1.Final</jboss-logging.version>
+    <solr.version>9.7.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>10.1.28</tomcat.version>
-    <groovy.version>4.0.22</groovy.version>
+    <groovy.version>4.0.23</groovy.version>
     <zookeeper.version>3.9.2</zookeeper.version>
     <curator.version>5.7.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
@@ -321,7 +321,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.772</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.27.24</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.28.0</aws-java-sdk2.version>
     <google-gax.version>2.53.0</google-gax.version>
     <google-http-client.version>1.45.0</google-http-client.version>
     <google-cloud-bom.version>26.45.0</google-cloud-bom.version>
@@ -352,8 +352,8 @@
     <angus-mail.version>2.0.3</angus-mail.version>
     <simplejavamail.version>8.11.2</simplejavamail.version>
     <!--springsource-->
-    <spring.version>6.1.12</spring.version>
-    <spring-framework.version>6.1.12</spring-framework.version>
+    <spring.version>6.1.13</spring.version>
+    <spring-framework.version>6.1.13</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.1.2</spring-batch.version>
     <spring-ws.version>4.0.11</spring-ws.version>
@@ -371,7 +371,7 @@
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
     <spring-boot.version>3.3.3</spring-boot.version>
-    <spring-hateoas.version>2.3.2</spring-hateoas.version>
+    <spring-hateoas.version>2.3.3</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
     <spring-cloud-contract.version>4.1.4</spring-cloud-contract.version>
     <spring-cloud.version>2023.0.3</spring-cloud.version>
