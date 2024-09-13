@@ -238,7 +238,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>10.17.3</flyway.version>
+    <flyway.version>10.18.0</flyway.version>
     <liquibase.version>4.29.2</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
