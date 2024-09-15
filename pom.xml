@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.6.9</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.32</manifold.version>
+    <manifold.version>2024.1.33</manifold.version>
     <jilt.version>1.6.1</jilt.version>
     <graal-sdk.version>24.0.2</graal-sdk.version>
     <!--testing-->
@@ -229,7 +229,7 @@
     <mybatis-spring.version>3.0.4</mybatis-spring.version>
     <javax-jdo.version>3.1</javax-jdo.version>
     <mariadb.version>3.4.1</mariadb.version>
-    <mariadb-r2dbc.version>1.2.1</mariadb-r2dbc.version>
+    <mariadb-r2dbc.version>1.2.2</mariadb-r2dbc.version>
     <mongodb.version>5.1.4</mongodb.version>
     <mongodb-reactivestreams.version>5.1.4</mongodb-reactivestreams.version>
     <embedded-mongo.version>3.2.0</embedded-mongo.version>
