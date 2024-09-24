@@ -60,7 +60,7 @@
     <fugue.version>6.1.0</fugue.version>
     <joda-time.version>2.12.1</joda-time.version>
     <gs-collections.version>7.0.3</gs-collections.version>
-    <guava.version>33.3.0-jre</guava.version>
+    <guava.version>33.3.1-jre</guava.version>
     <guice.version>7.0.0</guice.version>
     <jodd.version>5.1.6</jodd.version>
     <boon.version>0.34</boon.version>
@@ -83,12 +83,12 @@
     <agrona.version>1.23.0</agrona.version>
     <math-parser.version>6.0.0</math-parser.version>
     <rgxgen.version>2.0</rgxgen.version>
-    <nuprocess.version>2.0.6</nuprocess.version>
+    <nuprocess.version>3.0.0</nuprocess.version>
     <uuid-creator.version>6.0.0</uuid-creator.version>
     <bucket4j.version>8.10.1</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>24.1.0</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.23</swagger-oai.version>
+    <swagger-oai.version>2.2.24</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.4</google-truth.version>
@@ -254,14 +254,14 @@
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
     <infinispan.version>15.0.6.Final</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
-    <hikaricp.version>5.1.0</hikaricp.version>
+    <hikaricp.version>6.0.0</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
     <unboundid-ldapsdk.version>7.0.0</unboundid-ldapsdk.version>
     <postgresql.version>42.7.4</postgresql.version>
     <jaybird.version>5.0.5.java11</jaybird.version>
     <jdbi.version>3.45.4</jdbi.version>
-    <couchbase-client.version>3.7.2</couchbase-client.version>
-    <openjpa.version>4.0.0</openjpa.version>
+    <couchbase-client.version>3.7.3</couchbase-client.version>
+    <openjpa.version>4.0.1</openjpa.version>
     <mysql.version>9.0.0</mysql.version>
     <sqlserver.version>12.8.1.jre11</sqlserver.version>
     <oracle.version>23.5.0.24.07</oracle.version>
@@ -321,8 +321,8 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.772</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.28.6</aws-java-sdk2.version>
-    <google-gax.version>2.53.0</google-gax.version>
+    <aws-java-sdk2.version>2.28.7</aws-java-sdk2.version>
+    <google-gax.version>2.54.0</google-gax.version>
     <google-http-client.version>1.45.0</google-http-client.version>
     <google-cloud-bom.version>26.46.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
@@ -393,7 +393,7 @@
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
-    <spring-shell.version>3.3.2</spring-shell.version>
+    <spring-shell.version>3.3.3</spring-shell.version>
     <reactor-bom.version>2023.0.10</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <micrometer.version>1.13.4</micrometer.version>
