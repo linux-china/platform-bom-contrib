@@ -92,7 +92,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.4</google-truth.version>
-    <bytebuddy.version>1.15.1</bytebuddy.version>
+    <bytebuddy.version>1.15.2</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.22.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -106,7 +106,7 @@
     <jilt.version>1.6.1</jilt.version>
     <graal-sdk.version>24.1.0</graal-sdk.version>
     <!--testing-->
-    <junit5.version>5.11.0</junit5.version>
+    <junit5.version>5.11.1</junit5.version>
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
@@ -217,7 +217,7 @@
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>22.3</graphql-java.version>
     <!--persistence-->
-    <hibernate.version>6.6.0.Final</hibernate.version>
+    <hibernate.version>6.6.1.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.Beta3</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.19.12</jooq.version>
@@ -321,13 +321,13 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.772</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.28.8</aws-java-sdk2.version>
-    <google-gax.version>2.54.0</google-gax.version>
+    <aws-java-sdk2.version>2.28.9</aws-java-sdk2.version>
+    <google-gax.version>2.54.1</google-gax.version>
     <google-http-client.version>1.45.0</google-http-client.version>
     <google-cloud-bom.version>26.46.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>21.0.1</kubernetes-client.version>
-    <fabric8-kubernetes-client.version>6.13.3</fabric8-kubernetes-client.version>
+    <fabric8-kubernetes-client.version>6.13.4</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
