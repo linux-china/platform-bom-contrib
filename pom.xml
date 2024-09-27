@@ -92,7 +92,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.4</google-truth.version>
-    <bytebuddy.version>1.15.2</bytebuddy.version>
+    <bytebuddy.version>1.15.3</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.22.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.0</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.33</manifold.version>
+    <manifold.version>2024.1.34</manifold.version>
     <jilt.version>1.6.1</jilt.version>
     <graal-sdk.version>24.1.0</graal-sdk.version>
     <!--testing-->
@@ -172,7 +172,7 @@
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.0</jsqlparser.version>
     <javaparser.version>3.26.2</javaparser.version>
-    <jackson.version>2.18.0-rc1</jackson.version>
+    <jackson.version>2.18.0</jackson.version>
     <moshi.version>1.15.1</moshi.version>
     <classmate.version>1.7.0</classmate.version>
     <snakeyaml.version>2.3</snakeyaml.version>
@@ -220,7 +220,7 @@
     <hibernate.version>6.6.1.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.Beta3</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
-    <jooq.version>3.19.12</jooq.version>
+    <jooq.version>3.19.13</jooq.version>
     <jedis.version>5.1.3</jedis.version>
     <lettuce.version>6.4.0.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
@@ -238,7 +238,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>10.18.1</flyway.version>
+    <flyway.version>10.18.2</flyway.version>
     <liquibase.version>4.29.2</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -321,7 +321,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.772</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.28.9</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.28.10</aws-java-sdk2.version>
     <google-gax.version>2.54.1</google-gax.version>
     <google-http-client.version>1.45.0</google-http-client.version>
     <google-cloud-bom.version>26.46.0</google-cloud-bom.version>
