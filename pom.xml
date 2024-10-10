@@ -143,7 +143,7 @@
     <okio.version>3.9.1</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.1.112.Final</netty.version>
+    <netty.version>4.1.114.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.68.0</grpc.version>
     <asynchttpclient.version>3.0.0</asynchttpclient.version>
