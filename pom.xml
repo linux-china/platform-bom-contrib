@@ -50,7 +50,7 @@
     <dropwizard-metrics.version>4.2.28</dropwizard-metrics.version>
     <opentelemetry.version>1.43.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.10</logback.version>
+    <logback.version>1.5.11</logback.version>
     <slf4j.version>2.0.16</slf4j.version>
     <flogger.version>0.8</flogger.version>
     <jna.version>5.15.0</jna.version>
@@ -102,9 +102,9 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.0</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.35</manifold.version>
+    <manifold.version>2024.1.36</manifold.version>
     <jilt.version>1.6.1</jilt.version>
-    <graal-sdk.version>24.1.0</graal-sdk.version>
+    <graal-sdk.version>24.1.1</graal-sdk.version>
     <!--testing-->
     <junit5.version>5.11.2</junit5.version>
     <junit.version>4.13.2</junit.version>
@@ -112,7 +112,7 @@
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.4.0</data-faker.version>
     <instancio.version>5.0.2</instancio.version>
-    <mockito.version>5.14.1</mockito.version>
+    <mockito.version>5.14.2</mockito.version>
     <htmlunit.version>2.70.0</htmlunit.version>
     <testng.version>7.10.2</testng.version>
     <selenium.version>4.25.0</selenium.version>
@@ -238,7 +238,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>10.19.0</flyway.version>
+    <flyway.version>10.20.0</flyway.version>
     <liquibase.version>4.29.2</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>2.2.3</flexy-pool.version>
@@ -262,7 +262,7 @@
     <jdbi.version>3.45.4</jdbi.version>
     <couchbase-client.version>3.7.4</couchbase-client.version>
     <openjpa.version>4.0.1</openjpa.version>
-    <mysql.version>9.0.0</mysql.version>
+    <mysql.version>9.1.0</mysql.version>
     <sqlserver.version>12.8.1.jre11</sqlserver.version>
     <oracle.version>23.5.0.24.07</oracle.version>
     <influxdb-java.version>2.24</influxdb-java.version>
@@ -320,18 +320,18 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.773</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.28.22</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.774</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.28.24</aws-java-sdk2.version>
     <google-gax.version>2.55.0</google-gax.version>
     <google-http-client.version>1.45.0</google-http-client.version>
-    <google-cloud-bom.version>26.48.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.49.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>21.0.2</kubernetes-client.version>
     <fabric8-kubernetes-client.version>6.13.4</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.1.0-Beta1</kotlin.version>
+    <kotlin.version>2.1.0-Beta2</kotlin.version>
     <kotlinx-coroutines.version>1.9.0</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.7.3</kotlinx-serialization.version>
     <jruby.version>9.4.8.0</jruby.version>
@@ -394,7 +394,7 @@
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
     <spring-shell.version>3.3.3</spring-shell.version>
-    <reactor-bom.version>2023.0.10</reactor-bom.version>
+    <reactor-bom.version>2023.0.11</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <micrometer.version>1.13.6</micrometer.version>
     <micrometer-tracing.version>1.3.5</micrometer-tracing.version>
