@@ -87,7 +87,7 @@
     <uuid-creator.version>6.0.0</uuid-creator.version>
     <bucket4j.version>8.10.1</bucket4j.version>
     <!--code & classes-->
-    <jetbrains-annotations.version>26.0.0</jetbrains-annotations.version>
+    <jetbrains-annotations.version>26.0.1</jetbrains-annotations.version>
     <swagger-oai.version>2.2.25</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
@@ -167,7 +167,7 @@
     <!--servers-->
     <jetty.version>12.0.14</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
-    <undertow.version>2.3.17.Final</undertow.version>
+    <undertow.version>2.3.18.Final</undertow.version>
     <jersey.version>4.0.0-M1</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.0</jsqlparser.version>
@@ -259,7 +259,7 @@
     <unboundid-ldapsdk.version>7.0.0</unboundid-ldapsdk.version>
     <postgresql.version>42.7.4</postgresql.version>
     <jaybird.version>5.0.5.java11</jaybird.version>
-    <jdbi.version>3.45.4</jdbi.version>
+    <jdbi.version>3.46.0</jdbi.version>
     <couchbase-client.version>3.7.4</couchbase-client.version>
     <openjpa.version>4.0.1</openjpa.version>
     <mysql.version>9.1.0</mysql.version>
@@ -384,7 +384,7 @@
     <spring-amqp.version>3.1.6</spring-amqp.version>
     <rabbit-amqp-client.version>5.22.0</rabbit-amqp-client.version>
     <rabbit-http-client.version>5.2.0</rabbit-http-client.version>
-    <rabbit-stream-client.version>0.17.0</rabbit-stream-client.version>
+    <rabbit-stream-client.version>0.18.0</rabbit-stream-client.version>
     <spring-vault.version>3.1.2</spring-vault.version>
     <spring-kafka.version>3.2.4</spring-kafka.version>
     <spring-pulsar.version>1.1.4</spring-pulsar.version>
