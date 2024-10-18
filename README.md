@@ -169,6 +169,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * json-masker: High-performance JSON masker library in Java with no runtime dependencies https://github.com/Breus/json-masker
 * gestalt: a Java configuration library - https://github.com/gestalt-config/gestalt
 * simplejavamail: https://www.simplejavamail.org/
+* [StringTemplate](https://github.com/antlr/stringtemplate4): a java template engine (with ports for C#, Python, and Objective-C coming) for generating source code, web pages, emails, or any other formatted text output.
 * JavaCV: Java interface to OpenCV, FFmpeg and more - https://github.com/bytedeco/javacv
 * JSpecify: Standard Annotations for Java Static Analysis https://jspecify.dev/
 * tsid: generate Time-Sorted Unique Identifiers (TSID) - https://github.com/f4b6a3/tsid-creator/
