@@ -54,7 +54,7 @@
     <slf4j.version>2.0.16</slf4j.version>
     <flogger.version>0.8</flogger.version>
     <jna.version>5.15.0</jna.version>
-    <prometheus-client.version>1.3.1</prometheus-client.version>
+    <prometheus-client.version>1.3.2</prometheus-client.version>
     <!--productivity & tools-->
     <functionaljava.version>5.0</functionaljava.version>
     <fugue.version>6.1.0</fugue.version>
@@ -81,7 +81,7 @@
     <failsafe.version>3.3.2</failsafe.version>
     <eclipse-collections.version>12.0.0.M3</eclipse-collections.version>
     <agrona.version>1.23.1</agrona.version>
-    <math-parser.version>6.0.0</math-parser.version>
+    <math-parser.version>6.1.0</math-parser.version>
     <rgxgen.version>2.0</rgxgen.version>
     <nuprocess.version>3.0.0</nuprocess.version>
     <uuid-creator.version>6.0.0</uuid-creator.version>
