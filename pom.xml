@@ -106,7 +106,7 @@
     <jilt.version>1.6.1</jilt.version>
     <graal-sdk.version>24.1.1</graal-sdk.version>
     <!--testing-->
-    <junit5.version>5.11.2</junit5.version>
+    <junit5.version>5.11.3</junit5.version>
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
@@ -220,7 +220,7 @@
     <hibernate.version>6.6.1.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.Beta3</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
-    <jooq.version>3.19.13</jooq.version>
+    <jooq.version>3.19.14</jooq.version>
     <jedis.version>5.2.0</jedis.version>
     <lettuce.version>6.4.0.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
@@ -320,8 +320,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.776</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.28.26</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.777</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.28.27</aws-java-sdk2.version>
     <google-gax.version>2.55.0</google-gax.version>
     <google-http-client.version>1.45.0</google-http-client.version>
     <google-cloud-bom.version>26.49.0</google-cloud-bom.version>
@@ -357,9 +357,9 @@
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.1.2</spring-batch.version>
     <spring-ws.version>4.0.11</spring-ws.version>
-    <spring-session-bom.version>3.3.2</spring-session-bom.version>
+    <spring-session-bom.version>3.3.3</spring-session-bom.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
-    <spring-security.version>6.3.3</spring-security.version>
+    <spring-security.version>6.3.4</spring-security.version>
     <spring-security-oauth.version>2.5.2.RELEASE</spring-security-oauth.version>
     <spring-security-oauth2-autoconfigure.version>2.6.8</spring-security-oauth2-autoconfigure.version>
     <spring-security-rsa.version>1.1.5</spring-security-rsa.version>
@@ -387,8 +387,8 @@
     <rabbit-stream-client.version>0.18.0</rabbit-stream-client.version>
     <spring-vault.version>3.1.2</spring-vault.version>
     <spring-kafka.version>3.2.4</spring-kafka.version>
-    <spring-pulsar.version>1.1.4</spring-pulsar.version>
-    <spring-restdocs.version>3.0.1</spring-restdocs.version>
+    <spring-pulsar.version>1.1.5</spring-pulsar.version>
+    <spring-restdocs.version>3.0.2</spring-restdocs.version>
     <spring-retry.version>2.0.10</spring-retry.version>
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
