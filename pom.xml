@@ -92,7 +92,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.4</google-truth.version>
-    <bytebuddy.version>1.15.5</bytebuddy.version>
+    <bytebuddy.version>1.15.7</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.22.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -244,7 +244,7 @@
     <flexy-pool.version>3.0.0</flexy-pool.version>
     <h2.version>2.3.232</h2.version>
     <hsqldb.version>2.7.3</hsqldb.version>
-    <sqlite-jdbc.version>3.46.1.3</sqlite-jdbc.version>
+    <sqlite-jdbc.version>3.47.0.0</sqlite-jdbc.version>
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
@@ -322,7 +322,7 @@
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.777</aws-java-sdk.version>
     <aws-java-sdk2.version>2.28.28</aws-java-sdk2.version>
-    <google-gax.version>2.55.0</google-gax.version>
+    <google-gax.version>2.56.0</google-gax.version>
     <google-http-client.version>1.45.0</google-http-client.version>
     <google-cloud-bom.version>26.49.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
@@ -367,7 +367,7 @@
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
     <spring-data-bom.version>2024.0.5</spring-data-bom.version>
-    <spring-integration.version>6.3.4</spring-integration.version>
+    <spring-integration.version>6.3.5</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
     <spring-boot.version>3.3.3</spring-boot.version>
