@@ -51,7 +51,7 @@
     <opentelemetry.version>1.43.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.5.12</logback.version>
-    <slf4j.version>2.0.16</slf4j.version>
+    <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.8</flogger.version>
     <jna.version>5.15.0</jna.version>
     <prometheus-client.version>1.3.2</prometheus-client.version>
@@ -241,7 +241,7 @@
     <flyway.version>10.20.1</flyway.version>
     <liquibase.version>4.29.2</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
-    <flexy-pool.version>3.0.0</flexy-pool.version>
+    <flexy-pool.version>3.0.2</flexy-pool.version>
     <h2.version>2.3.232</h2.version>
     <hsqldb.version>2.7.3</hsqldb.version>
     <sqlite-jdbc.version>3.47.0.0</sqlite-jdbc.version>
@@ -273,7 +273,7 @@
     <jasypt.version>1.9.3</jasypt.version>
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
-    <nimbus-jose-jwt.version>9.41.2</nimbus-jose-jwt.version>
+    <nimbus-jose-jwt.version>9.42</nimbus-jose-jwt.version>
     <oauth2-oidc-sdk.version>11.20.1</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.6</jjwt.version>
     <totp.version>1.7.1</totp.version>
