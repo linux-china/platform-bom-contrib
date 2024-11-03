@@ -92,7 +92,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.4</google-truth.version>
-    <bytebuddy.version>1.15.8</bytebuddy.version>
+    <bytebuddy.version>1.15.9</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.22.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -243,7 +243,7 @@
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.0.2</flexy-pool.version>
     <h2.version>2.3.232</h2.version>
-    <hsqldb.version>2.7.3</hsqldb.version>
+    <hsqldb.version>2.7.4</hsqldb.version>
     <sqlite-jdbc.version>3.47.0.0</sqlite-jdbc.version>
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
     <etcd4j.version>2.18.0</etcd4j.version>
