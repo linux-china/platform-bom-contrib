@@ -92,7 +92,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.4</google-truth.version>
-    <bytebuddy.version>1.15.9</bytebuddy.version>
+    <bytebuddy.version>1.15.10</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.22.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -220,7 +220,7 @@
     <hibernate.version>6.6.1.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.Beta3</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
-    <jooq.version>3.19.14</jooq.version>
+    <jooq.version>3.19.15</jooq.version>
     <jedis.version>5.2.0</jedis.version>
     <lettuce.version>6.5.0.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
@@ -331,7 +331,7 @@
     <istio-client.version>1.7.7.1</istio-client.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.1.0-Beta2</kotlin.version>
+    <kotlin.version>2.1.0-RC</kotlin.version>
     <kotlinx-coroutines.version>1.9.0</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.7.3</kotlinx-serialization.version>
     <jruby.version>9.4.8.0</jruby.version>
