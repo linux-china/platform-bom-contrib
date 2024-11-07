@@ -174,6 +174,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * JSpecify: Standard Annotations for Java Static Analysis https://jspecify.dev/
 * tsid: generate Time-Sorted Unique Identifiers (TSID) - https://github.com/f4b6a3/tsid-creator/
 * Yauaa: Yet Another UserAgent Analyzer - https://github.com/nielsbasjes/yauaa
+* typetools: Tools for working with generic types - https://github.com/jhalterman/typetools
 
 ### Developer Notice
 
