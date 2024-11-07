@@ -105,6 +105,7 @@
     <manifold.version>2024.1.39</manifold.version>
     <jilt.version>1.6.1</jilt.version>
     <graal-sdk.version>24.1.1</graal-sdk.version>
+    <typetools.version>0.6.3</typetools.version>
     <!--testing-->
     <junit5.version>5.11.3</junit5.version>
     <junit.version>4.13.2</junit.version>
@@ -1045,6 +1046,11 @@
         <groupId>org.graalvm.sdk</groupId>
         <artifactId>nativeimage</artifactId>
         <version>${graal-sdk.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>net.jodah</groupId>
+        <artifactId>typetools</artifactId>
+        <version>${typetools.version}</version>
       </dependency>
       <dependency>
         <groupId>systems.manifold</groupId>
