@@ -130,7 +130,7 @@
     <dbunit.version>2.8.0</dbunit.version>
     <rest-assured.version>5.5.0</rest-assured.version>
     <assertj.version>3.26.3</assertj.version>
-    <assertj-json.version>3.5.0</assertj-json.version>
+    <assertj-json.version>4.0.0</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
     <database-rider.version>1.44.0</database-rider.version>
@@ -255,7 +255,7 @@
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
     <infinispan.version>15.0.6.Final</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
-    <hikaricp.version>6.1.0</hikaricp.version>
+    <hikaricp.version>6.2.0</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
     <unboundid-ldapsdk.version>7.0.0</unboundid-ldapsdk.version>
     <postgresql.version>42.7.4</postgresql.version>
@@ -303,7 +303,7 @@
     <poi.version>5.3.0</poi.version>
     <kafka.version>3.9.0</kafka.version>
     <pulsar.version>4.0.0</pulsar.version>
-    <log4j2.version>3.0.0-beta2</log4j2.version>
+    <log4j2.version>3.0.0-beta3</log4j2.version>
     <jboss-logging.version>3.6.1.Final</jboss-logging.version>
     <solr.version>9.7.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
@@ -385,7 +385,7 @@
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.1.6</spring-amqp.version>
     <rabbit-amqp-client.version>5.22.0</rabbit-amqp-client.version>
-    <rabbit-http-client.version>5.2.0</rabbit-http-client.version>
+    <rabbit-http-client.version>5.3.0</rabbit-http-client.version>
     <rabbit-stream-client.version>0.19.0</rabbit-stream-client.version>
     <spring-vault.version>3.1.2</spring-vault.version>
     <spring-kafka.version>3.2.4</spring-kafka.version>
