@@ -88,7 +88,7 @@
     <bucket4j.version>8.10.1</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.0.1</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.25</swagger-oai.version>
+    <swagger-oai.version>2.2.26</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.4</google-truth.version>
@@ -123,7 +123,7 @@
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
     <wiremock.version>3.9.2</wiremock.version>
     <spockframework.version>2.4-M4-groovy-4.0</spockframework.version>
-    <easymock.version>5.4.0</easymock.version>
+    <easymock.version>5.5.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
     <powermock.version>2.0.9</powermock.version>
     <testcontainers.version>1.20.3</testcontainers.version>
@@ -218,7 +218,7 @@
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>22.3</graphql-java.version>
     <!--persistence-->
-    <hibernate.version>6.6.1.Final</hibernate.version>
+    <hibernate.version>6.6.2.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.Beta3</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.19.15</jooq.version>
@@ -255,7 +255,7 @@
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
     <infinispan.version>15.0.6.Final</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
-    <hikaricp.version>6.2.0</hikaricp.version>
+    <hikaricp.version>6.2.1</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
     <unboundid-ldapsdk.version>7.0.0</unboundid-ldapsdk.version>
     <postgresql.version>42.7.4</postgresql.version>
@@ -322,7 +322,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.778</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.29.15</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.29.16</aws-java-sdk2.version>
     <google-gax.version>2.58.0</google-gax.version>
     <google-http-client.version>1.45.1</google-http-client.version>
     <google-cloud-bom.version>26.50.0</google-cloud-bom.version>
@@ -361,7 +361,7 @@
     <spring-ws.version>4.0.11</spring-ws.version>
     <spring-session-bom.version>3.3.3</spring-session-bom.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
-    <spring-security.version>6.3.4</spring-security.version>
+    <spring-security.version>6.4.0</spring-security.version>
     <spring-security-oauth.version>2.5.2.RELEASE</spring-security-oauth.version>
     <spring-security-oauth2-autoconfigure.version>2.6.8</spring-security-oauth2-autoconfigure.version>
     <spring-security-rsa.version>1.1.5</spring-security-rsa.version>
@@ -383,14 +383,14 @@
     <spring-cloud-gateway.version>4.1.5</spring-cloud-gateway.version>
     <spring-ldap.version>3.2.8</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
-    <spring-amqp.version>3.1.6</spring-amqp.version>
+    <spring-amqp.version>3.2.0</spring-amqp.version>
     <rabbit-amqp-client.version>5.22.0</rabbit-amqp-client.version>
     <rabbit-http-client.version>5.3.0</rabbit-http-client.version>
-    <rabbit-stream-client.version>0.19.0</rabbit-stream-client.version>
+    <rabbit-stream-client.version>0.20.0</rabbit-stream-client.version>
     <spring-vault.version>3.1.2</spring-vault.version>
-    <spring-kafka.version>3.2.4</spring-kafka.version>
+    <spring-kafka.version>3.3.0</spring-kafka.version>
     <spring-pulsar.version>1.1.5</spring-pulsar.version>
-    <spring-restdocs.version>3.0.2</spring-restdocs.version>
+    <spring-restdocs.version>3.0.3</spring-restdocs.version>
     <spring-retry.version>2.0.10</spring-retry.version>
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
