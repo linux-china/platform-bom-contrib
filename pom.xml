@@ -114,14 +114,14 @@
     <data-faker.version>2.4.2</data-faker.version>
     <instancio.version>5.1.0</instancio.version>
     <mockito.version>5.14.2</mockito.version>
-    <htmlunit.version>4.6.0</htmlunit.version>
+    <htmlunit.version>4.7.0</htmlunit.version>
     <testng.version>7.10.2</testng.version>
     <selenium.version>4.27.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>2.0-rc1</jsonassert.version>
     <json-smart.version>2.5.1</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.9.2</wiremock.version>
+    <wiremock.version>3.10.0</wiremock.version>
     <spockframework.version>2.4-M4-groovy-4.0</spockframework.version>
     <easymock.version>5.5.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
@@ -400,6 +400,7 @@
     <rxjava2.version>2.2.21</rxjava2.version>
     <micrometer.version>1.14.1</micrometer.version>
     <micrometer-tracing.version>1.4.0</micrometer-tracing.version>
+    <spring-webflow.version>3.0.1</spring-webflow.version>
   </properties>
 
   <dependencyManagement>
@@ -2131,6 +2132,21 @@
         <groupId>org.springframework.shell</groupId>
         <artifactId>spring-shell-starter</artifactId>
         <version>${spring-shell.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.springframework.webflow</groupId>
+        <artifactId>spring-webflow</artifactId>
+        <version>${spring-webflow.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.springframework.webflow</groupId>
+        <artifactId>spring-binding</artifactId>
+        <version>${spring-webflow.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.springframework.webflow</groupId>
+        <artifactId>spring-faces</artifactId>
+        <version>${spring-webflow.version}</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
