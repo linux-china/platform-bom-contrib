@@ -147,7 +147,7 @@
     <netty.version>4.1.115.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.68.2</grpc.version>
-    <asynchttpclient.version>3.0.0</asynchttpclient.version>
+    <asynchttpclient.version>3.0.1</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
     <searchbox-jest.version>6.3.1</searchbox-jest.version>
