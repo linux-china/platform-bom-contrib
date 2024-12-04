@@ -112,7 +112,7 @@
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.4.2</data-faker.version>
-    <instancio.version>5.1.0</instancio.version>
+    <instancio.version>5.2.0</instancio.version>
     <mockito.version>5.14.2</mockito.version>
     <htmlunit.version>4.7.0</htmlunit.version>
     <testng.version>7.10.2</testng.version>
@@ -130,7 +130,7 @@
     <dbunit.version>2.8.0</dbunit.version>
     <rest-assured.version>5.5.0</rest-assured.version>
     <assertj.version>3.26.3</assertj.version>
-    <assertj-json.version>4.0.0</assertj-json.version>
+    <assertj-json.version>4.1.0</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
     <database-rider.version>1.44.0</database-rider.version>
@@ -223,7 +223,7 @@
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.19.15</jooq.version>
     <jedis.version>5.2.0</jedis.version>
-    <lettuce.version>6.5.0.RELEASE</lettuce.version>
+    <lettuce.version>6.5.1.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
     <mybatis.version>3.5.17</mybatis.version>
@@ -239,7 +239,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.0.0</flyway.version>
+    <flyway.version>11.0.1</flyway.version>
     <liquibase.version>4.30.0</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.0.2</flexy-pool.version>
@@ -322,13 +322,13 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.779</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.29.24</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.29.26</aws-java-sdk2.version>
     <google-gax.version>2.58.0</google-gax.version>
     <google-http-client.version>1.45.1</google-http-client.version>
     <google-cloud-bom.version>26.50.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>22.0.0</kubernetes-client.version>
-    <fabric8-kubernetes-client.version>6.13.4</fabric8-kubernetes-client.version>
+    <fabric8-kubernetes-client.version>7.0.0</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <sundr.version>0.200.0</sundr.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
@@ -375,12 +375,12 @@
     <spring-boot.version>3.4.0</spring-boot.version>
     <spring-hateoas.version>2.4.0</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
-    <spring-cloud-contract.version>4.1.5</spring-cloud-contract.version>
-    <spring-cloud.version>2023.0.4</spring-cloud.version>
-    <spring-cloud-task.version>3.1.3</spring-cloud-task.version>
-    <spring-cloud-stream.version>4.1.4</spring-cloud-stream.version>
-    <spring-cloud-function.version>4.1.4</spring-cloud-function.version>
-    <spring-cloud-gateway.version>4.1.6</spring-cloud-gateway.version>
+    <spring-cloud-contract.version>4.2.0</spring-cloud-contract.version>
+    <spring-cloud.version>2024.0.0</spring-cloud.version>
+    <spring-cloud-task.version>3.2.0</spring-cloud-task.version>
+    <spring-cloud-stream.version>4.2.0</spring-cloud-stream.version>
+    <spring-cloud-function.version>4.2.0</spring-cloud-function.version>
+    <spring-cloud-gateway.version>4.2.0</spring-cloud-gateway.version>
     <spring-ldap.version>3.2.8</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.2.0</spring-amqp.version>
