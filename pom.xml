@@ -146,7 +146,7 @@
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.1.115.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
-    <grpc.version>1.68.2</grpc.version>
+    <grpc.version>1.69.0</grpc.version>
     <asynchttpclient.version>3.0.1</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
@@ -221,7 +221,7 @@
     <hibernate.version>6.6.3.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.Beta3</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
-    <jooq.version>3.19.15</jooq.version>
+    <jooq.version>3.19.16</jooq.version>
     <jedis.version>5.2.0</jedis.version>
     <lettuce.version>6.5.1.RELEASE</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
@@ -322,7 +322,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.779</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.29.30</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.29.31</aws-java-sdk2.version>
     <google-gax.version>2.58.0</google-gax.version>
     <google-http-client.version>1.45.2</google-http-client.version>
     <google-cloud-bom.version>26.51.0</google-cloud-bom.version>
@@ -395,11 +395,11 @@
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
-    <spring-shell.version>3.3.3</spring-shell.version>
-    <reactor-bom.version>2024.0.0</reactor-bom.version>
+    <spring-shell.version>3.4.0</spring-shell.version>
+    <reactor-bom.version>2024.0.1</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
-    <micrometer.version>1.14.1</micrometer.version>
-    <micrometer-tracing.version>1.4.0</micrometer-tracing.version>
+    <micrometer.version>1.14.2</micrometer.version>
+    <micrometer-tracing.version>1.4.1</micrometer-tracing.version>
     <spring-webflow.version>3.0.1</spring-webflow.version>
   </properties>
 
