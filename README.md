@@ -175,6 +175,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * tsid: generate Time-Sorted Unique Identifiers (TSID) - https://github.com/f4b6a3/tsid-creator/
 * Yauaa: Yet Another UserAgent Analyzer - https://github.com/nielsbasjes/yauaa
 * typetools: Tools for working with generic types - https://github.com/jhalterman/typetools
+* FastCSV: number One CSV Library for Java - https://github.com/osiegmar/FastCSV
 
 ### Developer Notice
 
