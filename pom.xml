@@ -88,7 +88,7 @@
     <bucket4j.version>8.10.1</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.0.1</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.26</swagger-oai.version>
+    <swagger-oai.version>2.2.27</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.4</google-truth.version>
@@ -112,7 +112,7 @@
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.4.2</data-faker.version>
-    <instancio.version>5.2.0</instancio.version>
+    <instancio.version>5.2.1</instancio.version>
     <mockito.version>5.14.2</mockito.version>
     <htmlunit.version>4.7.0</htmlunit.version>
     <testng.version>7.10.2</testng.version>
