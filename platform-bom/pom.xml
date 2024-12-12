@@ -64,7 +64,7 @@
         <apacheds.version>1.5.7</apacheds.version>
         <apache-geode.version>1.15.1</apache-geode.version>
         <apache-shared-ldap.version>0.9.15</apache-shared-ldap.version>
-        <apache-shiro.version>1.10.1</apache-shiro.version>
+        <apache-shiro.version>1.13.0</apache-shiro.version>
         <axiom.version>1.4.0</axiom.version>
         <boon.version>0.34</boon.version>
         <bouncycastle.version>1.70</bouncycastle.version>
