@@ -50,7 +50,7 @@
     <dropwizard-metrics.version>4.2.29</dropwizard-metrics.version>
     <opentelemetry.version>1.45.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.13</logback.version>
+    <logback.version>1.5.14</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.8</flogger.version>
     <jna.version>5.15.0</jna.version>
@@ -129,7 +129,7 @@
     <testcontainers.version>1.20.4</testcontainers.version>
     <dbunit.version>2.8.0</dbunit.version>
     <rest-assured.version>5.5.0</rest-assured.version>
-    <assertj.version>3.26.3</assertj.version>
+    <assertj.version>3.27.0</assertj.version>
     <assertj-json.version>4.1.0</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
@@ -166,7 +166,7 @@
     <zipkin-reporter2.version>3.4.3</zipkin-reporter2.version>
     <rsocket.versoin>1.1.4</rsocket.versoin>
     <!--servers-->
-    <jetty.version>12.0.14</jetty.version>
+    <jetty.version>12.0.16</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.18.Final</undertow.version>
     <jersey.version>4.0.0-M1</jersey.version>
@@ -179,7 +179,7 @@
     <snakeyaml.version>2.3</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.11.0</gson.version>
-    <protobuf.version>4.29.1</protobuf.version>
+    <protobuf.version>4.29.2</protobuf.version>
     <json-smart.versfion>2.5.1</json-smart.versfion>
     <json-path.version>2.9.0</json-path.version>
     <json-masker.version>1.0.2</json-masker.version>
@@ -254,7 +254,7 @@
     <hazelcast.version>5.5.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>15.0.6.Final</infinispan.version>
+    <infinispan.version>15.1.1.Final</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
     <hikaricp.version>6.2.1</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
@@ -314,7 +314,7 @@
     <curator.version>5.7.1</curator.version>
     <zkclient.version>0.11</zkclient.version>
     <activemq.version>6.1.4</activemq.version>
-    <artemis.version>2.38.0</artemis.version>
+    <artemis.version>2.39.0</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
     <svnkit.version>1.10.11</svnkit.version>
@@ -323,7 +323,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.780</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.29.37</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.29.38</aws-java-sdk2.version>
     <google-gax.version>2.59.0</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
     <google-cloud-bom.version>26.52.0</google-cloud-bom.version>
@@ -334,8 +334,8 @@
     <sundr.version>0.200.0</sundr.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.1.0</kotlin.version>
-    <kotlinx-coroutines.version>1.9.0</kotlinx-coroutines.version>
+    <kotlin.version>2.1.20-Beta1</kotlin.version>
+    <kotlinx-coroutines.version>1.10.0</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.8.0-RC</kotlinx-serialization.version>
     <jruby.version>9.4.8.0</jruby.version>
     <!--netflix-->
@@ -373,7 +373,7 @@
     <spring-integration.version>6.4.1</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-    <spring-boot.version>3.4.0</spring-boot.version>
+    <spring-boot.version>3.4.1</spring-boot.version>
     <spring-hateoas.version>2.4.1</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
     <spring-cloud-contract.version>4.2.0</spring-cloud-contract.version>
@@ -1119,6 +1119,13 @@
         <groupId>com.vladmihalcea.flexy-pool</groupId>
         <artifactId>flexy-tomcatcp</artifactId>
         <version>${flexy-pool.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>com.infinispan</groupId>
+        <artifactId>infinispan-bom</artifactId>
+        <version>${infinispan.version}</version>
+        <type>pom</type>
+        <scope>import</scope>
       </dependency>
       <dependency>
         <groupId>com.querydsl</groupId>
