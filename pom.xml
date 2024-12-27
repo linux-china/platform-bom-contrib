@@ -202,7 +202,7 @@
     <jopt-simple.version>5.0.4</jopt-simple.version>
     <rometools.version>2.1.0</rometools.version>
     <xmlprojector.version>1.4.24</xmlprojector.version>
-    <freemarker.version>2.3.33</freemarker.version>
+    <freemarker.version>2.3.34</freemarker.version>
     <dom4j-java8.version>2.1.4</dom4j-java8.version>
     <hessian.version>4.0.66</hessian.version>
     <xmlunit.version>2.10.0</xmlunit.version>
@@ -220,7 +220,7 @@
     <fastcsv.version>3.4.0</fastcsv.version>
     <!--persistence-->
     <hibernate.version>6.6.3.Final</hibernate.version>
-    <hibernate-validator.version>9.0.0.Beta3</hibernate-validator.version>
+    <hibernate-validator.version>9.0.0.CR1</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.19.16</jooq.version>
     <jedis.version>5.3.0-beta1</jedis.version>
@@ -323,7 +323,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.780</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.29.40</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.29.41</aws-java-sdk2.version>
     <google-gax.version>2.59.0</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
     <google-cloud-bom.version>26.52.0</google-cloud-bom.version>
