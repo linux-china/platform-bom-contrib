@@ -218,6 +218,7 @@
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>22.3</graphql-java.version>
     <fastcsv.version>3.4.0</fastcsv.version>
+    <dflib.version>1.1.0</dflib.version>
     <!--persistence-->
     <hibernate.version>6.6.3.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.CR1</hibernate-validator.version>
@@ -489,6 +490,13 @@
         <groupId>de.siegmar</groupId>
         <artifactId>fastcsv</artifactId>
         <version>${fastcsv.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.dflib</groupId>
+        <artifactId>dflib-bom</artifactId>
+        <version>${dflib.version}</version>
+        <type>pom</type>
+        <scope>import</scope>
       </dependency>
       <dependency>
         <groupId>com.fasterxml.jackson</groupId>
