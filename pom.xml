@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.0</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.43</manifold.version>
+    <manifold.version>2024.1.44</manifold.version>
     <jilt.version>1.6.3</jilt.version>
     <graal-sdk.version>24.1.1</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.780</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.29.41</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.29.42</aws-java-sdk2.version>
     <google-gax.version>2.59.0</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
     <google-cloud-bom.version>26.52.0</google-cloud-bom.version>
