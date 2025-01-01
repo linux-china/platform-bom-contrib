@@ -177,6 +177,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * typetools: Tools for working with generic types - https://github.com/jhalterman/typetools
 * FastCSV: number One CSV Library for Java - https://github.com/osiegmar/FastCSV
 * DFLib: In-memory Java DataFrame library - https://github.com/dflib/dflib
+* SootUp:  a complete overhaul of the good, old static analysis framework https://soot-oss.github.io/SootUp/latest/
 
 ### Developer Notice
 
