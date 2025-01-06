@@ -50,7 +50,7 @@
     <dropwizard-metrics.version>4.2.29</dropwizard-metrics.version>
     <opentelemetry.version>1.45.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.15</logback.version>
+    <logback.version>1.5.16</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.8</flogger.version>
     <jna.version>5.16.0</jna.version>
@@ -129,7 +129,7 @@
     <testcontainers.version>1.20.4</testcontainers.version>
     <dbunit.version>2.8.0</dbunit.version>
     <rest-assured.version>5.5.0</rest-assured.version>
-    <assertj.version>3.27.1</assertj.version>
+    <assertj.version>3.27.2</assertj.version>
     <assertj-json.version>4.1.0</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
     <jfairy-junit-extension.version>0.2.0</jfairy-junit-extension.version>
