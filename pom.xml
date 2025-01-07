@@ -141,7 +141,7 @@
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
     <okhttp3.version>5.0.0-alpha.14</okhttp3.version>
-    <okio.version>3.9.1</okio.version>
+    <okio.version>3.10.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.1.116.Final</netty.version>
@@ -161,7 +161,7 @@
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
     <jsch2.version>0.2.21</jsch2.version>
-    <zipkin.version>3.4.3</zipkin.version>
+    <zipkin.version>3.4.4</zipkin.version>
     <zipkin-brave.version>6.0.3</zipkin-brave.version>
     <zipkin-reporter2.version>3.4.3</zipkin-reporter2.version>
     <rsocket.versoin>1.1.4</rsocket.versoin>
@@ -289,7 +289,7 @@
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.11.1</commons-net.version>
     <commons-io.version>2.18.0</commons-io.version>
-    <commons-codec.version>1.17.1</commons-codec.version>
+    <commons-codec.version>1.17.2</commons-codec.version>
     <commons-fileupload.version>1.5</commons-fileupload.version>
     <commons-beanutils.version>1.9.4</commons-beanutils.version>
     <commons-lang3.version>3.17.0</commons-lang3.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.780</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.29.45</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.29.46</aws-java-sdk2.version>
     <google-gax.version>2.59.0</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
     <google-cloud-bom.version>26.52.0</google-cloud-bom.version>
@@ -337,7 +337,7 @@
     <!--languages-->
     <kotlin.version>2.1.20-Beta1</kotlin.version>
     <kotlinx-coroutines.version>1.10.1</kotlinx-coroutines.version>
-    <kotlinx-serialization.version>1.8.0-RC</kotlinx-serialization.version>
+    <kotlinx-serialization.version>1.8.0</kotlinx-serialization.version>
     <jruby.version>9.4.8.0</jruby.version>
     <!--netflix-->
     <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
