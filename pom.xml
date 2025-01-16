@@ -68,7 +68,7 @@
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.109</underscore.version>
-    <java-util.version>2.18.0</java-util.version>
+    <java-util.version>3.0.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.0-alpha-4</vavr.version>
@@ -223,7 +223,7 @@
     <hibernate.version>6.6.3.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.CR1</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
-    <jooq.version>3.19.17</jooq.version>
+    <jooq.version>3.19.18</jooq.version>
     <jedis.version>5.3.0-beta1</jedis.version>
     <lettuce.version>6.6.0.BETA2</lettuce.version>
     <caffeine.version>3.1.8</caffeine.version>
@@ -247,7 +247,7 @@
     <flexy-pool.version>3.0.2</flexy-pool.version>
     <h2.version>2.3.232</h2.version>
     <hsqldb.version>2.7.4</hsqldb.version>
-    <sqlite-jdbc.version>3.47.2.0</sqlite-jdbc.version>
+    <sqlite-jdbc.version>3.48.0.0</sqlite-jdbc.version>
     <neo4j-ogm.version>3.2.38</neo4j-ogm.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
@@ -324,10 +324,10 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.780</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.29.52</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.30.0</aws-java-sdk2.version>
     <google-gax.version>2.59.1</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
-    <google-cloud-bom.version>26.52.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.53.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>22.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>7.0.1</fabric8-kubernetes-client.version>
