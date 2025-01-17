@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.0</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.50</manifold.version>
+    <manifold.version>2024.1.51</manifold.version>
     <jilt.version>1.6.3</jilt.version>
     <graal-sdk.version>24.1.1</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
@@ -146,7 +146,7 @@
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.1.117.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
-    <grpc.version>1.69.0</grpc.version>
+    <grpc.version>1.69.1</grpc.version>
     <asynchttpclient.version>3.0.1</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
@@ -169,7 +169,7 @@
     <jetty.version>12.0.16</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.18.Final</undertow.version>
-    <jersey.version>4.0.0-M1</jersey.version>
+    <jersey.version>4.0.0-M2</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.1</jsqlparser.version>
     <javaparser.version>3.26.3</javaparser.version>
@@ -220,7 +220,7 @@
     <fastcsv.version>3.4.0</fastcsv.version>
     <dflib.version>1.1.0</dflib.version>
     <!--persistence-->
-    <hibernate.version>6.6.3.Final</hibernate.version>
+    <hibernate.version>6.6.4.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.CR1</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.19.18</jooq.version>
@@ -241,8 +241,8 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.1.1</flyway.version>
-    <liquibase.version>4.30.0</liquibase.version>
+    <flyway.version>11.2.0</flyway.version>
+    <liquibase.version>4.31.0</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.0.2</flexy-pool.version>
     <h2.version>2.3.232</h2.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.780</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.30.0</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.30.1</aws-java-sdk2.version>
     <google-gax.version>2.59.1</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
     <google-cloud-bom.version>26.53.0</google-cloud-bom.version>
@@ -356,8 +356,8 @@
     <angus-mail.version>2.0.3</angus-mail.version>
     <simplejavamail.version>8.12.4</simplejavamail.version>
     <!--springsource-->
-    <spring.version>6.2.1</spring.version>
-    <spring-framework.version>6.2.1</spring-framework.version>
+    <spring.version>6.2.2</spring.version>
+    <spring-framework.version>6.2.2</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.2.1</spring-batch.version>
     <spring-ws.version>4.0.11</spring-ws.version>
@@ -370,7 +370,7 @@
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-    <spring-data-bom.version>2024.1.1</spring-data-bom.version>
+    <spring-data-bom.version>2024.1.2</spring-data-bom.version>
     <spring-integration.version>6.4.1</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
