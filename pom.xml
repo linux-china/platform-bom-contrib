@@ -88,11 +88,11 @@
     <bucket4j.version>8.10.1</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.0.1</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.27</swagger-oai.version>
+    <swagger-oai.version>2.2.28</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.4</google-truth.version>
-    <bytebuddy.version>1.15.11</bytebuddy.version>
+    <bytebuddy.version>1.16.0</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.22.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -226,7 +226,7 @@
     <jooq.version>3.19.18</jooq.version>
     <jedis.version>5.3.0-beta1</jedis.version>
     <lettuce.version>6.6.0.BETA2</lettuce.version>
-    <caffeine.version>3.1.8</caffeine.version>
+    <caffeine.version>3.2.0</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
     <mybatis.version>3.5.19</mybatis.version>
     <mybatis-spring.version>3.0.4</mybatis-spring.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.780</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.30.1</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.30.2</aws-java-sdk2.version>
     <google-gax.version>2.59.1</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
     <google-cloud-bom.version>26.53.0</google-cloud-bom.version>
