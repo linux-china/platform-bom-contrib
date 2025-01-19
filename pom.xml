@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.0</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.51</manifold.version>
+    <manifold.version>2024.1.53</manifold.version>
     <jilt.version>1.6.3</jilt.version>
     <graal-sdk.version>24.1.1</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
