@@ -48,7 +48,7 @@
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.30</dropwizard-metrics.version>
-    <opentelemetry.version>1.46.0</opentelemetry.version>
+    <opentelemetry.version>1.47.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.5.16</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
@@ -107,7 +107,7 @@
     <graal-sdk.version>24.1.2</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
     <!--testing-->
-    <junit5.version>5.12.0-M1</junit5.version>
+    <junit5.version>5.12.0-RC1</junit5.version>
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
@@ -218,7 +218,7 @@
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>22.3</graphql-java.version>
     <fastcsv.version>3.4.0</fastcsv.version>
-    <dflib.version>1.1.0</dflib.version>
+    <dflib.version>1.2.0</dflib.version>
     <!--persistence-->
     <hibernate.version>6.6.4.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.CR1</hibernate-validator.version>
@@ -247,7 +247,7 @@
     <flexy-pool.version>3.0.2</flexy-pool.version>
     <h2.version>2.3.232</h2.version>
     <hsqldb.version>2.7.4</hsqldb.version>
-    <sqlite-jdbc.version>3.48.0.0</sqlite-jdbc.version>
+    <sqlite-jdbc.version>3.49.0.0</sqlite-jdbc.version>
     <neo4j-java-driver.version>5.27.0</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
@@ -277,7 +277,7 @@
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.0.1</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.21.3</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.22</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.6</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <!--apache-->
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.780</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.30.14</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.30.16</aws-java-sdk2.version>
     <google-gax.version>2.60.0</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
     <google-cloud-bom.version>26.54.0</google-cloud-bom.version>
