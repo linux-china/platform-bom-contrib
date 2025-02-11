@@ -102,8 +102,8 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.0</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2024.1.54</manifold.version>
-    <jilt.version>1.6.3</jilt.version>
+    <manifold.version>2024.1.55</manifold.version>
+    <jilt.version>1.7.rc1</jilt.version>
     <graal-sdk.version>24.1.2</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
     <!--testing-->
@@ -218,7 +218,7 @@
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>22.3</graphql-java.version>
     <fastcsv.version>3.4.0</fastcsv.version>
-    <dflib.version>1.2.0</dflib.version>
+    <dflib.version>2.0.0-M1</dflib.version>
     <!--persistence-->
     <hibernate.version>6.6.4.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.CR1</hibernate-validator.version>
@@ -277,7 +277,7 @@
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.0.1</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.22</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.22.1</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.6</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <!--apache-->
@@ -324,8 +324,8 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.780</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.30.16</aws-java-sdk2.version>
-    <google-gax.version>2.60.0</google-gax.version>
+    <aws-java-sdk2.version>2.30.17</aws-java-sdk2.version>
+    <google-gax.version>2.61.0</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
     <google-cloud-bom.version>26.54.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
@@ -398,7 +398,7 @@
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
     <spring-shell.version>3.4.0</spring-shell.version>
-    <reactor-bom.version>2024.0.2</reactor-bom.version>
+    <reactor-bom.version>2024.0.3</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <micrometer.version>1.14.3</micrometer.version>
     <micrometer-tracing.version>1.4.2</micrometer-tracing.version>
