@@ -400,8 +400,8 @@
     <spring-shell.version>3.4.0</spring-shell.version>
     <reactor-bom.version>2024.0.3</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
-    <micrometer.version>1.14.3</micrometer.version>
-    <micrometer-tracing.version>1.4.2</micrometer-tracing.version>
+    <micrometer.version>1.14.4</micrometer.version>
+    <micrometer-tracing.version>1.4.3</micrometer-tracing.version>
     <spring-webflow.version>3.0.1</spring-webflow.version>
   </properties>
 
