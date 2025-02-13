@@ -119,7 +119,7 @@
     <selenium.version>4.28.1</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>2.0-rc1</jsonassert.version>
-    <json-smart.version>2.5.1</json-smart.version>
+    <json-smart.version>2.5.2</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
     <wiremock.version>3.12.0</wiremock.version>
     <spockframework.version>2.4-M5-groovy-4.0</spockframework.version>
