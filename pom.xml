@@ -115,11 +115,11 @@
     <instancio.version>5.3.0</instancio.version>
     <mockito.version>5.15.2</mockito.version>
     <htmlunit.version>4.9.0</htmlunit.version>
-    <testng.version>7.10.2</testng.version>
+    <testng.version>7.11.0</testng.version>
     <selenium.version>4.28.1</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>2.0-rc1</jsonassert.version>
-    <json-smart.version>2.5.1</json-smart.version>
+    <json-smart.version>2.5.2</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
     <wiremock.version>3.12.0</wiremock.version>
     <spockframework.version>2.4-M5-groovy-4.0</spockframework.version>
@@ -218,9 +218,9 @@
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>22.3</graphql-java.version>
     <fastcsv.version>3.4.0</fastcsv.version>
-    <dflib.version>2.0.0-M1</dflib.version>
+    <dflib.version>2.0.0-M2</dflib.version>
     <!--persistence-->
-    <hibernate.version>6.6.4.Final</hibernate.version>
+    <hibernate.version>6.6.7.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.CR1</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.19.18</jooq.version>
@@ -291,7 +291,7 @@
     <commons-io.version>2.18.0</commons-io.version>
     <commons-codec.version>1.18.0</commons-codec.version>
     <commons-fileupload.version>1.5</commons-fileupload.version>
-    <commons-beanutils.version>1.10.0</commons-beanutils.version>
+    <commons-beanutils.version>1.10.1</commons-beanutils.version>
     <commons-lang3.version>3.17.0</commons-lang3.version>
     <commons-csv.version>1.13.0</commons-csv.version>
     <commons-crypto.version>1.2.0</commons-crypto.version>
@@ -309,7 +309,7 @@
     <jboss-logging.version>3.6.1.Final</jboss-logging.version>
     <solr.version>9.8.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
-    <tomcat.version>11.0.2</tomcat.version>
+    <tomcat.version>11.0.3</tomcat.version>
     <groovy.version>4.0.25</groovy.version>
     <zookeeper.version>3.9.3</zookeeper.version>
     <curator.version>5.7.1</curator.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.781</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.30.19</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.30.20</aws-java-sdk2.version>
     <google-gax.version>2.61.0</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
     <google-cloud-bom.version>26.54.0</google-cloud-bom.version>
@@ -356,8 +356,8 @@
     <angus-mail.version>2.0.3</angus-mail.version>
     <simplejavamail.version>8.12.4</simplejavamail.version>
     <!--springsource-->
-    <spring.version>6.2.2</spring.version>
-    <spring-framework.version>6.2.2</spring-framework.version>
+    <spring.version>6.2.3</spring.version>
+    <spring-framework.version>6.2.3</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.2.1</spring-batch.version>
     <spring-ws.version>4.0.11</spring-ws.version>
@@ -383,7 +383,7 @@
     <spring-cloud-stream.version>4.2.0</spring-cloud-stream.version>
     <spring-cloud-function.version>4.2.1</spring-cloud-function.version>
     <spring-cloud-gateway.version>4.2.0</spring-cloud-gateway.version>
-    <spring-ldap.version>3.2.10</spring-ldap.version>
+    <spring-ldap.version>3.2.11</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.2.2</spring-amqp.version>
     <rabbit-amqp-client.version>5.25.0</rabbit-amqp-client.version>
