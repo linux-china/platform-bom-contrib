@@ -126,7 +126,7 @@
     <easymock.version>5.5.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
     <powermock.version>2.0.9</powermock.version>
-    <testcontainers.version>1.20.4</testcontainers.version>
+    <testcontainers.version>1.20.5</testcontainers.version>
     <dbunit.version>3.0.0</dbunit.version>
     <rest-assured.version>5.5.1</rest-assured.version>
     <assertj.version>3.27.3</assertj.version>
@@ -223,7 +223,7 @@
     <hibernate.version>6.6.7.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.CR1</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
-    <jooq.version>3.19.18</jooq.version>
+    <jooq.version>3.20.0</jooq.version>
     <jedis.version>5.3.0-beta1</jedis.version>
     <lettuce.version>6.6.0.BETA2</lettuce.version>
     <caffeine.version>3.2.0</caffeine.version>
@@ -241,7 +241,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.3.2</flyway.version>
+    <flyway.version>11.3.3</flyway.version>
     <liquibase.version>4.31.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.0.2</flexy-pool.version>
@@ -277,7 +277,7 @@
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.0.1</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.22.2</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.23</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.6</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <!--apache-->
@@ -323,19 +323,19 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.781</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.30.23</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.782</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.30.24</aws-java-sdk2.version>
     <google-gax.version>2.61.0</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
     <google-cloud-bom.version>26.54.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
-    <kubernetes-client.version>22.0.1</kubernetes-client.version>
+    <kubernetes-client.version>23.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>7.1.0</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <sundr.version>0.200.0</sundr.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.1.20-Beta2</kotlin.version>
+    <kotlin.version>2.1.20-RC</kotlin.version>
     <kotlinx-coroutines.version>1.10.1</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.8.0</kotlinx-serialization.version>
     <jruby.version>9.4.8.0</jruby.version>
