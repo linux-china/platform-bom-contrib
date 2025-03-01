@@ -67,7 +67,7 @@
     <javatuples.version>1.2</javatuples.version>
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
-    <underscore.version>1.110</underscore.version>
+    <underscore.version>1.111</underscore.version>
     <java-util.version>3.1.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -173,7 +173,7 @@
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.1</jsqlparser.version>
     <javaparser.version>3.26.3</javaparser.version>
-    <jackson.version>2.18.2</jackson.version>
+    <jackson.version>2.18.3</jackson.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.0</classmate.version>
     <snakeyaml.version>2.4</snakeyaml.version>
@@ -255,7 +255,7 @@
     <hazelcast.version>5.5.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>15.1.5.Final</infinispan.version>
+    <infinispan.version>15.1.7.Final</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
     <hikaricp.version>6.2.1</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.782</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.30.30</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.30.31</aws-java-sdk2.version>
     <google-gax.version>2.62.0</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
     <google-cloud-bom.version>26.55.0</google-cloud-bom.version>
