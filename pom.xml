@@ -92,7 +92,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.4</google-truth.version>
-    <bytebuddy.version>1.17.1</bytebuddy.version>
+    <bytebuddy.version>1.17.2</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.22.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -113,7 +113,7 @@
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.4.2</data-faker.version>
     <instancio.version>5.4.0</instancio.version>
-    <mockito.version>5.15.2</mockito.version>
+    <mockito.version>5.16.0</mockito.version>
     <htmlunit.version>4.10.0</htmlunit.version>
     <testng.version>7.11.0</testng.version>
     <selenium.version>4.29.0</selenium.version>
@@ -121,7 +121,7 @@
     <jsonassert.version>2.0-rc1</jsonassert.version>
     <json-smart.version>2.5.2</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.12.0</wiremock.version>
+    <wiremock.version>3.12.1</wiremock.version>
     <spockframework.version>2.4-M5-groovy-4.0</spockframework.version>
     <easymock.version>5.5.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
@@ -248,7 +248,7 @@
     <h2.version>2.3.232</h2.version>
     <hsqldb.version>2.7.4</hsqldb.version>
     <sqlite-jdbc.version>3.49.1.0</sqlite-jdbc.version>
-    <neo4j-java-driver.version>5.27.0</neo4j-java-driver.version>
+    <neo4j-java-driver.version>5.28.2</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
     <elasticsearch.version>8.16.1</elasticsearch.version>
@@ -310,7 +310,7 @@
     <solr.version>9.8.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>11.0.4</tomcat.version>
-    <groovy.version>4.0.25</groovy.version>
+    <groovy.version>4.0.26</groovy.version>
     <zookeeper.version>3.9.3</zookeeper.version>
     <curator.version>5.7.1</curator.version>
     <zkclient.version>0.11</zkclient.version>
@@ -324,10 +324,10 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.782</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.30.31</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.30.32</aws-java-sdk2.version>
     <google-gax.version>2.62.0</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
-    <google-cloud-bom.version>26.55.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.56.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>23.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>7.1.0</fabric8-kubernetes-client.version>
