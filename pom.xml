@@ -107,7 +107,7 @@
     <graal-sdk.version>24.1.2</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
     <!--testing-->
-    <junit5.version>5.12.0</junit5.version>
+    <junit5.version>5.12.1</junit5.version>
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.782</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.31.0</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.31.1</aws-java-sdk2.version>
     <google-gax.version>2.63.1</google-gax.version>
     <google-http-client.version>1.45.3</google-http-client.version>
     <google-cloud-bom.version>26.56.0</google-cloud-bom.version>
@@ -335,7 +335,7 @@
     <sundr.version>0.200.3</sundr.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.1.20-RC2</kotlin.version>
+    <kotlin.version>2.1.20-RC3</kotlin.version>
     <kotlinx-coroutines.version>1.10.1</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.8.0</kotlinx-serialization.version>
     <jruby.version>9.4.12.0</jruby.version>
