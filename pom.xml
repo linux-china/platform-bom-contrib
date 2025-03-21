@@ -50,7 +50,7 @@
     <dropwizard-metrics.version>4.2.30</dropwizard-metrics.version>
     <opentelemetry.version>1.48.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.17</logback.version>
+    <logback.version>1.5.18</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.8</flogger.version>
     <jna.version>5.17.0</jna.version>
@@ -102,9 +102,9 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.1</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2025.1.4</manifold.version>
+    <manifold.version>2025.1.5</manifold.version>
     <jilt.version>1.7</jilt.version>
-    <graal-sdk.version>24.1.2</graal-sdk.version>
+    <graal-sdk.version>24.2.0</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
     <!--testing-->
     <junit5.version>5.12.1</junit5.version>
@@ -233,7 +233,7 @@
     <javax-jdo.version>3.1</javax-jdo.version>
     <mariadb.version>3.5.2</mariadb.version>
     <mariadb-r2dbc.version>1.3.0</mariadb-r2dbc.version>
-    <mongodb.version>5.3.1</mongodb.version>
+    <mongodb.version>5.4.0</mongodb.version>
     <mongodb-reactivestreams.version>5.3.1</mongodb-reactivestreams.version>
     <embedded-mongo.version>3.2.0</embedded-mongo.version>
     <fongo.version>2.1.1</fongo.version>
@@ -283,7 +283,7 @@
     <!--apache-->
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
-    <httpcore5.version>5.3.3</httpcore5.version>
+    <httpcore5.version>5.3.4</httpcore5.version>
     <httpclient5.version>5.5-alpha1</httpclient5.version>
     <commons-cli.version>1.9.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
@@ -293,7 +293,7 @@
     <commons-fileupload.version>1.5</commons-fileupload.version>
     <commons-beanutils.version>1.10.1</commons-beanutils.version>
     <commons-lang3.version>3.17.0</commons-lang3.version>
-    <commons-csv.version>1.13.0</commons-csv.version>
+    <commons-csv.version>1.14.0</commons-csv.version>
     <commons-crypto.version>1.2.0</commons-crypto.version>
     <commons-configuration2.version>2.11.0</commons-configuration2.version>
     <commons-text.version>1.13.0</commons-text.version>
@@ -315,7 +315,7 @@
     <curator.version>5.8.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
     <activemq.version>6.1.6</activemq.version>
-    <artemis.version>2.39.0</artemis.version>
+    <artemis.version>2.40.0</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
     <svnkit.version>1.10.11</svnkit.version>
@@ -324,9 +324,9 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.782</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.31.1</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.31.5</aws-java-sdk2.version>
     <google-gax.version>2.63.1</google-gax.version>
-    <google-http-client.version>1.45.3</google-http-client.version>
+    <google-http-client.version>1.46.3</google-http-client.version>
     <google-cloud-bom.version>26.56.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>23.0.0</kubernetes-client.version>
@@ -335,7 +335,7 @@
     <sundr.version>0.200.3</sundr.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.1.20-RC3</kotlin.version>
+    <kotlin.version>2.1.20</kotlin.version>
     <kotlinx-coroutines.version>1.10.1</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.8.0</kotlinx-serialization.version>
     <jruby.version>9.4.12.0</jruby.version>
@@ -356,14 +356,14 @@
     <angus-mail.version>2.0.3</angus-mail.version>
     <simplejavamail.version>8.12.5</simplejavamail.version>
     <!--springsource-->
-    <spring.version>6.2.4</spring.version>
-    <spring-framework.version>6.2.4</spring-framework.version>
+    <spring.version>6.2.5</spring.version>
+    <spring-framework.version>6.2.5</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.2.1</spring-batch.version>
-    <spring-ws.version>4.0.11</spring-ws.version>
+    <spring-ws.version>4.0.12</spring-ws.version>
     <spring-session-bom.version>3.4.2</spring-session-bom.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
-    <spring-security.version>6.4.3</spring-security.version>
+    <spring-security.version>6.4.4</spring-security.version>
     <spring-security-oauth.version>2.5.2.RELEASE</spring-security-oauth.version>
     <spring-security-oauth2-autoconfigure.version>2.6.8</spring-security-oauth2-autoconfigure.version>
     <spring-security-rsa.version>1.1.5</spring-security-rsa.version>
@@ -371,18 +371,18 @@
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
     <spring-data-bom.version>2024.1.4</spring-data-bom.version>
-    <spring-integration.version>6.4.2</spring-integration.version>
+    <spring-integration.version>6.4.3</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-    <spring-boot.version>3.4.3</spring-boot.version>
+    <spring-boot.version>3.4.4</spring-boot.version>
     <spring-hateoas.version>2.4.1</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
-    <spring-cloud-contract.version>4.2.0</spring-cloud-contract.version>
-    <spring-cloud.version>2024.0.0</spring-cloud.version>
-    <spring-cloud-task.version>3.2.0</spring-cloud-task.version>
-    <spring-cloud-stream.version>4.2.0</spring-cloud-stream.version>
-    <spring-cloud-function.version>4.2.1</spring-cloud-function.version>
-    <spring-cloud-gateway.version>4.2.0</spring-cloud-gateway.version>
+    <spring-cloud-contract.version>4.2.1</spring-cloud-contract.version>
+    <spring-cloud.version>2024.0.1</spring-cloud.version>
+    <spring-cloud-task.version>3.2.1</spring-cloud-task.version>
+    <spring-cloud-stream.version>4.2.1</spring-cloud-stream.version>
+    <spring-cloud-function.version>4.2.2</spring-cloud-function.version>
+    <spring-cloud-gateway.version>4.2.1</spring-cloud-gateway.version>
     <spring-ldap.version>3.2.11</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.2.2</spring-amqp.version>
