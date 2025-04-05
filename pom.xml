@@ -48,7 +48,7 @@
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.30</dropwizard-metrics.version>
-    <opentelemetry.version>1.48.0</opentelemetry.version>
+    <opentelemetry.version>1.49.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.5.18</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
@@ -103,7 +103,7 @@
     <threetenbp.version>1.7.1</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
     <manifold.version>2025.1.9</manifold.version>
-    <jilt.version>1.7</jilt.version>
+    <jilt.version>1.8</jilt.version>
     <graal-sdk.version>24.2.0</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
     <!--testing-->
@@ -113,7 +113,7 @@
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.4.2</data-faker.version>
     <instancio.version>5.4.1</instancio.version>
-    <mockito.version>5.16.1</mockito.version>
+    <mockito.version>5.17.0</mockito.version>
     <htmlunit.version>4.11.1</htmlunit.version>
     <testng.version>7.11.0</testng.version>
     <selenium.version>4.30.0</selenium.version>
@@ -144,7 +144,7 @@
     <okio.version>3.10.2</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.1.119.Final</netty.version>
+    <netty.version>4.2.0.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.71.0</grpc.version>
     <asynchttpclient.version>3.0.2</asynchttpclient.version>
@@ -241,7 +241,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.5.0</flyway.version>
+    <flyway.version>11.6.0</flyway.version>
     <liquibase.version>4.31.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.0.2</flexy-pool.version>
@@ -276,7 +276,7 @@
     <jasypt.version>1.9.3</jasypt.version>
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
-    <nimbus-jose-jwt.version>10.0.2</nimbus-jose-jwt.version>
+    <nimbus-jose-jwt.version>10.1</nimbus-jose-jwt.version>
     <oauth2-oidc-sdk.version>11.23.1</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.6</jjwt.version>
     <totp.version>1.7.1</totp.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.782</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.31.14</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.31.16</aws-java-sdk2.version>
     <google-gax.version>2.63.1</google-gax.version>
     <google-http-client.version>1.46.3</google-http-client.version>
     <google-cloud-bom.version>26.57.0</google-cloud-bom.version>
@@ -1744,7 +1744,7 @@
       <dependency>
         <groupId>io.github.lognet</groupId>
         <artifactId>grpc-spring-boot-starter</artifactId>
-        <version>5.1.5</version>
+        <version>5.2.0</version>
       </dependency>
       <dependency>
         <groupId>org.apache.logging.log4j</groupId>
