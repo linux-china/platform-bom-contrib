@@ -116,7 +116,7 @@
     <mockito.version>5.17.0</mockito.version>
     <htmlunit.version>4.11.1</htmlunit.version>
     <testng.version>7.11.0</testng.version>
-    <selenium.version>4.30.0</selenium.version>
+    <selenium.version>4.31.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>2.0-rc1</jsonassert.version>
     <json-smart.version>2.5.2</json-smart.version>
@@ -153,7 +153,7 @@
     <searchbox-jest.version>6.3.1</searchbox-jest.version>
     <smack4.version>4.4.4</smack4.version>
     <unirest-java.version>1.4.9</unirest-java.version>
-    <openfeign.version>13.5</openfeign.version>
+    <openfeign.version>13.6</openfeign.version>
     <javax-mail.version>1.6.3</javax-mail.version>
     <sun-mail.version>2.0.1</sun-mail.version>
     <javax-cache.version>1.1.1</javax-cache.version>
