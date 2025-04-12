@@ -94,7 +94,7 @@
     <google-truth.version>1.4.4</google-truth.version>
     <bytebuddy.version>1.17.5</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
-    <aspectj.version>1.9.23</aspectj.version>
+    <aspectj.version>1.9.24</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
     <lombok.version>1.18.38</lombok.version>
     <immutables.version>2.10.1</immutables.version>
@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.1</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2025.1.9</manifold.version>
+    <manifold.version>2025.1.10</manifold.version>
     <jilt.version>1.8</jilt.version>
     <graal-sdk.version>24.2.0</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
@@ -141,7 +141,7 @@
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
     <okhttp3.version>5.0.0-alpha.14</okhttp3.version>
-    <okio.version>3.10.2</okio.version>
+    <okio.version>3.11.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.2.0.Final</netty.version>
@@ -178,7 +178,7 @@
     <classmate.version>1.7.0</classmate.version>
     <snakeyaml.version>2.4</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
-    <gson.version>2.12.1</gson.version>
+    <gson.version>2.13.0</gson.version>
     <protobuf.version>4.30.2</protobuf.version>
     <json-smart.versfion>2.5.2</json-smart.versfion>
     <json-path.version>2.9.0</json-path.version>
@@ -220,7 +220,7 @@
     <fastcsv.version>3.6.0</fastcsv.version>
     <dflib.version>2.0.0-M2</dflib.version>
     <!--persistence-->
-    <hibernate.version>6.6.11.Final</hibernate.version>
+    <hibernate.version>6.6.13.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.CR1</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.20.3</jooq.version>
@@ -241,7 +241,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.6.0</flyway.version>
+    <flyway.version>11.7.0</flyway.version>
     <liquibase.version>4.31.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.0.2</flexy-pool.version>
@@ -263,7 +263,7 @@
     <postgresql.version>42.7.5</postgresql.version>
     <jaybird.version>5.0.6.java11</jaybird.version>
     <jdbi.version>3.49.0</jdbi.version>
-    <couchbase-client.version>3.7.9</couchbase-client.version>
+    <couchbase-client.version>3.8.0</couchbase-client.version>
     <openjpa.version>4.1.0</openjpa.version>
     <mysql.version>9.2.0</mysql.version>
     <sqlserver.version>12.10.0.jre11</sqlserver.version>
@@ -288,7 +288,7 @@
     <commons-cli.version>1.9.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.11.1</commons-net.version>
-    <commons-io.version>2.18.0</commons-io.version>
+    <commons-io.version>2.19.0</commons-io.version>
     <commons-codec.version>1.18.0</commons-codec.version>
     <commons-fileupload.version>1.5</commons-fileupload.version>
     <commons-beanutils.version>1.10.1</commons-beanutils.version>
@@ -296,7 +296,7 @@
     <commons-csv.version>1.14.0</commons-csv.version>
     <commons-crypto.version>1.2.0</commons-crypto.version>
     <commons-configuration2.version>2.11.0</commons-configuration2.version>
-    <commons-text.version>1.13.0</commons-text.version>
+    <commons-text.version>1.13.1</commons-text.version>
     <commons-vfs2.version>2.10.0</commons-vfs2.version>
     <commons-pool2.version>2.12.1</commons-pool2.version>
     <commons-dbcp2.version>2.13.0</commons-dbcp2.version>
@@ -304,12 +304,12 @@
     <commons-logging.version>1.3.5</commons-logging.version>
     <poi.version>5.4.1</poi.version>
     <kafka.version>3.9.0</kafka.version>
-    <pulsar.version>4.0.3</pulsar.version>
+    <pulsar.version>4.0.4</pulsar.version>
     <log4j2.version>3.0.0-beta3</log4j2.version>
     <jboss-logging.version>3.6.1.Final</jboss-logging.version>
     <solr.version>9.8.1</solr.version>
     <bsh.version>2.0b5</bsh.version>
-    <tomcat.version>11.0.5</tomcat.version>
+    <tomcat.version>11.0.6</tomcat.version>
     <groovy.version>4.0.26</groovy.version>
     <zookeeper.version>3.9.3</zookeeper.version>
     <curator.version>5.8.0</curator.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.782</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.31.18</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.31.21</aws-java-sdk2.version>
     <google-gax.version>2.63.1</google-gax.version>
     <google-http-client.version>1.46.3</google-http-client.version>
     <google-cloud-bom.version>26.59.0</google-cloud-bom.version>
