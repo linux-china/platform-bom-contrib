@@ -84,7 +84,7 @@
     <math-parser.version>6.1.0</math-parser.version>
     <rgxgen.version>2.0</rgxgen.version>
     <nuprocess.version>3.0.0</nuprocess.version>
-    <uuid-creator.version>6.1.0</uuid-creator.version>
+    <uuid-creator.version>6.1.1</uuid-creator.version>
     <bucket4j.version>8.10.1</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.0.2</jetbrains-annotations.version>
@@ -97,7 +97,7 @@
     <aspectj.version>1.9.24</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
     <lombok.version>1.18.38</lombok.version>
-    <immutables.version>2.10.1</immutables.version>
+    <immutables.version>2.11.0-beta2</immutables.version>
     <audit4j.version>2.6.0</audit4j.version>
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.1</threetenbp.version>
