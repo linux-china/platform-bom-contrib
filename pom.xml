@@ -382,7 +382,7 @@
     <spring-cloud-task.version>3.2.1</spring-cloud-task.version>
     <spring-cloud-stream.version>4.2.1</spring-cloud-stream.version>
     <spring-cloud-function.version>4.2.2</spring-cloud-function.version>
-    <spring-cloud-gateway.version>4.2.1</spring-cloud-gateway.version>
+    <spring-cloud-gateway.version>4.2.2</spring-cloud-gateway.version>
     <spring-ldap.version>3.2.11</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.2.2</spring-amqp.version>
