@@ -338,7 +338,7 @@
     <kotlin.version>2.1.20</kotlin.version>
     <kotlinx-coroutines.version>1.10.2</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.8.1</kotlinx-serialization.version>
-    <jruby.version>9.4.12.0</jruby.version>
+    <jruby.version>10.0.0.0</jruby.version>
     <!--netflix-->
     <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
     <ribbon.version>2.7.18</ribbon.version>
