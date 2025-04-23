@@ -103,7 +103,7 @@
     <threetenbp.version>1.7.1</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
     <manifold.version>2025.1.11</manifold.version>
-    <jilt.version>1.8</jilt.version>
+    <jilt.version>1.8.1</jilt.version>
     <graal-sdk.version>24.2.1</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
     <!--testing-->
@@ -262,7 +262,7 @@
     <unboundid-ldapsdk.version>7.0.2</unboundid-ldapsdk.version>
     <postgresql.version>42.7.5</postgresql.version>
     <jaybird.version>5.0.6.java11</jaybird.version>
-    <jdbi.version>3.49.0</jdbi.version>
+    <jdbi.version>3.49.1</jdbi.version>
     <couchbase-client.version>3.8.0</couchbase-client.version>
     <openjpa.version>4.1.0</openjpa.version>
     <mysql.version>9.2.0</mysql.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.782</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.31.25</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.31.27</aws-java-sdk2.version>
     <google-gax.version>2.64.0</google-gax.version>
     <google-http-client.version>1.46.3</google-http-client.version>
     <google-cloud-bom.version>26.59.0</google-cloud-bom.version>
@@ -360,18 +360,18 @@
     <spring-framework.version>6.2.6</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.2.1</spring-batch.version>
-    <spring-ws.version>4.0.12</spring-ws.version>
-    <spring-session-bom.version>3.4.2</spring-session-bom.version>
+    <spring-ws.version>4.0.13</spring-ws.version>
+    <spring-session-bom.version>3.4.3</spring-session-bom.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
-    <spring-security.version>6.4.4</spring-security.version>
+    <spring-security.version>6.4.5</spring-security.version>
     <spring-security-oauth.version>2.5.2.RELEASE</spring-security-oauth.version>
     <spring-security-oauth2-autoconfigure.version>2.6.8</spring-security-oauth2-autoconfigure.version>
     <spring-security-rsa.version>1.1.5</spring-security-rsa.version>
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-    <spring-data-bom.version>2024.1.4</spring-data-bom.version>
-    <spring-integration.version>6.4.3</spring-integration.version>
+    <spring-data-bom.version>2024.1.5</spring-data-bom.version>
+    <spring-integration.version>6.4.4</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
     <spring-boot.version>3.4.4</spring-boot.version>
@@ -383,15 +383,15 @@
     <spring-cloud-stream.version>4.2.1</spring-cloud-stream.version>
     <spring-cloud-function.version>4.2.2</spring-cloud-function.version>
     <spring-cloud-gateway.version>4.2.2</spring-cloud-gateway.version>
-    <spring-ldap.version>3.2.11</spring-ldap.version>
+    <spring-ldap.version>3.2.12</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
-    <spring-amqp.version>3.2.2</spring-amqp.version>
+    <spring-amqp.version>3.2.5</spring-amqp.version>
     <rabbit-amqp-client.version>5.25.0</rabbit-amqp-client.version>
     <rabbit-http-client.version>5.3.0</rabbit-http-client.version>
     <rabbit-stream-client.version>1.0.0</rabbit-stream-client.version>
     <spring-vault.version>3.1.2</spring-vault.version>
-    <spring-kafka.version>3.3.3</spring-kafka.version>
-    <spring-pulsar.version>1.2.4</spring-pulsar.version>
+    <spring-kafka.version>3.3.5</spring-kafka.version>
+    <spring-pulsar.version>1.2.5</spring-pulsar.version>
     <spring-restdocs.version>3.0.3</spring-restdocs.version>
     <spring-retry.version>2.0.11</spring-retry.version>
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
