@@ -121,7 +121,7 @@
     <jsonassert.version>2.0-rc1</jsonassert.version>
     <json-smart.version>2.5.2</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.12.1</wiremock.version>
+    <wiremock.version>3.13.0</wiremock.version>
     <spockframework.version>2.4-M6-groovy-4.0</spockframework.version>
     <easymock.version>5.5.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
