@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.1</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2025.1.11</manifold.version>
+    <manifold.version>2025.1.12</manifold.version>
     <jilt.version>1.8.1</jilt.version>
     <graal-sdk.version>24.2.1</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
@@ -160,9 +160,9 @@
     <javax-validation.version>2.0.1.Final</javax-validation.version>
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
-    <jsch2.version>0.2.25</jsch2.version>
-    <zipkin.version>3.5.0</zipkin.version>
-    <zipkin-brave.version>6.1.0</zipkin-brave.version>
+    <jsch2.version>0.2.26</jsch2.version>
+    <zipkin.version>3.5.1</zipkin.version>
+    <zipkin-brave.version>6.2.0</zipkin-brave.version>
     <zipkin-reporter2.version>3.5.0</zipkin-reporter2.version>
     <rsocket.versoin>1.1.5</rsocket.versoin>
     <!--servers-->
@@ -173,7 +173,7 @@
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.1</jsqlparser.version>
     <javaparser.version>3.26.4</javaparser.version>
-    <jackson.version>2.19.0-rc2</jackson.version>
+    <jackson.version>2.19.0</jackson.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.0</classmate.version>
     <snakeyaml.version>2.4</snakeyaml.version>
@@ -213,7 +213,7 @@
     <openpdf.version>2.0.3</openpdf.version>
     <jaxen.version>2.0.0</jaxen.version>
     <xom.version>1.3.9</xom.version>
-    <jte.version>3.2.0</jte.version>
+    <jte.version>3.2.1</jte.version>
     <evo-inflector.version>1.3</evo-inflector.version>
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>22.3</graphql-java.version>
@@ -262,7 +262,7 @@
     <unboundid-ldapsdk.version>7.0.2</unboundid-ldapsdk.version>
     <postgresql.version>42.7.5</postgresql.version>
     <jaybird.version>5.0.6.java11</jaybird.version>
-    <jdbi.version>3.49.1</jdbi.version>
+    <jdbi.version>3.49.2</jdbi.version>
     <couchbase-client.version>3.8.0</couchbase-client.version>
     <openjpa.version>4.1.0</openjpa.version>
     <mysql.version>9.2.0</mysql.version>
@@ -295,7 +295,7 @@
     <commons-lang3.version>3.17.0</commons-lang3.version>
     <commons-csv.version>1.14.0</commons-csv.version>
     <commons-crypto.version>1.2.0</commons-crypto.version>
-    <commons-configuration2.version>2.11.0</commons-configuration2.version>
+    <commons-configuration2.version>2.12.0</commons-configuration2.version>
     <commons-text.version>1.13.1</commons-text.version>
     <commons-vfs2.version>2.10.0</commons-vfs2.version>
     <commons-pool2.version>2.12.1</commons-pool2.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.782</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.31.28</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.31.30</aws-java-sdk2.version>
     <google-gax.version>2.64.2</google-gax.version>
     <google-http-client.version>1.46.3</google-http-client.version>
     <google-cloud-bom.version>26.59.0</google-cloud-bom.version>
@@ -389,7 +389,7 @@
     <rabbit-amqp-client.version>5.25.0</rabbit-amqp-client.version>
     <rabbit-http-client.version>5.3.0</rabbit-http-client.version>
     <rabbit-stream-client.version>1.0.0</rabbit-stream-client.version>
-    <spring-vault.version>3.1.2</spring-vault.version>
+    <spring-vault.version>3.1.3</spring-vault.version>
     <spring-kafka.version>3.3.5</spring-kafka.version>
     <spring-pulsar.version>1.2.5</spring-pulsar.version>
     <spring-restdocs.version>3.0.3</spring-restdocs.version>
