@@ -144,7 +144,7 @@
     <okio.version>3.11.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.2.0.Final</netty.version>
+    <netty.version>4.2.1.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.72.0</grpc.version>
     <asynchttpclient.version>3.0.2</asynchttpclient.version>
@@ -233,15 +233,15 @@
     <javax-jdo.version>3.1</javax-jdo.version>
     <mariadb.version>3.5.3</mariadb.version>
     <mariadb-r2dbc.version>1.3.0</mariadb-r2dbc.version>
-    <mongodb.version>5.4.0</mongodb.version>
-    <mongodb-reactivestreams.version>5.4.0</mongodb-reactivestreams.version>
+    <mongodb.version>5.5.0</mongodb.version>
+    <mongodb-reactivestreams.version>5.5.0</mongodb-reactivestreams.version>
     <embedded-mongo.version>3.2.0</embedded-mongo.version>
     <fongo.version>2.1.1</fongo.version>
     <cassandra-driver.version>4.19.0</cassandra-driver.version>
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.8.0</flyway.version>
+    <flyway.version>11.8.1</flyway.version>
     <liquibase.version>4.31.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.0.2</flexy-pool.version>
@@ -277,7 +277,7 @@
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.2</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.23.1</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.24</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.6</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <!--apache-->
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.783</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.31.36</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.31.37</aws-java-sdk2.version>
     <google-gax.version>2.65.0</google-gax.version>
     <google-http-client.version>1.47.0</google-http-client.version>
     <google-cloud-bom.version>26.59.0</google-cloud-bom.version>
@@ -1621,7 +1621,7 @@
       <dependency>
         <groupId>io.r2dbc</groupId>
         <artifactId>r2dbc-proxy</artifactId>
-        <version>1.1.5.RELEASE</version>
+        <version>1.1.6.RELEASE</version>
       </dependency>
       <dependency>
         <groupId>org.jodd</groupId>
