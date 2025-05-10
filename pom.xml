@@ -48,7 +48,7 @@
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.30</dropwizard-metrics.version>
-    <opentelemetry.version>1.49.0</opentelemetry.version>
+    <opentelemetry.version>1.50.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.5.18</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
@@ -263,7 +263,7 @@
     <postgresql.version>42.7.5</postgresql.version>
     <jaybird.version>5.0.6.java11</jaybird.version>
     <jdbi.version>3.49.3</jdbi.version>
-    <couchbase-client.version>3.8.0</couchbase-client.version>
+    <couchbase-client.version>3.8.1</couchbase-client.version>
     <openjpa.version>4.1.0</openjpa.version>
     <mysql.version>9.3.0</mysql.version>
     <sqlserver.version>12.10.0.jre11</sqlserver.version>
@@ -276,7 +276,7 @@
     <jasypt.version>1.9.3</jasypt.version>
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
-    <nimbus-jose-jwt.version>10.2</nimbus-jose-jwt.version>
+    <nimbus-jose-jwt.version>10.3</nimbus-jose-jwt.version>
     <oauth2-oidc-sdk.version>11.24</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.6</jjwt.version>
     <totp.version>1.7.1</totp.version>
@@ -324,10 +324,10 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.783</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.31.39</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.31.40</aws-java-sdk2.version>
     <google-gax.version>2.65.0</google-gax.version>
     <google-http-client.version>1.47.0</google-http-client.version>
-    <google-cloud-bom.version>26.59.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.60.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>23.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>7.2.0</fabric8-kubernetes-client.version>
