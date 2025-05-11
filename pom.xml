@@ -166,7 +166,7 @@
     <zipkin-reporter2.version>3.5.0</zipkin-reporter2.version>
     <rsocket.versoin>1.1.5</rsocket.versoin>
     <!--servers-->
-    <jetty.version>12.0.16</jetty.version>
+    <jetty.version>12.0.20</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.18.Final</undertow.version>
     <jersey.version>4.0.0-M2</jersey.version>
