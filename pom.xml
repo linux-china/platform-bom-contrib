@@ -220,7 +220,7 @@
     <fastcsv.version>3.7.0</fastcsv.version>
     <dflib.version>2.0.0-M2</dflib.version>
     <!--persistence-->
-    <hibernate.version>6.6.15.Final</hibernate.version>
+    <hibernate.version>7.0.0.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.CR1</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.20.4</jooq.version>
@@ -264,7 +264,7 @@
     <jaybird.version>5.0.6.java11</jaybird.version>
     <jdbi.version>3.49.4</jdbi.version>
     <couchbase-client.version>3.8.1</couchbase-client.version>
-    <openjpa.version>4.1.0</openjpa.version>
+    <openjpa.version>4.1.1</openjpa.version>
     <mysql.version>9.3.0</mysql.version>
     <sqlserver.version>12.10.0.jre11</sqlserver.version>
     <oracle.version>23.7.0.25.01</oracle.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.783</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.31.45</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.31.46</aws-java-sdk2.version>
     <google-gax.version>2.66.0</google-gax.version>
     <google-http-client.version>1.47.0</google-http-client.version>
     <google-cloud-bom.version>26.60.0</google-cloud-bom.version>
