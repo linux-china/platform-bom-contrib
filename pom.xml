@@ -141,12 +141,12 @@
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
     <okhttp3.version>5.0.0-alpha.14</okhttp3.version>
-    <okio.version>3.11.0</okio.version>
+    <okio.version>3.12.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.2.1.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
-    <grpc.version>1.72.0</grpc.version>
+    <grpc.version>1.73.0</grpc.version>
     <asynchttpclient.version>3.0.2</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.783</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.31.50</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.31.51</aws-java-sdk2.version>
     <google-gax.version>2.66.0</google-gax.version>
     <google-http-client.version>1.47.0</google-http-client.version>
     <google-cloud-bom.version>26.61.0</google-cloud-bom.version>
