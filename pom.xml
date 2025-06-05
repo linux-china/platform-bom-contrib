@@ -144,7 +144,7 @@
     <okio.version>3.12.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.2.1.Final</netty.version>
+    <netty.version>4.2.2.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.73.0</grpc.version>
     <asynchttpclient.version>3.0.2</asynchttpclient.version>
@@ -225,7 +225,7 @@
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.20.4</jooq.version>
     <jedis.version>6.0.0</jedis.version>
-    <lettuce.version>6.7.0.RELEASE</lettuce.version>
+    <lettuce.version>6.7.1.RELEASE</lettuce.version>
     <caffeine.version>3.2.0</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
     <mybatis.version>3.5.19</mybatis.version>
