@@ -310,7 +310,7 @@
     <solr.version>9.8.1</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>11.0.8</tomcat.version>
-    <groovy.version>4.0.26</groovy.version>
+    <groovy.version>4.0.27</groovy.version>
     <zookeeper.version>3.9.3</zookeeper.version>
     <curator.version>5.8.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
@@ -323,8 +323,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.786</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.31.62</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.787</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.31.63</aws-java-sdk2.version>
     <google-gax.version>2.67.0</google-gax.version>
     <google-http-client.version>1.47.0</google-http-client.version>
     <google-cloud-bom.version>26.62.0</google-cloud-bom.version>
@@ -383,7 +383,7 @@
     <spring-cloud-stream.version>4.3.0</spring-cloud-stream.version>
     <spring-cloud-function.version>4.3.0</spring-cloud-function.version>
     <spring-cloud-gateway.version>4.3.0</spring-cloud-gateway.version>
-    <spring-ldap.version>3.3.0</spring-ldap.version>
+    <spring-ldap.version>3.3.1</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.2.5</spring-amqp.version>
     <rabbit-amqp-client.version>5.25.0</rabbit-amqp-client.version>
