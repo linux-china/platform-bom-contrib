@@ -88,7 +88,7 @@
     <bucket4j.version>8.10.1</bucket4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.0.2</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.32</swagger-oai.version>
+    <swagger-oai.version>2.2.33</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.4</google-truth.version>
@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.1</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2025.1.21</manifold.version>
+    <manifold.version>2025.1.22</manifold.version>
     <jilt.version>1.8.1</jilt.version>
     <graal-sdk.version>24.2.1</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
@@ -141,7 +141,7 @@
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
     <okhttp3.version>5.0.0-alpha.16</okhttp3.version>
-    <okio.version>3.12.0</okio.version>
+    <okio.version>3.13.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.2.2.Final</netty.version>
@@ -220,7 +220,7 @@
     <fastcsv.version>3.7.0</fastcsv.version>
     <dflib.version>2.0.0-M2</dflib.version>
     <!--persistence-->
-    <hibernate.version>7.0.1.Final</hibernate.version>
+    <hibernate.version>7.0.2.Final</hibernate.version>
     <hibernate-validator.version>9.0.0.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.20.5</jooq.version>
@@ -370,7 +370,7 @@
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE-hdp26</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-    <spring-data-bom.version>2025.0.0</spring-data-bom.version>
+    <spring-data-bom.version>2025.0.1</spring-data-bom.version>
     <spring-integration.version>6.5.0</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
