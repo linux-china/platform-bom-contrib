@@ -68,7 +68,7 @@
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.114</underscore.version>
-    <java-util.version>3.3.3</java-util.version>
+    <java-util.version>3.4.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.0-alpha-4</vavr.version>
@@ -335,7 +335,7 @@
     <sundr.version>0.200.3</sundr.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.1.21</kotlin.version>
+    <kotlin.version>2.2.0</kotlin.version>
     <kotlinx-coroutines.version>1.10.2</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.8.1</kotlinx-serialization.version>
     <jruby.version>10.0.0.1</jruby.version>
