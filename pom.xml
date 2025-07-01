@@ -102,8 +102,8 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.1</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2025.1.23</manifold.version>
-    <jilt.version>1.8.1</jilt.version>
+    <manifold.version>2025.1.24</manifold.version>
+    <jilt.version>1.8.2</jilt.version>
     <graal-sdk.version>24.2.1</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
     <!--testing-->
@@ -116,7 +116,7 @@
     <mockito.version>5.18.0</mockito.version>
     <htmlunit.version>4.13.0</htmlunit.version>
     <testng.version>7.11.0</testng.version>
-    <selenium.version>4.33.0</selenium.version>
+    <selenium.version>4.34.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>2.0-rc1</jsonassert.version>
     <json-smart.version>2.5.2</json-smart.version>
@@ -140,7 +140,7 @@
     <junit-pioneer.version>2.3.0</junit-pioneer.version>
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
-    <okhttp3.version>5.0.0-alpha.16</okhttp3.version>
+    <okhttp3.version>5.0.0-alpha.17</okhttp3.version>
     <okio.version>3.14.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -203,7 +203,7 @@
     <rometools.version>2.1.0</rometools.version>
     <xmlprojector.version>1.4.24</xmlprojector.version>
     <freemarker.version>2.3.34</freemarker.version>
-    <dom4j-java8.version>2.1.4</dom4j-java8.version>
+    <dom4j-java8.version>2.2.0</dom4j-java8.version>
     <hessian.version>4.0.66</hessian.version>
     <xmlunit.version>2.10.3</xmlunit.version>
     <xstream.version>1.4.21</xstream.version>
@@ -218,7 +218,7 @@
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>22.4</graphql-java.version>
     <fastcsv.version>4.0.0</fastcsv.version>
-    <dflib.version>2.0.0-M2</dflib.version>
+    <dflib.version>2.0.0-M3</dflib.version>
     <!--persistence-->
     <hibernate.version>7.0.4.Final</hibernate.version>
     <hibernate-validator.version>9.0.1.Final</hibernate-validator.version>
@@ -247,7 +247,7 @@
     <flexy-pool.version>3.0.2</flexy-pool.version>
     <h2.version>2.3.232</h2.version>
     <hsqldb.version>2.7.4</hsqldb.version>
-    <sqlite-jdbc.version>3.50.1.0</sqlite-jdbc.version>
+    <sqlite-jdbc.version>3.50.2.0</sqlite-jdbc.version>
     <neo4j-java-driver.version>5.28.5</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.787</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.31.73</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.31.74</aws-java-sdk2.version>
     <google-gax.version>2.68.0</google-gax.version>
     <google-http-client.version>1.47.1</google-http-client.version>
     <google-cloud-bom.version>26.62.0</google-cloud-bom.version>
