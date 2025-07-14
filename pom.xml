@@ -68,7 +68,7 @@
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.115</underscore.version>
-    <java-util.version>3.5.0</java-util.version>
+    <java-util.version>3.6.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.0-alpha-4</vavr.version>
@@ -102,7 +102,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.1</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2025.1.24</manifold.version>
+    <manifold.version>2025.1.25</manifold.version>
     <jilt.version>1.8.2</jilt.version>
     <graal-sdk.version>24.2.1</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
@@ -111,7 +111,7 @@
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
-    <data-faker.version>2.4.3</data-faker.version>
+    <data-faker.version>2.4.4</data-faker.version>
     <instancio.version>5.4.1</instancio.version>
     <mockito.version>5.18.0</mockito.version>
     <htmlunit.version>4.13.0</htmlunit.version>
@@ -144,7 +144,7 @@
     <okio.version>3.15.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.2.2.Final</netty.version>
+    <netty.version>4.2.3.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.73.0</grpc.version>
     <asynchttpclient.version>3.0.2</asynchttpclient.version>
@@ -226,7 +226,7 @@
     <jooq.version>3.20.5</jooq.version>
     <jedis.version>6.0.0</jedis.version>
     <lettuce.version>6.7.1.RELEASE</lettuce.version>
-    <caffeine.version>3.2.1</caffeine.version>
+    <caffeine.version>3.2.2</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
     <mybatis.version>3.5.19</mybatis.version>
     <mybatis-spring.version>3.0.5</mybatis-spring.version>
@@ -263,7 +263,7 @@
     <postgresql.version>42.7.7</postgresql.version>
     <jaybird.version>5.0.6.java11</jaybird.version>
     <jdbi.version>3.49.5</jdbi.version>
-    <couchbase-client.version>3.8.2</couchbase-client.version>
+    <couchbase-client.version>3.8.3</couchbase-client.version>
     <openjpa.version>4.1.1</openjpa.version>
     <mysql.version>9.3.0</mysql.version>
     <sqlserver.version>12.10.1.jre11</sqlserver.version>
@@ -305,7 +305,7 @@
     <poi.version>5.4.1</poi.version>
     <kafka.version>3.9.1</kafka.version>
     <pulsar.version>4.0.5</pulsar.version>
-    <log4j2.version>2.25.0</log4j2.version>
+    <log4j2.version>2.25.1</log4j2.version>
     <jboss-logging.version>3.6.1.Final</jboss-logging.version>
     <solr.version>9.8.1</solr.version>
     <bsh.version>2.0b5</bsh.version>
@@ -335,7 +335,7 @@
     <sundr.version>0.200.3</sundr.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.2.0</kotlin.version>
+    <kotlin.version>2.2.20-Beta1</kotlin.version>
     <kotlinx-coroutines.version>1.10.2</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.9.0</kotlinx-serialization.version>
     <jruby.version>10.0.0.1</jruby.version>
@@ -400,8 +400,8 @@
     <spring-shell.version>3.4.0</spring-shell.version>
     <reactor-bom.version>2024.0.7</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
-    <micrometer.version>1.15.1</micrometer.version>
-    <micrometer-tracing.version>1.5.1</micrometer-tracing.version>
+    <micrometer.version>1.15.2</micrometer.version>
+    <micrometer-tracing.version>1.5.2</micrometer-tracing.version>
     <spring-webflow.version>3.0.1</spring-webflow.version>
   </properties>
 
