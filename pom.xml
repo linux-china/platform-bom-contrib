@@ -68,7 +68,7 @@
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.115</underscore.version>
-    <java-util.version>3.6.0</java-util.version>
+    <java-util.version>3.7.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.0-alpha-4</vavr.version>
@@ -97,14 +97,14 @@
     <aspectj.version>1.9.24</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
     <lombok.version>1.18.38</lombok.version>
-    <immutables.version>2.11.0</immutables.version>
+    <immutables.version>2.11.1</immutables.version>
     <audit4j.version>2.6.0</audit4j.version>
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.1</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
     <manifold.version>2025.1.25</manifold.version>
     <jilt.version>1.8.2</jilt.version>
-    <graal-sdk.version>24.2.1</graal-sdk.version>
+    <graal-sdk.version>24.2.2</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
     <!--testing-->
     <junit5.version>5.13.3</junit5.version>
@@ -220,7 +220,7 @@
     <fastcsv.version>4.0.0</fastcsv.version>
     <dflib.version>2.0.0-M3</dflib.version>
     <!--persistence-->
-    <hibernate.version>7.0.5.Final</hibernate.version>
+    <hibernate.version>7.0.6.Final</hibernate.version>
     <hibernate-validator.version>9.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.20.5</jooq.version>
