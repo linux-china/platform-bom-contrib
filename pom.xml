@@ -241,7 +241,7 @@
     <ehcache3.version>3.10.8</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.10.2</flyway.version>
+    <flyway.version>11.10.3</flyway.version>
     <liquibase.version>4.33.0</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.0.2</flexy-pool.version>
@@ -315,7 +315,7 @@
     <curator.version>5.8.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
     <activemq.version>6.1.7</activemq.version>
-    <artemis.version>2.41.0</artemis.version>
+    <artemis.version>2.42.0</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
     <svnkit.version>1.10.11</svnkit.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.788</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.32.2</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.32.3</aws-java-sdk2.version>
     <google-gax.version>2.68.1</google-gax.version>
     <google-http-client.version>1.47.1</google-http-client.version>
     <google-cloud-bom.version>26.64.0</google-cloud-bom.version>
@@ -356,8 +356,8 @@
     <angus-mail.version>2.0.3</angus-mail.version>
     <simplejavamail.version>8.12.6</simplejavamail.version>
     <!--springsource-->
-    <spring.version>6.2.8</spring.version>
-    <spring-framework.version>6.2.8</spring-framework.version>
+    <spring.version>6.2.9</spring.version>
+    <spring-framework.version>6.2.9</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.2.1</spring-batch.version>
     <spring-ws.version>4.1.0</spring-ws.version>
