@@ -112,7 +112,7 @@
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.4.4</data-faker.version>
-    <instancio.version>5.4.1</instancio.version>
+    <instancio.version>5.5.0</instancio.version>
     <mockito.version>5.18.0</mockito.version>
     <htmlunit.version>4.13.0</htmlunit.version>
     <testng.version>7.11.0</testng.version>
@@ -277,7 +277,7 @@
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.4</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.26</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.26.1</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.6</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <!--apache-->
@@ -296,7 +296,7 @@
     <commons-csv.version>1.14.0</commons-csv.version>
     <commons-crypto.version>1.2.0</commons-crypto.version>
     <commons-configuration2.version>2.12.0</commons-configuration2.version>
-    <commons-text.version>1.13.1</commons-text.version>
+    <commons-text.version>1.14.0</commons-text.version>
     <commons-vfs2.version>2.10.0</commons-vfs2.version>
     <commons-pool2.version>2.12.1</commons-pool2.version>
     <commons-dbcp2.version>2.13.0</commons-dbcp2.version>
@@ -307,7 +307,7 @@
     <pulsar.version>4.0.5</pulsar.version>
     <log4j2.version>2.25.1</log4j2.version>
     <jboss-logging.version>3.6.1.Final</jboss-logging.version>
-    <solr.version>9.8.1</solr.version>
+    <solr.version>9.9.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>11.0.9</tomcat.version>
     <groovy.version>4.0.28</groovy.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.788</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.32.7</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.32.8</aws-java-sdk2.version>
     <google-gax.version>2.68.2</google-gax.version>
     <google-http-client.version>1.47.1</google-http-client.version>
     <google-cloud-bom.version>26.64.0</google-cloud-bom.version>
