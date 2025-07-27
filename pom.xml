@@ -68,7 +68,7 @@
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.115</underscore.version>
-    <java-util.version>3.8.0</java-util.version>
+    <java-util.version>3.9.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.0-alpha-4</vavr.version>
@@ -324,7 +324,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.788</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.32.8</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.32.9</aws-java-sdk2.version>
     <google-gax.version>2.68.2</google-gax.version>
     <google-http-client.version>1.47.1</google-http-client.version>
     <google-cloud-bom.version>26.64.0</google-cloud-bom.version>
