@@ -146,7 +146,7 @@
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.2.3.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
-    <grpc.version>1.73.0</grpc.version>
+    <grpc.version>1.74.0</grpc.version>
     <asynchttpclient.version>3.0.2</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
@@ -157,7 +157,6 @@
     <javax-mail.version>1.6.3</javax-mail.version>
     <sun-mail.version>2.0.1</sun-mail.version>
     <javax-cache.version>1.1.1</javax-cache.version>
-    <javax-validation.version>2.0.1.Final</javax-validation.version>
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
     <jsch2.version>2.27.2</jsch2.version>
@@ -220,7 +219,7 @@
     <fastcsv.version>4.0.0</fastcsv.version>
     <dflib.version>2.0.0-M3</dflib.version>
     <!--persistence-->
-    <hibernate.version>7.0.7.Final</hibernate.version>
+    <hibernate.version>7.0.8.Final</hibernate.version>
     <hibernate-validator.version>9.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.20.5</jooq.version>
@@ -257,7 +256,7 @@
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
     <infinispan.version>15.2.5.Final</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
-    <hikaricp.version>6.3.2</hikaricp.version>
+    <hikaricp.version>7.0.0</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
     <unboundid-ldapsdk.version>7.0.2</unboundid-ldapsdk.version>
     <postgresql.version>42.7.7</postgresql.version>
@@ -267,7 +266,7 @@
     <openjpa.version>4.1.1</openjpa.version>
     <mysql.version>9.3.0</mysql.version>
     <sqlserver.version>12.10.1.jre11</sqlserver.version>
-    <oracle.version>23.8.0.25.04</oracle.version>
+    <oracle.version>23.9.0.25.07</oracle.version>
     <influxdb-java.version>2.25</influxdb-java.version>
     <r2dbc-bom.version>Borca-SR2</r2dbc-bom.version>
     <datastax.version>4.17.0</datastax.version>
@@ -277,7 +276,7 @@
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.4</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.26.1</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.27</oauth2-oidc-sdk.version>
     <jjwt.version>0.12.6</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <!--apache-->
@@ -324,7 +323,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.788</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.32.9</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.32.10</aws-java-sdk2.version>
     <google-gax.version>2.68.2</google-gax.version>
     <google-http-client.version>1.47.1</google-http-client.version>
     <google-cloud-bom.version>26.64.0</google-cloud-bom.version>
