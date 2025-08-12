@@ -219,7 +219,7 @@
     <fastcsv.version>4.0.0</fastcsv.version>
     <dflib.version>2.0.0-M3</dflib.version>
     <!--persistence-->
-    <hibernate.version>7.0.8.Final</hibernate.version>
+    <hibernate.version>7.1.0.Final</hibernate.version>
     <hibernate-validator.version>9.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.20.5</jooq.version>
@@ -323,7 +323,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.788</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.32.19</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.32.20</aws-java-sdk2.version>
     <google-gax.version>2.69.0</google-gax.version>
     <google-http-client.version>1.47.1</google-http-client.version>
     <google-cloud-bom.version>26.65.0</google-cloud-bom.version>
