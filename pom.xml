@@ -47,7 +47,7 @@
     <twelvemonkeys-imageio.version>3.12.0</twelvemonkeys-imageio.version>
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
-    <dropwizard-metrics.version>4.2.34</dropwizard-metrics.version>
+    <dropwizard-metrics.version>4.2.35</dropwizard-metrics.version>
     <opentelemetry.version>1.53.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.5.18</logback.version>
@@ -114,7 +114,7 @@
     <data-faker.version>2.4.4</data-faker.version>
     <instancio.version>5.5.1</instancio.version>
     <mockito.version>5.19.0</mockito.version>
-    <htmlunit.version>4.15.0</htmlunit.version>
+    <htmlunit.version>4.16.0</htmlunit.version>
     <testng.version>7.11.0</testng.version>
     <selenium.version>4.35.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
@@ -168,11 +168,11 @@
     <jetty.version>12.1.0</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.18.Final</undertow.version>
-    <jersey.version>4.0.0-M2</jersey.version>
+    <jersey.version>4.0.0-M3</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.3</jsqlparser.version>
     <javaparser.version>3.27.0</javaparser.version>
-    <jackson.version>2.20.0-rc1</jackson.version>
+    <jackson.version>2.20.0</jackson.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.0</classmate.version>
     <snakeyaml.version>2.4</snakeyaml.version>
@@ -185,7 +185,7 @@
     <itext.version>4.2.2</itext.version>
     <json.version>20250517</json.version>
     <kryo.version>4.0.3</kryo.version>
-    <jsoup.version>1.21.1</jsoup.version>
+    <jsoup.version>1.21.2</jsoup.version>
     <thymeleaf.version>3.1.3.RELEASE</thymeleaf.version>
     <thymeleaf-layout-dialect.version>3.4.0</thymeleaf-layout-dialect.version>
     <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
@@ -223,7 +223,7 @@
     <hibernate-validator.version>9.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.20.6</jooq.version>
-    <jedis.version>6.1.0</jedis.version>
+    <jedis.version>6.2.0</jedis.version>
     <lettuce.version>6.8.0.RELEASE</lettuce.version>
     <caffeine.version>3.2.2</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
@@ -237,7 +237,7 @@
     <embedded-mongo.version>3.2.0</embedded-mongo.version>
     <fongo.version>2.1.1</fongo.version>
     <cassandra-driver.version>4.19.0</cassandra-driver.version>
-    <ehcache3.version>3.11.0</ehcache3.version>
+    <ehcache3.version>3.11.1</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
     <flyway.version>11.11.2</flyway.version>
@@ -276,13 +276,13 @@
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.4.2</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.27.1</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.28</oauth2-oidc-sdk.version>
     <jjwt.version>0.13.0</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <!--apache-->
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
-    <httpcore5.version>5.3.4</httpcore5.version>
+    <httpcore5.version>5.3.5</httpcore5.version>
     <httpclient5.version>5.5</httpclient5.version>
     <commons-cli.version>1.10.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
@@ -310,7 +310,7 @@
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>11.0.10</tomcat.version>
     <groovy.version>5.0.0</groovy.version>
-    <zookeeper.version>3.9.3</zookeeper.version>
+    <zookeeper.version>3.9.4</zookeeper.version>
     <curator.version>5.9.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
     <activemq.version>6.1.7</activemq.version>
@@ -323,15 +323,15 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.788</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.32.31</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.33.0</aws-java-sdk2.version>
     <google-gax.version>2.70.0</google-gax.version>
     <google-http-client.version>2.0.0</google-http-client.version>
-    <google-cloud-bom.version>26.66.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.67.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>24.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>7.3.1</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
-    <sundr.version>0.200.13</sundr.version>
+    <sundr.version>0.201.0</sundr.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
     <kotlin.version>2.2.20-RC</kotlin.version>
