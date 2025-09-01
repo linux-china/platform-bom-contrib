@@ -47,7 +47,7 @@
     <twelvemonkeys-imageio.version>3.12.0</twelvemonkeys-imageio.version>
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
-    <dropwizard-metrics.version>4.2.35</dropwizard-metrics.version>
+    <dropwizard-metrics.version>4.2.36</dropwizard-metrics.version>
     <opentelemetry.version>1.53.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.5.18</logback.version>
@@ -175,7 +175,7 @@
     <jackson.version>2.20.0</jackson.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.0</classmate.version>
-    <snakeyaml.version>2.4</snakeyaml.version>
+    <snakeyaml.version>2.5</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.13.1</gson.version>
     <protobuf.version>4.32.0</protobuf.version>
@@ -355,8 +355,8 @@
     <angus-mail.version>2.0.4</angus-mail.version>
     <simplejavamail.version>8.12.6</simplejavamail.version>
     <!--springsource-->
-    <spring.version>6.2.9</spring.version>
-    <spring-framework.version>6.2.9</spring-framework.version>
+    <spring.version>6.2.10</spring.version>
+    <spring-framework.version>6.2.10</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.2.1</spring-batch.version>
     <spring-ws.version>4.1.1</spring-ws.version>
