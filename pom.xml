@@ -144,7 +144,7 @@
     <okio.version>3.16.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.2.4.Final</netty.version>
+    <netty.version>4.2.5.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.75.0</grpc.version>
     <asynchttpclient.version>3.0.2</asynchttpclient.version>
@@ -322,8 +322,8 @@
     <apache-geode.version>1.15.1</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.788</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.33.1</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.789</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.33.2</aws-java-sdk2.version>
     <google-gax.version>2.70.0</google-gax.version>
     <google-http-client.version>2.0.0</google-http-client.version>
     <google-cloud-bom.version>26.67.0</google-cloud-bom.version>
