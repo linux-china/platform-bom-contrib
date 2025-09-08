@@ -147,7 +147,7 @@
     <netty.version>4.2.5.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.75.0</grpc.version>
-    <asynchttpclient.version>3.0.2</asynchttpclient.version>
+    <asynchttpclient.version>3.0.3</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
     <searchbox-jest.version>6.3.1</searchbox-jest.version>
@@ -167,7 +167,7 @@
     <!--servers-->
     <jetty.version>12.1.0</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
-    <undertow.version>2.3.18.Final</undertow.version>
+    <undertow.version>2.3.19.Final</undertow.version>
     <jersey.version>4.0.0-M3</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.3</jsqlparser.version>
@@ -262,7 +262,7 @@
     <postgresql.version>42.7.7</postgresql.version>
     <jaybird.version>5.0.6.java11</jaybird.version>
     <jdbi.version>3.49.5</jdbi.version>
-    <couchbase-client.version>3.9.0</couchbase-client.version>
+    <couchbase-client.version>3.9.1</couchbase-client.version>
     <openjpa.version>4.1.1</openjpa.version>
     <mysql.version>9.4.0</mysql.version>
     <sqlserver.version>13.2.0.jre11</sqlserver.version>
@@ -275,7 +275,7 @@
     <jasypt.version>1.9.3</jasypt.version>
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
-    <nimbus-jose-jwt.version>10.4.2</nimbus-jose-jwt.version>
+    <nimbus-jose-jwt.version>10.5</nimbus-jose-jwt.version>
     <oauth2-oidc-sdk.version>11.28</oauth2-oidc-sdk.version>
     <jjwt.version>0.13.0</jjwt.version>
     <totp.version>1.7.1</totp.version>
