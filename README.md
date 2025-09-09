@@ -179,6 +179,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * DFLib: In-memory Java DataFrame library - https://github.com/dflib/dflib
 * SootUp: a complete overhaul of the good, old static analysis framework https://soot-oss.github.io/SootUp/latest/
 * [RecordBuilder](https://github.com/Randgalt/record-builder): Record builder generator for Java records
+* [Password4j](https://github.com/Password4j/password4j): Java cryptographic library that supports Argon2, bcrypt, scrypt and PBKDF2 aimed to protect passwords in databases
 
 ### Developer Notice
 
