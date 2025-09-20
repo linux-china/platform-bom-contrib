@@ -323,7 +323,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.791</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.33.12</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.34.0</aws-java-sdk2.version>
     <google-gax.version>2.70.2</google-gax.version>
     <google-http-client.version>2.0.0</google-http-client.version>
     <google-cloud-bom.version>26.68.0</google-cloud-bom.version>
@@ -352,7 +352,7 @@
     <javax-transaction.version>1.3</javax-transaction.version>
     <javax-money.version>1.1</javax-money.version>
     <moneta.version>1.4.5</moneta.version>  <!-- javax money -->
-    <angus-mail.version>2.0.4</angus-mail.version>
+    <angus-mail.version>2.1.0-M1</angus-mail.version>
     <simplejavamail.version>8.12.6</simplejavamail.version>
     <!--springsource-->
     <spring.version>6.2.11</spring.version>
