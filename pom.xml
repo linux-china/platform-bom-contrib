@@ -53,7 +53,7 @@
     <logback.version>1.5.18</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.9</flogger.version>
-    <jna.version>5.17.0</jna.version>
+    <jna.version>5.18.0</jna.version>
     <prometheus-client.version>1.4.1</prometheus-client.version>
     <!--productivity & tools-->
     <functionaljava.version>5.0</functionaljava.version>
@@ -276,7 +276,7 @@
     <bouncycastle.version>1.70</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.5</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.28</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.29.1</oauth2-oidc-sdk.version>
     <jjwt.version>0.13.0</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <!--apache-->
@@ -304,7 +304,7 @@
     <poi.version>5.4.1</poi.version>
     <kafka.version>3.9.1</kafka.version>
     <pulsar.version>4.1.0</pulsar.version>
-    <log4j2.version>2.25.1</log4j2.version>
+    <log4j2.version>2.25.2</log4j2.version>
     <jboss-logging.version>3.6.1.Final</jboss-logging.version>
     <solr.version>9.9.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
@@ -323,7 +323,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.791</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.34.0</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.34.1</aws-java-sdk2.version>
     <google-gax.version>2.70.2</google-gax.version>
     <google-http-client.version>2.0.0</google-http-client.version>
     <google-cloud-bom.version>26.68.0</google-cloud-bom.version>
