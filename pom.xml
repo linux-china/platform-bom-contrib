@@ -111,7 +111,7 @@
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
-    <data-faker.version>2.5.0</data-faker.version>
+    <data-faker.version>2.5.1</data-faker.version>
     <instancio.version>5.5.1</instancio.version>
     <mockito.version>5.20.0</mockito.version>
     <htmlunit.version>4.16.0</htmlunit.version>
@@ -168,7 +168,7 @@
     <jetty.version>12.1.1</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.19.Final</undertow.version>
-    <jersey.version>4.0.0-M3</jersey.version>
+    <jersey.version>4.0.0-M4</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.3</jsqlparser.version>
     <javaparser.version>3.27.0</javaparser.version>
@@ -244,7 +244,7 @@
     <liquibase.version>4.33.0</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.0.2</flexy-pool.version>
-    <h2.version>2.3.232</h2.version>
+    <h2.version>2.3.240</h2.version>
     <hsqldb.version>2.7.4</hsqldb.version>
     <sqlite-jdbc.version>3.50.3.0</sqlite-jdbc.version>
     <neo4j-java-driver.version>5.28.5</neo4j-java-driver.version>
@@ -323,7 +323,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.791</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.34.2</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.34.3</aws-java-sdk2.version>
     <google-gax.version>2.70.2</google-gax.version>
     <google-http-client.version>2.0.0</google-http-client.version>
     <google-cloud-bom.version>26.68.0</google-cloud-bom.version>
