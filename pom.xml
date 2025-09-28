@@ -86,6 +86,7 @@
     <nuprocess.version>3.0.0</nuprocess.version>
     <uuid-creator.version>6.1.1</uuid-creator.version>
     <bucket4j.version>8.10.1</bucket4j.version>
+    <gatherers4j.version>0.12.0</gatherers4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.0.2</jetbrains-annotations.version>
     <swagger-oai.version>2.2.37</swagger-oai.version>
@@ -1573,6 +1574,11 @@
         <groupId>com.github.curious-odd-man</groupId>
         <artifactId>rgxgen</artifactId>
         <version>${rgxgen.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>com.ginsberg</groupId>
+        <artifactId>gatherers4j</artifactId>
+        <version>${gatherers4j.version}</version>
       </dependency>
       <dependency>
         <groupId>io.prometheus</groupId>
