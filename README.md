@@ -180,6 +180,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * SootUp: a complete overhaul of the good, old static analysis framework https://soot-oss.github.io/SootUp/latest/
 * [RecordBuilder](https://github.com/Randgalt/record-builder): Record builder generator for Java records
 * [Password4j](https://github.com/Password4j/password4j): Java cryptographic library that supports Argon2, bcrypt, scrypt and PBKDF2 aimed to protect passwords in databases
+* [gatherers4j](https://github.com/tginsberg/gatherers4j): A library of useful Stream Gatherers (custom intermediate operations) for Java 25+.
 
 ### Developer Notice
 
