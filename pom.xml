@@ -174,6 +174,7 @@
     <jsqlparser.version>5.3</jsqlparser.version>
     <javaparser.version>3.27.1</javaparser.version>
     <jackson.version>2.20.0</jackson.version>
+    <jackson3.version>3.0.0</jackson3.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.1</classmate.version>
     <snakeyaml.version>2.5</snakeyaml.version>
@@ -503,6 +504,13 @@
         <groupId>com.fasterxml.jackson</groupId>
         <artifactId>jackson-bom</artifactId>
         <version>${jackson.version}</version>
+        <scope>import</scope>
+        <type>pom</type>
+      </dependency>
+      <dependency>
+        <groupId>tools.jackson</groupId>
+        <artifactId>jackson-bom</artifactId>
+        <version>${jackson3.version}</version>
         <scope>import</scope>
         <type>pom</type>
       </dependency>
