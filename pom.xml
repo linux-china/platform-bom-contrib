@@ -115,7 +115,7 @@
     <data-faker.version>2.5.1</data-faker.version>
     <instancio.version>5.5.1</instancio.version>
     <mockito.version>5.20.0</mockito.version>
-    <htmlunit.version>4.16.0</htmlunit.version>
+    <htmlunit.version>4.17.0</htmlunit.version>
     <testng.version>7.11.0</testng.version>
     <selenium.version>4.36.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
@@ -234,15 +234,15 @@
     <javax-jdo.version>3.1</javax-jdo.version>
     <mariadb.version>3.5.6</mariadb.version>
     <mariadb-r2dbc.version>1.3.0</mariadb-r2dbc.version>
-    <mongodb.version>5.6.0</mongodb.version>
-    <mongodb-reactivestreams.version>5.6.0</mongodb-reactivestreams.version>
+    <mongodb.version>5.6.1</mongodb.version>
+    <mongodb-reactivestreams.version>5.6.1</mongodb-reactivestreams.version>
     <embedded-mongo.version>3.2.0</embedded-mongo.version>
     <fongo.version>2.1.1</fongo.version>
     <cassandra-driver.version>4.19.0</cassandra-driver.version>
     <ehcache3.version>3.11.1</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.13.2</flyway.version>
+    <flyway.version>11.13.3</flyway.version>
     <liquibase.version>5.0.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.0.2</flexy-pool.version>
@@ -325,7 +325,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.792</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.35.0</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.35.2</aws-java-sdk2.version>
     <google-gax.version>2.70.3</google-gax.version>
     <google-http-client.version>2.0.1</google-http-client.version>
     <google-cloud-bom.version>26.69.0</google-cloud-bom.version>
@@ -1632,7 +1632,7 @@
       <dependency>
         <groupId>io.r2dbc</groupId>
         <artifactId>r2dbc-postgresql</artifactId>
-        <version>1.0.7.RELEASE</version>
+        <version>1.1.0.RELEASE</version>
       </dependency>
       <dependency>
         <groupId>io.asyncer</groupId>
