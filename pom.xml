@@ -98,7 +98,7 @@
     <aspectj.version>1.9.24</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
     <lombok.version>1.18.42</lombok.version>
-    <immutables.version>2.11.4</immutables.version>
+    <immutables.version>2.11.6</immutables.version>
     <audit4j.version>2.6.0</audit4j.version>
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.2</threetenbp.version>
@@ -112,7 +112,7 @@
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
-    <data-faker.version>2.5.1</data-faker.version>
+    <data-faker.version>2.5.2</data-faker.version>
     <instancio.version>5.5.1</instancio.version>
     <mockito.version>5.20.0</mockito.version>
     <htmlunit.version>4.17.0</htmlunit.version>
@@ -141,13 +141,13 @@
     <junit-pioneer.version>2.3.0</junit-pioneer.version>
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
-    <okhttp3.version>5.1.0</okhttp3.version>
-    <okio.version>3.16.0</okio.version>
+    <okhttp3.version>5.2.1</okhttp3.version>
+    <okio.version>3.16.1</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.2.6.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
-    <grpc.version>1.75.0</grpc.version>
+    <grpc.version>1.76.0</grpc.version>
     <asynchttpclient.version>3.0.3</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
@@ -168,7 +168,7 @@
     <!--servers-->
     <jetty.version>12.1.2</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
-    <undertow.version>2.3.19.Final</undertow.version>
+    <undertow.version>2.3.20.Final</undertow.version>
     <jersey.version>4.0.0-M4</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.3</jsqlparser.version>
@@ -218,14 +218,14 @@
     <evo-inflector.version>1.3</evo-inflector.version>
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>24.3</graphql-java.version>
-    <fastcsv.version>4.0.0</fastcsv.version>
+    <fastcsv.version>4.1.0</fastcsv.version>
     <dflib.version>2.0.0-M4</dflib.version>
     <!--persistence-->
     <hibernate.version>7.1.3.Final</hibernate.version>
     <hibernate-validator.version>9.0.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.20.8</jooq.version>
-    <jedis.version>6.2.0</jedis.version>
+    <jedis.version>7.0.0</jedis.version>
     <lettuce.version>6.8.1.RELEASE</lettuce.version>
     <caffeine.version>3.2.2</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
@@ -242,7 +242,7 @@
     <ehcache3.version>3.11.1</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.13.3</flyway.version>
+    <flyway.version>11.14.0</flyway.version>
     <liquibase.version>5.0.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.0.2</flexy-pool.version>
@@ -260,11 +260,11 @@
     <querydsl.version>5.1.0</querydsl.version>
     <hikaricp.version>7.0.2</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
-    <unboundid-ldapsdk.version>7.0.2</unboundid-ldapsdk.version>
+    <unboundid-ldapsdk.version>7.0.3</unboundid-ldapsdk.version>
     <postgresql.version>42.7.8</postgresql.version>
     <jaybird.version>5.0.6.java11</jaybird.version>
     <jdbi.version>3.49.6</jdbi.version>
-    <couchbase-client.version>3.9.1</couchbase-client.version>
+    <couchbase-client.version>3.9.2</couchbase-client.version>
     <openjpa.version>4.1.1</openjpa.version>
     <mysql.version>9.4.0</mysql.version>
     <sqlserver.version>13.2.0.jre11</sqlserver.version>
@@ -325,10 +325,10 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.792</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.35.3</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.35.5</aws-java-sdk2.version>
     <google-gax.version>2.70.3</google-gax.version>
     <google-http-client.version>2.0.1</google-http-client.version>
-    <google-cloud-bom.version>26.69.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.70.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>24.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>7.4.0</fabric8-kubernetes-client.version>
@@ -384,7 +384,7 @@
     <spring-cloud-stream.version>4.3.0</spring-cloud-stream.version>
     <spring-cloud-function.version>4.3.0</spring-cloud-function.version>
     <spring-cloud-gateway.version>4.3.1</spring-cloud-gateway.version>
-    <spring-ldap.version>3.3.1</spring-ldap.version>
+    <spring-ldap.version>3.3.3</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.2.7</spring-amqp.version>
     <rabbit-amqp-client.version>5.26.0</rabbit-amqp-client.version>
