@@ -48,7 +48,7 @@
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.37</dropwizard-metrics.version>
-    <opentelemetry.version>1.54.1</opentelemetry.version>
+    <opentelemetry.version>1.55.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.5.19</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
@@ -89,7 +89,7 @@
     <gatherers4j.version>0.12.0</gatherers4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.0.2-1</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.38</swagger-oai.version>
+    <swagger-oai.version>2.2.39</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.5</google-truth.version>
@@ -252,7 +252,7 @@
     <neo4j-java-driver.version>5.28.5</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
-    <elasticsearch.version>9.1.0</elasticsearch.version>
+    <elasticsearch.version>9.1.5</elasticsearch.version>
     <hazelcast.version>5.5.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -325,9 +325,9 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.792</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.35.5</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.35.6</aws-java-sdk2.version>
     <google-gax.version>2.70.3</google-gax.version>
-    <google-http-client.version>2.0.1</google-http-client.version>
+    <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.70.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>24.0.0</kubernetes-client.version>
@@ -402,8 +402,8 @@
     <reactor-bom.version>2024.0.10</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <rxjava3.version>3.1.12</rxjava3.version>
-    <micrometer.version>1.15.4</micrometer.version>
-    <micrometer-tracing.version>1.5.2</micrometer-tracing.version>
+    <micrometer.version>1.15.5</micrometer.version>
+    <micrometer-tracing.version>1.5.5</micrometer-tracing.version>
     <spring-webflow.version>3.0.1</spring-webflow.version>
   </properties>
 
