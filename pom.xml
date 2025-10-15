@@ -142,7 +142,7 @@
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
     <okhttp3.version>5.2.1</okhttp3.version>
-    <okio.version>3.16.1</okio.version>
+    <okio.version>3.16.2</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.2.6.Final</netty.version>
@@ -310,7 +310,7 @@
     <jboss-logging.version>3.6.1.Final</jboss-logging.version>
     <solr.version>9.9.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
-    <tomcat.version>11.0.12</tomcat.version>
+    <tomcat.version>11.0.13</tomcat.version>
     <groovy.version>5.0.1</groovy.version>
     <zookeeper.version>3.9.4</zookeeper.version>
     <curator.version>5.9.0</curator.version>
@@ -325,7 +325,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.792</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.35.6</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.35.7</aws-java-sdk2.version>
     <google-gax.version>2.70.3</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.70.0</google-cloud-bom.version>
@@ -399,7 +399,7 @@
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
     <spring-shell.version>3.4.1</spring-shell.version>
-    <reactor-bom.version>2024.0.10</reactor-bom.version>
+    <reactor-bom.version>2024.0.11</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <rxjava3.version>3.1.12</rxjava3.version>
     <micrometer.version>1.15.5</micrometer.version>
