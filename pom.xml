@@ -145,7 +145,7 @@
     <okio.version>3.16.2</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.2.6.Final</netty.version>
+    <netty.version>4.2.7.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.76.0</grpc.version>
     <asynchttpclient.version>3.0.3</asynchttpclient.version>
@@ -180,7 +180,7 @@
     <snakeyaml.version>2.5</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.13.2</gson.version>
-    <protobuf.version>4.32.1</protobuf.version>
+    <protobuf.version>4.33.0</protobuf.version>
     <json-smart.versfion>2.5.2</json-smart.versfion>
     <json-path.version>2.9.0</json-path.version>
     <json-masker.version>1.1.2</json-masker.version>
@@ -242,7 +242,7 @@
     <ehcache3.version>3.11.1</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.14.0</flyway.version>
+    <flyway.version>11.14.1</flyway.version>
     <liquibase.version>5.0.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.0.2</flexy-pool.version>
@@ -253,7 +253,7 @@
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
     <elasticsearch.version>9.1.5</elasticsearch.version>
-    <hazelcast.version>5.5.0</hazelcast.version>
+    <hazelcast.version>5.6.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
     <infinispan.version>15.2.6.Final</infinispan.version>
@@ -267,7 +267,7 @@
     <couchbase-client.version>3.9.2</couchbase-client.version>
     <openjpa.version>4.1.1</openjpa.version>
     <mysql.version>9.4.0</mysql.version>
-    <sqlserver.version>13.2.0.jre11</sqlserver.version>
+    <sqlserver.version>13.2.1.jre11</sqlserver.version>
     <oracle.version>23.9.0.25.07</oracle.version>
     <influxdb-java.version>2.25</influxdb-java.version>
     <r2dbc-bom.version>Borca-SR2</r2dbc-bom.version>
@@ -278,7 +278,7 @@
     <bouncycastle.version>1.82</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.5</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.29.2</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.30</oauth2-oidc-sdk.version>
     <jjwt.version>0.13.0</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <!--apache-->
@@ -316,7 +316,7 @@
     <curator.version>5.9.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
     <activemq.version>6.1.7</activemq.version>
-    <artemis.version>2.42.0</artemis.version>
+    <artemis.version>2.43.0</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
     <svnkit.version>1.10.11</svnkit.version>
@@ -325,8 +325,8 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.792</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.35.7</aws-java-sdk2.version>
-    <google-gax.version>2.70.3</google-gax.version>
+    <aws-java-sdk2.version>2.35.9</aws-java-sdk2.version>
+    <google-gax.version>2.71.0</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.70.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
@@ -357,8 +357,8 @@
     <angus-mail.version>2.1.0-M1</angus-mail.version>
     <simplejavamail.version>8.12.6</simplejavamail.version>
     <!--springsource-->
-    <spring.version>6.2.11</spring.version>
-    <spring-framework.version>6.2.11</spring-framework.version>
+    <spring.version>6.2.12</spring.version>
+    <spring-framework.version>6.2.12</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.2.3</spring-batch.version>
     <spring-ws.version>4.1.1</spring-ws.version>
@@ -383,13 +383,13 @@
     <spring-cloud-task.version>3.3.0</spring-cloud-task.version>
     <spring-cloud-stream.version>4.3.0</spring-cloud-stream.version>
     <spring-cloud-function.version>4.3.0</spring-cloud-function.version>
-    <spring-cloud-gateway.version>4.3.1</spring-cloud-gateway.version>
-    <spring-ldap.version>3.3.3</spring-ldap.version>
+    <spring-cloud-gateway.version>4.3.2</spring-cloud-gateway.version>
+    <spring-ldap.version>3.3.4</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>3.2.7</spring-amqp.version>
     <rabbit-amqp-client.version>5.26.0</rabbit-amqp-client.version>
     <rabbit-http-client.version>5.4.0</rabbit-http-client.version>
-    <rabbit-stream-client.version>1.2.0</rabbit-stream-client.version>
+    <rabbit-stream-client.version>1.3.0</rabbit-stream-client.version>
     <spring-vault.version>3.2.0</spring-vault.version>
     <spring-kafka.version>3.3.10</spring-kafka.version>
     <spring-pulsar.version>1.2.10</spring-pulsar.version>
