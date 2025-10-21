@@ -311,7 +311,7 @@
     <solr.version>9.9.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>11.0.13</tomcat.version>
-    <groovy.version>5.0.1</groovy.version>
+    <groovy.version>5.0.2</groovy.version>
     <zookeeper.version>3.9.4</zookeeper.version>
     <curator.version>5.9.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
