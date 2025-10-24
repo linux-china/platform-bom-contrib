@@ -226,7 +226,7 @@
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.20.8</jooq.version>
     <jedis.version>7.0.0</jedis.version>
-    <lettuce.version>6.8.1.RELEASE</lettuce.version>
+    <lettuce.version>7.0.0.RELEASE</lettuce.version>
     <caffeine.version>3.2.2</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
     <mybatis.version>3.5.19</mybatis.version>
@@ -242,7 +242,7 @@
     <ehcache3.version>3.11.1</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.14.1</flyway.version>
+    <flyway.version>11.15.0</flyway.version>
     <liquibase.version>5.0.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.0.2</flexy-pool.version>
@@ -325,7 +325,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.792</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.35.11</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.36.1</aws-java-sdk2.version>
     <google-gax.version>2.71.0</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.70.0</google-cloud-bom.version>
@@ -336,7 +336,7 @@
     <sundr.version>0.220.0</sundr.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.2.20</kotlin.version>
+    <kotlin.version>2.2.21</kotlin.version>
     <kotlinx-coroutines.version>1.10.2</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.9.0</kotlinx-serialization.version>
     <jruby.version>10.0.0.1</jruby.version>
@@ -360,7 +360,7 @@
     <spring.version>6.2.12</spring.version>
     <spring-framework.version>6.2.12</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
-    <spring-batch.version>5.2.3</spring-batch.version>
+    <spring-batch.version>5.2.4</spring-batch.version>
     <spring-ws.version>4.1.2</spring-ws.version>
     <spring-session-bom.version>3.5.3</spring-session-bom.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
