@@ -112,12 +112,12 @@
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
-    <data-faker.version>2.5.2</data-faker.version>
+    <data-faker.version>2.5.3</data-faker.version>
     <instancio.version>5.5.1</instancio.version>
     <mockito.version>5.20.0</mockito.version>
     <htmlunit.version>4.17.0</htmlunit.version>
     <testng.version>7.11.0</testng.version>
-    <selenium.version>4.37.0</selenium.version>
+    <selenium.version>4.38.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>2.0-rc1</jsonassert.version>
     <json-smart.version>2.6.0</json-smart.version>
