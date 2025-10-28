@@ -160,7 +160,7 @@
     <javax-cache.version>1.1.1</javax-cache.version>
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
-    <jsch2.version>2.27.4</jsch2.version>
+    <jsch2.version>2.27.5</jsch2.version>
     <zipkin.version>3.5.1</zipkin.version>
     <zipkin-brave.version>6.3.0</zipkin-brave.version>
     <zipkin-reporter2.version>3.5.1</zipkin-reporter2.version>
@@ -325,7 +325,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.792</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.36.2</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.36.3</aws-java-sdk2.version>
     <google-gax.version>2.71.0</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.70.0</google-cloud-bom.version>
