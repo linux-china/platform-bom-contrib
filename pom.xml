@@ -54,7 +54,7 @@
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.9</flogger.version>
     <jna.version>5.18.1</jna.version>
-    <prometheus-client.version>1.4.1</prometheus-client.version>
+    <prometheus-client.version>1.4.2</prometheus-client.version>
     <!--productivity & tools-->
     <functionaljava.version>5.0</functionaljava.version>
     <fugue.version>6.1.2</fugue.version>
@@ -89,7 +89,7 @@
     <gatherers4j.version>0.12.0</gatherers4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.0.2-1</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.39</swagger-oai.version>
+    <swagger-oai.version>2.2.40</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.5</google-truth.version>
@@ -141,7 +141,7 @@
     <junit-pioneer.version>2.3.0</junit-pioneer.version>
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
-    <okhttp3.version>5.2.1</okhttp3.version>
+    <okhttp3.version>5.3.0</okhttp3.version>
     <okio.version>3.16.2</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -227,7 +227,7 @@
     <jooq.version>3.20.8</jooq.version>
     <jedis.version>7.0.0</jedis.version>
     <lettuce.version>7.0.0.RELEASE</lettuce.version>
-    <caffeine.version>3.2.2</caffeine.version>
+    <caffeine.version>3.2.3</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
     <mybatis.version>3.5.19</mybatis.version>
     <mybatis-spring.version>3.0.5</mybatis-spring.version>
@@ -266,9 +266,9 @@
     <jdbi.version>3.49.6</jdbi.version>
     <couchbase-client.version>3.9.2</couchbase-client.version>
     <openjpa.version>4.1.1</openjpa.version>
-    <mysql.version>9.4.0</mysql.version>
+    <mysql.version>9.5.0</mysql.version>
     <sqlserver.version>13.2.1.jre11</sqlserver.version>
-    <oracle.version>23.9.0.25.07</oracle.version>
+    <oracle.version>23.26.0.0.0</oracle.version>
     <influxdb-java.version>2.25</influxdb-java.version>
     <r2dbc-bom.version>Borca-SR2</r2dbc-bom.version>
     <datastax.version>4.17.0</datastax.version>
@@ -324,11 +324,11 @@
     <apache-geode.version>1.15.2</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.792</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.36.3</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.793</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.37.2</aws-java-sdk2.version>
     <google-gax.version>2.71.0</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
-    <google-cloud-bom.version>26.70.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.71.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>24.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>7.4.0</fabric8-kubernetes-client.version>
@@ -1632,7 +1632,7 @@
       <dependency>
         <groupId>io.r2dbc</groupId>
         <artifactId>r2dbc-postgresql</artifactId>
-        <version>1.1.0.RELEASE</version>
+        <version>1.1.1.RELEASE</version>
       </dependency>
       <dependency>
         <groupId>io.asyncer</groupId>
