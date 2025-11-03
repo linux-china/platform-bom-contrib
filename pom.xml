@@ -67,8 +67,8 @@
     <javatuples.version>1.2</javatuples.version>
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
-    <underscore.version>1.118</underscore.version>
-    <java-util.version>4.1.0</java-util.version>
+    <underscore.version>1.119</underscore.version>
+    <java-util.version>4.2.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.0-alpha-4</vavr.version>
@@ -104,18 +104,18 @@
     <threetenbp.version>1.7.2</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
     <manifold.version>2025.1.27</manifold.version>
-    <jilt.version>1.8.3</jilt.version>
+    <jilt.version>1.8.4</jilt.version>
     <graal-sdk.version>25.0.1</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
     <!--testing-->
-    <junit5.version>6.0.0</junit5.version>
+    <junit5.version>6.0.1</junit5.version>
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.5.3</data-faker.version>
     <instancio.version>5.5.1</instancio.version>
     <mockito.version>5.20.0</mockito.version>
-    <htmlunit.version>4.17.0</htmlunit.version>
+    <htmlunit.version>4.18.0</htmlunit.version>
     <testng.version>7.11.0</testng.version>
     <selenium.version>4.38.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
@@ -173,7 +173,7 @@
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.3</jsqlparser.version>
     <javaparser.version>3.27.1</javaparser.version>
-    <jackson.version>2.20.0</jackson.version>
+    <jackson.version>2.20.1</jackson.version>
     <jackson3.version>3.0.1</jackson3.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.1</classmate.version>
@@ -182,7 +182,7 @@
     <gson.version>2.13.2</gson.version>
     <protobuf.version>4.33.0</protobuf.version>
     <json-smart.versfion>2.5.2</json-smart.versfion>
-    <json-path.version>2.9.0</json-path.version>
+    <json-path.version>2.10.0</json-path.version>
     <json-masker.version>1.1.2</json-masker.version>
     <itext.version>4.2.2</itext.version>
     <json.version>20250517</json.version>
@@ -325,7 +325,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.793</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.37.2</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.37.3</aws-java-sdk2.version>
     <google-gax.version>2.71.0</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.71.0</google-cloud-bom.version>
