@@ -248,7 +248,7 @@
     <flexy-pool.version>3.0.2</flexy-pool.version>
     <h2.version>2.4.240</h2.version>
     <hsqldb.version>2.7.4</hsqldb.version>
-    <sqlite-jdbc.version>3.50.3.0</sqlite-jdbc.version>
+    <sqlite-jdbc.version>3.51.0.0</sqlite-jdbc.version>
     <neo4j-java-driver.version>6.0.2</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
@@ -325,7 +325,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.793</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.37.4</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.37.5</aws-java-sdk2.version>
     <google-gax.version>2.72.0</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.71.0</google-cloud-bom.version>
@@ -818,6 +818,11 @@
       <dependency>
         <groupId>org.xmlunit</groupId>
         <artifactId>xmlunit-assertj</artifactId>
+        <version>${xmlunit.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.xmlunit</groupId>
+        <artifactId>xmlunit-assertj3</artifactId>
         <version>${xmlunit.version}</version>
       </dependency>
       <dependency>
