@@ -48,13 +48,13 @@
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.37</dropwizard-metrics.version>
-    <opentelemetry.version>1.55.0</opentelemetry.version>
+    <opentelemetry.version>1.56.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.5.20</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.9</flogger.version>
     <jna.version>5.18.1</jna.version>
-    <prometheus-client.version>1.4.2</prometheus-client.version>
+    <prometheus-client.version>1.4.3</prometheus-client.version>
     <!--productivity & tools-->
     <functionaljava.version>5.0</functionaljava.version>
     <fugue.version>6.1.2</fugue.version>
@@ -68,7 +68,7 @@
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.119</underscore.version>
-    <java-util.version>4.2.0</java-util.version>
+    <java-util.version>4.3.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.0-alpha-4</vavr.version>
@@ -174,7 +174,7 @@
     <jsqlparser.version>5.3</jsqlparser.version>
     <javaparser.version>3.27.1</javaparser.version>
     <jackson.version>2.20.1</jackson.version>
-    <jackson3.version>3.0.1</jackson3.version>
+    <jackson3.version>3.0.2</jackson3.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.1</classmate.version>
     <snakeyaml.version>2.5</snakeyaml.version>
@@ -325,8 +325,8 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.793</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.38.1</aws-java-sdk2.version>
-    <google-gax.version>2.72.0</google-gax.version>
+    <aws-java-sdk2.version>2.38.2</aws-java-sdk2.version>
+    <google-gax.version>2.72.1</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.71.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
@@ -399,7 +399,7 @@
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
     <spring-shell.version>3.4.1</spring-shell.version>
-    <reactor-bom.version>2024.0.11</reactor-bom.version>
+    <reactor-bom.version>2025.0.0</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <rxjava3.version>3.1.12</rxjava3.version>
     <micrometer.version>1.15.5</micrometer.version>
