@@ -264,7 +264,7 @@
     <postgresql.version>42.7.8</postgresql.version>
     <jaybird.version>5.0.6.java11</jaybird.version>
     <jdbi.version>3.50.0</jdbi.version>
-    <couchbase-client.version>3.9.2</couchbase-client.version>
+    <couchbase-client.version>3.10.0</couchbase-client.version>
     <openjpa.version>4.1.1</openjpa.version>
     <mysql.version>9.5.0</mysql.version>
     <sqlserver.version>13.2.1.jre11</sqlserver.version>
@@ -286,7 +286,7 @@
     <httpclient.version>4.5.14</httpclient.version>
     <httpcore5.version>5.3.6</httpcore5.version>
     <httpclient5.version>5.5.1</httpclient5.version>
-    <commons-cli.version>1.10.0</commons-cli.version>
+    <commons-cli.version>1.11.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.12.0</commons-net.version>
     <commons-io.version>2.21.0</commons-io.version>
@@ -325,7 +325,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.793</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.38.5</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.38.6</aws-java-sdk2.version>
     <google-gax.version>2.72.1</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.71.0</google-cloud-bom.version>
@@ -357,8 +357,8 @@
     <angus-mail.version>2.1.0-M1</angus-mail.version>
     <simplejavamail.version>8.12.6</simplejavamail.version>
     <!--springsource-->
-    <spring.version>6.2.12</spring.version>
-    <spring-framework.version>6.2.12</spring-framework.version>
+    <spring.version>7.0.0</spring.version>
+    <spring-framework.version>7.0.0</spring-framework.version>
     <spring-plugin.version>3.0.0</spring-plugin.version>
     <spring-batch.version>5.2.4</spring-batch.version>
     <spring-ws.version>4.1.2</spring-ws.version>
