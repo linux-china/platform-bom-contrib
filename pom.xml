@@ -89,11 +89,11 @@
     <gatherers4j.version>0.12.0</gatherers4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.0.2-1</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.40</swagger-oai.version>
+    <swagger-oai.version>2.2.41</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.5</google-truth.version>
-    <bytebuddy.version>1.18.1</bytebuddy.version>
+    <bytebuddy.version>1.18.2</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.25</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -123,7 +123,7 @@
     <json-smart.version>2.6.0</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
     <wiremock.version>3.13.0</wiremock.version>
-    <spockframework.version>2.4-M6-groovy-4.0</spockframework.version>
+    <spockframework.version>2.4-M7-groovy-5.0</spockframework.version>
     <easymock.version>5.6.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
     <powermock.version>2.0.9</powermock.version>
@@ -160,7 +160,7 @@
     <javax-cache.version>1.1.1</javax-cache.version>
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
-    <jsch2.version>2.27.6</jsch2.version>
+    <jsch2.version>2.27.7</jsch2.version>
     <zipkin.version>3.5.1</zipkin.version>
     <zipkin-brave.version>6.3.0</zipkin-brave.version>
     <zipkin-reporter2.version>3.5.1</zipkin-reporter2.version>
@@ -174,7 +174,7 @@
     <jsqlparser.version>5.3</jsqlparser.version>
     <javaparser.version>3.27.1</javaparser.version>
     <jackson.version>2.20.1</jackson.version>
-    <jackson3.version>3.0.2</jackson3.version>
+    <jackson3.version>3.0.3</jackson3.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.1</classmate.version>
     <snakeyaml.version>2.5</snakeyaml.version>
@@ -242,10 +242,10 @@
     <ehcache3.version>3.11.1</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.17.1</flyway.version>
+    <flyway.version>11.18.0</flyway.version>
     <liquibase.version>5.0.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
-    <flexy-pool.version>3.1.0</flexy-pool.version>
+    <flexy-pool.version>3.1.1</flexy-pool.version>
     <h2.version>2.4.240</h2.version>
     <hsqldb.version>2.7.4</hsqldb.version>
     <sqlite-jdbc.version>3.51.0.0</sqlite-jdbc.version>
@@ -256,7 +256,7 @@
     <hazelcast.version>5.6.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>16.0.1</infinispan.version>
+    <infinispan.version>16.0.2</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
     <hikaricp.version>7.0.2</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
@@ -275,7 +275,7 @@
     <!--security-->
     <cas-client.version>3.6.4</cas-client.version>
     <jasypt.version>1.9.3</jasypt.version>
-    <bouncycastle.version>1.82</bouncycastle.version>
+    <bouncycastle.version>1.83</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.6</nimbus-jose-jwt.version>
     <oauth2-oidc-sdk.version>11.30.1</oauth2-oidc-sdk.version>
@@ -325,8 +325,8 @@
     <apache-geode.version>1.15.2</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.793</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.39.2</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.794</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.39.5</aws-java-sdk2.version>
     <google-gax.version>2.72.1</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.72.0</google-cloud-bom.version>
@@ -379,12 +379,12 @@
     <spring-boot.version>4.0.0</spring-boot.version>
     <spring-hateoas.version>3.0.0</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
-    <spring-cloud-contract.version>4.3.0</spring-cloud-contract.version>
-    <spring-cloud.version>2025.0.0</spring-cloud.version>
-    <spring-cloud-task.version>3.3.0</spring-cloud-task.version>
-    <spring-cloud-stream.version>4.3.0</spring-cloud-stream.version>
-    <spring-cloud-function.version>4.3.0</spring-cloud-function.version>
-    <spring-cloud-gateway.version>4.3.2</spring-cloud-gateway.version>
+    <spring-cloud-contract.version>5.0.0</spring-cloud-contract.version>
+    <spring-cloud.version>2025.1.0</spring-cloud.version>
+    <spring-cloud-task.version>5.0.0</spring-cloud-task.version>
+    <spring-cloud-stream.version>5.0.0</spring-cloud-stream.version>
+    <spring-cloud-function.version>5.0.0</spring-cloud-function.version>
+    <spring-cloud-gateway.version>5.0.0</spring-cloud-gateway.version>
     <spring-ldap.version>4.0.0</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>4.0.0</spring-amqp.version>
