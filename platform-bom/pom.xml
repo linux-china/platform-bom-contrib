@@ -115,7 +115,7 @@
     <jbatch-tck.version>1.0</jbatch-tck.version>
     <jettison.version>1.5.4</jettison.version>
     <jibx.version>1.4.5</jibx.version>
-    <jline.version>2.14.6</jline.version>
+    <jline.version>3.30.6</jline.version>
     <jopt-simple.version>5.0.4</jopt-simple.version>
     <jsch.version>0.1.55</jsch.version>
     <jsr250.version>1.0</jsr250.version>
@@ -613,8 +613,18 @@
         <version>${javax-jax-ws.version}</version>
       </dependency>
       <dependency>
-        <groupId>jline</groupId>
+        <groupId>org.jline</groupId>
         <artifactId>jline</artifactId>
+        <version>${jline.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.jline</groupId>
+        <artifactId>jline-reader</artifactId>
+        <version>${jline.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.jline</groupId>
+        <artifactId>jline-terminal</artifactId>
         <version>${jline.version}</version>
       </dependency>
       <dependency>
