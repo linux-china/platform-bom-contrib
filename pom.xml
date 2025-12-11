@@ -400,7 +400,7 @@
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
     <spring-shell.version>3.4.1</spring-shell.version>
-    <reactor-bom.version>2025.0.0</reactor-bom.version>
+    <reactor-bom.version>2025.0.1</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <rxjava3.version>3.1.12</rxjava3.version>
     <micrometer.version>1.16.1</micrometer.version>
