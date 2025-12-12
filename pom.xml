@@ -50,7 +50,7 @@
     <dropwizard-metrics.version>4.2.37</dropwizard-metrics.version>
     <opentelemetry.version>1.57.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.21</logback.version>
+    <logback.version>1.5.22</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.9</flogger.version>
     <jna.version>5.18.1</jna.version>
@@ -123,7 +123,7 @@
     <json-smart.version>2.6.0</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
     <wiremock.version>3.13.0</wiremock.version>
-    <spockframework.version>2.4-M7-groovy-5.0</spockframework.version>
+    <spockframework.version>2.4-groovy-5.0</spockframework.version>
     <easymock.version>5.6.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
     <powermock.version>2.0.9</powermock.version>
@@ -145,7 +145,7 @@
     <okio.version>3.16.4</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.2.7.Final</netty.version>
+    <netty.version>4.2.8.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.77.0</grpc.version>
     <asynchttpclient.version>3.0.4</asynchttpclient.version>
@@ -326,7 +326,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.795</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.40.6</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.40.7</aws-java-sdk2.version>
     <google-gax.version>2.72.2</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.72.0</google-cloud-bom.version>
@@ -358,8 +358,8 @@
     <angus-mail.version>2.1.0-M1</angus-mail.version>
     <simplejavamail.version>8.12.6</simplejavamail.version>
     <!--springsource-->
-    <spring.version>7.0.1</spring.version>
-    <spring-framework.version>7.0.1</spring-framework.version>
+    <spring.version>7.0.2</spring.version>
+    <spring-framework.version>7.0.2</spring-framework.version>
     <spring-plugin.version>4.0.0</spring-plugin.version>
     <spring-batch.version>5.2.4</spring-batch.version>
     <spring-ws.version>5.0.0</spring-ws.version>
