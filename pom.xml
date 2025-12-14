@@ -129,7 +129,7 @@
     <powermock.version>2.0.9</powermock.version>
     <testcontainers.version>2.0.2</testcontainers.version>
     <dbunit.version>3.0.0</dbunit.version>
-    <rest-assured.version>5.5.6</rest-assured.version>
+    <rest-assured.version>6.0.0</rest-assured.version>
     <assertj.version>4.0.0-M1</assertj.version>
     <assertj-json.version>4.1.1</assertj-json.version>
     <jfairy.version>0.5.9</jfairy.version>
@@ -372,12 +372,12 @@
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-    <spring-data-bom.version>2025.1.0</spring-data-bom.version>
+    <spring-data-bom.version>2025.1.1</spring-data-bom.version>
     <spring-integration.version>7.0.0</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
     <spring-boot.version>4.0.0</spring-boot.version>
-    <spring-hateoas.version>3.0.0</spring-hateoas.version>
+    <spring-hateoas.version>3.0.1</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
     <spring-cloud-contract.version>5.0.1</spring-cloud-contract.version>
     <spring-cloud.version>2025.1.0</spring-cloud.version>
@@ -385,7 +385,7 @@
     <spring-cloud-stream.version>5.0.0</spring-cloud-stream.version>
     <spring-cloud-function.version>5.0.0</spring-cloud-function.version>
     <spring-cloud-gateway.version>5.0.0</spring-cloud-gateway.version>
-    <spring-ldap.version>4.0.0</spring-ldap.version>
+    <spring-ldap.version>4.0.1</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
     <spring-amqp.version>4.0.0</spring-amqp.version>
     <rabbit-amqp-client.version>5.28.0</rabbit-amqp-client.version>
