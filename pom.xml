@@ -127,7 +127,7 @@
     <easymock.version>5.6.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
     <powermock.version>2.0.9</powermock.version>
-    <testcontainers.version>2.0.2</testcontainers.version>
+    <testcontainers.version>2.0.3</testcontainers.version>
     <dbunit.version>3.0.0</dbunit.version>
     <rest-assured.version>6.0.0</rest-assured.version>
     <assertj.version>4.0.0-M1</assertj.version>
@@ -145,7 +145,7 @@
     <okio.version>3.16.4</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.2.8.Final</netty.version>
+    <netty.version>4.2.9.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.77.0</grpc.version>
     <asynchttpclient.version>3.0.4</asynchttpclient.version>
@@ -174,7 +174,7 @@
     <jsqlparser.version>5.3</jsqlparser.version>
     <javaparser.version>3.27.1</javaparser.version>
     <jackson.version>2.20.1</jackson.version>
-    <jackson3.version>3.0.3</jackson3.version>
+    <jackson-bom.version>3.0.3</jackson-bom.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.1</classmate.version>
     <snakeyaml.version>2.5</snakeyaml.version>
@@ -285,7 +285,7 @@
     <!--apache-->
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
-    <httpcore5.version>5.3.6</httpcore5.version>
+    <httpcore5.version>5.4</httpcore5.version>
     <httpclient5.version>5.5.1</httpclient5.version>
     <commons-cli.version>1.11.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
@@ -326,7 +326,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.795</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.40.8</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.40.9</aws-java-sdk2.version>
     <google-gax.version>2.72.2</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.72.0</google-cloud-bom.version>
@@ -365,7 +365,7 @@
     <spring-ws.version>5.0.0</spring-ws.version>
     <spring-session-bom.version>4.0.0</spring-session-bom.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
-    <spring-security.version>7.0.0</spring-security.version>
+    <spring-security.version>7.0.2</spring-security.version>
     <spring-security-oauth.version>2.5.2.RELEASE</spring-security-oauth.version>
     <spring-security-oauth2-autoconfigure.version>2.6.8</spring-security-oauth2-autoconfigure.version>
     <spring-security-rsa.version>1.1.5</spring-security-rsa.version>
@@ -387,13 +387,13 @@
     <spring-cloud-gateway.version>5.0.0</spring-cloud-gateway.version>
     <spring-ldap.version>4.0.1</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
-    <spring-amqp.version>4.0.0</spring-amqp.version>
+    <spring-amqp.version>4.0.1</spring-amqp.version>
     <rabbit-amqp-client.version>5.28.0</rabbit-amqp-client.version>
     <rabbit-http-client.version>5.4.0</rabbit-http-client.version>
     <rabbit-stream-client.version>1.4.0</rabbit-stream-client.version>
     <spring-vault.version>4.0.0</spring-vault.version>
     <spring-kafka.version>4.0.0</spring-kafka.version>
-    <spring-pulsar.version>2.0.0</spring-pulsar.version>
+    <spring-pulsar.version>2.0.1</spring-pulsar.version>
     <spring-restdocs.version>4.0.0</spring-restdocs.version>
     <spring-retry.version>2.0.12</spring-retry.version>
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
@@ -511,7 +511,7 @@
       <dependency>
         <groupId>tools.jackson</groupId>
         <artifactId>jackson-bom</artifactId>
-        <version>${jackson3.version}</version>
+        <version>${jackson-bom.version}</version>
         <scope>import</scope>
         <type>pom</type>
       </dependency>
