@@ -148,7 +148,7 @@
     <netty.version>4.2.9.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.77.0</grpc.version>
-    <asynchttpclient.version>3.0.4</asynchttpclient.version>
+    <asynchttpclient.version>3.0.5</asynchttpclient.version>
     <tyrus.version>1.13.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
     <searchbox-jest.version>6.3.1</searchbox-jest.version>
@@ -225,7 +225,7 @@
     <hibernate-validator.version>9.1.0.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.20.10</jooq.version>
-    <jedis.version>7.1.0</jedis.version>
+    <jedis.version>7.2.0</jedis.version>
     <lettuce.version>7.2.0.RELEASE</lettuce.version>
     <caffeine.version>3.2.3</caffeine.version>
     <jettison.version>1.5.4</jettison.version>
@@ -242,7 +242,7 @@
     <ehcache3.version>3.11.1</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.19.0</flyway.version>
+    <flyway.version>11.19.1</flyway.version>
     <liquibase.version>5.0.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.1.1</flexy-pool.version>
@@ -307,7 +307,7 @@
     <poi.version>5.5.1</poi.version>
     <kafka.version>4.1.1</kafka.version>
     <pulsar.version>4.1.2</pulsar.version>
-    <log4j2.version>2.25.2</log4j2.version>
+    <log4j2.version>2.25.3</log4j2.version>
     <jboss-logging.version>3.6.1.Final</jboss-logging.version>
     <solr.version>9.10.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
@@ -322,11 +322,11 @@
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
     <svnkit.version>1.10.11</svnkit.version>
     <axiom.version>2.0.0</axiom.version>
-    <apache-geode.version>1.15.2</apache-geode.version>
+    <apache-geode.version>2.0.0</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.795</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.40.10</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.796</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.40.12</aws-java-sdk2.version>
     <google-gax.version>2.72.2</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.73.0</google-cloud-bom.version>
@@ -361,7 +361,7 @@
     <spring.version>7.0.2</spring.version>
     <spring-framework.version>7.0.2</spring-framework.version>
     <spring-plugin.version>4.0.0</spring-plugin.version>
-    <spring-batch.version>5.2.4</spring-batch.version>
+    <spring-batch.version>6.0.1</spring-batch.version>
     <spring-ws.version>5.0.0</spring-ws.version>
     <spring-session-bom.version>4.0.1</spring-session-bom.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
@@ -376,7 +376,7 @@
     <spring-integration.version>7.0.1</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-    <spring-boot.version>4.0.0</spring-boot.version>
+    <spring-boot.version>4.0.1</spring-boot.version>
     <spring-hateoas.version>3.0.1</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
     <spring-cloud-contract.version>5.0.1</spring-cloud-contract.version>
