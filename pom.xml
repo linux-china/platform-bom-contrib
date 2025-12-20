@@ -93,7 +93,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.5</google-truth.version>
-    <bytebuddy.version>1.18.2</bytebuddy.version>
+    <bytebuddy.version>1.18.3</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.25.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -113,7 +113,7 @@
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
     <data-faker.version>2.5.3</data-faker.version>
-    <instancio.version>5.5.1</instancio.version>
+    <instancio.version>6.0.0-RC1</instancio.version>
     <mockito.version>5.21.0</mockito.version>
     <htmlunit.version>4.20.0</htmlunit.version>
     <testng.version>7.11.0</testng.version>
@@ -326,7 +326,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.796</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.40.12</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.40.13</aws-java-sdk2.version>
     <google-gax.version>2.72.2</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.73.0</google-cloud-bom.version>
@@ -339,7 +339,7 @@
     <!--languages-->
     <kotlin.version>2.3.0</kotlin.version>
     <kotlinx-coroutines.version>1.10.2</kotlinx-coroutines.version>
-    <kotlinx-serialization.version>1.9.0</kotlinx-serialization.version>
+    <kotlinx-serialization.version>1.10.0-RC</kotlinx-serialization.version>
     <jruby.version>10.0.0.1</jruby.version>
     <!--netflix-->
     <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
