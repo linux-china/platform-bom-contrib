@@ -286,7 +286,7 @@
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
     <httpcore5.version>5.4</httpcore5.version>
-    <httpclient5.version>5.5.1</httpclient5.version>
+    <httpclient5.version>5.6</httpclient5.version>
     <commons-cli.version>1.11.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.12.0</commons-net.version>
