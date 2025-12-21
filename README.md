@@ -181,6 +181,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * [RecordBuilder](https://github.com/Randgalt/record-builder): Record builder generator for Java records
 * [Password4j](https://github.com/Password4j/password4j): Java cryptographic library that supports Argon2, bcrypt, scrypt and PBKDF2 aimed to protect passwords in databases
 * [gatherers4j](https://github.com/tginsberg/gatherers4j): A library of useful Stream Gatherers (custom intermediate operations) for Java 25+.
+* [simple-openai](https://github.com/sashirestela/simple-openai): A Java library to use the OpenAI Api in the simplest possible way.
 
 ### Developer Notice
 
