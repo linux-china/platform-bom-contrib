@@ -50,7 +50,7 @@
     <dropwizard-metrics.version>4.2.37</dropwizard-metrics.version>
     <opentelemetry.version>1.57.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.22</logback.version>
+    <logback.version>1.5.23</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.9</flogger.version>
     <jna.version>5.18.1</jna.version>
@@ -103,7 +103,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.2</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2025.1.28</manifold.version>
+    <manifold.version>2025.1.29</manifold.version>
     <jilt.version>1.9</jilt.version>
     <graal-sdk.version>25.0.1</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
@@ -122,7 +122,7 @@
     <jsonassert.version>2.0-rc1</jsonassert.version>
     <json-smart.version>2.6.0</json-smart.version>
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
-    <wiremock.version>3.13.0</wiremock.version>
+    <wiremock.version>3.13.2</wiremock.version>
     <spockframework.version>2.4-groovy-5.0</spockframework.version>
     <easymock.version>5.6.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
@@ -252,7 +252,7 @@
     <neo4j-java-driver.version>6.0.2</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
-    <elasticsearch.version>9.2.2</elasticsearch.version>
+    <elasticsearch.version>9.2.3</elasticsearch.version>
     <hazelcast.version>5.6.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
