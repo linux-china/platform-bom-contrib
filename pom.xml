@@ -44,7 +44,7 @@
     <webjars-locator-core.version>0.59</webjars-locator-core.version>
     <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
     <graphviz-java.version>0.18.1</graphviz-java.version>
-    <twelvemonkeys-imageio.version>3.12.0</twelvemonkeys-imageio.version>
+    <twelvemonkeys-imageio.version>3.13.0</twelvemonkeys-imageio.version>
     <emoji-java.version>5.1.1</emoji-java.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.37</dropwizard-metrics.version>
@@ -242,7 +242,7 @@
     <ehcache3.version>3.11.1</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.19.1</flyway.version>
+    <flyway.version>11.20.0</flyway.version>
     <liquibase.version>5.0.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.1.1</flexy-pool.version>
@@ -326,7 +326,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.796</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.40.13</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.40.14</aws-java-sdk2.version>
     <google-gax.version>2.72.2</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.73.0</google-cloud-bom.version>
