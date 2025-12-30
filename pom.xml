@@ -115,7 +115,7 @@
     <data-faker.version>2.5.3</data-faker.version>
     <instancio.version>6.0.0-RC1</instancio.version>
     <mockito.version>5.21.0</mockito.version>
-    <htmlunit.version>4.20.0</htmlunit.version>
+    <htmlunit.version>4.21.0</htmlunit.version>
     <testng.version>7.11.0</testng.version>
     <selenium.version>4.39.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
@@ -176,7 +176,7 @@
     <jackson.version>2.20.1</jackson.version>
     <jackson-bom.version>3.0.3</jackson-bom.version>
     <moshi.version>1.15.2</moshi.version>
-    <classmate.version>1.7.1</classmate.version>
+    <classmate.version>1.7.2</classmate.version>
     <snakeyaml.version>2.5</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.13.2</gson.version>
@@ -262,7 +262,7 @@
     <jasperreports.version>6.5.1</jasperreports.version>
     <unboundid-ldapsdk.version>7.0.4</unboundid-ldapsdk.version>
     <postgresql.version>42.7.8</postgresql.version>
-    <jaybird.version>5.0.6.java11</jaybird.version>
+    <jaybird.version>6.0.3</jaybird.version>
     <jdbi.version>3.51.0</jdbi.version>
     <couchbase-client.version>3.10.0</couchbase-client.version>
     <openjpa.version>4.1.1</openjpa.version>
@@ -325,8 +325,8 @@
     <apache-geode.version>2.0.0</apache-geode.version>
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
-    <aws-java-sdk.version>1.12.796</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.40.16</aws-java-sdk2.version>
+    <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
+    <aws-java-sdk2.version>2.40.17</aws-java-sdk2.version>
     <google-gax.version>2.72.2</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.73.0</google-cloud-bom.version>
@@ -1028,7 +1028,7 @@
       <dependency>
         <groupId>io.vavr</groupId>
         <artifactId>vavr-jackson</artifactId>
-        <version>${vavr.version}</version>
+        <version>1.0.0</version>
       </dependency>
       <dependency>
         <groupId>io.vavr</groupId>
