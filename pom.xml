@@ -86,7 +86,7 @@
     <nuprocess.version>3.0.0</nuprocess.version>
     <uuid-creator.version>6.1.1</uuid-creator.version>
     <bucket4j.version>8.10.1</bucket4j.version>
-    <gatherers4j.version>0.12.0</gatherers4j.version>
+    <gatherers4j.version>0.13.0</gatherers4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.0.2-1</jetbrains-annotations.version>
     <swagger-oai.version>2.2.41</swagger-oai.version>
@@ -278,7 +278,7 @@
     <bouncycastle.version>1.83</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.6</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.30.2</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.31</oauth2-oidc-sdk.version>
     <jjwt.version>0.13.0</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <shiro.version>2.0.6</shiro.version>
