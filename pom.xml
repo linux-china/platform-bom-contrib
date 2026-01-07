@@ -50,7 +50,7 @@
     <dropwizard-metrics.version>4.2.37</dropwizard-metrics.version>
     <opentelemetry.version>1.57.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.23</logback.version>
+    <logback.version>1.5.24</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.9</flogger.version>
     <jna.version>5.18.1</jna.version>
@@ -98,7 +98,7 @@
     <aspectj.version>1.9.25.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
     <lombok.version>1.18.42</lombok.version>
-    <immutables.version>2.12.0</immutables.version>
+    <immutables.version>2.12.1</immutables.version>
     <audit4j.version>2.6.0</audit4j.version>
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.2</threetenbp.version>
@@ -326,7 +326,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.41.2</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.41.3</aws-java-sdk2.version>
     <google-gax.version>2.72.2</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.73.0</google-cloud-bom.version>
