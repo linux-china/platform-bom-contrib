@@ -63,7 +63,6 @@
     <gs-collections.version>7.0.3</gs-collections.version>
     <guava.version>33.5.0-jre</guava.version>
     <guice.version>7.0.0</guice.version>
-    <jodd.version>5.1.6</jodd.version>
     <boon.version>0.34</boon.version>
     <javatuples.version>1.2</javatuples.version>
     <togglz.version>4.4.0</togglz.version>
@@ -72,7 +71,7 @@
     <java-util.version>4.81.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
-    <vavr.version>1.0.0-alpha-4</vavr.version>
+    <vavr.version>0.11.0</vavr.version>
     <concurrentlinkedhashmap.version>1.4.2</concurrentlinkedhashmap.version>
     <quartz.version>2.5.2</quartz.version>
     <snappy.version>1.1.7.1</snappy.version>
@@ -173,7 +172,7 @@
     <jersey.version>4.0.0</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.3</jsqlparser.version>
-    <javaparser.version>3.27.1</javaparser.version>
+    <javaparser.version>3.28.0</javaparser.version>
     <jackson2.version>2.20.1</jackson2.version>
     <jackson-bom.version>3.0.3</jackson-bom.version>
     <moshi.version>1.15.2</moshi.version>
@@ -442,6 +441,11 @@
         <version>${swagger-oai.version}</version>
       </dependency>
       <dependency>
+        <groupId>io.swagger.core.v3</groupId>
+        <artifactId>swagger-parser</artifactId>
+        <version>2.1.37</version>
+      </dependency>
+      <dependency>
         <groupId>org.jspecify</groupId>
         <artifactId>jspecify</artifactId>
         <version>1.0.0</version>
@@ -532,7 +536,7 @@
       <dependency>
         <groupId>com.fasterxml.jackson.core</groupId>
         <artifactId>jackson-annotations</artifactId>
-        <version>${jackson.version}</version>
+        <version>2.20</version>
       </dependency>
       <dependency>
         <groupId>io.dropwizard.metrics</groupId>
@@ -1678,10 +1682,8 @@
       </dependency>
       <dependency>
         <groupId>org.jodd</groupId>
-        <artifactId>jodd-bom</artifactId>
-        <version>${jodd.version}</version>
-        <type>pom</type>
-        <scope>import</scope>
+        <artifactId>jodd-core</artifactId>
+        <version>5.3.0</version>
       </dependency>
       <dependency>
         <groupId>org.jetbrains.kotlin</groupId>
