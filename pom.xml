@@ -46,7 +46,7 @@
     <graphviz-java.version>0.18.1</graphviz-java.version>
     <twelvemonkeys-imageio.version>3.13.0</twelvemonkeys-imageio.version>
     <emoji-java.version>5.1.1</emoji-java.version>
-    <vertx.version>5.0.6</vertx.version>
+    <vertx.version>5.0.7</vertx.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.37</dropwizard-metrics.version>
     <opentelemetry.version>1.58.0</opentelemetry.version>
@@ -93,7 +93,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.5</google-truth.version>
-    <bytebuddy.version>1.18.3</bytebuddy.version>
+    <bytebuddy.version>1.18.4</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.25.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -222,7 +222,7 @@
     <dflib.version>2.0.0-M6</dflib.version>
     <jandex.version>3.5.3</jandex.version>
     <!--persistence-->
-    <hibernate.version>7.2.0.Final</hibernate.version>
+    <hibernate.version>7.2.1.Final</hibernate.version>
     <hibernate-validator.version>9.1.0.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.20.10</jooq.version>
@@ -243,7 +243,7 @@
     <ehcache3.version>3.11.1</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>11.20.1</flyway.version>
+    <flyway.version>11.20.2</flyway.version>
     <liquibase.version>5.0.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.1.1</flexy-pool.version>
@@ -262,7 +262,7 @@
     <hikaricp.version>7.0.2</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
     <unboundid-ldapsdk.version>7.0.4</unboundid-ldapsdk.version>
-    <postgresql.version>42.7.8</postgresql.version>
+    <postgresql.version>42.7.9</postgresql.version>
     <jaybird.version>6.0.3</jaybird.version>
     <jdbi.version>3.51.0</jdbi.version>
     <couchbase-client.version>3.10.0</couchbase-client.version>
@@ -327,13 +327,13 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.41.7</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.41.9</aws-java-sdk2.version>
     <google-gax.version>2.73.1</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.73.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>25.0.0</kubernetes-client.version>
-    <fabric8-kubernetes-client.version>7.5.0</fabric8-kubernetes-client.version>
+    <fabric8-kubernetes-client.version>7.5.1</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <sundr.version>0.230.2</sundr.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
@@ -359,8 +359,8 @@
     <angus-mail.version>2.1.0-M1</angus-mail.version>
     <simplejavamail.version>8.12.6</simplejavamail.version>
     <!--springsource-->
-    <spring.version>7.0.2</spring.version>
-    <spring-framework.version>7.0.2</spring-framework.version>
+    <spring.version>7.0.3</spring.version>
+    <spring-framework.version>7.0.3</spring-framework.version>
     <spring-plugin.version>4.0.0</spring-plugin.version>
     <spring-batch.version>6.0.1</spring-batch.version>
     <spring-ws.version>5.0.0</spring-ws.version>
@@ -378,7 +378,7 @@
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
     <spring-boot.version>4.0.1</spring-boot.version>
-    <spring-hateoas.version>3.0.1</spring-hateoas.version>
+    <spring-hateoas.version>3.0.2</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
     <spring-cloud-contract.version>5.0.1</spring-cloud-contract.version>
     <spring-cloud.version>2025.1.0</spring-cloud.version>
@@ -1663,7 +1663,7 @@
       <dependency>
         <groupId>io.r2dbc</groupId>
         <artifactId>r2dbc-mssql</artifactId>
-        <version>1.0.3.RELEASE</version>
+        <version>1.0.4.RELEASE</version>
       </dependency>
       <dependency>
         <groupId>io.r2dbc</groupId>
