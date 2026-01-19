@@ -68,7 +68,7 @@
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.119</underscore.version>
-    <java-util.version>4.82.0</java-util.version>
+    <java-util.version>4.83.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>0.11.0</vavr.version>
@@ -117,7 +117,7 @@
     <mockito.version>5.21.0</mockito.version>
     <htmlunit.version>4.21.0</htmlunit.version>
     <testng.version>7.11.0</testng.version>
-    <selenium.version>4.39.0</selenium.version>
+    <selenium.version>4.40.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>2.0-rc1</jsonassert.version>
     <json-smart.version>2.6.0</json-smart.version>
@@ -173,7 +173,7 @@
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.3</jsqlparser.version>
     <javaparser.version>3.28.0</javaparser.version>
-    <jackson2.version>2.20.1</jackson2.version>
+    <jackson2.version>2.21.0</jackson2.version>
     <jackson-bom.version>3.0.3</jackson-bom.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.3</classmate.version>
@@ -2198,7 +2198,7 @@
       <dependency>
         <groupId>org.springframework.credhub</groupId>
         <artifactId>spring-credhub-core</artifactId>
-        <version>3.5.0</version>
+        <version>3.5.1</version>
       </dependency>
       <dependency>
         <groupId>org.springframework.session</groupId>
