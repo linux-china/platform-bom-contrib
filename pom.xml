@@ -68,7 +68,7 @@
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.119</underscore.version>
-    <java-util.version>4.83.0</java-util.version>
+    <java-util.version>4.84.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>0.11.0</vavr.version>
@@ -89,7 +89,7 @@
     <gatherers4j.version>0.13.0</gatherers4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.0.2-1</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.41</swagger-oai.version>
+    <swagger-oai.version>2.2.42</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.5</google-truth.version>
@@ -313,7 +313,7 @@
     <solr.version>9.10.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>11.0.15</tomcat.version>
-    <groovy.version>5.0.3</groovy.version>
+    <groovy.version>5.0.4</groovy.version>
     <zookeeper.version>3.9.4</zookeeper.version>
     <curator.version>5.9.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
