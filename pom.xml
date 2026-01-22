@@ -169,12 +169,12 @@
     <jetty.version>12.1.5</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.20.Final</undertow.version>
-    <jersey.version>4.0.0</jersey.version>
+    <jersey.version>4.0.1-M1</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.3</jsqlparser.version>
     <javaparser.version>3.28.0</javaparser.version>
     <jackson2.version>2.21.0</jackson2.version>
-    <jackson-bom.version>3.0.3</jackson-bom.version>
+    <jackson-bom.version>3.0.4</jackson-bom.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.3</classmate.version>
     <snakeyaml.version>2.5</snakeyaml.version>
@@ -310,10 +310,10 @@
     <pulsar.version>4.1.2</pulsar.version>
     <log4j2.version>2.25.3</log4j2.version>
     <jboss-logging.version>3.6.1.Final</jboss-logging.version>
-    <solr.version>9.10.0</solr.version>
+    <solr.version>9.10.1</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>11.0.15</tomcat.version>
-    <groovy.version>5.0.3</groovy.version>
+    <groovy.version>5.0.4</groovy.version>
     <zookeeper.version>3.9.4</zookeeper.version>
     <curator.version>5.9.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
@@ -327,7 +327,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.41.11</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.41.12</aws-java-sdk2.version>
     <google-gax.version>2.73.1</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.74.0</google-cloud-bom.version>
@@ -338,9 +338,9 @@
     <sundr.version>0.230.2</sundr.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.3.0</kotlin.version>
+    <kotlin.version>2.3.20-Beta1</kotlin.version>
     <kotlinx-coroutines.version>1.10.2</kotlinx-coroutines.version>
-    <kotlinx-serialization.version>1.10.0-RC</kotlinx-serialization.version>
+    <kotlinx-serialization.version>1.10.0</kotlinx-serialization.version>
     <jruby.version>10.0.2.0</jruby.version>
     <!--netflix-->
     <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
@@ -362,7 +362,7 @@
     <spring.version>7.0.3</spring.version>
     <spring-framework.version>7.0.3</spring-framework.version>
     <spring-plugin.version>4.0.0</spring-plugin.version>
-    <spring-batch.version>6.0.1</spring-batch.version>
+    <spring-batch.version>6.0.2</spring-batch.version>
     <spring-ws.version>5.0.0</spring-ws.version>
     <spring-session-bom.version>4.0.1</spring-session-bom.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
