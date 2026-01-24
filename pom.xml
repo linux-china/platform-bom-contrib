@@ -169,7 +169,7 @@
     <jetty.version>12.1.5</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.20.Final</undertow.version>
-    <jersey.version>4.0.1-M1</jersey.version>
+    <jersey.version>4.0.1</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.3</jsqlparser.version>
     <javaparser.version>3.28.0</javaparser.version>
@@ -318,7 +318,7 @@
     <curator.version>5.9.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
     <activemq.version>6.2.0</activemq.version>
-    <artemis.version>2.44.0</artemis.version>
+    <artemis.version>2.50.0</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
     <svnkit.version>1.10.11</svnkit.version>
@@ -327,13 +327,13 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.41.13</aws-java-sdk2.version>
-    <google-gax.version>2.73.1</google-gax.version>
+    <aws-java-sdk2.version>2.41.14</aws-java-sdk2.version>
+    <google-gax.version>2.74.0</google-gax.version>
     <google-http-client.version>2.0.2</google-http-client.version>
     <google-cloud-bom.version>26.74.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>25.0.0</kubernetes-client.version>
-    <fabric8-kubernetes-client.version>7.5.1</fabric8-kubernetes-client.version>
+    <fabric8-kubernetes-client.version>7.5.2</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <sundr.version>0.230.2</sundr.version>
     <cloudevents-java.version>4.0.1</cloudevents-java.version>
@@ -377,7 +377,7 @@
     <spring-integration.version>7.0.1</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-    <spring-boot.version>4.0.1</spring-boot.version>
+    <spring-boot.version>4.0.2</spring-boot.version>
     <spring-hateoas.version>3.0.2</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
     <spring-cloud-contract.version>5.0.1</spring-cloud-contract.version>
