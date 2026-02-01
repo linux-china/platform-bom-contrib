@@ -68,7 +68,7 @@
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.119</underscore.version>
-    <java-util.version>4.88.0</java-util.version>
+    <java-util.version>4.89.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>0.11.0</vavr.version>
@@ -103,7 +103,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.2</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2026.1.0</manifold.version>
+    <manifold.version>2026.1.1</manifold.version>
     <jilt.version>1.9.1</jilt.version>
     <graal-sdk.version>25.0.2</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
@@ -267,7 +267,7 @@
     <jdbi.version>3.51.0</jdbi.version>
     <couchbase-client.version>3.10.1</couchbase-client.version>
     <openjpa.version>4.1.1</openjpa.version>
-    <mysql.version>9.5.0</mysql.version>
+    <mysql.version>9.6.0</mysql.version>
     <sqlserver.version>13.2.1.jre11</sqlserver.version>
     <oracle.version>23.26.0.0.0</oracle.version>
     <influxdb-java.version>2.25</influxdb-java.version>
@@ -327,7 +327,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.41.18</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.41.19</aws-java-sdk2.version>
     <google-gax.version>2.74.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.74.0</google-cloud-bom.version>
@@ -400,7 +400,7 @@
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
-    <spring-shell.version>4.0.0</spring-shell.version>
+    <spring-shell.version>4.0.1</spring-shell.version>
     <reactor-bom.version>2025.0.2</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <rxjava3.version>3.1.12</rxjava3.version>
