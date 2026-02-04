@@ -68,7 +68,7 @@
     <togglz.version>4.4.0</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.119</underscore.version>
-    <java-util.version>4.89.0</java-util.version>
+    <java-util.version>4.90.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>0.11.0</vavr.version>
@@ -103,7 +103,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.2</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2026.1.1</manifold.version>
+    <manifold.version>2026.1.2</manifold.version>
     <jilt.version>1.9.1</jilt.version>
     <graal-sdk.version>25.0.2</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
@@ -147,7 +147,7 @@
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.2.9.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
-    <grpc.version>1.78.0</grpc.version>
+    <grpc.version>1.79.0</grpc.version>
     <asynchttpclient.version>3.0.6</asynchttpclient.version>
     <tyrus.version>2.2.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
@@ -253,7 +253,7 @@
     <neo4j-java-driver.version>6.0.2</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
-    <elasticsearch.version>9.2.4</elasticsearch.version>
+    <elasticsearch.version>9.3.0</elasticsearch.version>
     <hazelcast.version>5.6.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -327,10 +327,10 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.41.19</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.41.21</aws-java-sdk2.version>
     <google-gax.version>2.74.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
-    <google-cloud-bom.version>26.74.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.75.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>25.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>7.5.2</fabric8-kubernetes-client.version>
