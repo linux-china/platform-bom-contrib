@@ -145,7 +145,7 @@
     <okio.version>3.16.4</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.2.9.Final</netty.version>
+    <netty.version>4.2.10.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.79.0</grpc.version>
     <asynchttpclient.version>3.0.6</asynchttpclient.version>
@@ -265,7 +265,7 @@
     <postgresql.version>42.7.9</postgresql.version>
     <jaybird.version>6.0.3</jaybird.version>
     <jdbi.version>3.51.0</jdbi.version>
-    <couchbase-client.version>3.10.1</couchbase-client.version>
+    <couchbase-client.version>3.11.0</couchbase-client.version>
     <openjpa.version>4.1.1</openjpa.version>
     <mysql.version>9.6.0</mysql.version>
     <sqlserver.version>13.2.1.jre11</sqlserver.version>
@@ -327,8 +327,8 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.41.21</aws-java-sdk2.version>
-    <google-gax.version>2.74.0</google-gax.version>
+    <aws-java-sdk2.version>2.41.23</aws-java-sdk2.version>
+    <google-gax.version>2.74.1</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.75.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
@@ -380,9 +380,9 @@
     <spring-boot.version>4.0.2</spring-boot.version>
     <spring-hateoas.version>3.0.2</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
-    <spring-cloud-contract.version>5.0.1</spring-cloud-contract.version>
+    <spring-cloud-contract.version>5.0.2</spring-cloud-contract.version>
     <spring-cloud.version>2025.1.1</spring-cloud.version>
-    <spring-cloud-task.version>5.0.0</spring-cloud-task.version>
+    <spring-cloud-task.version>5.0.1</spring-cloud-task.version>
     <spring-cloud-stream.version>5.0.1</spring-cloud-stream.version>
     <spring-cloud-function.version>5.0.1</spring-cloud-function.version>
     <spring-cloud-gateway.version>5.0.1</spring-cloud-gateway.version>
