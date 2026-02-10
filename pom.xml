@@ -404,8 +404,8 @@
     <reactor-bom.version>2025.0.2</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <rxjava3.version>3.1.12</rxjava3.version>
-    <micrometer.version>1.16.2</micrometer.version>
-    <micrometer-tracing.version>1.6.2</micrometer-tracing.version>
+    <micrometer.version>1.16.3</micrometer.version>
+    <micrometer-tracing.version>1.6.3</micrometer-tracing.version>
     <spring-webflow.version>4.0.0</spring-webflow.version>
   </properties>
 
