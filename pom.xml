@@ -112,7 +112,7 @@
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
-    <data-faker.version>2.5.3</data-faker.version>
+    <data-faker.version>2.5.4</data-faker.version>
     <instancio.version>6.0.0-RC1</instancio.version>
     <mockito.version>5.21.0</mockito.version>
     <htmlunit.version>4.21.0</htmlunit.version>
@@ -243,7 +243,7 @@
     <ehcache3.version>3.11.1</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>12.0.0</flyway.version>
+    <flyway.version>12.0.1</flyway.version>
     <liquibase.version>5.0.1</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.1.1</flexy-pool.version>
@@ -327,7 +327,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.41.27</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.41.28</aws-java-sdk2.version>
     <google-gax.version>2.74.1</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.75.0</google-cloud-bom.version>
@@ -359,8 +359,8 @@
     <angus-mail.version>2.1.0-M1</angus-mail.version>
     <simplejavamail.version>8.12.6</simplejavamail.version>
     <!--springsource-->
-    <spring.version>7.0.3</spring.version>
-    <spring-framework.version>7.0.3</spring-framework.version>
+    <spring.version>7.0.4</spring.version>
+    <spring-framework.version>7.0.4</spring-framework.version>
     <spring-plugin.version>4.0.0</spring-plugin.version>
     <spring-batch.version>6.0.2</spring-batch.version>
     <spring-ws.version>5.0.0</spring-ws.version>
