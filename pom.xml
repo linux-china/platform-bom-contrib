@@ -44,7 +44,7 @@
     <webjars-locator-core.version>0.59</webjars-locator-core.version>
     <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
     <graphviz-java.version>0.18.1</graphviz-java.version>
-    <twelvemonkeys-imageio.version>3.13.0</twelvemonkeys-imageio.version>
+    <twelvemonkeys-imageio.version>3.13.1</twelvemonkeys-imageio.version>
     <emoji-java.version>5.1.1</emoji-java.version>
     <vertx.version>5.0.8</vertx.version>
     <!--system management & monitor-->
@@ -103,12 +103,12 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.2</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2026.1.4</manifold.version>
+    <manifold.version>2026.1.5</manifold.version>
     <jilt.version>1.9.1</jilt.version>
     <graal-sdk.version>25.0.2</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
     <!--testing-->
-    <junit5.version>6.0.1</junit5.version>
+    <junit5.version>6.0.3</junit5.version>
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
@@ -154,7 +154,7 @@
     <searchbox-jest.version>6.3.1</searchbox-jest.version>
     <smack4.version>4.4.4</smack4.version>
     <unirest-java.version>1.4.9</unirest-java.version>
-    <openfeign.version>13.9</openfeign.version>
+    <openfeign.version>13.9.1</openfeign.version>
     <javax-mail.version>1.6.3</javax-mail.version>
     <sun-mail.version>2.0.1</sun-mail.version>
     <javax-cache.version>1.1.1</javax-cache.version>
@@ -177,10 +177,10 @@
     <jackson-bom.version>3.1.0</jackson-bom.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.3</classmate.version>
-    <snakeyaml.version>2.5</snakeyaml.version>
+    <snakeyaml.version>2.6</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.13.2</gson.version>
-    <protobuf.version>4.33.4</protobuf.version>
+    <protobuf.version>4.34.0</protobuf.version>
     <json-smart.versfion>2.5.2</json-smart.versfion>
     <json-path.version>3.0.0</json-path.version>
     <json-masker.version>1.1.2</json-masker.version>
@@ -222,7 +222,7 @@
     <dflib.version>2.0.0-M6</dflib.version>
     <jandex.version>3.5.3</jandex.version>
     <!--persistence-->
-    <hibernate.version>7.2.1.Final</hibernate.version>
+    <hibernate.version>7.2.5.Final</hibernate.version>
     <hibernate-validator.version>9.1.0.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.20.11</jooq.version>
@@ -327,7 +327,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.42.2</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.42.3</aws-java-sdk2.version>
     <google-gax.version>2.75.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.76.0</google-cloud-bom.version>
