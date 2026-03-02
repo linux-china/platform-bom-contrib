@@ -71,7 +71,7 @@
     <java-util.version>4.96.0</java-util.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
-    <vavr.version>1.0.0</vavr.version>
+    <vavr.version>1.0.1</vavr.version>
     <concurrentlinkedhashmap.version>1.4.2</concurrentlinkedhashmap.version>
     <quartz.version>2.5.2</quartz.version>
     <snappy.version>1.1.7.1</snappy.version>
@@ -93,7 +93,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.5</google-truth.version>
-    <bytebuddy.version>1.18.6</bytebuddy.version>
+    <bytebuddy.version>1.18.7</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.25.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -154,7 +154,7 @@
     <searchbox-jest.version>6.3.1</searchbox-jest.version>
     <smack4.version>4.4.4</smack4.version>
     <unirest-java.version>1.4.9</unirest-java.version>
-    <openfeign.version>13.9.2</openfeign.version>
+    <openfeign.version>13.9.1</openfeign.version>
     <javax-mail.version>1.6.3</javax-mail.version>
     <sun-mail.version>2.0.1</sun-mail.version>
     <javax-cache.version>1.1.1</javax-cache.version>
@@ -253,7 +253,7 @@
     <neo4j-java-driver.version>6.0.3</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
-    <elasticsearch.version>9.3.1</elasticsearch.version>
+    <elasticsearch.version>9.3.2</elasticsearch.version>
     <hazelcast.version>5.6.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
