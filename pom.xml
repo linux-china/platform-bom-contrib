@@ -37,7 +37,7 @@
   </developers>
 
   <properties>
-    <jline.version>3.30.6</jline.version>
+    <jline.version>4.0.0</jline.version>
     <janino.version>3.1.12</janino.version>
     <!--web development & GUI-->
     <webjars-locator.version>0.33</webjars-locator.version>
@@ -49,7 +49,7 @@
     <vertx.version>5.0.8</vertx.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.38</dropwizard-metrics.version>
-    <opentelemetry.version>1.59.0</opentelemetry.version>
+    <opentelemetry.version>1.60.1</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.5.32</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
@@ -103,7 +103,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.2</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2026.1.5</manifold.version>
+    <manifold.version>2026.1.6</manifold.version>
     <jilt.version>1.9.1</jilt.version>
     <graal-sdk.version>25.0.2</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
@@ -327,7 +327,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.42.7</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.42.8</aws-java-sdk2.version>
     <google-gax.version>2.75.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.77.0</google-cloud-bom.version>
