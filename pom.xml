@@ -69,6 +69,7 @@
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.119</underscore.version>
     <java-util.version>4.98.0</java-util.version>
+    <json-io.version>4.98.0</json-io.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.1</vavr.version>
@@ -1027,6 +1028,11 @@
         <groupId>com.cedarsoftware</groupId>
         <artifactId>java-util</artifactId>
         <version>${java-util.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>com.cedarsoftware</groupId>
+        <artifactId>json-io</artifactId>
+        <version>${json-io.version}</version>
       </dependency>
       <dependency>
         <groupId>org.jsoup</groupId>
