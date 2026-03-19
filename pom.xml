@@ -37,7 +37,7 @@
   </developers>
 
   <properties>
-    <jline.version>4.0.5</jline.version>
+    <jline.version>4.0.6</jline.version>
     <janino.version>3.1.12</janino.version>
     <!--web development & GUI-->
     <webjars-locator.version>0.33</webjars-locator.version>
@@ -155,7 +155,7 @@
     <searchbox-jest.version>6.3.1</searchbox-jest.version>
     <smack4.version>4.4.4</smack4.version>
     <unirest-java.version>1.4.9</unirest-java.version>
-    <openfeign.version>13.10</openfeign.version>
+    <openfeign.version>13.11</openfeign.version>
     <javax-mail.version>1.6.3</javax-mail.version>
     <sun-mail.version>2.0.1</sun-mail.version>
     <javax-cache.version>1.1.1</javax-cache.version>
@@ -291,7 +291,7 @@
     <httpclient5.version>5.6</httpclient5.version>
     <commons-cli.version>1.11.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
-    <commons-net.version>3.12.0</commons-net.version>
+    <commons-net.version>3.13.0</commons-net.version>
     <commons-io.version>2.21.0</commons-io.version>
     <commons-codec.version>1.21.0</commons-codec.version>
     <commons-fileupload.version>1.6.0</commons-fileupload.version>
@@ -328,7 +328,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.42.15</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.42.16</aws-java-sdk2.version>
     <google-gax.version>2.76.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.78.0</google-cloud-bom.version>
@@ -363,7 +363,7 @@
     <spring.version>7.0.6</spring.version>
     <spring-framework.version>7.0.6</spring-framework.version>
     <spring-plugin.version>4.0.0</spring-plugin.version>
-    <spring-batch.version>6.0.2</spring-batch.version>
+    <spring-batch.version>6.0.3</spring-batch.version>
     <spring-ws.version>5.0.1</spring-ws.version>
     <spring-session-bom.version>4.0.2</spring-session-bom.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
