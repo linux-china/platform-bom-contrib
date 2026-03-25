@@ -146,7 +146,7 @@
     <okio.version>3.17.0</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
-    <netty.version>4.2.10.Final</netty.version>
+    <netty.version>4.2.11.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.80.0</grpc.version>
     <asynchttpclient.version>3.0.7</asynchttpclient.version>
@@ -163,8 +163,8 @@
     <jsch.version>0.1.55</jsch.version>
     <jsch2.version>2.27.9</jsch2.version>
     <zipkin.version>3.6.0</zipkin.version>
-    <zipkin-brave.version>6.3.0</zipkin-brave.version>
-    <zipkin-reporter2.version>3.5.1</zipkin-reporter2.version>
+    <zipkin-brave.version>6.3.1</zipkin-brave.version>
+    <zipkin-reporter2.version>3.5.3</zipkin-reporter2.version>
     <rsocket.versoin>1.1.5</rsocket.versoin>
     <!--servers-->
     <jetty.version>12.1.7</jetty.version>
@@ -280,7 +280,7 @@
     <bouncycastle.version>1.83</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.8</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.34</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.35</oauth2-oidc-sdk.version>
     <jjwt.version>0.13.0</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <shiro.version>2.1.0</shiro.version>
@@ -313,12 +313,12 @@
     <jboss-logging.version>3.6.3.Final</jboss-logging.version>
     <solr.version>10.0.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
-    <tomcat.version>11.0.18</tomcat.version>
+    <tomcat.version>11.0.20</tomcat.version>
     <groovy.version>5.0.4</groovy.version>
     <zookeeper.version>3.9.5</zookeeper.version>
     <curator.version>5.9.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
-    <activemq.version>6.2.1</activemq.version>
+    <activemq.version>6.2.2</activemq.version>
     <artemis.version>2.53.0</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
@@ -328,7 +328,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.42.19</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.42.20</aws-java-sdk2.version>
     <google-gax.version>2.76.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.78.0</google-cloud-bom.version>
