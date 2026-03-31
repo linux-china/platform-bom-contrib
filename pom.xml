@@ -251,7 +251,7 @@
     <h2.version>2.4.240</h2.version>
     <hsqldb.version>2.7.4</hsqldb.version>
     <sqlite-jdbc.version>3.51.3.0</sqlite-jdbc.version>
-    <neo4j-java-driver.version>6.0.3</neo4j-java-driver.version>
+    <neo4j-java-driver.version>6.0.4</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
     <elasticsearch.version>9.3.2</elasticsearch.version>
@@ -318,7 +318,7 @@
     <zookeeper.version>3.9.5</zookeeper.version>
     <curator.version>5.9.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
-    <activemq.version>6.2.2</activemq.version>
+    <activemq.version>6.2.3</activemq.version>
     <artemis.version>2.53.0</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
@@ -328,7 +328,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.42.23</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.42.24</aws-java-sdk2.version>
     <google-gax.version>2.76.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.79.0</google-cloud-bom.version>
