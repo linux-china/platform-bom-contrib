@@ -37,7 +37,7 @@
   </developers>
 
   <properties>
-    <jline.version>4.0.9</jline.version>
+    <jline.version>4.0.10</jline.version>
     <janino.version>3.1.12</janino.version>
     <!--web development & GUI-->
     <webjars-locator.version>0.33</webjars-locator.version>
@@ -167,7 +167,7 @@
     <zipkin-reporter2.version>3.5.3</zipkin-reporter2.version>
     <rsocket.versoin>1.1.5</rsocket.versoin>
     <!--servers-->
-    <jetty.version>12.1.7</jetty.version>
+    <jetty.version>12.1.8</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.20.Final</undertow.version>
     <jersey.version>5.0.0-M1</jersey.version>
@@ -234,7 +234,7 @@
     <mybatis.version>3.5.19</mybatis.version>
     <mybatis-spring.version>4.0.0</mybatis-spring.version>
     <javax-jdo.version>3.1</javax-jdo.version>
-    <mariadb.version>3.5.7</mariadb.version>
+    <mariadb.version>3.5.8</mariadb.version>
     <mariadb-r2dbc.version>1.4.0</mariadb-r2dbc.version>
     <mongodb.version>5.6.1</mongodb.version>
     <mongodb-reactivestreams.version>5.6.1</mongodb-reactivestreams.version>
@@ -328,7 +328,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.42.26</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.42.27</aws-java-sdk2.version>
     <google-gax.version>2.76.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.79.0</google-cloud-bom.version>
