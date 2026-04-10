@@ -37,7 +37,7 @@
   </developers>
 
   <properties>
-    <jline.version>4.0.11</jline.version>
+    <jline.version>4.0.12</jline.version>
     <janino.version>3.1.12</janino.version>
     <!--web development & GUI-->
     <webjars-locator.version>0.33</webjars-locator.version>
@@ -90,7 +90,7 @@
     <gatherers4j.version>0.13.0</gatherers4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.1.0</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.46</swagger-oai.version>
+    <swagger-oai.version>2.2.47</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.5</google-truth.version>
@@ -118,7 +118,7 @@
     <mockito.version>5.23.0</mockito.version>
     <htmlunit.version>4.21.0</htmlunit.version>
     <testng.version>7.12.0</testng.version>
-    <selenium.version>4.41.0</selenium.version>
+    <selenium.version>4.42.0</selenium.version>
     <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
     <jsonassert.version>2.0-rc1</jsonassert.version>
     <json-smart.version>2.6.0</json-smart.version>
@@ -162,7 +162,7 @@
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
     <jsch2.version>2.28.0</jsch2.version>
-    <zipkin.version>3.6.0</zipkin.version>
+    <zipkin.version>3.6.1</zipkin.version>
     <zipkin-brave.version>6.3.1</zipkin-brave.version>
     <zipkin-reporter2.version>3.5.3</zipkin-reporter2.version>
     <rsocket.versoin>1.1.5</rsocket.versoin>
@@ -254,7 +254,7 @@
     <neo4j-java-driver.version>6.0.4</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
-    <elasticsearch.version>9.3.2</elasticsearch.version>
+    <elasticsearch.version>9.3.4</elasticsearch.version>
     <hazelcast.version>5.6.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -299,7 +299,7 @@
     <commons-lang3.version>3.20.0</commons-lang3.version>
     <commons-csv.version>1.14.1</commons-csv.version>
     <commons-crypto.version>1.2.0</commons-crypto.version>
-    <commons-configuration2.version>2.13.0</commons-configuration2.version>
+    <commons-configuration2.version>2.14.0</commons-configuration2.version>
     <commons-text.version>1.15.0</commons-text.version>
     <commons-vfs2.version>2.10.0</commons-vfs2.version>
     <commons-pool2.version>2.13.1</commons-pool2.version>
@@ -318,7 +318,7 @@
     <zookeeper.version>3.9.5</zookeeper.version>
     <curator.version>5.9.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
-    <activemq.version>6.2.3</activemq.version>
+    <activemq.version>6.2.4</activemq.version>
     <artemis.version>2.53.0</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
@@ -328,8 +328,8 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.42.30</aws-java-sdk2.version>
-    <google-gax.version>2.76.0</google-gax.version>
+    <aws-java-sdk2.version>2.42.32</aws-java-sdk2.version>
+    <google-gax.version>2.77.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.79.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
@@ -341,7 +341,7 @@
     <!--languages-->
     <kotlin.version>2.3.20</kotlin.version>
     <kotlinx-coroutines.version>1.10.2</kotlinx-coroutines.version>
-    <kotlinx-serialization.version>1.10.0</kotlinx-serialization.version>
+    <kotlinx-serialization.version>1.11.0</kotlinx-serialization.version>
     <jruby.version>10.0.5.0</jruby.version>
     <!--netflix-->
     <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
