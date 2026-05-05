@@ -37,7 +37,7 @@
   </developers>
 
   <properties>
-    <jline.version>4.0.14</jline.version>
+    <jline.version>4.0.15</jline.version>
     <janino.version>3.1.12</janino.version>
     <!--web development & GUI-->
     <webjars-locator.version>0.33</webjars-locator.version>
@@ -68,8 +68,8 @@
     <togglz.version>4.6.1</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.120</underscore.version>
-    <java-util.version>4.101.0</java-util.version>
-    <json-io.version>4.101.0</json-io.version>
+    <java-util.version>4.102.0</java-util.version>
+    <json-io.version>4.102.0</json-io.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.1</vavr.version>
@@ -173,7 +173,7 @@
     <jersey.version>5.0.0-M1</jersey.version>
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.3</jsqlparser.version>
-    <javaparser.version>3.28.0</javaparser.version>
+    <javaparser.version>3.28.1</javaparser.version>
     <jackson2.version>2.21.3</jackson2.version>
     <jackson-bom.version>3.1.3</jackson-bom.version>
     <moshi.version>1.15.2</moshi.version>
@@ -229,7 +229,7 @@
     <jooq.version>3.21.2</jooq.version>
     <jedis.version>7.5.0</jedis.version>
     <lettuce.version>7.5.1.RELEASE</lettuce.version>
-    <caffeine.version>3.2.3</caffeine.version>
+    <caffeine.version>3.2.4</caffeine.version>
     <jettison.version>1.5.5</jettison.version>
     <mybatis.version>3.5.19</mybatis.version>
     <mybatis-spring.version>4.0.0</mybatis-spring.version>
@@ -258,7 +258,7 @@
     <hazelcast.version>5.6.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-    <infinispan.version>16.1.2</infinispan.version>
+    <infinispan.version>16.1.4</infinispan.version>
     <querydsl.version>5.1.0</querydsl.version>
     <hikaricp.version>7.0.2</hikaricp.version>
     <jasperreports.version>6.5.1</jasperreports.version>
@@ -328,7 +328,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.43.2</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.44.1</aws-java-sdk2.version>
     <google-gax.version>2.79.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.79.0</google-cloud-bom.version>
