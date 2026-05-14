@@ -214,7 +214,7 @@
     <woodstox5.version>7.1.1</woodstox5.version>
     <openpdf.version>3.0.4</openpdf.version>
     <jaxen.version>2.0.2</jaxen.version>
-    <xom.version>1.4.1</xom.version>
+    <xom.version>1.4.2</xom.version>
     <jte.version>3.2.4</jte.version>
     <evo-inflector.version>2.0</evo-inflector.version>
     <jdom2.version>2.0.6.1</jdom2.version>
@@ -223,7 +223,7 @@
     <dflib.version>2.0.0-M6</dflib.version>
     <jandex.version>3.5.3</jandex.version>
     <!--persistence-->
-    <hibernate.version>7.2.5.Final</hibernate.version>
+    <hibernate.version>7.3.4.Final</hibernate.version>
     <hibernate-validator.version>9.1.0.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.21.4</jooq.version>
@@ -255,7 +255,7 @@
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
     <elasticsearch.version>9.4.0</elasticsearch.version>
-    <hazelcast.version>5.6.0</hazelcast.version>
+    <hazelcast.version>5.7.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
     <infinispan.version>16.1.4</infinispan.version>
@@ -280,7 +280,7 @@
     <bouncycastle.version>1.84</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.9</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.37</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.37.1</oauth2-oidc-sdk.version>
     <jjwt.version>0.13.0</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <shiro.version>2.1.0</shiro.version>
@@ -314,7 +314,7 @@
     <solr.version>10.0.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>11.0.22</tomcat.version>
-    <groovy.version>5.0.5</groovy.version>
+    <groovy.version>5.0.6</groovy.version>
     <zookeeper.version>3.9.5</zookeeper.version>
     <curator.version>5.9.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
@@ -328,7 +328,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.44.4</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.44.5</aws-java-sdk2.version>
     <google-gax.version>2.80.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.81.0</google-cloud-bom.version>
@@ -339,7 +339,7 @@
     <sundr.version>0.230.2</sundr.version>
     <cloudevents-java.version>4.0.2</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.4.0-Beta2</kotlin.version>
+    <kotlin.version>2.4.0-RC</kotlin.version>
     <kotlinx-coroutines.version>1.11.0</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.11.0</kotlinx-serialization.version>
     <jruby.version>10.0.5.0</jruby.version>
