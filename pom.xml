@@ -174,8 +174,8 @@
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.3</jsqlparser.version>
     <javaparser.version>3.28.1</javaparser.version>
-    <jackson2.version>2.21.3</jackson2.version>
-    <jackson-bom.version>3.1.3</jackson-bom.version>
+    <jackson2.version>2.21.4</jackson2.version>
+    <jackson-bom.version>3.1.4</jackson-bom.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.3</classmate.version>
     <snakeyaml.version>2.6</snakeyaml.version>
@@ -244,7 +244,7 @@
     <ehcache3.version>3.12.0</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>12.6.2</flyway.version>
+    <flyway.version>12.7.0</flyway.version>
     <liquibase.version>5.0.3</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.1.1</flexy-pool.version>
@@ -283,7 +283,7 @@
     <oauth2-oidc-sdk.version>11.37.2</oauth2-oidc-sdk.version>
     <jjwt.version>0.13.0</jjwt.version>
     <totp.version>1.7.1</totp.version>
-    <shiro.version>2.1.0</shiro.version>
+    <shiro.version>2.2.0</shiro.version>
     <!--apache-->
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
@@ -328,7 +328,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.45.0</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.45.1</aws-java-sdk2.version>
     <google-gax.version>2.80.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.81.0</google-cloud-bom.version>
