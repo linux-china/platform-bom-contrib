@@ -223,7 +223,7 @@
     <dflib.version>2.0.0-M6</dflib.version>
     <jandex.version>3.5.3</jandex.version>
     <!--persistence-->
-    <hibernate.version>7.3.4.Final</hibernate.version>
+    <hibernate.version>7.4.0.Final</hibernate.version>
     <hibernate-validator.version>9.1.0.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.21.4</jooq.version>
