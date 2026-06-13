@@ -54,7 +54,7 @@
     <logback.version>1.5.34</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.9</flogger.version>
-    <jna.version>5.19.0</jna.version>
+    <jna.version>5.19.1</jna.version>
     <prometheus-client.version>1.8.0</prometheus-client.version>
     <!--productivity & tools-->
     <functionaljava.version>5.0</functionaljava.version>
@@ -90,7 +90,7 @@
     <gatherers4j.version>0.14.0</gatherers4j.version>
     <!--code & classes-->
     <jetbrains-annotations.version>26.1.0</jetbrains-annotations.version>
-    <swagger-oai.version>2.2.50</swagger-oai.version>
+    <swagger-oai.version>2.2.51</swagger-oai.version>
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.5</google-truth.version>
@@ -234,7 +234,7 @@
     <mybatis.version>3.5.19</mybatis.version>
     <mybatis-spring.version>4.0.0</mybatis-spring.version>
     <javax-jdo.version>3.1</javax-jdo.version>
-    <mariadb.version>3.5.8</mariadb.version>
+    <mariadb.version>3.5.9</mariadb.version>
     <mariadb-r2dbc.version>1.4.0</mariadb-r2dbc.version>
     <mongodb.version>5.8.0</mongodb.version>
     <mongodb-reactivestreams.version>5.8.0</mongodb-reactivestreams.version>
@@ -331,7 +331,7 @@
     <aws-java-sdk2.version>2.46.9</aws-java-sdk2.version>
     <google-gax.version>2.81.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
-    <google-cloud-bom.version>26.83.0</google-cloud-bom.version>
+    <google-cloud-bom.version>26.84.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>26.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>7.7.0</fabric8-kubernetes-client.version>
