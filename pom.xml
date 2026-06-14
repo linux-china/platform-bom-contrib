@@ -68,8 +68,8 @@
     <togglz.version>4.6.2</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.122</underscore.version>
-    <java-util.version>4.103.0</java-util.version>
-    <json-io.version>4.103.0</json-io.version>
+    <java-util.version>4.105.0</java-util.version>
+    <json-io.version>4.105.0</json-io.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.1</vavr.version>
@@ -155,7 +155,7 @@
     <searchbox-jest.version>6.3.1</searchbox-jest.version>
     <smack4.version>4.4.4</smack4.version>
     <unirest-java.version>1.4.9</unirest-java.version>
-    <openfeign.version>13.12</openfeign.version>
+    <openfeign.version>13.13</openfeign.version>
     <javax-mail.version>1.6.3</javax-mail.version>
     <sun-mail.version>2.0.1</sun-mail.version>
     <javax-cache.version>1.1.1</javax-cache.version>
@@ -223,7 +223,7 @@
     <dflib.version>2.0.0-M6</dflib.version>
     <jandex.version>3.6.0</jandex.version>
     <!--persistence-->
-    <hibernate.version>7.4.0.Final</hibernate.version>
+    <hibernate.version>7.4.1.Final</hibernate.version>
     <hibernate-validator.version>9.1.0.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.21.5</jooq.version>
@@ -328,7 +328,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.46.9</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.46.10</aws-java-sdk2.version>
     <google-gax.version>2.81.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.84.0</google-cloud-bom.version>
