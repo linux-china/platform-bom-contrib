@@ -51,7 +51,7 @@
     <dropwizard-metrics.version>4.2.39</dropwizard-metrics.version>
     <opentelemetry.version>1.63.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.34</logback.version>
+    <logback.version>1.5.35</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.9</flogger.version>
     <jna.version>5.19.1</jna.version>
@@ -148,7 +148,7 @@
     <openhft-lang.version>6.8.2</openhft-lang.version>
     <netty.version>4.2.15.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
-    <grpc.version>1.82.0</grpc.version>
+    <grpc.version>1.82.1</grpc.version>
     <asynchttpclient.version>3.0.11</asynchttpclient.version>
     <tyrus.version>2.2.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
@@ -284,7 +284,7 @@
     <oauth2-oidc-sdk.version>11.37.2</oauth2-oidc-sdk.version>
     <jjwt.version>0.13.0</jjwt.version>
     <totp.version>1.7.1</totp.version>
-    <shiro.version>2.2.0</shiro.version>
+    <shiro.version>2.2.1</shiro.version>
     <!--apache-->
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
@@ -308,7 +308,7 @@
     <commons-rng.version>1.7</commons-rng.version>
     <commons-logging.version>1.4.0</commons-logging.version>
     <poi.version>5.5.1</poi.version>
-    <kafka.version>4.3.0</kafka.version>
+    <kafka.version>4.3.1</kafka.version>
     <pulsar.version>4.2.2</pulsar.version>
     <log4j2.version>2.26.0</log4j2.version>
     <jboss-logging.version>3.6.3.Final</jboss-logging.version>
@@ -329,12 +329,12 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.46.16</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.46.17</aws-java-sdk2.version>
     <google-gax.version>2.81.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.84.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
-    <kubernetes-client.version>26.0.0</kubernetes-client.version>
+    <kubernetes-client.version>26.0.1</kubernetes-client.version>
     <fabric8-kubernetes-client.version>7.7.0</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
     <sundr.version>0.230.2</sundr.version>
