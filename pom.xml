@@ -51,14 +51,14 @@
     <dropwizard-metrics.version>4.2.39</dropwizard-metrics.version>
     <opentelemetry.version>1.63.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.5.35</logback.version>
+    <logback.version>1.5.36</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.9</flogger.version>
     <jna.version>5.19.1</jna.version>
     <prometheus-client.version>1.8.0</prometheus-client.version>
     <!--productivity & tools-->
     <functionaljava.version>5.0</functionaljava.version>
-    <fugue.version>6.1.4</fugue.version>
+    <fugue.version>6.1.5</fugue.version>
     <joda-time.version>2.12.1</joda-time.version>
     <gs-collections.version>7.0.3</gs-collections.version>
     <guava.version>33.6.0-jre</guava.version>
@@ -113,7 +113,7 @@
     <junit.version>4.13.2</junit.version>
     <hamcrest.version>3.0</hamcrest.version>
     <java-faker.version>1.0.2</java-faker.version>
-    <data-faker.version>2.6.0</data-faker.version>
+    <data-faker.version>2.7.0</data-faker.version>
     <instancio.version>6.0.0-RC3</instancio.version>
     <mockito.version>5.23.0</mockito.version>
     <htmlunit.version>5.2.0</htmlunit.version>
@@ -288,7 +288,7 @@
     <!--apache-->
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
-    <httpcore5.version>5.5-beta1</httpcore5.version>
+    <httpcore5.version>5.5-beta2</httpcore5.version>
     <httpclient5.version>5.6.1</httpclient5.version>
     <commons-cli.version>1.11.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
@@ -340,7 +340,7 @@
     <sundr.version>0.230.2</sundr.version>
     <cloudevents-java.version>4.1.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.4.0</kotlin.version>
+    <kotlin.version>2.4.20-Beta1</kotlin.version>
     <kotlinx-coroutines.version>1.11.0</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.11.0</kotlinx-serialization.version>
     <jruby.version>10.0.5.0</jruby.version>
