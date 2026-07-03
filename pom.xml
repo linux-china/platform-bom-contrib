@@ -94,7 +94,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.5</google-truth.version>
-    <bytebuddy.version>1.18.10</bytebuddy.version>
+    <bytebuddy.version>1.18.11</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.25.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -284,7 +284,7 @@
     <oauth2-oidc-sdk.version>11.37.2</oauth2-oidc-sdk.version>
     <jjwt.version>0.13.0</jjwt.version>
     <totp.version>1.7.1</totp.version>
-    <shiro.version>3.0.0</shiro.version>
+    <shiro.version>2.2.1</shiro.version>
     <!--apache-->
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
@@ -329,7 +329,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.46.20</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.46.21</aws-java-sdk2.version>
     <google-gax.version>2.81.0</google-gax.version>
     <google-http-client.version>2.1.0</google-http-client.version>
     <google-cloud-bom.version>26.84.0</google-cloud-bom.version>
