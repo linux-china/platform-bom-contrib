@@ -225,7 +225,7 @@
     <jandex.version>3.6.0</jandex.version>
     <!--persistence-->
     <hibernate.version>7.4.2.Final</hibernate.version>
-    <hibernate-validator.version>9.1.0.Final</hibernate-validator.version>
+    <hibernate-validator.version>9.1.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.21.6</jooq.version>
     <jedis.version>8.0.0-beta1</jedis.version>
@@ -331,7 +331,7 @@
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
     <aws-java-sdk2.version>2.46.21</aws-java-sdk2.version>
     <google-gax.version>2.81.0</google-gax.version>
-    <google-http-client.version>2.1.0</google-http-client.version>
+    <google-http-client.version>2.1.1</google-http-client.version>
     <google-cloud-bom.version>26.84.0</google-cloud-bom.version>
     <sendgrid.version>5.0.0-rc.1</sendgrid.version>
     <kubernetes-client.version>27.0.0</kubernetes-client.version>
