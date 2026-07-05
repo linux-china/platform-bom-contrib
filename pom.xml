@@ -81,7 +81,7 @@
     <resilience4j.version>2.4.0</resilience4j.version>
     <failsafe.version>3.3.2</failsafe.version>
     <eclipse-collections.version>13.0.0</eclipse-collections.version>
-    <agrona.version>2.4.1</agrona.version>
+    <agrona.version>2.5.0</agrona.version>
     <math-parser.version>6.1.1</math-parser.version>
     <rgxgen.version>3.1</rgxgen.version>
     <nuprocess.version>3.0.0</nuprocess.version>
@@ -224,7 +224,7 @@
     <dflib.version>2.0.0-M6</dflib.version>
     <jandex.version>3.6.0</jandex.version>
     <!--persistence-->
-    <hibernate.version>7.4.2.Final</hibernate.version>
+    <hibernate.version>7.4.4.Final</hibernate.version>
     <hibernate-validator.version>9.1.1.Final</hibernate-validator.version>
     <hibernate-types.version>2.21.1</hibernate-types.version>
     <jooq.version>3.21.6</jooq.version>
@@ -315,7 +315,7 @@
     <solr.version>10.0.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>11.0.23</tomcat.version>
-    <groovy.version>5.0.6</groovy.version>
+    <groovy.version>5.0.7</groovy.version>
     <zookeeper.version>3.9.5</zookeeper.version>
     <curator.version>5.9.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
