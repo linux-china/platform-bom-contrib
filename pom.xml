@@ -68,8 +68,8 @@
     <togglz.version>4.6.2</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.122</underscore.version>
-    <java-util.version>4.105.0</java-util.version>
-    <json-io.version>4.105.0</json-io.version>
+    <java-util.version>4.106.0</java-util.version>
+    <json-io.version>4.106.0</json-io.version>
     <verbalregex.version>1.8</verbalregex.version>
     <javaslang.version>2.1.0-alpha</javaslang.version>
     <vavr.version>1.0.1</vavr.version>
