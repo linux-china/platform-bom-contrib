@@ -46,7 +46,7 @@
     <graphviz-java.version>0.18.1</graphviz-java.version>
     <twelvemonkeys-imageio.version>3.13.1</twelvemonkeys-imageio.version>
     <emoji-java.version>5.1.1</emoji-java.version>
-    <vertx.version>5.1.4</vertx.version>
+    <vertx.version>5.1.5</vertx.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.39</dropwizard-metrics.version>
     <opentelemetry.version>1.64.0</opentelemetry.version>
@@ -267,7 +267,7 @@
     <postgresql.version>42.7.13</postgresql.version>
     <jaybird.version>6.0.5</jaybird.version>
     <jdbi.version>3.54.0</jdbi.version>
-    <couchbase-client.version>3.12.0</couchbase-client.version>
+    <couchbase-client.version>3.12.1</couchbase-client.version>
     <openjpa.version>4.1.1</openjpa.version>
     <mysql.version>9.7.0</mysql.version>
     <sqlserver.version>13.4.0.jre11</sqlserver.version>
@@ -278,10 +278,10 @@
     <!--security-->
     <cas-client.version>3.6.4</cas-client.version>
     <jasypt.version>1.9.3</jasypt.version>
-    <bouncycastle.version>1.84</bouncycastle.version>
+    <bouncycastle.version>1.85</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.9.1</nimbus-jose-jwt.version>
-    <oauth2-oidc-sdk.version>11.37.2</oauth2-oidc-sdk.version>
+    <oauth2-oidc-sdk.version>11.38.1</oauth2-oidc-sdk.version>
     <jjwt.version>0.13.0</jjwt.version>
     <totp.version>1.7.1</totp.version>
     <shiro.version>2.2.1</shiro.version>
@@ -329,7 +329,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.47.5</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.47.6</aws-java-sdk2.version>
     <google-gax.version>2.82.0</google-gax.version>
     <google-http-client.version>2.1.1</google-http-client.version>
     <google-cloud-bom.version>26.85.0</google-cloud-bom.version>
