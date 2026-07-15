@@ -44,7 +44,7 @@
     <webjars-locator-core.version>0.59</webjars-locator-core.version>
     <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
     <graphviz-java.version>0.18.1</graphviz-java.version>
-    <twelvemonkeys-imageio.version>3.13.1</twelvemonkeys-imageio.version>
+    <twelvemonkeys-imageio.version>3.14.0</twelvemonkeys-imageio.version>
     <emoji-java.version>5.1.1</emoji-java.version>
     <vertx.version>5.1.5</vertx.version>
     <!--system management & monitor-->
@@ -329,7 +329,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.47.6</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.48.0</aws-java-sdk2.version>
     <google-gax.version>2.82.0</google-gax.version>
     <google-http-client.version>2.1.1</google-http-client.version>
     <google-cloud-bom.version>26.85.0</google-cloud-bom.version>
@@ -340,7 +340,7 @@
     <sundr.version>0.230.2</sundr.version>
     <cloudevents-java.version>4.1.1</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.4.20-Beta1</kotlin.version>
+    <kotlin.version>2.4.10</kotlin.version>
     <kotlinx-coroutines.version>1.11.0</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.11.0</kotlinx-serialization.version>
     <jruby.version>10.0.5.0</jruby.version>
