@@ -187,7 +187,7 @@
     <json-path.version>3.0.0</json-path.version>
     <json-masker.version>1.1.4</json-masker.version>
     <itext.version>4.2.2</itext.version>
-    <json.version>20260522</json.version>
+    <json.version>20260719</json.version>
     <kryo.version>4.0.3</kryo.version>
     <jsoup.version>1.22.2</jsoup.version>
     <thymeleaf.version>3.1.5.RELEASE</thymeleaf.version>
@@ -245,7 +245,7 @@
     <ehcache3.version>3.12.0</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>12.11.0</flyway.version>
+    <flyway.version>13.0.0</flyway.version>
     <liquibase.version>5.0.3</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.1.1</flexy-pool.version>
@@ -255,7 +255,7 @@
     <neo4j-java-driver.version>6.0.4</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
-    <elasticsearch.version>9.4.3</elasticsearch.version>
+    <elasticsearch.version>9.4.4</elasticsearch.version>
     <hazelcast.version>5.7.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -329,7 +329,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.48.3</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.49.0</aws-java-sdk2.version>
     <google-gax.version>2.82.0</google-gax.version>
     <google-http-client.version>2.1.1</google-http-client.version>
     <google-cloud-bom.version>26.85.0</google-cloud-bom.version>
@@ -1685,7 +1685,7 @@
       <dependency>
         <groupId>io.asyncer</groupId>
         <artifactId>r2dbc-mysql</artifactId>
-        <version>1.4.2</version>
+        <version>1.4.3</version>
       </dependency>
       <dependency>
         <groupId>io.r2dbc</groupId>
