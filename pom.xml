@@ -129,7 +129,7 @@
     <fluentlenium.version>5.0.4</fluentlenium.version>
     <powermock.version>2.0.9</powermock.version>
     <testcontainers.version>2.0.5</testcontainers.version>
-    <dbunit.version>3.3.0</dbunit.version>
+    <dbunit.version>3.4.0</dbunit.version>
     <rest-assured.version>6.0.1</rest-assured.version>
     <assertj.version>4.0.0-M1</assertj.version>
     <assertj-json.version>4.1.1</assertj-json.version>
@@ -161,7 +161,7 @@
     <javax-cache.version>1.1.1</javax-cache.version>
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
-    <jsch2.version>2.28.5</jsch2.version>
+    <jsch2.version>2.28.6</jsch2.version>
     <zipkin.version>3.6.1</zipkin.version>
     <zipkin-brave.version>6.3.1</zipkin-brave.version>
     <zipkin-reporter2.version>3.5.3</zipkin-reporter2.version>
@@ -181,7 +181,7 @@
     <snakeyaml.version>2.6</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.14.0</gson.version>
-    <fastjson2.version>2.0.62</fastjson2.version>
+    <fastjson2.version>2.0.63</fastjson2.version>
     <protobuf.version>4.35.1</protobuf.version>
     <json-smart.versfion>2.5.2</json-smart.versfion>
     <json-path.version>3.0.0</json-path.version>
@@ -235,7 +235,7 @@
     <mybatis.version>3.5.19</mybatis.version>
     <mybatis-spring.version>4.1.0</mybatis-spring.version>
     <javax-jdo.version>3.1</javax-jdo.version>
-    <mariadb.version>3.5.9</mariadb.version>
+    <mariadb.version>3.5.10</mariadb.version>
     <mariadb-r2dbc.version>1.4.1</mariadb-r2dbc.version>
     <mongodb.version>5.9.0</mongodb.version>
     <mongodb-reactivestreams.version>5.8.0</mongodb-reactivestreams.version>
@@ -329,7 +329,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.49.5</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.49.6</aws-java-sdk2.version>
     <google-gax.version>2.82.0</google-gax.version>
     <google-http-client.version>2.2.0</google-http-client.version>
     <google-cloud-bom.version>26.85.0</google-cloud-bom.version>
