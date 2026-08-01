@@ -208,7 +208,7 @@
     <freemarker.version>2.3.34</freemarker.version>
     <dom4j-java8.version>2.2.0</dom4j-java8.version>
     <hessian.version>4.0.66</hessian.version>
-    <xmlunit.version>2.12.0</xmlunit.version>
+    <xmlunit.version>2.13.0</xmlunit.version>
     <xstream.version>1.4.21</xstream.version>
     <aalto-xml.version>1.4.0</aalto-xml.version>
     <glassfish-jaxb.version>4.0.9</glassfish-jaxb.version>
@@ -329,7 +329,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.50.0</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.50.2</aws-java-sdk2.version>
     <google-gax.version>2.83.0</google-gax.version>
     <google-http-client.version>2.2.0</google-http-client.version>
     <google-cloud-bom.version>26.86.0</google-cloud-bom.version>
