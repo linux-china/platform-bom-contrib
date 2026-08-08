@@ -278,7 +278,7 @@
     <!--security-->
     <cas-client.version>3.6.4</cas-client.version>
     <jasypt.version>1.9.3</jasypt.version>
-    <bouncycastle.version>1.85</bouncycastle.version>
+    <bouncycastle.version>1.85.2</bouncycastle.version>
     <token-bucket.version>1.7</token-bucket.version>
     <nimbus-jose-jwt.version>10.9.1</nimbus-jose-jwt.version>
     <oauth2-oidc-sdk.version>11.38.2</oauth2-oidc-sdk.version>
