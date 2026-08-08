@@ -49,7 +49,7 @@
     <vertx.version>5.1.6</vertx.version>
     <!--system management & monitor-->
     <dropwizard-metrics.version>4.2.39</dropwizard-metrics.version>
-    <opentelemetry.version>1.64.0</opentelemetry.version>
+    <opentelemetry.version>1.65.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
     <logback.version>1.6.1</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
@@ -255,7 +255,7 @@
     <neo4j-java-driver.version>6.0.4</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
-    <elasticsearch.version>9.4.5</elasticsearch.version>
+    <elasticsearch.version>9.5.0</elasticsearch.version>
     <hazelcast.version>5.7.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -329,7 +329,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.51.2</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.51.3</aws-java-sdk2.version>
     <google-gax.version>2.83.0</google-gax.version>
     <google-http-client.version>2.2.0</google-http-client.version>
     <google-cloud-bom.version>26.86.0</google-cloud-bom.version>
@@ -359,7 +359,7 @@
     <javax-money.version>1.1</javax-money.version>
     <moneta.version>1.4.5</moneta.version>  <!-- javax money -->
     <angus-mail.version>2.1.0-M1</angus-mail.version>
-    <simplejavamail.version>9.1.7</simplejavamail.version>
+    <simplejavamail.version>9.2.0</simplejavamail.version>
     <!--springsource-->
     <spring.version>7.0.8</spring.version>
     <spring-framework.version>7.0.8</spring-framework.version>
