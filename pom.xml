@@ -67,7 +67,7 @@
     <javatuples.version>1.2</javatuples.version>
     <togglz.version>4.6.2</togglz.version>
     <ff4j.version>2.1</ff4j.version>
-    <underscore.version>1.122</underscore.version>
+    <underscore.version>1.123</underscore.version>
     <java-util.version>4.110.0</java-util.version>
     <json-io.version>4.110.0</json-io.version>
     <verbalregex.version>1.8</verbalregex.version>
@@ -104,7 +104,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.4</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2026.1.11</manifold.version>
+    <manifold.version>2026.1.12</manifold.version>
     <jilt.version>1.9.1</jilt.version>
     <graal-sdk.version>25.2.4</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
@@ -149,7 +149,7 @@
     <netty.version>4.2.17.Final</netty.version>
     <netty3.version>3.10.6.Final</netty3.version>
     <grpc.version>1.83.1</grpc.version>
-    <asynchttpclient.version>3.0.11</asynchttpclient.version>
+    <asynchttpclient.version>3.0.13</asynchttpclient.version>
     <tyrus.version>2.2.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
     <jeromq.version>0.4.3</jeromq.version>
     <searchbox-jest.version>6.3.1</searchbox-jest.version>
@@ -289,7 +289,7 @@
     <httpcore.version>4.4.16</httpcore.version>
     <httpclient.version>4.5.14</httpclient.version>
     <httpcore5.version>5.5-beta2</httpcore5.version>
-    <httpclient5.version>5.6.3</httpclient5.version>
+    <httpclient5.version>5.6.4</httpclient5.version>
     <commons-cli.version>1.11.0</commons-cli.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-net.version>3.13.0</commons-net.version>
