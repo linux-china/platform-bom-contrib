@@ -65,7 +65,7 @@
     <guice.version>7.0.0</guice.version>
     <boon.version>0.34</boon.version>
     <javatuples.version>1.2</javatuples.version>
-    <togglz.version>4.6.3</togglz.version>
+    <togglz.version>4.6.4</togglz.version>
     <ff4j.version>2.1</ff4j.version>
     <underscore.version>1.123</underscore.version>
     <java-util.version>4.110.0</java-util.version>
@@ -129,7 +129,7 @@
     <fluentlenium.version>5.0.4</fluentlenium.version>
     <powermock.version>2.0.9</powermock.version>
     <testcontainers.version>2.0.5</testcontainers.version>
-    <dbunit.version>3.4.0</dbunit.version>
+    <dbunit.version>3.5.0</dbunit.version>
     <rest-assured.version>6.0.1</rest-assured.version>
     <assertj.version>4.0.0-M1</assertj.version>
     <assertj-json.version>4.1.1</assertj-json.version>
@@ -329,7 +329,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.52.0</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.52.1</aws-java-sdk2.version>
     <google-gax.version>2.83.0</google-gax.version>
     <google-http-client.version>2.2.0</google-http-client.version>
     <google-cloud-bom.version>26.86.0</google-cloud-bom.version>
