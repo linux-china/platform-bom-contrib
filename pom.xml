@@ -51,7 +51,7 @@
     <dropwizard-metrics.version>4.2.39</dropwizard-metrics.version>
     <opentelemetry.version>1.65.0</opentelemetry.version>
     <jolokia.version>1.7.1</jolokia.version>
-    <logback.version>1.6.2</logback.version>
+    <logback.version>1.6.3</logback.version>
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.9</flogger.version>
     <jna.version>5.19.1</jna.version>
@@ -175,7 +175,7 @@
     <jsqlparser.version>5.3</jsqlparser.version>
     <javaparser.version>3.28.2</javaparser.version>
     <jackson2.version>2.22.1</jackson2.version>
-    <jackson-bom.version>3.2.1</jackson-bom.version>
+    <jackson-bom.version>3.2.2</jackson-bom.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.3</classmate.version>
     <snakeyaml.version>2.6</snakeyaml.version>
@@ -187,7 +187,7 @@
     <json-path.version>3.0.0</json-path.version>
     <json-masker.version>1.1.4</json-masker.version>
     <itext.version>4.2.2</itext.version>
-    <json.version>20260719</json.version>
+    <json.version>20260814</json.version>
     <kryo.version>4.0.3</kryo.version>
     <jsoup.version>1.23.1</jsoup.version>
     <thymeleaf.version>3.1.5.RELEASE</thymeleaf.version>
@@ -237,15 +237,15 @@
     <javax-jdo.version>3.1</javax-jdo.version>
     <mariadb.version>3.5.10</mariadb.version>
     <mariadb-r2dbc.version>1.4.1</mariadb-r2dbc.version>
-    <mongodb.version>5.9.0</mongodb.version>
-    <mongodb-reactivestreams.version>5.8.0</mongodb-reactivestreams.version>
+    <mongodb.version>5.10.0</mongodb.version>
+    <mongodb-reactivestreams.version>5.10.0</mongodb-reactivestreams.version>
     <embedded-mongo.version>3.2.0</embedded-mongo.version>
     <fongo.version>2.1.1</fongo.version>
     <cassandra-driver.version>4.19.3</cassandra-driver.version>
     <ehcache3.version>3.12.0</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>13.2.0</flyway.version>
+    <flyway.version>13.3.0</flyway.version>
     <liquibase.version>5.0.3</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.1.1</flexy-pool.version>
@@ -329,7 +329,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.52.1</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.53.1</aws-java-sdk2.version>
     <google-gax.version>2.83.0</google-gax.version>
     <google-http-client.version>2.2.0</google-http-client.version>
     <google-cloud-bom.version>26.86.0</google-cloud-bom.version>
@@ -393,7 +393,7 @@
     <spring-amqp.version>4.1.0</spring-amqp.version>
     <rabbit-amqp-client.version>5.34.0</rabbit-amqp-client.version>
     <rabbit-http-client.version>5.6.0</rabbit-http-client.version>
-    <rabbit-stream-client.version>1.9.0</rabbit-stream-client.version>
+    <rabbit-stream-client.version>1.10.0</rabbit-stream-client.version>
     <spring-vault.version>4.1.0</spring-vault.version>
     <spring-kafka.version>4.1.0</spring-kafka.version>
     <spring-pulsar.version>2.0.6</spring-pulsar.version>
