@@ -105,7 +105,7 @@
     <threetenbp.version>1.7.4</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
     <manifold.version>2026.1.12</manifold.version>
-    <jilt.version>1.9.1</jilt.version>
+    <jilt.version>1.9.2</jilt.version>
     <graal-sdk.version>25.2.4</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
     <!--testing-->
@@ -142,7 +142,7 @@
     <junit-pioneer.version>2.3.0</junit-pioneer.version>
     <!--network-->
     <okhttp.version>2.7.5</okhttp.version>
-    <okhttp3.version>5.4.0</okhttp3.version>
+    <okhttp3.version>5.5.0</okhttp3.version>
     <okio.version>3.18.1</okio.version>
     <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
     <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -174,7 +174,7 @@
     <!--parsers & templates & serializer-->
     <jsqlparser.version>5.3</jsqlparser.version>
     <javaparser.version>3.28.2</javaparser.version>
-    <jackson2.version>2.22.1</jackson2.version>
+    <jackson2.version>2.22.2</jackson2.version>
     <jackson-bom.version>3.2.2</jackson-bom.version>
     <moshi.version>1.15.2</moshi.version>
     <classmate.version>1.7.3</classmate.version>
@@ -255,7 +255,7 @@
     <neo4j-java-driver.version>6.0.4</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
-    <elasticsearch.version>9.5.0</elasticsearch.version>
+    <elasticsearch.version>9.5.1</elasticsearch.version>
     <hazelcast.version>5.7.0</hazelcast.version>
     <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
     <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -359,7 +359,7 @@
     <javax-money.version>1.1</javax-money.version>
     <moneta.version>1.4.5</moneta.version>  <!-- javax money -->
     <angus-mail.version>2.1.0-M1</angus-mail.version>
-    <simplejavamail.version>9.3.0</simplejavamail.version>
+    <simplejavamail.version>9.3.2</simplejavamail.version>
     <!--springsource-->
     <spring.version>7.0.8</spring.version>
     <spring-framework.version>7.0.8</spring-framework.version>
