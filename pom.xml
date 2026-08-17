@@ -55,6 +55,7 @@
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.9</flogger.version>
     <jna.version>5.19.1</jna.version>
+    <oshi.version>7.5.0</oshi.version>
     <prometheus-client.version>1.8.0</prometheus-client.version>
     <!--productivity & tools-->
     <functionaljava.version>5.0</functionaljava.version>
@@ -1538,6 +1539,11 @@
         <groupId>net.java.dev.jna</groupId>
         <artifactId>jna-platform</artifactId>
         <version>${jna.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.oshi</groupId>
+        <artifactId>oshi-core-ffm</artifactId>
+        <version>${oshi.version}</version>
       </dependency>
       <dependency>
         <groupId>com.google.flogger</groupId>
