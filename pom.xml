@@ -62,7 +62,7 @@
     <fugue.version>6.1.5</fugue.version>
     <joda-time.version>2.12.1</joda-time.version>
     <gs-collections.version>7.0.3</gs-collections.version>
-    <guava.version>33.6.0-jre</guava.version>
+    <guava.version>33.7.0-jre</guava.version>
     <guice.version>7.0.0</guice.version>
     <boon.version>0.34</boon.version>
     <javatuples.version>1.2</javatuples.version>
@@ -95,7 +95,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.5</google-truth.version>
-    <bytebuddy.version>1.18.11</bytebuddy.version>
+    <bytebuddy.version>1.18.12</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.25.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -330,7 +330,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.53.1</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.53.2</aws-java-sdk2.version>
     <google-gax.version>2.83.0</google-gax.version>
     <google-http-client.version>2.2.0</google-http-client.version>
     <google-cloud-bom.version>26.86.0</google-cloud-bom.version>
