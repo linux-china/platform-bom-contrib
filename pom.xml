@@ -82,7 +82,7 @@
     <resilience4j.version>2.4.0</resilience4j.version>
     <failsafe.version>3.3.2</failsafe.version>
     <eclipse-collections.version>13.0.0</eclipse-collections.version>
-    <agrona.version>2.5.0</agrona.version>
+    <agrona.version>2.6.0</agrona.version>
     <math-parser.version>6.1.1</math-parser.version>
     <rgxgen.version>3.1</rgxgen.version>
     <nuprocess.version>3.0.0</nuprocess.version>
@@ -126,11 +126,11 @@
     <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
     <wiremock.version>3.13.2</wiremock.version>
     <spockframework.version>2.4-groovy-5.0</spockframework.version>
-    <easymock.version>5.6.0</easymock.version>
+    <easymock.version>5.7.0</easymock.version>
     <fluentlenium.version>5.0.4</fluentlenium.version>
     <powermock.version>2.0.9</powermock.version>
     <testcontainers.version>2.0.5</testcontainers.version>
-    <dbunit.version>3.5.0</dbunit.version>
+    <dbunit.version>3.5.1</dbunit.version>
     <rest-assured.version>6.0.1</rest-assured.version>
     <assertj.version>4.0.0-M1</assertj.version>
     <assertj-json.version>4.1.1</assertj-json.version>
@@ -162,7 +162,7 @@
     <javax-cache.version>1.1.1</javax-cache.version>
     <cfg4j.version>4.4.1</cfg4j.version>
     <jsch.version>0.1.55</jsch.version>
-    <jsch2.version>2.28.6</jsch2.version>
+    <jsch2.version>2.28.7</jsch2.version>
     <zipkin.version>3.6.1</zipkin.version>
     <zipkin-brave.version>6.3.1</zipkin-brave.version>
     <zipkin-reporter2.version>3.5.3</zipkin-reporter2.version>
@@ -247,7 +247,7 @@
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
     <flyway.version>13.3.0</flyway.version>
-    <liquibase.version>5.0.3</liquibase.version>
+    <liquibase.version>5.0.4</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.1.1</flexy-pool.version>
     <h2.version>2.4.240</h2.version>
@@ -330,7 +330,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.54.0</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.54.2</aws-java-sdk2.version>
     <google-gax.version>2.83.0</google-gax.version>
     <google-http-client.version>2.2.0</google-http-client.version>
     <google-cloud-bom.version>26.86.0</google-cloud-bom.version>
@@ -362,53 +362,53 @@
     <angus-mail.version>2.1.0-M1</angus-mail.version>
     <simplejavamail.version>9.3.2</simplejavamail.version>
     <!--springsource-->
-    <spring.version>7.0.8</spring.version>
+    <spring.version>7.0.9</spring.version>
     <spring-framework.version>7.0.8</spring-framework.version>
     <spring-plugin.version>4.1.0</spring-plugin.version>
     <spring-batch.version>6.0.4</spring-batch.version>
     <spring-ws.version>5.0.2</spring-ws.version>
-    <spring-session-bom.version>4.1.0</spring-session-bom.version>
+    <spring-session-bom.version>4.1.1</spring-session-bom.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
-    <spring-security.version>7.1.0</spring-security.version>
+    <spring-security.version>7.1.1</spring-security.version>
     <spring-security-oauth.version>2.5.2.RELEASE</spring-security-oauth.version>
     <spring-security-oauth2-autoconfigure.version>2.6.8</spring-security-oauth2-autoconfigure.version>
     <spring-security-rsa.version>1.1.5</spring-security-rsa.version>
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <spring-data-hadoop.version>2.5.0.RELEASE</spring-data-hadoop.version>
     <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-    <spring-data-bom.version>2026.0.0</spring-data-bom.version>
-    <spring-integration.version>7.1.0</spring-integration.version>
+    <spring-data-bom.version>2026.0.1</spring-data-bom.version>
+    <spring-integration.version>7.1.1</spring-integration.version>
     <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
     <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
-    <spring-boot.version>4.1.0</spring-boot.version>
-    <spring-hateoas.version>3.1.1</spring-hateoas.version>
+    <spring-boot.version>4.1.1</spring-boot.version>
+    <spring-hateoas.version>3.1.2</spring-hateoas.version>
     <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
     <spring-cloud-contract.version>5.0.3</spring-cloud-contract.version>
-    <spring-cloud.version>2025.1.2</spring-cloud.version>
+    <spring-cloud.version>2025.1.3</spring-cloud.version>
     <spring-cloud-task.version>5.0.2</spring-cloud-task.version>
-    <spring-cloud-stream.version>5.0.2</spring-cloud-stream.version>
-    <spring-cloud-function.version>5.0.3</spring-cloud-function.version>
-    <spring-cloud-gateway.version>5.0.2</spring-cloud-gateway.version>
-    <spring-ldap.version>4.1.0</spring-ldap.version>
+    <spring-cloud-stream.version>5.0.3</spring-cloud-stream.version>
+    <spring-cloud-function.version>5.0.4</spring-cloud-function.version>
+    <spring-cloud-gateway.version>5.0.3</spring-cloud-gateway.version>
+    <spring-ldap.version>4.1.1</spring-ldap.version>
     <spring-web-flow.version>3.0.0</spring-web-flow.version>
-    <spring-amqp.version>4.1.0</spring-amqp.version>
-    <rabbit-amqp-client.version>5.34.0</rabbit-amqp-client.version>
-    <rabbit-http-client.version>5.6.0</rabbit-http-client.version>
-    <rabbit-stream-client.version>1.10.0</rabbit-stream-client.version>
+    <spring-amqp.version>4.1.1</spring-amqp.version>
+    <rabbit-amqp-client.version>5.35.0</rabbit-amqp-client.version>
+    <rabbit-http-client.version>5.7.0</rabbit-http-client.version>
+    <rabbit-stream-client.version>1.11.0</rabbit-stream-client.version>
     <spring-vault.version>4.1.0</spring-vault.version>
-    <spring-kafka.version>4.1.0</spring-kafka.version>
-    <spring-pulsar.version>2.0.6</spring-pulsar.version>
+    <spring-kafka.version>4.1.1</spring-kafka.version>
+    <spring-pulsar.version>2.0.7</spring-pulsar.version>
     <spring-restdocs.version>4.0.1</spring-restdocs.version>
     <spring-retry.version>2.0.13</spring-retry.version>
     <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
     <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
     <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
     <spring-shell.version>4.0.3</spring-shell.version>
-    <reactor-bom.version>2025.0.6</reactor-bom.version>
+    <reactor-bom.version>2025.0.7</reactor-bom.version>
     <rxjava2.version>2.2.21</rxjava2.version>
     <rxjava3.version>3.1.12</rxjava3.version>
-    <micrometer.version>1.17.0</micrometer.version>
-    <micrometer-tracing.version>1.7.0</micrometer-tracing.version>
+    <micrometer.version>1.17.1</micrometer.version>
+    <micrometer-tracing.version>1.7.1</micrometer-tracing.version>
     <spring-webflow.version>4.0.1</spring-webflow.version>
   </properties>
 
