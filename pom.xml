@@ -55,7 +55,7 @@
     <slf4j.version>2.1.0-alpha1</slf4j.version>
     <flogger.version>0.9</flogger.version>
     <jna.version>5.19.1</jna.version>
-    <oshi.version>7.5.0</oshi.version>
+    <oshi.version>7.6.0</oshi.version>
     <prometheus-client.version>1.8.0</prometheus-client.version>
     <!--productivity & tools-->
     <functionaljava.version>5.0</functionaljava.version>
@@ -183,7 +183,7 @@
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.14.0</gson.version>
     <fastjson2.version>2.0.64</fastjson2.version>
-    <protobuf.version>4.35.1</protobuf.version>
+    <protobuf.version>4.36.0</protobuf.version>
     <json-smart.versfion>2.5.2</json-smart.versfion>
     <json-path.version>3.0.0</json-path.version>
     <json-masker.version>1.1.4</json-masker.version>
@@ -222,7 +222,7 @@
     <jdom2.version>2.0.6.1</jdom2.version>
     <graphql-java.version>26.0</graphql-java.version>
     <fastcsv.version>4.4.0</fastcsv.version>
-    <dflib.version>2.0.0-M6</dflib.version>
+    <dflib.version>2.0.0-M7</dflib.version>
     <jandex.version>3.6.0</jandex.version>
     <!--persistence-->
     <hibernate.version>7.4.5.Final</hibernate.version>
@@ -266,7 +266,7 @@
     <jasperreports.version>6.5.1</jasperreports.version>
     <unboundid-ldapsdk.version>7.0.4</unboundid-ldapsdk.version>
     <postgresql.version>42.7.13</postgresql.version>
-    <jaybird.version>6.0.5</jaybird.version>
+    <jaybird.version>6.0.6</jaybird.version>
     <jdbi.version>3.54.0</jdbi.version>
     <couchbase-client.version>3.12.2</couchbase-client.version>
     <openjpa.version>4.1.1</openjpa.version>
