@@ -107,7 +107,7 @@
     <javassist.version>3.22.0-GA</javassist.version>
     <manifold.version>2026.1.12</manifold.version>
     <jilt.version>1.9.2</jilt.version>
-    <graal-sdk.version>25.2.4</graal-sdk.version>
+    <graal-sdk.version>25.3.4.1</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
     <!--testing-->
     <junit5.version>6.1.3</junit5.version>
@@ -190,7 +190,7 @@
     <itext.version>4.2.2</itext.version>
     <json.version>20260814</json.version>
     <kryo.version>4.0.3</kryo.version>
-    <jsoup.version>1.23.1</jsoup.version>
+    <jsoup.version>1.23.2</jsoup.version>
     <thymeleaf.version>3.1.5.RELEASE</thymeleaf.version>
     <thymeleaf-layout-dialect.version>4.0.1</thymeleaf-layout-dialect.version>
     <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
@@ -330,7 +330,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.54.3</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.54.4</aws-java-sdk2.version>
     <google-gax.version>2.84.0</google-gax.version>
     <google-http-client.version>2.2.0</google-http-client.version>
     <google-cloud-bom.version>26.87.0</google-cloud-bom.version>
