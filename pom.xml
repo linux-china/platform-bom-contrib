@@ -37,7 +37,7 @@
   </developers>
 
   <properties>
-    <jline.version>4.3.1</jline.version>
+    <jline.version>4.4.0</jline.version>
     <janino.version>3.1.12</janino.version>
     <!--web development & GUI-->
     <webjars-locator.version>0.33</webjars-locator.version>
@@ -85,7 +85,7 @@
     <agrona.version>2.6.0</agrona.version>
     <math-parser.version>6.1.1</math-parser.version>
     <rgxgen.version>3.1</rgxgen.version>
-    <nuprocess.version>3.0.0</nuprocess.version>
+    <nuprocess.version>4.0.0</nuprocess.version>
     <uuid-creator.version>6.1.1</uuid-creator.version>
     <bucket4j.version>8.10.1</bucket4j.version>
     <gatherers4j.version>0.14.0</gatherers4j.version>
@@ -246,13 +246,13 @@
     <ehcache3.version>3.12.0</ehcache3.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <mapdb.version>3.1.0</mapdb.version>
-    <flyway.version>13.3.0</flyway.version>
+    <flyway.version>13.4.0</flyway.version>
     <liquibase.version>5.0.4</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.1.1</flexy-pool.version>
     <h2.version>2.4.240</h2.version>
     <hsqldb.version>2.7.4</hsqldb.version>
-    <sqlite-jdbc.version>3.53.2.1</sqlite-jdbc.version>
+    <sqlite-jdbc.version>3.53.4.0</sqlite-jdbc.version>
     <neo4j-java-driver.version>6.0.4</neo4j-java-driver.version>
     <etcd4j.version>2.18.0</etcd4j.version>
     <consul-api.version>1.4.5</consul-api.version>
@@ -330,7 +330,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.54.4</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.54.5</aws-java-sdk2.version>
     <google-gax.version>2.84.0</google-gax.version>
     <google-http-client.version>2.2.0</google-http-client.version>
     <google-cloud-bom.version>26.87.0</google-cloud-bom.version>
@@ -341,7 +341,7 @@
     <sundr.version>0.230.2</sundr.version>
     <cloudevents-java.version>5.0.0</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.4.10</kotlin.version>
+    <kotlin.version>2.4.20-RC2</kotlin.version>
     <kotlinx-coroutines.version>1.11.0</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.11.0</kotlinx-serialization.version>
     <jruby.version>10.1.1.0</jruby.version>
