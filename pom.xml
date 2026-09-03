@@ -95,7 +95,7 @@
     <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
     <google-truth.version>1.4.5</google-truth.version>
-    <bytebuddy.version>1.18.12</bytebuddy.version>
+    <bytebuddy.version>1.18.13</bytebuddy.version>
     <javapoet.version>1.13.0</javapoet.version>
     <aspectj.version>1.9.25.1</aspectj.version>
     <cglib.version>3.3.0</cglib.version>
@@ -105,7 +105,7 @@
     <reflections.version>0.10.2</reflections.version>
     <threetenbp.version>1.7.4</threetenbp.version>
     <javassist.version>3.22.0-GA</javassist.version>
-    <manifold.version>2026.1.12</manifold.version>
+    <manifold.version>2026.1.13</manifold.version>
     <jilt.version>1.9.2</jilt.version>
     <graal-sdk.version>25.3.4.1</graal-sdk.version>
     <typetools.version>0.6.3</typetools.version>
@@ -182,7 +182,7 @@
     <snakeyaml.version>2.7</snakeyaml.version>
     <json-patch.version>1.9</json-patch.version>
     <gson.version>2.14.0</gson.version>
-    <fastjson2.version>2.0.64</fastjson2.version>
+    <fastjson2.version>2.0.65</fastjson2.version>
     <protobuf.version>4.36.1</protobuf.version>
     <json-smart.versfion>2.5.2</json-smart.versfion>
     <json-path.version>3.0.0</json-path.version>
@@ -220,7 +220,7 @@
     <jte.version>3.2.4</jte.version>
     <evo-inflector.version>2.0</evo-inflector.version>
     <jdom2.version>2.0.6.1</jdom2.version>
-    <graphql-java.version>26.0</graphql-java.version>
+    <graphql-java.version>26.1</graphql-java.version>
     <fastcsv.version>4.4.0</fastcsv.version>
     <dflib.version>2.0.0-M7</dflib.version>
     <jandex.version>3.6.0</jandex.version>
@@ -237,7 +237,7 @@
     <mybatis-spring.version>4.1.0</mybatis-spring.version>
     <javax-jdo.version>3.1</javax-jdo.version>
     <mariadb.version>3.5.10</mariadb.version>
-    <mariadb-r2dbc.version>1.4.1</mariadb-r2dbc.version>
+    <mariadb-r2dbc.version>1.4.2</mariadb-r2dbc.version>
     <mongodb.version>5.10.0</mongodb.version>
     <mongodb-reactivestreams.version>5.10.0</mongodb-reactivestreams.version>
     <embedded-mongo.version>3.2.0</embedded-mongo.version>
@@ -316,11 +316,11 @@
     <solr.version>10.0.0</solr.version>
     <bsh.version>2.0b5</bsh.version>
     <tomcat.version>11.0.25</tomcat.version>
-    <groovy.version>5.0.7</groovy.version>
+    <groovy.version>5.0.8</groovy.version>
     <zookeeper.version>3.9.5</zookeeper.version>
     <curator.version>5.9.0</curator.version>
     <zkclient.version>0.11</zkclient.version>
-    <activemq.version>6.3.1</activemq.version>
+    <activemq.version>6.3.2</activemq.version>
     <artemis.version>2.56.0</artemis.version>
     <apacheds.version>1.5.7</apacheds.version>
     <httpasyncclient.version>4.1.5</httpasyncclient.version>
@@ -330,7 +330,7 @@
     <!--cloud services-->
     <appengine-sdk.version>2.0.10</appengine-sdk.version>
     <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-    <aws-java-sdk2.version>2.54.10</aws-java-sdk2.version>
+    <aws-java-sdk2.version>2.54.11</aws-java-sdk2.version>
     <google-gax.version>2.84.0</google-gax.version>
     <google-http-client.version>2.2.0</google-http-client.version>
     <google-cloud-bom.version>26.87.0</google-cloud-bom.version>
@@ -341,7 +341,7 @@
     <sundr.version>0.230.2</sundr.version>
     <cloudevents-java.version>5.0.0</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.4.20-RC2</kotlin.version>
+    <kotlin.version>2.4.20-RC3</kotlin.version>
     <kotlinx-coroutines.version>1.11.0</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.11.0</kotlinx-serialization.version>
     <jruby.version>10.1.1.0</jruby.version>
