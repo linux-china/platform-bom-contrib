@@ -250,7 +250,7 @@
     <liquibase.version>5.0.4</liquibase.version>
     <derby.version>10.17.1.0</derby.version>
     <flexy-pool.version>3.1.1</flexy-pool.version>
-    <h2.version>2.4.250</h2.version>
+    <h2.version>2.5.250</h2.version>
     <hsqldb.version>2.7.4</hsqldb.version>
     <sqlite-jdbc.version>3.53.4.0</sqlite-jdbc.version>
     <neo4j-java-driver.version>6.0.4</neo4j-java-driver.version>
