@@ -341,14 +341,14 @@
     <sundr.version>0.230.2</sundr.version>
     <cloudevents-java.version>5.0.0</cloudevents-java.version>
     <!--languages-->
-    <kotlin.version>2.4.20-RC3</kotlin.version>
+    <kotlin.version>2.4.20</kotlin.version>
     <kotlinx-coroutines.version>1.11.0</kotlinx-coroutines.version>
     <kotlinx-serialization.version>1.11.0</kotlinx-serialization.version>
     <jruby.version>10.1.1.0</jruby.version>
     <!--netflix-->
     <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
     <ribbon.version>2.7.18</ribbon.version>
-    <!--java ee-->
+    <!--jakarta ee-->
     <reactive-streams.version>1.0.4</reactive-streams.version>
     <narayana.version>5.13.1.Final</narayana.version>
     <atomikos.version>5.0.9</atomikos.version>
