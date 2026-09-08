@@ -184,6 +184,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * [simple-openai](https://github.com/sashirestela/simple-openai): A Java library to use the OpenAI Api in the simplest possible way.
 * [json-io](https://github.com/jdereg/json-io): Convert Java to JSON/TOON and back
 * [oshi](https://github.com/oshi/oshi): Native Operating System and Hardware Information
+* [jairosvg](https://brunoborges.github.io/jairosvg/): A high-performance SVG 1.1 to PNG, JPEG, TIFF, PDF, and PS/EPS converter powered by Java2D.
 
 ### Developer Notice
 
