@@ -168,7 +168,7 @@
     <zipkin-reporter2.version>3.5.3</zipkin-reporter2.version>
     <rsocket.versoin>1.1.5</rsocket.versoin>
     <!--servers-->
-    <jetty.version>12.1.12</jetty.version>
+    <jetty.version>12.1.13</jetty.version>
     <jetty-el.version>8.5.35</jetty-el.version>
     <undertow.version>2.3.20.Final</undertow.version>
     <jersey.version>5.0.0-M1</jersey.version>
@@ -238,8 +238,8 @@
     <javax-jdo.version>3.1</javax-jdo.version>
     <mariadb.version>3.5.10</mariadb.version>
     <mariadb-r2dbc.version>1.4.2</mariadb-r2dbc.version>
-    <mongodb.version>5.10.0</mongodb.version>
-    <mongodb-reactivestreams.version>5.10.0</mongodb-reactivestreams.version>
+    <mongodb.version>5.11.0</mongodb.version>
+    <mongodb-reactivestreams.version>5.11.0</mongodb-reactivestreams.version>
     <embedded-mongo.version>3.2.0</embedded-mongo.version>
     <fongo.version>2.1.1</fongo.version>
     <cassandra-driver.version>4.19.3</cassandra-driver.version>
@@ -338,7 +338,7 @@
     <kubernetes-client.version>27.0.0</kubernetes-client.version>
     <fabric8-kubernetes-client.version>7.9.0</fabric8-kubernetes-client.version>
     <istio-client.version>1.7.7.1</istio-client.version>
-    <sundr.version>0.230.2</sundr.version>
+    <sundr.version>0.400.0</sundr.version>
     <cloudevents-java.version>5.0.0</cloudevents-java.version>
     <!--languages-->
     <kotlin.version>2.4.20</kotlin.version>
@@ -360,7 +360,7 @@
     <javax-money.version>1.1</javax-money.version>
     <moneta.version>1.4.5</moneta.version>  <!-- javax money -->
     <angus-mail.version>2.1.0-M1</angus-mail.version>
-    <simplejavamail.version>9.3.3</simplejavamail.version>
+    <simplejavamail.version>9.3.4</simplejavamail.version>
     <!--springsource-->
     <spring.version>7.0.9</spring.version>
     <spring-framework.version>7.0.8</spring-framework.version>
