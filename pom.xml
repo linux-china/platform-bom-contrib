@@ -46,7 +46,7 @@
         <graphviz-java.version>0.18.1</graphviz-java.version>
         <twelvemonkeys-imageio.version>3.15.0</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
-        <vertx.version>5.1.7</vertx.version>
+        <vertx.version>5.1.8</vertx.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.2.40</dropwizard-metrics.version>
         <opentelemetry.version>1.65.0</opentelemetry.version>
@@ -247,7 +247,7 @@
         <ehcache3.version>3.12.0</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.1.0</mapdb.version>
-        <flyway.version>13.5.0</flyway.version>
+        <flyway.version>13.6.0</flyway.version>
         <liquibase.version>5.0.4</liquibase.version>
         <derby.version>10.17.1.0</derby.version>
         <flexy-pool.version>3.1.1</flexy-pool.version>
@@ -269,7 +269,7 @@
         <postgresql.version>42.7.13</postgresql.version>
         <jaybird.version>6.0.6</jaybird.version>
         <jdbi.version>3.54.0</jdbi.version>
-        <couchbase-client.version>3.12.2</couchbase-client.version>
+        <couchbase-client.version>3.12.3</couchbase-client.version>
         <openjpa.version>4.1.1</openjpa.version>
         <mysql.version>26.7.0</mysql.version>
         <sqlserver.version>13.4.0.jre11</sqlserver.version>
@@ -331,7 +331,7 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.54.15</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.54.16</aws-java-sdk2.version>
         <google-gax.version>2.85.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
         <google-cloud-bom.version>26.88.0</google-cloud-bom.version>
