@@ -280,7 +280,7 @@
         <!--security-->
         <cas-client.version>3.6.4</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
-        <bouncycastle.version>1.85.2</bouncycastle.version>
+        <bouncycastle.version>1.86</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>10.9.1</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>11.38.2</oauth2-oidc-sdk.version>
@@ -331,7 +331,7 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.54.16</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.54.17</aws-java-sdk2.version>
         <google-gax.version>2.85.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
         <google-cloud-bom.version>26.88.0</google-cloud-bom.version>
