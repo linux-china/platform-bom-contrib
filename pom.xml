@@ -49,7 +49,7 @@
         <vertx.version>5.1.8</vertx.version>
         <!--system management & monitor-->
         <dropwizard-metrics.version>4.2.40</dropwizard-metrics.version>
-        <opentelemetry.version>1.65.0</opentelemetry.version>
+        <opentelemetry.version>1.66.0</opentelemetry.version>
         <jolokia.version>1.7.1</jolokia.version>
         <logback.version>1.6.3</logback.version>
         <slf4j.version>2.1.0-alpha1</slf4j.version>
