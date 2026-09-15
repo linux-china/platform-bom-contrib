@@ -56,7 +56,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 ### New dependencies
 
 * org.jetbrains:annotations jetbrains annotations
-* io.codearte.jfairy:jfairy
+* com.devskiller:jfairy
 * netty sub modules
 * caffeine cache
 * dbunit
