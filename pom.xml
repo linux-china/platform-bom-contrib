@@ -44,7 +44,7 @@
         <webjars-locator-core.version>0.59</webjars-locator-core.version>
         <webjars-hal-browser.version>3325375</webjars-hal-browser.version>
         <graphviz-java.version>0.18.1</graphviz-java.version>
-        <twelvemonkeys-imageio.version>3.15.1</twelvemonkeys-imageio.version>
+        <twelvemonkeys-imageio.version>3.15.2</twelvemonkeys-imageio.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <vertx.version>5.2.0</vertx.version>
         <!--system management & monitor-->
@@ -282,11 +282,12 @@
         <jasypt.version>1.9.3</jasypt.version>
         <bouncycastle.version>1.86.1</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
-        <nimbus-jose-jwt.version>10.9.1</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>10.10</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>11.38.2</oauth2-oidc-sdk.version>
         <jjwt.version>0.13.0</jjwt.version>
         <totp.version>1.7.1</totp.version>
         <shiro.version>2.2.1</shiro.version>
+        <hash4j.version>0.31.0</hash4j.version>
         <!--apache-->
         <httpcore.version>4.4.16</httpcore.version>
         <httpclient.version>4.5.14</httpclient.version>
@@ -1996,6 +1997,11 @@
                 <groupId>dev.samstevens.totp</groupId>
                 <artifactId>totp</artifactId>
                 <version>${totp.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.dynatrace.hash4j</groupId>
+                <artifactId>hash4j</artifactId>
+                <version>${hash4j.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.security</groupId>
