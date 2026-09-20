@@ -69,8 +69,8 @@
         <togglz.version>4.6.4</togglz.version>
         <ff4j.version>2.1</ff4j.version>
         <underscore.version>1.123</underscore.version>
-        <java-util.version>4.110.0</java-util.version>
-        <json-io.version>4.110.0</json-io.version>
+        <java-util.version>4.111.0</java-util.version>
+        <json-io.version>4.111.0</json-io.version>
         <verbalregex.version>1.8</verbalregex.version>
         <javaslang.version>2.1.0-alpha</javaslang.version>
         <vavr.version>1.0.1</vavr.version>
@@ -328,7 +328,7 @@
         <httpasyncclient.version>4.1.5</httpasyncclient.version>
         <svnkit.version>1.10.11</svnkit.version>
         <axiom.version>2.0.0</axiom.version>
-        <apache-geode.version>2.0.2</apache-geode.version>
+        <apache-geode.version>2.0.3</apache-geode.version>
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
