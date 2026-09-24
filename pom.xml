@@ -37,7 +37,7 @@
     </developers>
 
     <properties>
-        <jline.version>4.4.5</jline.version>
+        <jline.version>4.4.6</jline.version>
         <janino.version>3.1.12</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
@@ -107,7 +107,7 @@
         <javassist.version>3.22.0-GA</javassist.version>
         <manifold.version>2026.1.15</manifold.version>
         <jilt.version>1.9.2</jilt.version>
-        <graal-sdk.version>25.3.4.1</graal-sdk.version>
+        <graal-sdk.version>25.4.4.1.1</graal-sdk.version>
         <typetools.version>0.6.3</typetools.version>
         <openrewrite.version>8.90.4</openrewrite.version>
         <!--testing-->
@@ -117,7 +117,7 @@
         <java-faker.version>1.0.2</java-faker.version>
         <data-faker.version>2.7.0</data-faker.version>
         <instancio.version>6.0.1</instancio.version>
-        <mockito.version>5.23.0</mockito.version>
+        <mockito.version>5.24.0</mockito.version>
         <htmlunit.version>5.5.0</htmlunit.version>
         <testng.version>7.12.0</testng.version>
         <selenium.version>4.49.0</selenium.version>
@@ -177,7 +177,7 @@
         <jsqlparser.version>5.4</jsqlparser.version>
         <javaparser.version>3.28.2</javaparser.version>
         <jackson2.version>2.22.3</jackson2.version>
-        <jackson-bom.version>3.2.2</jackson-bom.version>
+        <jackson-bom.version>3.2.3</jackson-bom.version>
         <moshi.version>1.15.2</moshi.version>
         <classmate.version>1.7.3</classmate.version>
         <snakeyaml.version>2.7</snakeyaml.version>
@@ -318,7 +318,7 @@
         <solr.version>10.0.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
         <tomcat.version>11.0.26</tomcat.version>
-        <groovy.version>5.1.2</groovy.version>
+        <groovy.version>6.0.0</groovy.version>
         <zookeeper.version>3.9.6</zookeeper.version>
         <curator.version>5.9.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
@@ -332,10 +332,10 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.55.2</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.55.4</aws-java-sdk2.version>
         <google-gax.version>2.85.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
-        <google-cloud-bom.version>26.88.0</google-cloud-bom.version>
+        <google-cloud-bom.version>26.89.0</google-cloud-bom.version>
         <sendgrid.version>5.0.0-rc.1</sendgrid.version>
         <kubernetes-client.version>27.0.0</kubernetes-client.version>
         <fabric8-kubernetes-client.version>7.9.0</fabric8-kubernetes-client.version>
@@ -1697,7 +1697,7 @@
             <dependency>
                 <groupId>io.r2dbc</groupId>
                 <artifactId>r2dbc-mssql</artifactId>
-                <version>1.0.6.RELEASE</version>
+                <version>1.0.7.RELEASE</version>
             </dependency>
             <dependency>
                 <groupId>io.r2dbc</groupId>
