@@ -51,7 +51,7 @@
         <dropwizard-metrics.version>4.2.40</dropwizard-metrics.version>
         <opentelemetry.version>1.66.0</opentelemetry.version>
         <jolokia.version>1.7.1</jolokia.version>
-        <logback.version>1.6.3</logback.version>
+        <logback.version>1.6.4</logback.version>
         <slf4j.version>2.1.0-alpha1</slf4j.version>
         <flogger.version>0.9</flogger.version>
         <jna.version>5.19.1</jna.version>
@@ -69,8 +69,8 @@
         <togglz.version>4.6.4</togglz.version>
         <ff4j.version>2.1</ff4j.version>
         <underscore.version>1.123</underscore.version>
-        <java-util.version>4.111.0</java-util.version>
-        <json-io.version>4.111.0</json-io.version>
+        <java-util.version>4.112.0</java-util.version>
+        <json-io.version>4.112.0</json-io.version>
         <verbalregex.version>1.8</verbalregex.version>
         <javaslang.version>2.1.0-alpha</javaslang.version>
         <vavr.version>1.0.1</vavr.version>
@@ -184,7 +184,7 @@
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.14.0</gson.version>
         <fastjson2.version>2.0.65</fastjson2.version>
-        <protobuf.version>4.36.1</protobuf.version>
+        <protobuf.version>4.36.2</protobuf.version>
         <json-smart.versfion>2.5.2</json-smart.versfion>
         <json-path.version>3.0.0</json-path.version>
         <json-masker.version>1.1.4</json-masker.version>
@@ -231,7 +231,7 @@
         <hibernate-types.version>2.21.1</hibernate-types.version>
         <jooq.version>3.21.8</jooq.version>
         <jedis.version>8.0.1</jedis.version>
-        <lettuce.version>7.7.0.RELEASE</lettuce.version>
+        <lettuce.version>7.8.0.RELEASE</lettuce.version>
         <caffeine.version>3.3.0</caffeine.version>
         <jettison.version>1.5.7</jettison.version>
         <mybatis.version>3.5.19</mybatis.version>
@@ -247,7 +247,7 @@
         <ehcache3.version>3.12.0</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.1.0</mapdb.version>
-        <flyway.version>13.7.0</flyway.version>
+        <flyway.version>13.8.0</flyway.version>
         <liquibase.version>5.0.4</liquibase.version>
         <derby.version>10.17.1.0</derby.version>
         <flexy-pool.version>3.1.1</flexy-pool.version>
@@ -291,7 +291,7 @@
         <!--apache-->
         <httpcore.version>4.4.16</httpcore.version>
         <httpclient.version>4.5.14</httpclient.version>
-        <httpcore5.version>5.5-beta2</httpcore5.version>
+        <httpcore5.version>5.5-beta3</httpcore5.version>
         <httpclient5.version>5.6.4</httpclient5.version>
         <commons-cli.version>1.11.0</commons-cli.version>
         <commons-configuration.version>1.10</commons-configuration.version>
@@ -332,13 +332,13 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.55.4</aws-java-sdk2.version>
-        <google-gax.version>2.85.0</google-gax.version>
+        <aws-java-sdk2.version>2.55.5</aws-java-sdk2.version>
+        <google-gax.version>2.86.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
         <google-cloud-bom.version>26.89.0</google-cloud-bom.version>
         <sendgrid.version>5.0.0-rc.1</sendgrid.version>
         <kubernetes-client.version>27.0.0</kubernetes-client.version>
-        <fabric8-kubernetes-client.version>7.9.0</fabric8-kubernetes-client.version>
+        <fabric8-kubernetes-client.version>8.0.0</fabric8-kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <sundr.version>0.400.0</sundr.version>
         <cloudevents-java.version>5.0.0</cloudevents-java.version>
