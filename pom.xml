@@ -37,7 +37,7 @@
     </developers>
 
     <properties>
-        <jline.version>4.4.6</jline.version>
+        <jline.version>4.4.7</jline.version>
         <janino.version>3.1.12</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
@@ -126,7 +126,7 @@
         <json-smart.version>2.6.0</json-smart.version>
         <toomuchcoding-jsonassert.version>0.8.0</toomuchcoding-jsonassert.version>
         <wiremock.version>3.13.2</wiremock.version>
-        <spockframework.version>2.4-groovy-5.0</spockframework.version>
+        <spockframework.version>2.5-groovy-6.0</spockframework.version>
         <easymock.version>5.7.0</easymock.version>
         <fluentlenium.version>5.0.4</fluentlenium.version>
         <powermock.version>2.0.9</powermock.version>
@@ -148,7 +148,7 @@
         <okio.version>3.18.2</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.2.18.Final</netty.version>
+        <netty.version>4.2.19.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.84.0</grpc.version>
         <asynchttpclient.version>3.0.14</asynchttpclient.version>
@@ -312,7 +312,7 @@
         <commons-logging.version>1.4.0</commons-logging.version>
         <poi.version>5.5.1</poi.version>
         <kafka.version>4.3.1</kafka.version>
-        <pulsar.version>5.0.0</pulsar.version>
+        <pulsar.version>4.2.5</pulsar.version>
         <log4j2.version>2.26.1</log4j2.version>
         <jboss-logging.version>3.6.3.Final</jboss-logging.version>
         <solr.version>10.0.0</solr.version>
