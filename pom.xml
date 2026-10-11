@@ -55,7 +55,7 @@
         <slf4j.version>2.1.0-alpha1</slf4j.version>
         <flogger.version>0.9</flogger.version>
         <jna.version>5.19.1</jna.version>
-        <oshi.version>7.7.0</oshi.version>
+        <oshi.version>7.7.1</oshi.version>
         <prometheus-client.version>1.9.0</prometheus-client.version>
         <!--productivity & tools-->
         <functionaljava.version>5.0</functionaljava.version>
@@ -69,8 +69,8 @@
         <togglz.version>4.6.4</togglz.version>
         <ff4j.version>3.0.0</ff4j.version>
         <underscore.version>1.123</underscore.version>
-        <java-util.version>4.112.0</java-util.version>
-        <json-io.version>4.112.0</json-io.version>
+        <java-util.version>4.113.0</java-util.version>
+        <json-io.version>4.113.0</json-io.version>
         <verbalregex.version>1.8</verbalregex.version>
         <javaslang.version>2.1.0-alpha</javaslang.version>
         <vavr.version>1.0.1</vavr.version>
@@ -100,7 +100,7 @@
         <aspectj.version>1.9.25.1</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
         <lombok.version>1.18.48</lombok.version>
-        <immutables.version>2.12.2</immutables.version>
+        <immutables.version>2.12.3</immutables.version>
         <audit4j.version>2.6.0</audit4j.version>
         <reflections.version>0.10.2</reflections.version>
         <threetenbp.version>1.7.5</threetenbp.version>
@@ -163,7 +163,7 @@
         <javax-cache.version>1.1.1</javax-cache.version>
         <cfg4j.version>4.4.1</cfg4j.version>
         <jsch.version>0.1.55</jsch.version>
-        <jsch2.version>2.28.7</jsch2.version>
+        <jsch2.version>2.28.8</jsch2.version>
         <zipkin.version>3.6.1</zipkin.version>
         <zipkin-brave.version>6.3.1</zipkin-brave.version>
         <zipkin-reporter2.version>3.5.3</zipkin-reporter2.version>
@@ -226,7 +226,7 @@
         <dflib.version>2.0.0-M7</dflib.version>
         <jandex.version>3.6.0</jandex.version>
         <!--persistence-->
-        <hibernate.version>7.4.9.Final</hibernate.version>
+        <hibernate.version>7.4.13.Final</hibernate.version>
         <hibernate-validator.version>9.1.4.Final</hibernate-validator.version>
         <hibernate-types.version>2.21.1</hibernate-types.version>
         <jooq.version>3.21.9</jooq.version>
