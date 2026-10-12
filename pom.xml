@@ -37,7 +37,7 @@
     </developers>
 
     <properties>
-        <jline.version>4.4.7</jline.version>
+        <jline.version>4.4.8</jline.version>
         <janino.version>3.1.12</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
@@ -68,7 +68,7 @@
         <javatuples.version>1.2</javatuples.version>
         <togglz.version>4.6.4</togglz.version>
         <ff4j.version>3.0.0</ff4j.version>
-        <underscore.version>1.123</underscore.version>
+        <underscore.version>1.124</underscore.version>
         <java-util.version>4.113.0</java-util.version>
         <json-io.version>4.113.0</json-io.version>
         <verbalregex.version>1.8</verbalregex.version>
@@ -88,7 +88,7 @@
         <nuprocess.version>4.0.0</nuprocess.version>
         <uuid-creator.version>6.1.1</uuid-creator.version>
         <bucket4j.version>8.10.1</bucket4j.version>
-        <gatherers4j.version>0.14.0</gatherers4j.version>
+        <gatherers4j.version>0.15.0</gatherers4j.version>
         <!--code & classes-->
         <jetbrains-annotations.version>26.1.0</jetbrains-annotations.version>
         <swagger-oai.version>2.2.55</swagger-oai.version>
@@ -118,7 +118,7 @@
         <data-faker.version>2.7.0</data-faker.version>
         <instancio.version>6.1.0</instancio.version>
         <mockito.version>5.24.0</mockito.version>
-        <htmlunit.version>5.5.0</htmlunit.version>
+        <htmlunit.version>5.6.0</htmlunit.version>
         <testng.version>7.12.0</testng.version>
         <selenium.version>4.51.0</selenium.version>
         <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
@@ -179,7 +179,7 @@
         <jackson2.version>2.22.3</jackson2.version>
         <jackson-bom.version>3.2.3</jackson-bom.version>
         <moshi.version>1.15.2</moshi.version>
-        <classmate.version>1.7.3</classmate.version>
+        <classmate.version>1.8.0</classmate.version>
         <snakeyaml.version>2.7</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.14.0</gson.version>
@@ -257,7 +257,7 @@
         <neo4j-java-driver.version>6.0.4</neo4j-java-driver.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
-        <elasticsearch.version>9.5.4</elasticsearch.version>
+        <elasticsearch.version>9.5.5</elasticsearch.version>
         <hazelcast.version>5.7.0</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
@@ -297,7 +297,7 @@
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-net.version>3.13.0</commons-net.version>
         <commons-io.version>2.22.0</commons-io.version>
-        <commons-codec.version>1.22.1</commons-codec.version>
+        <commons-codec.version>1.23.0</commons-codec.version>
         <commons-fileupload.version>1.6.0</commons-fileupload.version>
         <commons-beanutils.version>1.11.0</commons-beanutils.version>
         <commons-lang3.version>3.21.0</commons-lang3.version>
