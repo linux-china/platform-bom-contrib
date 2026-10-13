@@ -186,6 +186,7 @@ If your application is Spring Boot based, just use following code in your pom.xm
 * [oshi](https://github.com/oshi/oshi): Native Operating System and Hardware Information
 * [jairosvg](https://brunoborges.github.io/jairosvg/): A high-performance SVG 1.1 to PNG, JPEG, TIFF, PDF, and PS/EPS converter powered by Java2D.
 * [hash4j](https://github.com/dynatrace-oss/hash4j): Dynatrace hash library for Java
+* [Reggie](https://github.com/DataDog/java-reggie): Hybrid Compile-Time and Runtime Optimized Regex for Java
 
 ### Developer Notice
 

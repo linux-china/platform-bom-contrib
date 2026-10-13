@@ -72,6 +72,7 @@
         <java-util.version>4.113.0</java-util.version>
         <json-io.version>4.113.0</json-io.version>
         <verbalregex.version>1.8</verbalregex.version>
+        <reggie.version>0.5.0</reggie.version>
         <javaslang.version>2.1.0-alpha</javaslang.version>
         <vavr.version>1.0.1</vavr.version>
         <concurrentlinkedhashmap.version>1.4.2</concurrentlinkedhashmap.version>
@@ -1114,6 +1115,11 @@
                 <groupId>ru.lanwen.verbalregex</groupId>
                 <artifactId>java-verbal-expressions</artifactId>
                 <version>${verbalregex.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.datadoghq</groupId>
+                <artifactId>reggie</artifactId>
+                <version>${reggie.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.reflections</groupId>
