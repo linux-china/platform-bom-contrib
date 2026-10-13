@@ -82,7 +82,7 @@
         <resilience4j.version>2.4.0</resilience4j.version>
         <failsafe.version>3.3.2</failsafe.version>
         <eclipse-collections.version>13.0.0</eclipse-collections.version>
-        <agrona.version>2.6.1</agrona.version>
+        <agrona.version>2.7.0</agrona.version>
         <math-parser.version>6.1.1</math-parser.version>
         <rgxgen.version>3.1</rgxgen.version>
         <nuprocess.version>4.0.0</nuprocess.version>
@@ -332,7 +332,7 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.55.14</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.55.15</aws-java-sdk2.version>
         <google-gax.version>2.87.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
         <google-cloud-bom.version>26.90.0</google-cloud-bom.version>
