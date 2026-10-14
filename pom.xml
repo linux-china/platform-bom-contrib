@@ -69,8 +69,8 @@
         <togglz.version>4.6.4</togglz.version>
         <ff4j.version>3.0.0</ff4j.version>
         <underscore.version>1.124</underscore.version>
-        <java-util.version>4.113.0</java-util.version>
-        <json-io.version>4.113.0</json-io.version>
+        <java-util.version>4.114.0</java-util.version>
+        <json-io.version>4.114.0</json-io.version>
         <verbalregex.version>1.8</verbalregex.version>
         <reggie.version>0.5.0</reggie.version>
         <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -96,7 +96,7 @@
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.4.5</google-truth.version>
-        <bytebuddy.version>1.18.14</bytebuddy.version>
+        <bytebuddy.version>1.18.15</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
         <aspectj.version>1.9.25.1</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
@@ -151,7 +151,7 @@
         <openhft-lang.version>6.8.2</openhft-lang.version>
         <netty.version>4.2.19.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
-        <grpc.version>1.84.2</grpc.version>
+        <grpc.version>1.84.3</grpc.version>
         <asynchttpclient.version>3.0.14</asynchttpclient.version>
         <tyrus.version>2.2.1</tyrus.version> <!--Java API for WebSocket reference implementation`-->
         <jeromq.version>0.4.3</jeromq.version>
@@ -233,7 +233,7 @@
         <jooq.version>3.21.9</jooq.version>
         <jedis.version>8.0.1</jedis.version>
         <lettuce.version>7.8.0.RELEASE</lettuce.version>
-        <caffeine.version>3.3.0</caffeine.version>
+        <caffeine.version>3.3.1</caffeine.version>
         <jettison.version>1.5.7</jettison.version>
         <mybatis.version>3.5.19</mybatis.version>
         <mybatis-spring.version>4.1.0</mybatis-spring.version>
@@ -270,7 +270,7 @@
         <postgresql.version>42.7.14</postgresql.version>
         <jaybird.version>6.0.6</jaybird.version>
         <jdbi.version>3.55.0</jdbi.version>
-        <couchbase-client.version>3.12.3</couchbase-client.version>
+        <couchbase-client.version>3.13.0</couchbase-client.version>
         <openjpa.version>4.1.1</openjpa.version>
         <mysql.version>26.7.0</mysql.version>
         <sqlserver.version>13.6.0.jre11</sqlserver.version>
@@ -312,13 +312,13 @@
         <commons-rng.version>1.7</commons-rng.version>
         <commons-logging.version>1.4.0</commons-logging.version>
         <poi.version>5.5.1</poi.version>
-        <kafka.version>4.3.1</kafka.version>
+        <kafka.version>4.4.0</kafka.version>
         <pulsar.version>4.2.5</pulsar.version>
         <log4j2.version>2.26.1</log4j2.version>
         <jboss-logging.version>3.6.3.Final</jboss-logging.version>
         <solr.version>10.0.0</solr.version>
         <bsh.version>2.0b5</bsh.version>
-        <tomcat.version>11.0.26</tomcat.version>
+        <tomcat.version>11.0.27</tomcat.version>
         <groovy.version>6.0.0</groovy.version>
         <zookeeper.version>3.9.6</zookeeper.version>
         <curator.version>5.9.0</curator.version>
@@ -333,7 +333,7 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.55.15</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.55.16</aws-java-sdk2.version>
         <google-gax.version>2.87.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
         <google-cloud-bom.version>26.90.0</google-cloud-bom.version>
@@ -342,7 +342,7 @@
         <fabric8-kubernetes-client.version>8.0.0</fabric8-kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
         <sundr.version>0.400.0</sundr.version>
-        <cloudevents-java.version>5.0.0</cloudevents-java.version>
+        <cloudevents-java.version>5.1.0</cloudevents-java.version>
         <!--languages-->
         <kotlin.version>2.4.21</kotlin.version>
         <kotlinx-coroutines.version>1.11.0</kotlinx-coroutines.version>
@@ -397,7 +397,7 @@
         <spring-amqp.version>4.1.1</spring-amqp.version>
         <rabbit-amqp-client.version>5.37.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>5.7.0</rabbit-http-client.version>
-        <rabbit-stream-client.version>1.11.0</rabbit-stream-client.version>
+        <rabbit-stream-client.version>1.12.0</rabbit-stream-client.version>
         <spring-vault.version>4.1.0</spring-vault.version>
         <spring-kafka.version>4.1.1</spring-kafka.version>
         <spring-pulsar.version>2.0.7</spring-pulsar.version>
