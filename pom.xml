@@ -56,7 +56,7 @@
         <flogger.version>0.9</flogger.version>
         <jna.version>5.19.1</jna.version>
         <oshi.version>7.7.1</oshi.version>
-        <prometheus-client.version>1.9.0</prometheus-client.version>
+        <prometheus-client.version>1.10.0</prometheus-client.version>
         <!--productivity & tools-->
         <functionaljava.version>5.0</functionaljava.version>
         <fugue.version>7.0.1</fugue.version>
@@ -69,8 +69,8 @@
         <togglz.version>4.6.4</togglz.version>
         <ff4j.version>3.0.0</ff4j.version>
         <underscore.version>1.124</underscore.version>
-        <java-util.version>4.116.0</java-util.version>
-        <json-io.version>4.116.0</json-io.version>
+        <java-util.version>4.117.0</java-util.version>
+        <json-io.version>4.117.0</json-io.version>
         <verbalregex.version>1.8</verbalregex.version>
         <reggie.version>0.5.0</reggie.version>
         <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -133,7 +133,7 @@
         <powermock.version>2.0.9</powermock.version>
         <testcontainers.version>2.0.5</testcontainers.version>
         <dbunit.version>3.5.2</dbunit.version>
-        <rest-assured.version>6.1.0</rest-assured.version>
+        <rest-assured.version>6.2.0</rest-assured.version>
         <assertj.version>4.0.0-M1</assertj.version>
         <assertj-json.version>4.1.1</assertj-json.version>
         <jfairy.version>0.9.0</jfairy.version>
