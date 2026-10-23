@@ -98,7 +98,7 @@
         <google-truth.version>1.4.5</google-truth.version>
         <bytebuddy.version>1.18.15</bytebuddy.version>
         <javapoet.version>1.13.0</javapoet.version>
-        <aspectj.version>1.9.25.1</aspectj.version>
+        <aspectj.version>1.9.26</aspectj.version>
         <cglib.version>3.3.0</cglib.version>
         <lombok.version>1.18.48</lombok.version>
         <immutables.version>2.12.3</immutables.version>
@@ -106,7 +106,7 @@
         <reflections.version>0.10.2</reflections.version>
         <threetenbp.version>1.7.5</threetenbp.version>
         <javassist.version>3.22.0-GA</javassist.version>
-        <manifold.version>2026.1.15</manifold.version>
+        <manifold.version>2026.1.16</manifold.version>
         <jilt.version>1.9.2</jilt.version>
         <graal-sdk.version>25.4.4.1.1</graal-sdk.version>
         <typetools.version>0.7.0</typetools.version>
@@ -145,7 +145,7 @@
         <junit-pioneer.version>2.3.0</junit-pioneer.version>
         <!--network-->
         <okhttp.version>2.7.5</okhttp.version>
-        <okhttp3.version>5.5.0</okhttp3.version>
+        <okhttp3.version>5.5.1</okhttp3.version>
         <okio.version>3.18.2</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
@@ -311,7 +311,7 @@
         <commons-dbcp2.version>2.14.0</commons-dbcp2.version>
         <commons-rng.version>1.7</commons-rng.version>
         <commons-logging.version>1.4.0</commons-logging.version>
-        <poi.version>5.5.1</poi.version>
+        <poi.version>6.0.0</poi.version>
         <kafka.version>4.4.0</kafka.version>
         <pulsar.version>4.2.5</pulsar.version>
         <log4j2.version>2.26.1</log4j2.version>
@@ -333,7 +333,7 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.57.2</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.57.3</aws-java-sdk2.version>
         <google-gax.version>2.87.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
         <google-cloud-bom.version>26.90.0</google-cloud-bom.version>
@@ -363,7 +363,7 @@
         <javax-money.version>1.1</javax-money.version>
         <moneta.version>1.4.5</moneta.version>  <!-- javax money -->
         <angus-mail.version>2.1.0-M1</angus-mail.version>
-        <simplejavamail.version>9.3.6</simplejavamail.version>
+        <simplejavamail.version>9.3.8</simplejavamail.version>
         <!--springsource-->
         <spring.version>7.0.9</spring.version>
         <spring-framework.version>7.0.8</spring-framework.version>
