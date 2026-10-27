@@ -184,7 +184,7 @@
         <snakeyaml.version>2.7</snakeyaml.version>
         <json-patch.version>1.9</json-patch.version>
         <gson.version>2.15.0</gson.version>
-        <fastjson2.version>2.0.65</fastjson2.version>
+        <fastjson2.version>2.0.66</fastjson2.version>
         <protobuf.version>4.36.2</protobuf.version>
         <json-smart.versfion>2.5.2</json-smart.versfion>
         <json-path.version>3.0.0</json-path.version>
@@ -227,7 +227,7 @@
         <dflib.version>2.0.0-M7</dflib.version>
         <jandex.version>3.6.0</jandex.version>
         <!--persistence-->
-        <hibernate.version>7.4.13.Final</hibernate.version>
+        <hibernate.version>7.4.14.Final</hibernate.version>
         <hibernate-validator.version>9.1.4.Final</hibernate-validator.version>
         <hibernate-types.version>2.21.1</hibernate-types.version>
         <jooq.version>3.21.9</jooq.version>
@@ -313,7 +313,7 @@
         <commons-logging.version>1.4.0</commons-logging.version>
         <poi.version>6.0.0</poi.version>
         <kafka.version>4.4.0</kafka.version>
-        <pulsar.version>4.2.5</pulsar.version>
+        <pulsar.version>5.0.1</pulsar.version>
         <log4j2.version>2.26.1</log4j2.version>
         <jboss-logging.version>3.6.3.Final</jboss-logging.version>
         <solr.version>10.0.0</solr.version>
@@ -333,7 +333,7 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.57.3</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.57.4</aws-java-sdk2.version>
         <google-gax.version>2.87.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
         <google-cloud-bom.version>26.90.0</google-cloud-bom.version>
@@ -363,7 +363,7 @@
         <javax-money.version>1.1</javax-money.version>
         <moneta.version>1.4.5</moneta.version>  <!-- javax money -->
         <angus-mail.version>2.1.0-M1</angus-mail.version>
-        <simplejavamail.version>9.3.8</simplejavamail.version>
+        <simplejavamail.version>9.3.9</simplejavamail.version>
         <!--springsource-->
         <spring.version>7.0.10</spring.version>
         <spring-framework.version>7.0.10</spring-framework.version>
