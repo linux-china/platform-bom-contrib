@@ -69,8 +69,8 @@
         <togglz.version>4.6.4</togglz.version>
         <ff4j.version>3.0.0</ff4j.version>
         <underscore.version>1.124</underscore.version>
-        <java-util.version>4.117.0</java-util.version>
-        <json-io.version>4.117.0</json-io.version>
+        <java-util.version>4.118.0</java-util.version>
+        <json-io.version>4.118.0</json-io.version>
         <verbalregex.version>1.8</verbalregex.version>
         <reggie.version>0.5.0</reggie.version>
         <javaslang.version>2.1.0-alpha</javaslang.version>
@@ -323,7 +323,7 @@
         <zookeeper.version>3.9.6</zookeeper.version>
         <curator.version>5.9.0</curator.version>
         <zkclient.version>0.11</zkclient.version>
-        <activemq.version>6.3.2</activemq.version>
+        <activemq.version>6.4.0</activemq.version>
         <artemis.version>2.57.0</artemis.version>
         <apacheds.version>1.5.7</apacheds.version>
         <httpasyncclient.version>4.1.5</httpasyncclient.version>
@@ -333,15 +333,15 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.57.4</aws-java-sdk2.version>
-        <google-gax.version>2.87.0</google-gax.version>
+        <aws-java-sdk2.version>2.57.5</aws-java-sdk2.version>
+        <google-gax.version>2.88.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
-        <google-cloud-bom.version>26.90.0</google-cloud-bom.version>
+        <google-cloud-bom.version>26.91.0</google-cloud-bom.version>
         <sendgrid.version>5.0.0-rc.1</sendgrid.version>
-        <kubernetes-client.version>27.0.1</kubernetes-client.version>
+        <kubernetes-client.version>28.0.0</kubernetes-client.version>
         <fabric8-kubernetes-client.version>8.0.0</fabric8-kubernetes-client.version>
         <istio-client.version>1.7.7.1</istio-client.version>
-        <sundr.version>0.400.0</sundr.version>
+        <sundr.version>0.400.1</sundr.version>
         <cloudevents-java.version>5.1.0</cloudevents-java.version>
         <!--languages-->
         <kotlin.version>2.4.21</kotlin.version>
