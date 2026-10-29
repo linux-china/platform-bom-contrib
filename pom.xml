@@ -92,7 +92,7 @@
         <gatherers4j.version>0.15.0</gatherers4j.version>
         <!--code & classes-->
         <jetbrains-annotations.version>26.1.0</jetbrains-annotations.version>
-        <swagger-oai.version>2.2.55</swagger-oai.version>
+        <swagger-oai.version>3.0.0</swagger-oai.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <google-truth.version>1.4.5</google-truth.version>
@@ -333,7 +333,7 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.57.5</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.57.6</aws-java-sdk2.version>
         <google-gax.version>2.88.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
         <google-cloud-bom.version>26.91.0</google-cloud-bom.version>
@@ -351,7 +351,7 @@
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
         <ribbon.version>2.7.18</ribbon.version>
-        <!--jakarta ee-->
+        <!--Jakarta EE-->
         <reactive-streams.version>1.0.4</reactive-streams.version>
         <narayana.version>5.13.1.Final</narayana.version>
         <atomikos.version>5.0.9</atomikos.version>
@@ -1456,7 +1456,7 @@
             <dependency>
                 <groupId>com.redis</groupId>
                 <artifactId>testcontainers-redis</artifactId>
-                <version>3.0.0</version>
+                <version>3.0.1</version>
             </dependency>
             <dependency>
                 <groupId>com.devskiller</groupId>
