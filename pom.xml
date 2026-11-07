@@ -336,7 +336,7 @@
         <aws-java-sdk2.version>2.57.11</aws-java-sdk2.version>
         <google-gax.version>2.90.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
-        <google-cloud-bom.version>26.92.0</google-cloud-bom.version>
+        <google-cloud-bom.version>26.93.0</google-cloud-bom.version>
         <sendgrid.version>5.0.0-rc.1</sendgrid.version>
         <kubernetes-client.version>28.0.0</kubernetes-client.version>
         <fabric8-kubernetes-client.version>8.0.0</fabric8-kubernetes-client.version>
