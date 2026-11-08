@@ -178,7 +178,7 @@
         <jsqlparser.version>5.4</jsqlparser.version>
         <javaparser.version>3.28.2</javaparser.version>
         <jackson2.version>2.22.4</jackson2.version>
-        <jackson-bom.version>3.2.4</jackson-bom.version>
+        <jackson-bom.version>3.3.0</jackson-bom.version>
         <moshi.version>1.15.2</moshi.version>
         <classmate.version>1.8.0</classmate.version>
         <snakeyaml.version>2.7</snakeyaml.version>
