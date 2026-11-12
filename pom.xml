@@ -281,7 +281,7 @@
         <!--security-->
         <cas-client.version>3.6.4</cas-client.version>
         <jasypt.version>1.9.3</jasypt.version>
-        <bouncycastle.version>1.86.2</bouncycastle.version>
+        <bouncycastle.version>1.87</bouncycastle.version>
         <token-bucket.version>1.7</token-bucket.version>
         <nimbus-jose-jwt.version>10.10</nimbus-jose-jwt.version>
         <oauth2-oidc-sdk.version>11.39</oauth2-oidc-sdk.version>
@@ -301,7 +301,7 @@
         <commons-codec.version>1.23.0</commons-codec.version>
         <commons-fileupload.version>1.6.0</commons-fileupload.version>
         <commons-beanutils.version>1.11.0</commons-beanutils.version>
-        <commons-lang3.version>3.21.0</commons-lang3.version>
+        <commons-lang3.version>3.22.0</commons-lang3.version>
         <commons-csv.version>1.14.1</commons-csv.version>
         <commons-crypto.version>1.2.0</commons-crypto.version>
         <commons-configuration2.version>2.15.1</commons-configuration2.version>
@@ -333,7 +333,7 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.57.12</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.58.0</aws-java-sdk2.version>
         <google-gax.version>2.90.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
         <google-cloud-bom.version>26.93.0</google-cloud-bom.version>
@@ -346,7 +346,7 @@
         <!--languages-->
         <kotlin.version>2.4.21</kotlin.version>
         <kotlinx-coroutines.version>1.11.0</kotlinx-coroutines.version>
-        <kotlinx-serialization.version>1.12.0</kotlinx-serialization.version>
+        <kotlinx-serialization.version>1.13.0</kotlinx-serialization.version>
         <jruby.version>10.1.2.0</jruby.version>
         <!--netflix-->
         <netflix-commons-util.version>0.3.0</netflix-commons-util.version>
