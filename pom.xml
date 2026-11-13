@@ -37,7 +37,7 @@
     </developers>
 
     <properties>
-        <jline.version>4.6.0</jline.version>
+        <jline.version>4.7.0</jline.version>
         <janino.version>3.1.12</janino.version>
         <!--web development & GUI-->
         <webjars-locator.version>0.33</webjars-locator.version>
@@ -193,12 +193,12 @@
         <json.version>20260814</json.version>
         <kryo.version>4.0.3</kryo.version>
         <jsoup.version>1.24.1</jsoup.version>
-        <thymeleaf.version>3.1.6.RELEASE</thymeleaf.version>
+        <thymeleaf.version>3.1.7.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>4.0.1</thymeleaf-layout-dialect.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
         <thymeleaf-extras-springsecurity4.version>3.1.1.RELEASE</thymeleaf-extras-springsecurity4.version>
-        <thymeleaf-extras-springsecurity.version>3.1.3.RELEASE</thymeleaf-extras-springsecurity.version>
+        <thymeleaf-extras-springsecurity.version>3.1.7.RELEASE</thymeleaf-extras-springsecurity.version>
         <thymeleaf-extras-conditionalcomments.version>2.1.2.RELEASE</thymeleaf-extras-conditionalcomments.version>
         <unbescape.version>1.1.8.RELEASE</unbescape.version>
         <attoparser.version>2.0.10.RELEASE</attoparser.version>
@@ -248,7 +248,7 @@
         <ehcache3.version>3.12.0</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.1.0</mapdb.version>
-        <flyway.version>13.12.1</flyway.version>
+        <flyway.version>13.12.2</flyway.version>
         <liquibase.version>5.0.4</liquibase.version>
         <derby.version>10.17.1.0</derby.version>
         <flexy-pool.version>3.1.1</flexy-pool.version>
@@ -287,7 +287,7 @@
         <oauth2-oidc-sdk.version>11.39</oauth2-oidc-sdk.version>
         <jjwt.version>0.13.0</jjwt.version>
         <totp.version>1.7.1</totp.version>
-        <shiro.version>2.2.1</shiro.version>
+        <shiro.version>3.0.2</shiro.version>
         <hash4j.version>0.31.0</hash4j.version>
         <!--apache-->
         <httpcore.version>4.4.16</httpcore.version>
@@ -333,7 +333,7 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.58.0</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.59.0</aws-java-sdk2.version>
         <google-gax.version>2.90.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
         <google-cloud-bom.version>26.93.0</google-cloud-bom.version>
@@ -1999,10 +1999,18 @@
             </dependency>
             <dependency>
                 <groupId>org.apache.shiro</groupId>
-                <artifactId>shiro-bom</artifactId>
+                <artifactId>shiro-core</artifactId>
                 <version>${shiro.version}</version>
-                <scope>import</scope>
-                <type>pom</type>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.shiro</groupId>
+                <artifactId>shiro-web</artifactId>
+                <version>${shiro.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.shiro</groupId>
+                <artifactId>shiro-spring</artifactId>
+                <version>${shiro.version}</version>
             </dependency>
             <dependency>
                 <groupId>dev.samstevens.totp</groupId>
