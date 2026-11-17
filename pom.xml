@@ -55,7 +55,7 @@
         <slf4j.version>2.1.0-alpha1</slf4j.version>
         <flogger.version>0.9</flogger.version>
         <jna.version>5.19.1</jna.version>
-        <oshi.version>7.7.3</oshi.version>
+        <oshi.version>7.8.0</oshi.version>
         <prometheus-client.version>1.10.0</prometheus-client.version>
         <!--productivity & tools-->
         <functionaljava.version>5.0</functionaljava.version>
@@ -149,7 +149,7 @@
         <okio.version>3.18.2</okio.version>
         <openhft-chronicle.version>3.6.4</openhft-chronicle.version>
         <openhft-lang.version>6.8.2</openhft-lang.version>
-        <netty.version>4.2.20.Final</netty.version>
+        <netty.version>4.2.21.Final</netty.version>
         <netty3.version>3.10.6.Final</netty3.version>
         <grpc.version>1.85.1</grpc.version>
         <asynchttpclient.version>3.0.14</asynchttpclient.version>
@@ -333,7 +333,7 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.59.1</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.59.2</aws-java-sdk2.version>
         <google-gax.version>2.90.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
         <google-cloud-bom.version>26.93.0</google-cloud-bom.version>
