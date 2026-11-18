@@ -121,7 +121,7 @@
         <mockito.version>5.24.0</mockito.version>
         <htmlunit.version>5.7.0</htmlunit.version>
         <testng.version>7.12.0</testng.version>
-        <selenium.version>4.52.0</selenium.version>
+        <selenium.version>4.53.0</selenium.version>
         <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
         <jsonassert.version>2.0-rc1</jsonassert.version>
         <json-smart.version>2.6.1</json-smart.version>
@@ -132,7 +132,7 @@
         <fluentlenium.version>5.0.4</fluentlenium.version>
         <powermock.version>2.0.9</powermock.version>
         <testcontainers.version>2.0.5</testcontainers.version>
-        <dbunit.version>3.5.2</dbunit.version>
+        <dbunit.version>3.5.3</dbunit.version>
         <rest-assured.version>6.3.0</rest-assured.version>
         <assertj.version>4.0.0-M1</assertj.version>
         <assertj-json.version>4.1.1</assertj-json.version>
@@ -203,7 +203,7 @@
         <unbescape.version>1.1.8.RELEASE</unbescape.version>
         <attoparser.version>2.0.10.RELEASE</attoparser.version>
         <jmustache.version>1.16</jmustache.version>
-        <wss4j2.version>4.0.2</wss4j2.version>
+        <wss4j2.version>4.0.3</wss4j2.version>
         <objenesis.version>3.6</objenesis.version>
         <jopt-simple.version>5.0.4</jopt-simple.version>
         <rometools.version>2.1.0</rometools.version>
@@ -230,7 +230,7 @@
         <hibernate.version>7.4.14.Final</hibernate.version>
         <hibernate-validator.version>9.1.4.Final</hibernate-validator.version>
         <hibernate-types.version>2.21.1</hibernate-types.version>
-        <jooq.version>3.21.9</jooq.version>
+        <jooq.version>3.21.10</jooq.version>
         <jedis.version>8.0.1</jedis.version>
         <lettuce.version>7.8.0.RELEASE</lettuce.version>
         <caffeine.version>3.3.1</caffeine.version>
@@ -333,10 +333,10 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.59.2</aws-java-sdk2.version>
-        <google-gax.version>2.90.0</google-gax.version>
+        <aws-java-sdk2.version>2.59.3</aws-java-sdk2.version>
+        <google-gax.version>2.91.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
-        <google-cloud-bom.version>26.93.0</google-cloud-bom.version>
+        <google-cloud-bom.version>26.94.0</google-cloud-bom.version>
         <sendgrid.version>5.0.0-rc.1</sendgrid.version>
         <kubernetes-client.version>28.0.0</kubernetes-client.version>
         <fabric8-kubernetes-client.version>8.0.0</fabric8-kubernetes-client.version>
@@ -395,7 +395,7 @@
         <spring-ldap.version>4.1.2</spring-ldap.version>
         <spring-web-flow.version>3.0.0</spring-web-flow.version>
         <spring-amqp.version>4.1.2</spring-amqp.version>
-        <rabbit-amqp-client.version>5.37.1</rabbit-amqp-client.version>
+        <rabbit-amqp-client.version>5.38.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>5.7.0</rabbit-http-client.version>
         <rabbit-stream-client.version>1.13.1</rabbit-stream-client.version>
         <spring-vault.version>4.1.1</spring-vault.version>
