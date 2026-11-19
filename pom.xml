@@ -119,7 +119,7 @@
         <data-faker.version>2.7.0</data-faker.version>
         <instancio.version>6.2.1</instancio.version>
         <mockito.version>5.24.0</mockito.version>
-        <htmlunit.version>5.7.0</htmlunit.version>
+        <htmlunit.version>5.8.0</htmlunit.version>
         <testng.version>7.12.0</testng.version>
         <selenium.version>4.53.0</selenium.version>
         <selenium-htmlunit-driver.version>4.13.0</selenium-htmlunit-driver.version>
@@ -262,7 +262,7 @@
         <hazelcast.version>5.7.0</hazelcast.version>
         <hazelcast-hibernate4.version>2.1.1</hazelcast-hibernate4.version>
         <hazelcast-hibernate5.version>4.2</hazelcast-hibernate5.version>
-        <infinispan.version>16.3.1</infinispan.version>
+        <infinispan.version>16.3.2</infinispan.version>
         <querydsl.version>5.1.0</querydsl.version>
         <hikaricp.version>7.1.0</hikaricp.version>
         <jasperreports.version>6.5.1</jasperreports.version>
@@ -333,7 +333,7 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.59.3</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.59.4</aws-java-sdk2.version>
         <google-gax.version>2.91.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
         <google-cloud-bom.version>26.94.0</google-cloud-bom.version>
