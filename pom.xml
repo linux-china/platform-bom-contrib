@@ -222,7 +222,7 @@
         <jte.version>3.2.5</jte.version>
         <evo-inflector.version>2.0</evo-inflector.version>
         <jdom2.version>2.0.6.1</jdom2.version>
-        <graphql-java.version>26.1</graphql-java.version>
+        <graphql-java.version>26.2</graphql-java.version>
         <fastcsv.version>4.4.1</fastcsv.version>
         <dflib.version>2.0.0-M7</dflib.version>
         <jandex.version>3.6.1</jandex.version>
@@ -240,22 +240,22 @@
         <javax-jdo.version>3.1</javax-jdo.version>
         <mariadb.version>4.0.0</mariadb.version>
         <mariadb-r2dbc.version>1.4.2</mariadb-r2dbc.version>
-        <mongodb.version>5.14.0</mongodb.version>
-        <mongodb-reactivestreams.version>5.14.0</mongodb-reactivestreams.version>
+        <mongodb.version>5.15.0</mongodb.version>
+        <mongodb-reactivestreams.version>5.15.0</mongodb-reactivestreams.version>
         <embedded-mongo.version>3.2.0</embedded-mongo.version>
         <fongo.version>2.1.1</fongo.version>
         <cassandra-driver.version>4.19.4</cassandra-driver.version>
         <ehcache3.version>3.12.0</ehcache3.version>
         <ehcache.version>2.10.9.2</ehcache.version>
         <mapdb.version>3.1.0</mapdb.version>
-        <flyway.version>13.12.2</flyway.version>
+        <flyway.version>13.13.0</flyway.version>
         <liquibase.version>5.0.4</liquibase.version>
         <derby.version>10.17.1.0</derby.version>
         <flexy-pool.version>3.1.1</flexy-pool.version>
         <h2.version>2.5.252</h2.version>
         <hsqldb.version>2.7.4</hsqldb.version>
         <sqlite-jdbc.version>3.54.1.0</sqlite-jdbc.version>
-        <neo4j-java-driver.version>6.0.4</neo4j-java-driver.version>
+        <neo4j-java-driver.version>6.3.0</neo4j-java-driver.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <consul-api.version>1.4.5</consul-api.version>
         <elasticsearch.version>9.5.6</elasticsearch.version>
@@ -292,7 +292,7 @@
         <!--apache-->
         <httpcore.version>4.4.16</httpcore.version>
         <httpclient.version>4.5.14</httpclient.version>
-        <httpcore5.version>5.5-beta3</httpcore5.version>
+        <httpcore5.version>5.5</httpcore5.version>
         <httpclient5.version>5.6.4</httpclient5.version>
         <commons-cli.version>1.11.0</commons-cli.version>
         <commons-configuration.version>1.10</commons-configuration.version>
@@ -333,7 +333,7 @@
         <!--cloud services-->
         <appengine-sdk.version>2.0.10</appengine-sdk.version>
         <aws-java-sdk.version>1.12.797</aws-java-sdk.version>
-        <aws-java-sdk2.version>2.59.4</aws-java-sdk2.version>
+        <aws-java-sdk2.version>2.59.5</aws-java-sdk2.version>
         <google-gax.version>2.91.0</google-gax.version>
         <google-http-client.version>2.2.0</google-http-client.version>
         <google-cloud-bom.version>26.94.0</google-cloud-bom.version>
@@ -367,52 +367,52 @@
         <!--springsource-->
         <spring.version>7.1.0</spring.version>
         <spring-framework.version>7.0.10</spring-framework.version>
-        <spring-plugin.version>4.1.0</spring-plugin.version>
+        <spring-plugin.version>4.2.0</spring-plugin.version>
         <spring-batch.version>6.0.6</spring-batch.version>
-        <spring-ws.version>5.0.3</spring-ws.version>
-        <spring-session-bom.version>4.1.1</spring-session-bom.version>
+        <spring-ws.version>5.1.0</spring-ws.version>
+        <spring-session-bom.version>4.2.0</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
-        <spring-security.version>7.1.1</spring-security.version>
+        <spring-security.version>7.2.0</spring-security.version>
         <spring-security-oauth.version>2.5.2.RELEASE</spring-security-oauth.version>
         <spring-security-oauth2-autoconfigure.version>2.6.8</spring-security-oauth2-autoconfigure.version>
         <spring-security-rsa.version>1.1.5</spring-security-rsa.version>
         <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
         <spring-data-hadoop.version>2.5.0.RELEASE</spring-data-hadoop.version>
         <spring-data-releasetrain.version>2022.0.5</spring-data-releasetrain.version>
-        <spring-data-bom.version>2026.0.2</spring-data-bom.version>
-        <spring-integration.version>7.1.2</spring-integration.version>
+        <spring-data-bom.version>2026.1.0</spring-data-bom.version>
+        <spring-integration.version>7.2.0</spring-integration.version>
         <spring-integration-java-dsl.version>1.2.3.RELEASE</spring-integration-java-dsl.version>
         <spring-integration-kafka.version>3.3.1.RELEASE</spring-integration-kafka.version>
         <spring-boot.version>4.2.0</spring-boot.version>
-        <spring-hateoas.version>3.1.2</spring-hateoas.version>
+        <spring-hateoas.version>3.2.0</spring-hateoas.version>
         <spring-cloud-security.version>2.2.5.RELEASE</spring-cloud-security.version>
         <spring-cloud-contract.version>5.0.3</spring-cloud-contract.version>
-        <spring-cloud.version>2025.1.4</spring-cloud.version>
-        <spring-cloud-task.version>5.0.2</spring-cloud-task.version>
-        <spring-cloud-stream.version>5.0.4</spring-cloud-stream.version>
-        <spring-cloud-function.version>5.0.5</spring-cloud-function.version>
-        <spring-cloud-gateway.version>5.0.4</spring-cloud-gateway.version>
-        <spring-ldap.version>4.1.2</spring-ldap.version>
+        <spring-cloud.version>2026.0.0</spring-cloud.version>
+        <spring-cloud-task.version>5.1.0</spring-cloud-task.version>
+        <spring-cloud-stream.version>5.1.0</spring-cloud-stream.version>
+        <spring-cloud-function.version>5.1.0</spring-cloud-function.version>
+        <spring-cloud-gateway.version>5.1.0</spring-cloud-gateway.version>
+        <spring-ldap.version>4.2.0</spring-ldap.version>
         <spring-web-flow.version>3.0.0</spring-web-flow.version>
         <spring-amqp.version>4.1.2</spring-amqp.version>
         <rabbit-amqp-client.version>5.38.0</rabbit-amqp-client.version>
         <rabbit-http-client.version>5.7.0</rabbit-http-client.version>
         <rabbit-stream-client.version>1.13.1</rabbit-stream-client.version>
-        <spring-vault.version>4.1.1</spring-vault.version>
-        <spring-kafka.version>4.1.2</spring-kafka.version>
+        <spring-vault.version>4.2.0</spring-vault.version>
+        <spring-kafka.version>4.2.0</spring-kafka.version>
         <spring-pulsar.version>2.0.8</spring-pulsar.version>
         <spring-restdocs.version>4.0.1</spring-restdocs.version>
         <spring-retry.version>2.0.13</spring-retry.version>
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
         <spring-tuple.version>1.0.0.RELEASE</spring-tuple.version>
         <spring-cloud-connector.version>2.0.9.RELEASE</spring-cloud-connector.version>
-        <spring-shell.version>4.0.3</spring-shell.version>
-        <reactor-bom.version>2025.0.8</reactor-bom.version>
+        <spring-shell.version>4.0.4</spring-shell.version>
+        <reactor-bom.version>2026.0.0</reactor-bom.version>
         <rxjava2.version>2.2.21</rxjava2.version>
         <rxjava3.version>3.1.12</rxjava3.version>
-        <micrometer.version>1.17.2</micrometer.version>
-        <micrometer-tracing.version>1.7.2</micrometer-tracing.version>
-        <spring-webflow.version>4.0.1</spring-webflow.version>
+        <micrometer.version>1.18.0</micrometer.version>
+        <micrometer-tracing.version>1.8.0</micrometer-tracing.version>
+        <spring-webflow.version>4.0.2</spring-webflow.version>
     </properties>
 
     <dependencyManagement>
@@ -906,8 +906,22 @@
             </dependency>
             <dependency>
                 <groupId>org.mongodb</groupId>
+                <artifactId>mongodb-driver-bom</artifactId>
+                <version>${mongodb.version}</version>
+                <scope>import</scope>
+                <type>pom</type>
+            </dependency>
+            <dependency>
+                <groupId>org.mongodb</groupId>
                 <artifactId>mongodb-driver-reactivestreams</artifactId>
                 <version>${mongodb-reactivestreams.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.neo4j.bolt</groupId>
+                <artifactId>neo4j-bolt-connection-bom</artifactId>
+                <version>12.2.2</version>
+                <scope>import</scope>
+                <type>pom</type>
             </dependency>
             <dependency>
                 <groupId>org.togglz</groupId>
@@ -1904,6 +1918,11 @@
                 <version>${rabbit-stream-client.version}</version>
             </dependency>
             <dependency>
+                <groupId>com.rabbitmq</groupId>
+                <artifactId>amqp-client</artifactId>
+                <version>${rabbit-amqp-client.version}</version>
+            </dependency>
+            <dependency>
                 <groupId>jakarta.platform</groupId>
                 <artifactId>jakarta.jakartaee-bom</artifactId>
                 <version>${jakarta-ee.version}</version>
@@ -2256,7 +2275,7 @@
             <dependency>
                 <groupId>org.springframework.credhub</groupId>
                 <artifactId>spring-credhub-core</artifactId>
-                <version>4.0.2</version>
+                <version>4.1.1</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework.session</groupId>
