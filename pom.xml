@@ -366,9 +366,9 @@
         <simplejavamail.version>9.3.10</simplejavamail.version>
         <!--springsource-->
         <spring.version>7.1.0</spring.version>
-        <spring-framework.version>7.0.10</spring-framework.version>
+        <spring-framework.version>7.1.0</spring-framework.version>
         <spring-plugin.version>4.2.0</spring-plugin.version>
-        <spring-batch.version>6.0.6</spring-batch.version>
+        <spring-batch.version>6.1.0</spring-batch.version>
         <spring-ws.version>5.1.0</spring-ws.version>
         <spring-session-bom.version>4.2.0</spring-session-bom.version>
         <spring-social.version>1.1.6.RELEASE</spring-social.version>
